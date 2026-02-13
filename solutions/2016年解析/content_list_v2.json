@@ -1,0 +1,5120 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2016年数学(一）真题解析"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                270,
+                108,
+                696,
+                136
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、选择题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                56,
+                158,
+                157,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（1）【答案】 (C)."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                180,
+                222,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_0^{+\\infty}\\frac{\\mathrm{d}x}{x^a(1 + x)^b} = \\int_0^1\\frac{\\mathrm{d}x}{x^a(1 + x)^b} +\\int_1^{+\\infty}\\frac{\\mathrm{d}x}{x^a(1 + x)^b},"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                201,
+                654,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lim_{x\\to 0^{+}}x^{a}\\cdot \\frac{1}{x^{a}(1 + x)^{b}} = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 且  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_0^1\\frac{\\mathrm{d}x}{x^a(1 + x)^b}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 收敛得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a <   1"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                243,
+                644,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "再由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lim_{x\\to +\\infty}x^{a + b}\\cdot \\frac{1}{x^a(1 + x)^b} = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 且  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_1^{+\\infty}\\frac{\\mathrm{d}x}{x^a(1 + x)^b}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 收敛得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a + b > 1"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                285,
+                739,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a < 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 且  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a + b > 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，应选(C)."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                326,
+                400,
+                343
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2)【答案】 (D)."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                347,
+                224,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(x) = \\int f(x)\\mathrm{d}x = \\left\\{ \\begin{array}{ll}(x - 1)^2 +C, & x <   1,\\\\ x(\\ln x - 1) + C + 1, & x\\geqslant 1. \\end{array} \\right."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                369,
+                658,
+                408
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "取  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的一个原函数为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(x) = \\begin{cases} (x - 1)^2, & x < 1, \\\\ x(\\ln x - 1) + 1, & x \\geqslant 1. \\end{cases}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 应选(D)."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                415,
+                844,
+                454
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（3）【答案】 （A）."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                460,
+                224,
+                477
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】设  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y_{1} = (1 + x^{2})^{2} - \\sqrt{1 + x^{2}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y_{2} = (1 + x^{2})^{2} + \\sqrt{1 + x^{2}}"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                482,
+                733,
+                504
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由线性微分方程解的结构得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y_{2} - y_{1} = 2\\sqrt{1 + x^{2}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y^\\prime +p(x)y = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的解，"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                511,
+                789,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "代入得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{2x}{\\sqrt{1 + x^2}} + p(x) \\cdot 2\\sqrt{1 + x^2} = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，解得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "p(x) = -\\frac{x}{1 + x^2}"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                536,
+                703,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "再由线性微分方程解的结构，得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{y_1 + y_2}{2} = (1 + x^2)^2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y^\\prime +p(x)y = q(x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的解，代入得 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4x(1 + x^{2}) - \\frac{x}{1 + x^{2}}\\bullet (1 + x^{2})^{2} = q(x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，解得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "q(x) = 3x(1 + x^2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，应选(A)."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                582,
+                913,
+                657
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(4)【答案】 (D)."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                663,
+                224,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(0) = 0, \\lim_{x \\to 0^{-}} f(x) = 0, \\lim_{x \\to 0^{+}} f(x) = \\lim_{n \\to \\infty} \\frac{1}{n} = 0,"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                685,
+                650,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(0) = f(0 - 0) = f(0 + 0) = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 在  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 处连续."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                723,
+                666,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lim_{x\\to 0^{-}}\\frac{f(x) - f(0)}{x} = \\lim_{x\\to 0^{-}}\\frac{x}{x} = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f_{-}^{\\prime}(0) = 1"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                746,
+                557,
+                781
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\lim  _ {x \\rightarrow 0 ^ {+}} \\frac {f (x) - f (0)}{x} = \\lim  _ {x \\rightarrow 0 ^ {+}} \\frac {\\frac {1}{n}}{x},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/dba5e6da1c69d59548eacf4144cdf11330d133a93261f851c63bfe3575bc4a5d.jpg"
+                }
+            },
+            "bbox": [
+                119,
+                785,
+                393,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{n + 1} < x < \\frac{1}{n}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{n}{n + 1} < \\frac{x}{\\frac{1}{n}} < 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，从而  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lim_{x \\to 0^+} \\frac{x}{\\frac{1}{n}} = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，于是  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f_+^\\prime(0) = 1"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                845,
+                769,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f_{-}^{\\prime}(0) = f_{+}^{\\prime}(0) = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 在  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 处可导，应选(D)."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                899,
+                694,
+                919
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（5）【答案】 (C)."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                70,
+                252,
+                87
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{A}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 与  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb{B}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 相似可知，存在可逆矩阵  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，使得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P^{-1}AP = B"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                93,
+                701,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "对  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P^{-1}AP = B"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 两边取转置得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb{P}^{\\mathrm{T}}\\pmb{A}^{\\mathrm{T}}(\\pmb{P}^{-1})^{\\mathrm{T}} = \\pmb{B}^{\\mathrm{T}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，或  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[(\\pmb{P}^{\\mathrm{T}})^{-1}]^{-1}\\pmb{A}^{\\mathrm{T}}[(\\pmb{P}^{\\mathrm{T}})^{-1}] = \\pmb{B}^{\\mathrm{T}}"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                115,
+                870,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{A}^{\\mathrm{T}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 与  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb{B}^{\\mathrm{T}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 相似，（A）正确；"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                137,
+                391,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P^{-1}AP = B"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P^{-1}A^{-1}P = B^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 与  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 相似，（B）正确；"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                159,
+                711,
+                176
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P^{-1}AP = B"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 及  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P^{-1}A^{-1}P = B^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P^{-1}(A + A^{-1})P = B + B^{-1}"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                182,
+                711,
+                198
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{A} + \\mathbf{A}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 与  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb {B} + \\pmb{B}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 相似，（D）正确，应选(C)."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                205,
+                571,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（6）【答案】 （B）."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                226,
+                252,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】 二次型的矩阵为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{A} = \\begin{pmatrix} 1 & 2 & 2\\\\ 2 & 1 & 2\\\\ 2 & 2 & 1 \\end{pmatrix}"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                251,
+                498,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "|\\lambda \\pmb {E} - \\pmb {A}| = \\left| \\begin{array}{ccc}\\lambda -1 & -2 & -2\\\\ -2 & \\lambda -1 & -2\\\\ -2 & -2 & \\lambda -1 \\end{array} \\right| = (\\lambda +1)^{2}(\\lambda -5) = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                315,
+                725,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "矩阵  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{A}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的特征值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{1} = 5, \\lambda_{2} = \\lambda_{3} = -1"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                383,
+                505,
+                399
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "二次型的规范形为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x_{1},x_{2},x_{3}) = 5y_{1}^{2} - y_{2}^{2} - y_{3}^{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                406,
+                597,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "从而  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x_{1},x_{2},x_{3}) = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 表示的曲面为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5y_{1}^{2} - y_{2}^{2} - y_{3}^{2} = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，该曲面表示双叶双曲面，应选(B)."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                429,
+                933,
+                447
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（7）【答案】 (B)."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                452,
+                250,
+                468
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】 由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X \\sim N(\\mu, \\sigma^2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{X - \\mu}{\\sigma} \\sim N(0,1)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ","
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                475,
+                561,
+                507
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "p = P \\{X \\leqslant \\mu + \\sigma^ {2} \\} = P \\left\\{\\frac {X - \\mu}{\\sigma} \\leqslant \\sigma \\right\\} = \\Phi (\\sigma),",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/0c5e7d1a961d48df2f0c7db082f718f1d2ac994910f742ec066aa2ce36922ac2.jpg"
+                }
+            },
+            "bbox": [
+                305,
+                515,
+                751,
+                549
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "p"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 随着  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的增加而增加，应选（B）."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                554,
+                456,
+                573
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（8）【答案】 （A）."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                577,
+                252,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】 方法一  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X\\sim B\\left(2,\\frac{1}{3}\\right),Y\\sim B\\left(2,\\frac{1}{3}\\right),"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                600,
+                591,
+                632
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "E (X) = E (Y) = \\frac {2}{3}, D (X) = D (Y) = \\frac {4}{9}, E (X Y) = 1 \\times 1 \\times P \\{X = 1, Y = 1 \\} = \\frac {2}{9},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fc50e486f968f549c8dcaac5078b7a2f0920376645ebbc569e807225256e9c94.jpg"
+                }
+            },
+            "bbox": [
+                119,
+                642,
+                886,
+                675
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\operatorname {C o v} (X, Y) = E (X Y) - E (X) E (Y) = \\frac {2}{9} - \\frac {4}{9} = - \\frac {2}{9},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/dffbe54881e500f1e0066b97d6257c05a27573a7b2063021ec9aad71dd05fc6b.jpg"
+                }
+            },
+            "bbox": [
+                119,
+                682,
+                626,
+                714
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho_{XY} = \\frac{\\operatorname{Cov}(X,Y)}{\\sqrt{D(X)}\\cdot\\sqrt{D(Y)}} = -\\frac{2}{9}\\times \\frac{9}{4} = -\\frac{1}{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，应选（A）."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                721,
+                660,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "方法二  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P\\{X = 0\\} = \\mathrm{C}_2^0\\left(\\frac{1}{3}\\right)^0\\left(\\frac{2}{3}\\right)^2 = \\frac{4}{9},"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                766,
+                525,
+                799
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "P \\{X = 1 \\} = C _ {2} ^ {1} \\frac {1}{3} \\cdot \\frac {2}{3} = \\frac {4}{9}, \\quad P \\{X = 2 \\} = C _ {2} ^ {2} \\left(\\frac {1}{3}\\right) ^ {2} \\left(\\frac {2}{3}\\right) ^ {0} = \\frac {1}{9},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f49679d56ea63235bace0bdb39efc981644ea51d88befe5e39feb87d30005d21.jpg"
+                }
+            },
+            "bbox": [
+                216,
+                806,
+                812,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "X\\sim \\left( \\begin{array}{ccc}0 & 1 & 2\\\\ \\frac{4}{9} & \\frac{4}{9} & \\frac{1}{9} \\end{array} \\right),"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 同理  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Y\\sim \\left( \\begin{array}{ccc}0 & 1 & 2\\\\ \\frac{4}{9} & \\frac{4}{9} & \\frac{1}{9} \\end{array} \\right),"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                847,
+                551,
+                901
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "E (X) = \\frac {2}{3}, E \\left(X ^ {2}\\right) = \\frac {8}{9}, D (X) = \\frac {8}{9} - \\frac {4}{9} = \\frac {4}{9}, E (Y) = \\frac {2}{3}, D (Y) = \\frac {4}{9}.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/bca24f48cfad3e770feda4e7eef58f2824beee7137f9628105d13e55181ed809.jpg"
+                }
+            },
+            "bbox": [
+                193,
+                909,
+                858,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "P \\{X Y = 1 \\} = P \\{X = 1, Y = 1 \\} = \\frac {2}{9},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7dfde00d8448c4cfbc77bea20b7bccdebea48b482eb006480e5bca49d7b3e527.jpg"
+                }
+            },
+            "bbox": [
+                103,
+                73,
+                448,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "P\\{XY = 0\\} = \\frac{7}{9}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "XY\\sim \\left( \\begin{array}{ll}0 & 1\\\\ \\frac{7}{9} & \\frac{2}{9} \\end{array} \\right)."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                114,
+                458,
+                169
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "E (X Y) = \\frac {2}{9}, \\operatorname {C o v} (X, Y) = E (X Y) - E (X) E (Y) = \\frac {2}{9} - \\frac {4}{9} = - \\frac {2}{9},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c656a1e40b0f6740f2600144a2c30a4bcf2b1a4b322db3cf76a5790d6b2469ca.jpg"
+                }
+            },
+            "bbox": [
+                101,
+                176,
+                737,
+                210
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\rho_ {X Y} = \\frac {\\operatorname {C o v} (X , Y)}{\\sqrt {D (X)} \\cdot \\sqrt {D (Y)}} = - \\frac {2}{9} \\times \\frac {9}{4} = - \\frac {1}{2}.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/afbb3a30d87ebd15f4f63004008ecf2e83eaad45e5008ace08cad9c3c014da79.jpg"
+                }
+            },
+            "bbox": [
+                101,
+                216,
+                527,
+                255
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、填空题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                66,
+                261,
+                167,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(9)【答案】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                285,
+                226,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                322,
+                151,
+                340
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\lim  _ {x \\rightarrow 0} \\frac {\\int_ {0} ^ {x} t \\ln (1 + t \\sin t) \\mathrm {d} t}{1 - \\cos x ^ {2}} = \\lim  _ {x \\rightarrow 0} \\frac {\\int_ {0} ^ {x} t \\ln (1 + t \\sin t) \\mathrm {d} t}{\\frac {1}{2} x ^ {4}} = \\lim  _ {x \\rightarrow 0} \\frac {x \\ln (1 + x \\sin x)}{2 x ^ {3}} = \\frac {1}{2}.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/977f13433e3427114e2050894ce616e27884d5b7911dd367ba1b3f4b5c924a96.jpg"
+                }
+            },
+            "bbox": [
+                101,
+                344,
+                836,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（10）【答案】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "j + (y - 1)k"
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                418,
+                335,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】rot  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{A} = \\left| \\begin{array}{ccc}i & j & k\\\\ \\frac{\\partial}{\\partial x} & \\frac{\\partial}{\\partial y} & \\frac{\\partial}{\\partial z}\\\\ x + y + z & xy & z \\end{array} \\right| = j + (y - 1)\\pmb {k}."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                440,
+                620,
+                522
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(11)【答案】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "-\\mathrm{d}x + 2\\mathrm{d}y"
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                525,
+                325,
+                543
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】 将  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = 0, y = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 代入得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                547,
+                454,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "(x + 1)z - y^{2} = x^{2}f(x - z,y)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 两边关于  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 求偏导得"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                568,
+                620,
+                586
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "z + (x + 1) z _ {x} ^ {\\prime} = 2 x f (x - z, y) + x ^ {2} f _ {1} ^ {\\prime} (x - z, y) \\cdot \\left(1 - z _ {x} ^ {\\prime}\\right),",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6cd1eadfde1cc801e1e4fcca883d7133f805192848bdcc732877e142afc27595.jpg"
+                }
+            },
+            "bbox": [
+                218,
+                591,
+                814,
+                610
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = 0, y = 1, z = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 代入得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z_x'(0,1) = -1"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                614,
+                535,
+                632
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "(x + 1)z - y^{2} = x^{2}f(x - z,y)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 两边关于  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 求偏导得"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                636,
+                620,
+                655
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(x + 1) z _ {y} ^ {\\prime} - 2 y = x ^ {2} \\left[ f _ {1} ^ {\\prime} (x - z, y) \\left(- z _ {y} ^ {\\prime}\\right) + f _ {y} ^ {\\prime} (x - z, y) \\right],",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ce7aa7da1061e2b9ee7f85bd5f4552fb61373258cb0b99ef4cd0f5c344d52204.jpg"
+                }
+            },
+            "bbox": [
+                228,
+                659,
+                806,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = 0, y = 1, z = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 代入得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z_{y}^{\\prime}(0,1) = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，故  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{d}z|_{(0,1)} = -\\mathrm{d}x + 2\\mathrm{d}y"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                682,
+                753,
+                700
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(12)【答案】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                706,
+                236,
+                738
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】方法一  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\arctan x = x - \\frac{x^3}{3} + o(x^3), \\frac{1}{1 + ax^2} = 1 - ax^2 + o(x^2)"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                744,
+                836,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\arctan x - \\frac{x}{1 + ax^2} = \\left(a - \\frac{1}{3}\\right)x^3 + o(x^3)"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                787,
+                553,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "再由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x) = f(0) + f'(0)x + \\frac{f''(0)}{2!} x^2 +\\frac{f'''(0)}{3!} x^3 +o(x^3)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                826,
+                711,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{f^{\\prime\\prime}(0)}{3!} = a - \\frac{1}{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 解得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = \\frac{1}{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                866,
+                654,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "方法二  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f^{\\prime}(x) = \\frac{1}{1 + x^{2}} -\\frac{1 - ax^{2}}{(1 + ax^{2})^{2}},"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                906,
+                496,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} f ^ {\\prime \\prime} (x) = - \\frac {2 x}{\\left(1 + x ^ {2}\\right) ^ {2}} + \\frac {6 a x - 2 a ^ {2} x ^ {3}}{\\left(1 + a x ^ {2}\\right) ^ {3}}, \\\\ f ^ {\\prime \\prime} (x) = - \\frac {2 - 6 x ^ {2}}{(1 + x ^ {2}) ^ {3}} - \\frac {(6 a - 6 a ^ {2} x ^ {2}) (1 + a x ^ {2}) - 6 a x (6 a x - 2 a ^ {2} x ^ {3})}{(1 + a x ^ {2}) ^ {4}}, \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2abb051d2cc9a314b26aaeb162754c322fa66c68e9103aca5a85cfd4918d3398.jpg"
+                }
+            },
+            "bbox": [
+                123,
+                70,
+                791,
+                147
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f^{\\prime \\prime}(0) = -2 + 6a"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "-2 + 6a = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = \\frac{1}{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                157,
+                591,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(13)【答案】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda^4 +\\lambda^3 +2\\lambda^2 +3\\lambda +4."
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                194,
+                434,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array}{r}\\left| \\begin{array}{cccc} \\lambda & -1 & 0 & 0\\\\ 0 & \\lambda & -1 & 0\\\\ 0 & 0 & \\lambda & -1\\\\ 4 & 3 & 2 & \\lambda +1 \\end{array} \\right| = \\lambda \\cdot \\left| \\begin{array}{ccc}\\lambda & -1 & 0\\\\ 0 & \\lambda & -1\\\\ 3 & 2 & \\lambda +1 \\end{array} \\right| + \\left| \\begin{array}{ccc}0 & -1 & 0\\\\ 0 & \\lambda & -1\\\\ 4 & 2 & \\lambda +1 \\end{array} \\right| \\end{array}"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                218,
+                800,
+                300
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} = \\lambda \\left[ \\lambda \\left| \\begin{array}{c c} \\lambda & - 1 \\\\ 2 & \\lambda + 1 \\end{array} \\right| + \\left| \\begin{array}{c c} 0 & - 1 \\\\ 3 & \\lambda + 1 \\end{array} \\right| \\right] + \\left| \\begin{array}{c c} 0 & - 1 \\\\ 4 & \\lambda + 1 \\end{array} \\right| \\\\ = \\lambda \\left[ \\lambda (\\lambda^ {2} + \\lambda + 2) + 3 \\right] + 4 \\\\ = \\lambda^ {4} + \\lambda^ {3} + 2 \\lambda^ {2} + 3 \\lambda + 4. \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ee7b7265b993b84c9905300fabb2b9c14bb6ab5e1eb71723ca1f4327f17d5ebb.jpg"
+                }
+            },
+            "bbox": [
+                404,
+                308,
+                838,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（14）【答案】 (8.2, 10.8)."
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                396,
+                323,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【解】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P\\left\\{-u_{0.025} < \\frac{\\overline{x} - \\mu}{\\frac{\\sigma}{\\sqrt{n}}} < u_{0.025}\\right\\} = 0.95,"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                418,
+                545,
+                484
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P\\left\\{\\overline{x} - \\frac{\\sigma}{\\sqrt{n}} u_{0.025} < \\mu < \\overline{x} + \\frac{\\sigma}{\\sqrt{n}} u_{0.025}\\right\\} = 0.95,"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                493,
+                565,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{x} +\\frac{\\sigma}{\\sqrt{n}} u_{0.025} = 10.8"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\sigma}{\\sqrt{n}} u_{0.025} = 10.8 - \\overline{x} = 1.3"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，从而  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{x} -\\frac{\\sigma}{\\sqrt{n}} u_{0.025} = 8.2,"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                541,
+                828,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "故  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mu"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的置信度为0.95的双侧置信区间为(8.2，10.8)."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                581,
+                614,
+                598
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、解答题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                76,
+                603,
+                173,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（15）【解】  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\iint_{D}x\\mathrm{d}x\\mathrm{d}y = \\int_{-\\frac{\\pi}{2}}^{\\frac{\\pi}{2}}\\mathrm{d}\\theta \\int_{2}^{2(1 + \\cos \\theta)}r^{2}\\cos \\theta \\mathrm{d}r"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                627,
+                513,
+                667
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} = \\frac {8}{3} \\int_ {- \\frac {\\pi}{2}} ^ {\\frac {\\pi}{2}} \\left(\\cos^ {4} \\theta + 3 \\cos^ {3} \\theta + 3 \\cos^ {2} \\theta\\right) d \\theta \\\\ = \\frac {1 6}{3} \\int_ {0} ^ {\\frac {\\pi}{2}} (\\cos^ {4} \\theta + 3 \\cos^ {3} \\theta + 3 \\cos^ {2} \\theta) d \\theta \\\\ = \\frac {1 6}{3} \\left(I _ {4} + 3 I _ {3} + 3 I _ {2}\\right) = 5 \\pi + \\frac {3 2}{3}. \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/03b7803a59c03087ce5359e46bcdb9a46965cbb1ff7f34e824b5045ade83b3a4.jpg"
+                }
+            },
+            "bbox": [
+                76,
+                627,
+                614,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（16）【证明】（I）微分方程  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y^{\\prime \\prime} + 2y^{\\prime} + ky = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的特征方程为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda^2 +2\\lambda +k = 0"
+                    }
+                ]
+            },
+            "bbox": [
+                74,
+                796,
+                808,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{1} = -1 + \\sqrt{1 - k}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{2} = -1 - \\sqrt{1 - k}"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                821,
+                561,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 < k < 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_1 < 0, \\lambda_2 < 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，从而  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_{0}^{+\\infty} \\mathrm{e}^{\\lambda_1 x} \\mathrm{d}x"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 与  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_{0}^{+\\infty} \\mathrm{e}^{\\lambda_2 x} \\mathrm{d}x"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 都收敛."
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                845,
+                814,
+                876
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "该方程的通解为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y = C_{1}\\mathrm{e}^{\\lambda_{1}x} + C_{2}\\mathrm{e}^{\\lambda_{2}x}"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                884,
+                470,
+                902
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_{0}^{+\\infty}y(x)\\mathrm{d}x = C_{1}\\int_{0}^{+\\infty}\\mathrm{e}^{\\lambda_{1}x}\\mathrm{d}x + C_{2}\\int_{0}^{+\\infty}\\mathrm{e}^{\\lambda_{2}x}\\mathrm{d}x"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_0^{+\\infty}y(x)\\mathrm{d}x"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 收敛."
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                909,
+                747,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Ⅱ）方法一 由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_1 < 0, \\lambda_2 < 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lim_{x \\to +\\infty} y(x) = \\lim_{x \\to +\\infty} (C_1 e^{\\lambda_1 x} + C_2 e^{\\lambda_2 x}) = 0,"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                70,
+                830,
+                97
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\lim  _ {x \\rightarrow + \\infty} y ^ {\\prime} (x) = \\lim  _ {x \\rightarrow + \\infty} \\left(C _ {1} \\lambda_ {1} e ^ {\\lambda_ {1} x} + C _ {2} \\lambda_ {2} e ^ {\\lambda_ {2} x}\\right) = 0,",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e1e532fad5c97089b178c289e6eee9e70e61a920e8edbb93413b40939cf9f475.jpg"
+                }
+            },
+            "bbox": [
+                305,
+                100,
+                733,
+                127
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "于是  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_0^{+\\infty}y(x)\\mathrm{d}x = -\\frac{1}{k}\\left[\\int_0^{+\\infty}y''(x)\\mathrm{d}x + 2\\int_0^{+\\infty}y'(x)\\mathrm{d}x\\right],"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                130,
+                656,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "再由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_{0}^{+\\infty}y^{\\prime \\prime}(x)\\mathrm{d}x = y^{\\prime}(x)\\Big|_{0}^{+\\infty} = -y^{\\prime}(0) = -1,"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                169,
+                567,
+                201
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\int_ {0} ^ {+ \\infty} y ^ {\\prime} (x) \\mathrm {d} x = y (x) \\Big | _ {0} ^ {+ \\infty} = - y (0) = - 1,",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/62fcf9a55ad7729864ef91c3ca59eceda4024c31bf00fef79a3db7d5c20a3c39.jpg"
+                }
+            },
+            "bbox": [
+                157,
+                205,
+                555,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_{0}^{+\\infty}y(x)\\mathrm{d}x = \\frac{3}{k}"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                244,
+                307,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "方法二 将  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y(0) = 1, y'(0) = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 代入  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y = C_1 \\mathrm{e}^{\\lambda_1 x} + C_2 \\mathrm{e}^{\\lambda_2 x}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left\\{ \\begin{array}{l} C_1 + C_2 = 1, \\\\ \\lambda_1 C_1 + \\lambda_2 C_2 = 1. \\end{array} \\right."
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                283,
+                858,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C_1 = \\frac{1 - \\lambda_2}{\\lambda_1 - \\lambda_2} = \\frac{2 + \\sqrt{1 - k}}{2\\sqrt{1 - k}}, C_2 = \\frac{\\lambda_1 - 1}{\\lambda_1 - \\lambda_2} = \\frac{-2 + \\sqrt{1 - k}}{2\\sqrt{1 - k}},"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                331,
+                743,
+                371
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "故  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\int_0^{+\\infty}y(x)\\mathrm{d}x = -\\left(\\frac{C_1}{\\lambda_1} +\\frac{C_1}{\\lambda_1}\\right) = \\frac{3}{k}."
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                376,
+                452,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(17)【解】 方法一 由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\partial f(x,y)}{\\partial x} = (2x + 1)\\mathrm{e}^{2x - y}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                418,
+                577,
+                450
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} f (x, y) = \\frac {1}{2} \\mathrm {e} ^ {- y} \\int (2 x + 1) \\mathrm {d} \\left(\\mathrm {e} ^ {2 x}\\right) + \\varphi (y) = \\frac {1}{2} \\mathrm {e} ^ {- y} \\left[ (2 x + 1) \\mathrm {e} ^ {2 x} - 2 \\int \\mathrm {e} ^ {2 x} \\mathrm {d} x \\right] + \\varphi (y) \\\\ = x \\mathrm {e} ^ {2 x - y} + \\varphi (y). \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e27d8eac22d6d9f798601ac1391e45c220fc89f13789aa35195fe1086cae72ee.jpg"
+                }
+            },
+            "bbox": [
+                115,
+                458,
+                888,
+                517
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(0,y) = y + 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi (y) = y + 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，于是  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x,y) = x\\mathrm{e}^{2x - y} + y + 1."
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                518,
+                757,
+                538
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {\\partial f (x , y)}{\\partial y} = - x \\mathrm {e} ^ {2 x - y} + 1,",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8da654a53874c744f93b6944dcb3eac84d8c2b69db54a5a0aed97e7de3a50202.jpg"
+                }
+            },
+            "bbox": [
+                397,
+                542,
+                644,
+                578
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "令  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P(x,y) = \\frac{\\partial f(x,y)}{\\partial x},\\quad Q(x,y) = \\frac{\\partial f(x,y)}{\\partial y},"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                582,
+                575,
+                617
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {\\partial P}{\\partial y} = - (2 x + 1) \\mathrm {e} ^ {2 x - y}, \\quad \\frac {\\partial Q}{\\partial x} = - (2 x + 1) \\mathrm {e} ^ {2 x - y},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b75a4d4797f2cfd1da8889816da6c3035634f888278afaac8853f000e8581987.jpg"
+                }
+            },
+            "bbox": [
+                290,
+                621,
+                751,
+                657
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\partial P}{\\partial y} = \\frac{\\partial Q}{\\partial x}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所以曲线积分与路径无关，"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                663,
+                505,
+                698
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "于是  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I(t) = \\int_{0}^{1}(2x + 1)\\mathrm{e}^{2x}\\mathrm{d}x + \\int_{0}^{t}(1 - \\mathrm{e}^{2 - y})\\mathrm{d}y = t + \\mathrm{e}^{2 - t}."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                700,
+                662,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I^{\\prime}(t) = 1 - \\mathrm{e}^{2 - t} = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t = 2"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                738,
+                414,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I''(t) = \\mathrm{e}^{2 - t} > 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，所以当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I(t)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 取最小值，最小值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I(2) = 3"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                759,
+                800,
+                777
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "方法二 由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\partial f(x,y)}{\\partial x} = (2x + 1)\\mathrm{e}^{2x - y}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x,y) = x\\mathrm{e}^{2x - y} + \\varphi (y)"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                783,
+                759,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(0,y) = y + 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi (y) = y + 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，从而  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x,y) = x\\mathrm{e}^{2x - y} + y + 1."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                821,
+                757,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "于是  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I(t) = \\int_{L_t} \\mathrm{d}f(x, y) = f(1, t) - f(0, 0) = \\mathrm{e}^{2 - t} + t"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                842,
+                638,
+                876
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I^{\\prime}(t) = 1 - \\mathrm{e}^{2 - t} = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t = 2"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                880,
+                414,
+                897
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t < 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I'(t) < 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "；当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t > 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I'(t) > 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I(t)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 取最小值，且最小值为"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                901,
+                913,
+                919
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I (2) = 3.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a58cf6a17f8f57e18950e3b5313e90504bf26c93b4bfd81610b3fe6f3a154254.jpg"
+                }
+            },
+            "bbox": [
+                476,
+                924,
+                567,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（18）【解】由高斯公式得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I = \\iint_{\\Sigma}(x^{2} + 1)\\mathrm{d}y\\mathrm{d}z - 2y\\mathrm{d}z\\mathrm{d}x + 3z\\mathrm{d}x\\mathrm{d}y = \\iiint_{\\Omega}(2x + 1)\\mathrm{d}v,"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                66,
+                878,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "而  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\iiint_{\\Omega} \\mathrm{d}v = \\frac{1}{3} \\times \\frac{1}{2} \\times 2 \\times 1 \\times 1 = \\frac{1}{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                109,
+                456,
+                148
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} \\iiint_ {\\Omega} x \\mathrm {d} v = \\int_ {0} ^ {1} x \\mathrm {d} x \\int_ {0} ^ {2 (1 - x)} \\mathrm {d} y \\int_ {0} ^ {1 - x - \\frac {y}{2}} \\mathrm {d} z = \\int_ {0} ^ {1} x \\mathrm {d} x \\int_ {0} ^ {2 (1 - x)} \\left(1 - x - \\frac {y}{2}\\right) \\mathrm {d} y \\\\ = \\int_ {0} ^ {1} x (1 - x) ^ {2} d x = \\frac {1}{1 2}, \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ca751419e3ef12a79fbc96597e69f3f1d51b990dccaaa652023d58a2c43821dc.jpg"
+                }
+            },
+            "bbox": [
+                147,
+                152,
+                751,
+                226
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "故  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I = \\frac{1}{3} +2\\times \\frac{1}{12} = \\frac{1}{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                123,
+                233,
+                351,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（19）【证明】"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                273,
+                193,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(I)  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "|x_{n+1} - x_n| = |f(x_n) - f(x_{n-1})| = |f'(\\xi)(x_n - x_{n-1})|"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，其中  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\xi"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 介于  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x_{n-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 与  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x_n"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 之间."
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                294,
+                931,
+                312
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 < f'(x) < \\frac{1}{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left|x_{n+1} - x_n\\right| \\leqslant \\frac{1}{2}\\left|x_n - x_{n-1}\\right|"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                317,
+                698,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由递推关系得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "|x_{n + 1} - x_n| \\leqslant \\frac{1}{2^{n - 1}} |x_2 - x_1|"
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                356,
+                567,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为级数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sum_{n=1}^{\\infty} \\frac{1}{2^{n-1}} |x_2 - x_1|"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 收敛，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sum_{n=1}^{\\infty} |x_{n+1} - x_n|"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 收敛，"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                394,
+                719,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "故级数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sum_{n = 1}^{\\infty}(x_{n + 1} - x_n)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 绝对收敛."
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                438,
+                432,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Ⅱ）级数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sum_{n = 1}^{\\infty}(x_{n + 1} - x_n)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的部分和为"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                479,
+                474,
+                514
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "S _ {n} = \\left(x _ {2} - x _ {1}\\right) + \\left(x _ {3} - x _ {2}\\right) + \\dots + \\left(x _ {n + 1} - x _ {n}\\right) = x _ {n + 1} - x _ {1},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1cbb84779da7edef6f7d0390016e4cd0f84cf3c3cb08a2e7e6827ce45fc3a862.jpg"
+                }
+            },
+            "bbox": [
+                236,
+                518,
+                818,
+                534
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为级数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sum_{n=1}^{\\infty}(x_{n+1}-x_n)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 收敛，即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lim_{n\\to\\infty}S_n"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 存在，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lim_{n\\to\\infty}x_n"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 存在."
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                539,
+                703,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "令  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lim_{n\\to \\infty}x_n = a,x_{n + 1} = f(x_n)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 及函数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的连续性得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = f(a)"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                577,
+                713,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "令  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi (x) = x - f(x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = a"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi (x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的零点"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                603,
+                571,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi (0) = -f(0) = -1"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                625,
+                379,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi (2) = 2 - f(2) = 1 - [f(2) - f(0)] = 1 - 2f'(\\eta) > 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，其中  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\eta \\in (0,2)"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                646,
+                822,
+                664
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi (x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 在(0，2）内有零点"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                668,
+                402,
+                685
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "又因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi'(x) = 1 - f'(x) > 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi(x)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 只有唯一的一个零点，且位于  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(0,2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 内，于是  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 < a < 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 < \\lim_{n\\to \\infty}x_n < 2"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                689,
+                888,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（20）【解】 方法一"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                735,
+                258,
+                753
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(\\mathbf {A} \\mid \\mathbf {B}) = \\left(\\begin{array}{c c c c c c}1&- 1&- 1&2&2\\\\2&a&1&1&a\\\\- 1&1&a&- a - 1&- 2\\end{array}\\right)\\rightarrow \\left(\\begin{array}{c c c c c c}1&- 1&- 1&2&2\\\\0&a + 2&3&- 3&a - 4\\\\0&0&a - 1&1 - a&0\\end{array}\\right)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d358591cf66269d64af1cd63683a687a612a55236ce9b60003500862a436cd9d.jpg"
+                }
+            },
+            "bbox": [
+                125,
+                757,
+                878,
+                817
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a \\neq -2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 且  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a \\neq 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                821,
+                347,
+                838
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(\\mathbf {A} \\vdots \\mathbf {B}) \\rightarrow \\left(\\begin{array}{c c c c c}1&- 1&- 1&2&2\\\\0&a + 2&3&- 3&a - 4\\\\0&0&1&- 1&0\\end{array}\\right)\\rightarrow \\left(\\begin{array}{c c c c c}1&0&0&1&\\frac {3 a}{a + 2}\\\\0&1&0&0&\\frac {a - 4}{a + 2}\\\\0&0&1&- 1&0\\end{array}\\right),",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/158e8b31dbee06770cf1e6a7bb3e56135092f5799b756ba49cc984bcaead0e0c.jpg"
+                }
+            },
+            "bbox": [
+                125,
+                844,
+                779,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{AX} = \\mathbf{B}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 有唯一解，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X = A^{-1}B = \\left[ \\begin{array}{cc}1 & \\frac{3a}{a + 2}\\\\ 0 & \\frac{a - 4}{a + 2}\\\\ -1 & 0 \\end{array} \\right];"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                68,
+                541,
+                165
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathbf{A}\\vdots \\mathbf{B})\\rightarrow \\left( \\begin{array}{ccc}1 & -1 & -1\\\\ 0 & 3 & 3\\\\ 0 & 0 & 0 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{ccc}1 & 0 & 0\\\\ 0 & 1 & 1\\\\ 0 & 0 & 0 \\end{array} \\right),"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                171,
+                824,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r(\\mathbf{A}) = r(\\mathbf{A} \\mid \\mathbf{B}) = 2 < 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{AX} = \\mathbf{B}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 有无数个解，"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                237,
+                602,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "令  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X = (X_{1},X_{2})"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                260,
+                274,
+                273
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X_{1} = k_{1}\\binom{0}{-1} + \\binom{1}{-1} = \\binom{1}{-k_{1} - 1},"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X_{2} = k_{2}\\binom{0}{-1} + \\binom{1}{-1} = \\binom{1}{-k_{2} - 1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                282,
+                856,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{X} = \\left( \\begin{array}{cc}1 & 1\\\\ -k_1 - 1 & -k_2 - 1\\\\ k_1 & k_2 \\end{array} \\right)(k_1,k_2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为任意常数）."
+                    }
+                ]
+            },
+            "bbox": [
+                288,
+                350,
+                733,
+                408
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "a = -2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathbf{A}\\mid \\mathbf{B})\\to \\left( \\begin{array}{cccc}1 & -1 & -1 & 2\\\\ 0 & 0 & 3 & -3\\\\ 0 & 0 & -3 & 3 \\end{array} \\right)\\to \\left( \\begin{array}{cccc}1 & -1 & -1 & 2\\\\ 0 & 0 & 1 & -1\\\\ 0 & 0 & 0 & 0 \\end{array} \\right),"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                417,
+                838,
+                475
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r(\\mathbf{A})\\neq r(\\mathbf{A}\\vdots \\mathbf{B})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{AX} = \\mathbf{B}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 无解."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                482,
+                511,
+                497
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "方法二  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "|\\mathbf{A}| = \\left| \\begin{array}{ccc}1 & -1 & -1\\\\ 2 & a & 1\\\\ -1 & 1 & a \\end{array} \\right| = \\left| \\begin{array}{ccc}1 & -1 & -1\\\\ 0 & a + 2 & 3\\\\ 0 & 0 & a - 1 \\end{array} \\right| = (a + 2)(a - 1),"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                504,
+                800,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a \\neq -2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 且  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a \\neq 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r(\\mathbf{A}) = r(\\mathbf{A} \\mid \\mathbf{B}) = 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{AX} = \\mathbf{B}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 有唯一解，"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                570,
+                810,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathbf{A}\\vdots \\mathbf{B})\\rightarrow \\left( \\begin{array}{cccc}1 & -1 & -1 & 2 & 2\\\\ 0 & a + 2 & 3 & -3 & a - 4\\\\ 0 & 0 & 1 & -1 & 0 \\end{array} \\right)\\rightarrow \\left[ \\begin{array}{cccc}1 & 0 & 0 & 1 & \\frac{3a}{a + 2}\\\\ 0 & 1 & 0 & 0 & \\frac{a - 4}{a + 2}\\\\ 0 & 0 & 1 & -1 & 0 \\end{array} \\right],"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                593,
+                789,
+                687
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{X} = \\mathbf{A}^{-1}\\mathbf{B} = \\left[ \\begin{array}{cc}1 & \\frac{3a}{a + 2}\\\\ 0 & \\frac{a - 4}{a + 2}\\\\ -1 & 0 \\end{array} \\right];"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                695,
+                644,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(A\\mid B)\\rightarrow \\left( \\begin{array}{rrrr}1 & -1 & -1 & 2 & 2\\\\ 0 & 3 & 3 & -3 & -3\\\\ 0 & 0 & 0 & 0 & 0 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{rrrr}1 & 0 & 0 & 1 & 1\\\\ 0 & 1 & 1 & -1 & -1\\\\ 0 & 0 & 0 & 0 & 0 \\end{array} \\right),"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                796,
+                824,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r(\\mathbf{A}) = r(\\mathbf{A} \\vdots \\mathbf{B}) = 2 < 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{AX} = \\mathbf{B}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 有无数个解，"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                862,
+                604,
+                874
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "令  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X = (X_{1},X_{2})"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                884,
+                276,
+                897
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X_{1} = k_{1}\\left( \\begin{array}{l}0\\\\ -1\\\\ 1 \\end{array} \\right) + \\left( \\begin{array}{l}1\\\\ -1\\\\ 0 \\end{array} \\right) = \\left( \\begin{array}{l}1\\\\ -k_{1} - 1\\\\ k_{1} \\end{array} \\right),"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X_{2} = k_{2}\\left( \\begin{array}{l}0\\\\ -1\\\\ 1 \\end{array} \\right) + \\left( \\begin{array}{l}1\\\\ -1\\\\ 0 \\end{array} \\right) = \\left( \\begin{array}{l}1\\\\ -k_{2} - 1\\\\ k_{2} \\end{array} \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                68,
+                878,
+                130
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb {X} = \\left( \\begin{array}{cc}1 & 1\\\\ -k_1 - 1 & -k_2 - 1\\\\ k_1 & k_2 \\end{array} \\right)(k_1,k_2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为任意常数）."
+                    }
+                ]
+            },
+            "bbox": [
+                309,
+                137,
+                755,
+                198
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "a = -2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathbf{A}\\mid \\mathbf{B})\\to \\left( \\begin{array}{ccc}1 & -1 & -1\\\\ 0 & 0 & 3\\\\ 0 & 0 & -3 \\end{array} \\right)\\to \\left( \\begin{array}{ccc}1 & -1 & -1\\\\ 0 & 0 & 1\\\\ 0 & 0 & 0 \\end{array} \\right),"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                204,
+                860,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r(\\mathbf{A})\\neq r(\\mathbf{A}\\vdots \\mathbf{B})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{AX} = \\mathbf{B}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 无解."
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                269,
+                533,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（21）【解】（I）由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "|\\lambda E - A| = \\left| \\begin{array}{ccc}\\lambda & 1 & -1\\\\ -2 & \\lambda +3 & 0\\\\ 0 & 0 & \\lambda \\end{array} \\right| = \\lambda (\\lambda +1)(\\lambda +2) = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                290,
+                814,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "矩阵  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf{A}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的特征值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{1} = -1, \\lambda_{2} = -2, \\lambda_{3} = 0"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                357,
+                553,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{1} = -1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 代入  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\lambda E - A)X = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "-E - A = \\begin{pmatrix} -1 & 1 & -1 \\\\ -2 & 2 & 0 \\\\ 0 & 0 & -1 \\end{pmatrix} \\rightarrow \\begin{pmatrix} 1 & -1 & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 0 & 0 \\end{pmatrix}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{1} = -1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 对"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                379,
+                937,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "应的特征向量为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\xi_{1} = \\begin{pmatrix} 1 \\\\ 1 \\\\ 0 \\end{pmatrix}"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                446,
+                379,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{2} = -2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 代入  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\lambda E - A)X = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "-2E - A = \\begin{pmatrix} -2 & 1 & -1 \\\\ -2 & 1 & 0 \\\\ 0 & 0 & -2 \\end{pmatrix} \\rightarrow \\begin{bmatrix} 1 & -\\frac{1}{2} & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 0 & 0 \\end{bmatrix}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                511,
+                907,
+                591
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{2} = -2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 对应的特征向量为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\xi_{2} = \\begin{pmatrix} 1 \\\\ 2 \\\\ 0 \\end{pmatrix}"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                596,
+                484,
+                653
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{3} = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 代入  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\lambda E - A)X = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "-A = \\begin{pmatrix} 0 & 1 & -1 \\\\ -2 & 3 & 0 \\\\ 0 & 0 & 0 \\end{pmatrix} \\rightarrow \\begin{bmatrix} 1 & 0 & -\\frac{3}{2} \\\\ 0 & 1 & -1 \\\\ 0 & 0 & 0 \\end{bmatrix}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{3} = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 对应"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                660,
+                937,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "的特征向量为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\xi_{3} = \\begin{pmatrix} 3\\\\ 2\\\\ 2 \\end{pmatrix} ."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                746,
+                351,
+                802
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "令  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb{P} = \\begin{pmatrix} 1 & 1 & 3 \\\\ 1 & 2 & 2 \\\\ 0 & 0 & 2 \\end{pmatrix}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb{P}^{-1}\\pmb{A}\\pmb{P} = \\begin{pmatrix} -1 & 0 & 0 \\\\ 0 & -2 & 0 \\\\ 0 & 0 & 0 \\end{pmatrix}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                810,
+                591,
+                869
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} \\boldsymbol {A} ^ {9 9} = \\boldsymbol {P} \\left( \\begin{array}{c c c} (- 1) ^ {9 9} & 0 & 0 \\\\ 0 & (- 2) ^ {9 9} & 0 \\\\ 0 & 0 & 0 \\end{array} \\right) \\boldsymbol {P} ^ {- 1} = \\left( \\begin{array}{c c c} 1 & 1 & 3 \\\\ 1 & 2 & 2 \\\\ 0 & 0 & 2 \\end{array} \\right) \\left( \\begin{array}{c c c} (- 1) ^ {9 9} & 0 & 0 \\\\ 0 & (- 2) ^ {9 9} & 0 \\\\ 0 & 0 & 0 \\end{array} \\right) \\left( \\begin{array}{c c c} 2 & - 1 & - 2 \\\\ - 1 & 1 & \\frac {1}{2} \\\\ 0 & 0 & \\frac {1}{2} \\end{array} \\right) \\\\ = \\left( \\begin{array}{c c c} 2 ^ {9 9} - 2 & 1 - 2 ^ {9 9} & 2 - 2 ^ {9 8} \\\\ 2 ^ {1 0 0} - 2 & 1 - 2 ^ {1 0 0} & 2 - 2 ^ {9 9} \\\\ 0 & 0 & 0 \\end{array} \\right). \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8d018323b108864b33a1c12994f4fb694c95efc2734ac9900a5e5e96c00eb07e.jpg"
+                }
+            },
+            "bbox": [
+                103,
+                73,
+                905,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Ⅱ）由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb{B}^{2} = \\pmb{BA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb{B}^{100} = \\pmb{B}^{98}\\pmb{B}^{2} = \\pmb{B}^{99}\\pmb{A} = \\dots = \\pmb{BA}^{99}"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                240,
+                602,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\pmb{\\beta}_1, \\pmb{\\beta}_2, \\pmb{\\beta}_3) = (\\pmb{\\alpha}_1, \\pmb{\\alpha}_2, \\pmb{\\alpha}_3)\\left( \\begin{array}{ccc} 2^{99} - 2 & 1 - 2^{99} & 2 - 2^{98} \\\\ 2^{100} - 2 & 1 - 2^{100} & 2 - 2^{99} \\\\ 0 & 0 & 0 \\end{array} \\right),"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                264,
+                650,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array}{l}\\pmb {\\beta}_1 = (2^{99} - 2)\\pmb {\\alpha}_1 + (2^{100} - 2)\\pmb {\\alpha}_2 + 0\\pmb {\\alpha}_3,\\\\ \\pmb {\\beta}_2 = (1 - 2^{99})\\pmb {\\alpha}_1 + (1 - 2^{100})\\pmb {\\alpha}_2 + 0\\pmb {\\alpha}_3,\\\\ \\pmb {\\beta}_3 = (2 - 2^{98})\\pmb {\\alpha}_1 + (2 - 2^{99})\\pmb {\\alpha}_2 + 0\\pmb {\\alpha}_3. \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 故 "
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                332,
+                501,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（22）【解】（I）区域  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的面积为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A = \\int_{0}^{1}(\\sqrt{x} -x^{2})\\mathrm{d}x = \\frac{2}{3} -\\frac{1}{3} = \\frac{1}{3},"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                404,
+                725,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "随机变量  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(X,Y)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的联合密度为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x,y) = \\left\\{ \\begin{array}{ll}3, & (x,y)\\in D,\\\\ 0, & (x,y)\\notin D. \\end{array} \\right."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                445,
+                668,
+                484
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Ⅱ）设  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(U,X)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的联合分布函数为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "G(u,x)"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                488,
+                509,
+                504
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "G \\left(0, \\frac {1}{2}\\right) = P \\left\\{U \\leqslant 0, X \\leqslant \\frac {1}{2} \\right\\} = P \\left\\{X > Y, X \\leqslant \\frac {1}{2} \\right\\} = \\int_ {0} ^ {\\frac {1}{2}} d x \\int_ {x ^ {2}} ^ {x} 3 d y = \\frac {1}{4},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7eb6d8529b7e93ff3b1bbf49fe6b6e9c7ee253cb4438bc388b24bc9802292810.jpg"
+                }
+            },
+            "bbox": [
+                145,
+                510,
+                836,
+                543
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "P \\{U \\leqslant 0 \\} = P \\{X > Y \\} = \\int_ {0} ^ {1} \\mathrm {d} x \\int_ {x ^ {2}} ^ {x} 3 \\mathrm {d} y = \\frac {1}{2},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/caac4a9878ae21f5d22d6e12e2175d43a449d11bf6bc0d214f84597a8b0db294.jpg"
+                }
+            },
+            "bbox": [
+                147,
+                552,
+                565,
+                582
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "P \\left\\{X \\leqslant \\frac {1}{2} \\right\\} = \\int_ {0} ^ {\\frac {1}{2}} d x \\int_ {x ^ {2}} ^ {\\sqrt {x}} 3 d y = \\frac {\\sqrt {2}}{2} - \\frac {1}{8},",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/51a506da49c31627a8519ef4c8406380797a327f040c36d281d0a96bcccd05c0.jpg"
+                }
+            },
+            "bbox": [
+                147,
+                593,
+                509,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "因为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{4} \\neq \\frac{1}{2} \\times \\left(\\frac{\\sqrt{2}}{2} - \\frac{1}{8}\\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 所以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "U"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 与  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 不独立."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                636,
+                547,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Ⅲ）当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z < 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(z) = 0"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                678,
+                367,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 \\leqslant z < 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                700,
+                266,
+                716
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "F (z) = P \\{Z \\leqslant z \\} = P \\{U = 0, X \\leqslant z \\} = P \\{X > Y, X \\leqslant z \\} = \\int_ {0} ^ {z} d x \\int_ {x ^ {2}} ^ {x} 3 d y = \\frac {3}{2} z ^ {2} - z ^ {3};",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3744ff9a5703d3a9aa427c421e0149794a2db0b1596706d5332f76a2070f968e.jpg"
+                }
+            },
+            "bbox": [
+                103,
+                724,
+                909,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\leqslant z < 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时，"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                760,
+                266,
+                778
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} F (z) = P \\{U + X \\leqslant z \\} = P \\{U = 0, X \\leqslant z \\} + P \\{U = 1, X \\leqslant z - 1 \\} \\\\ = \\frac {1}{2} + 2 (z - 1) ^ {\\frac {3}{2}} - \\frac {3}{2} (z - 1) ^ {2}; \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3977009c4b37c9cf883363b808c130243a984b6bcbc8d8a819d10dfa3475026b.jpg"
+                }
+            },
+            "bbox": [
+                189,
+                784,
+                822,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z \\geqslant 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(z) = 1"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                845,
+                319,
+                860
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "故  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(z) = \\left\\{ \\begin{array}{ll}0, & z <   0,\\\\ \\frac{3}{2} z^2 -z^3, & 0\\leqslant z <   1,\\\\ \\frac{1}{2} +2(z - 1)^{\\frac{3}{2}} - \\frac{3}{2} (z - 1)^2, & 1\\leqslant z <   2,\\\\ 1, & z\\geqslant 2. \\end{array} \\right."
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                72,
+                638,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(23)【解】（I）总体  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的分布函数为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(x) = \\int_{-\\infty}^{x}f(t)\\mathrm{d}t."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                196,
+                634,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x < 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(x) = 0"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                233,
+                355,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x \\geqslant \\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(x) = 1"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                255,
+                355,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 \\leqslant x < \\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(x) = \\int_{0}^{x} \\frac{3x^2}{\\theta^3} \\, \\mathrm{d}x = \\frac{x^3}{\\theta^3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                275,
+                529,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "即  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F(x) = \\left\\{ \\begin{array}{ll}0, & x <   0,\\\\ \\frac{x^3}{\\theta^3}, & 0\\leqslant x <   \\theta ,\\\\ 1, & x\\geqslant \\theta . \\end{array} \\right."
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                319,
+                418,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的分布函数为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F_{T}(t)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，则"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                404,
+                406,
+                420
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} F _ {T} (t) = P \\{T \\leqslant t \\} = P \\{\\max  \\left\\{X _ {1}, X _ {2}, X _ {3} \\right\\} \\leqslant t \\} \\\\ = P \\left\\{X _ {1} \\leqslant t, X _ {2} \\leqslant t, X _ {3} \\leqslant t \\right\\} \\\\ = P \\left\\{X _ {1} \\leqslant t \\right\\} P \\left\\{X _ {2} \\leqslant t \\right\\} P \\left\\{X _ {3} \\leqslant t \\right\\} \\\\ = P ^ {3} \\{X \\leqslant t \\} = F ^ {3} (t) = \\left\\{ \\begin{array}{l l} 0, & t <   0, \\\\ \\frac {t ^ {9}}{\\theta^ {9}}, & 0 \\leqslant t <   \\theta , \\\\ 1, & t \\geqslant \\theta . \\end{array} \\right. \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/65c3cb480100d52a5323efe7ce13c79ae25e9fb6c6c9162157f782dbe0c549c6.jpg"
+                }
+            },
+            "bbox": [
+                313,
+                428,
+                777,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "随机变量  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的概率密度为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f_{T}(t) = \\begin{cases} \\frac{9t^{8}}{\\theta^{9}}, & 0 < t < \\theta, \\\\ 0, & \\text{其他.} \\end{cases}"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                579,
+                638,
+                635
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathrm{II})E(aT) = aE(T) = a\\int_{0}^{\\theta}t\\cdot \\frac{9t^{8}}{\\theta^{9}}\\mathrm{d}t = \\frac{9a}{10}\\theta ,"
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                642,
+                543,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E(aT) = \\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 得  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = \\frac{10}{9}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，即当  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = \\frac{10}{9}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "aT"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为参数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的无偏估计."
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                685,
+                743,
+                716
+            ]
+        }
+    ]
+]

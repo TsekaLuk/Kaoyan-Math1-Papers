@@ -1,0 +1,1152 @@
+[
+    {
+        "type": "text",
+        "text": "1988年数学（一）真题解析",
+        "text_level": 1,
+        "bbox": [
+            280,
+            85,
+            716,
+            114
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、",
+        "text_level": 1,
+        "bbox": [
+            59,
+            136,
+            90,
+            149
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)【解】 由 $\\lim_{n\\to \\infty}\\left|\\frac{a_{n + 1}}{a_n}\\right| = \\lim_{n\\to \\infty}\\frac{1}{(n + 1)\\cdot 3^{n + 1}}\\Bigg{/}\\frac{1}{n\\cdot 3^n} = \\frac{1}{3}$ ，得收敛半径 $R = 3$ ",
+        "bbox": [
+            59,
+            154,
+            716,
+            189
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当 $x - 3 = -3$ ，即 $x = 0$ 时， $\\sum_{n = 1}^{\\infty}\\frac{(-1)^n}{n}$ 收敛；",
+        "bbox": [
+            90,
+            196,
+            479,
+            226
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当 $x - 3 = 3$ ，即 $x = 6$ 时， $\\sum_{n = 1}^{\\infty}\\frac{1}{n}$ 发散，",
+        "bbox": [
+            90,
+            236,
+            423,
+            266
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "故级数 $\\sum_{n=1}^{\\infty} \\frac{(x-3)^n}{n \\cdot 3^n}$ 的收敛域为 $[0,6)$ .",
+        "bbox": [
+            90,
+            275,
+            409,
+            305
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)【解】 由 $\\mathrm{e}^{\\varphi^2 (x)} = 1 - x$ ，得 $\\varphi (x) = \\sqrt{\\ln(1 - x)}$ ",
+        "bbox": [
+            59,
+            316,
+            512,
+            333
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由 $1 - x \\geqslant 1$ 得 $\\varphi(x)$ 的定义域为 $(- \\infty, 0]$ .",
+        "bbox": [
+            90,
+            340,
+            454,
+            352
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（3）【解】 由高斯公式得",
+        "bbox": [
+            59,
+            360,
+            268,
+            376
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} I = \\oiint_ {S} x ^ {3} d y d z + y ^ {3} d z d x + z ^ {3} d x d y = 3 \\iiint_ {a} (x ^ {2} + y ^ {2} + z ^ {2}) d v \\\\ = 3 \\int_ {0} ^ {2 \\pi} d \\theta \\int_ {0} ^ {\\pi} d \\varphi \\int_ {0} ^ {1} r ^ {4} \\sin \\varphi d r = \\frac {6 \\pi}{5} \\int_ {0} ^ {\\pi} \\sin \\varphi d \\varphi = \\frac {1 2 \\pi}{5}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            206,
+            383,
+            702,
+            446
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二、填空题",
+        "text_level": 1,
+        "bbox": [
+            59,
+            455,
+            148,
+            470
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)【答案】 $(1 + 2t)\\mathrm{e}^{2t}$ ",
+        "bbox": [
+            59,
+            475,
+            264,
+            492
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $f(t) = \\lim_{x\\to \\infty}t\\left(1 + \\frac{1}{x}\\right)^{2tx} = t\\lim_{x\\to \\infty}\\left[\\left(1 + \\frac{1}{x}\\right)^x\\right]^{2t} = te^{2t},$ ",
+        "bbox": [
+            88,
+            497,
+            609,
+            526
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "则 $f^{\\prime}(t) = \\mathrm{e}^{2t} + 2t\\mathrm{e}^{2t} = (1 + 2t)\\mathrm{e}^{2t}$ ",
+        "bbox": [
+            90,
+            533,
+            394,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)【答案】 $\\frac{3}{2}$ .",
+        "bbox": [
+            59,
+            558,
+            202,
+            585
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $f(x)$ 的傅里叶级数在 $x = 1$ 处收敛于",
+        "bbox": [
+            88,
+            594,
+            466,
+            608
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {f (1 - 0) + f (1 + 0)}{2} = \\frac {f (1 - 0) + f (- 1 + 0)}{2} = \\frac {1 + 2}{2} = \\frac {3}{2}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            250,
+            615,
+            770,
+            645
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)【答案】 $\\frac{1}{12}$ .",
+        "bbox": [
+            59,
+            654,
+            200,
+            680
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $\\int_0^{x^3 -1}f(t)\\mathrm{d}t = x$ 两边对 $x$ 求导得 $3x^{2}f(x^{3} - 1) = 1$ ",
+        "bbox": [
+            88,
+            686,
+            592,
+            713
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "取 $x = 2$ 得 $f(7) = \\frac{1}{12}$ .",
+        "bbox": [
+            90,
+            724,
+            293,
+            749
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（4）【答案】 40.",
+        "bbox": [
+            59,
+            759,
+            192,
+            773
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 由 $\\mathbf{A} + \\mathbf{B} = (\\pmb {\\alpha} + \\pmb {\\beta},2\\pmb{\\gamma}_2,2\\pmb{\\gamma}_3,2\\pmb{\\gamma}_4)$ 得",
+        "bbox": [
+            88,
+            780,
+            464,
+            793
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\left| \\boldsymbol {A} + \\boldsymbol {B} \\right| = \\left| \\boldsymbol {\\alpha} + \\boldsymbol {\\beta}, 2 \\gamma_ {2}, 2 \\gamma_ {3}, 2 \\gamma_ {4} \\right| = 8 \\left| \\boldsymbol {\\alpha} + \\boldsymbol {\\beta}, \\gamma_ {2}, \\gamma_ {3}, \\gamma_ {4} \\right| \\\\ = 8 \\left(\\left| \\boldsymbol {\\alpha}, \\boldsymbol {\\gamma} _ {2}, \\boldsymbol {\\gamma} _ {3}, \\boldsymbol {\\gamma} _ {4} \\right| + \\left| \\boldsymbol {\\beta}, \\boldsymbol {\\gamma} _ {2}, \\boldsymbol {\\gamma} _ {3}, \\boldsymbol {\\gamma} _ {4} \\right|\\right) = 8 \\left(\\left| \\boldsymbol {A} \\right| + \\left| \\boldsymbol {B} \\right|\\right) = 4 0. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            97,
+            802,
+            698,
+            836
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三、选择题",
+        "text_level": 1,
+        "bbox": [
+            59,
+            843,
+            146,
+            858
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)【答案】 (B).",
+        "bbox": [
+            59,
+            864,
+            204,
+            878
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】因为 $f(x)$ 在 $x = x_0$ 处可导，所以 $f(x)$ 在 $x = x_0$ 处可微，",
+        "bbox": [
+            86,
+            886,
+            652,
+            900
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于是 $\\mathrm{dy} = f^{\\prime}(x_0)\\Delta x = \\frac{1}{2}\\Delta x$ ，故函数在 $x = x_0$ 处的微分 $\\mathrm{dy}$ 是与 $\\Delta x$ 同阶而非等价的无穷小，应选(B).",
+        "bbox": [
+            88,
+            908,
+            929,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（2）【答案】（A）.",
+        "bbox": [
+            61,
+            71,
+            210,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】将 $x = x_0$ 代入 $y'' - 2y' + 4y = 0$ ，得 $f''(x_0) - 2f'(x_0) + 4f(x_0) = 0$ ",
+        "bbox": [
+            90,
+            92,
+            756,
+            107
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从而 $f^{\\prime \\prime}(x_0) = -4f(x_0) < 0$ ，由极值判别法得 $x = x_{0}$ 为 $f(x)$ 的极大值点，应选(A).",
+        "bbox": [
+            90,
+            114,
+            807,
+            128
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)【答案】 (C).",
+        "bbox": [
+            61,
+            138,
+            208,
+            152
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 由奇偶性得",
+        "bbox": [
+            90,
+            160,
+            252,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\iiint_{\\Omega_1}x\\mathrm{d}v = \\iiint_{\\Omega_1}y\\mathrm{d}v = 0,\\quad \\iiint_{\\Omega_1}z\\mathrm{d}v = 4\\iiint_{\\Omega_2}z\\mathrm{d}v,\\quad \\iiint_{\\Omega_1}xyz\\mathrm{d}v = 0$ 显然选(C). ",
+        "bbox": [
+            90,
+            179,
+            669,
+            218
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）【答案】 （B）.",
+        "bbox": [
+            61,
+            222,
+            208,
+            237
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 因为级数 $\\sum_{n = 0}^{\\infty}a_n(x - 1)^n$ 在 $x = -1$ 处收敛，",
+        "bbox": [
+            90,
+            247,
+            520,
+            278
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所以其收敛半径 $R \\geqslant |-1 - 1| = 2$ .",
+        "bbox": [
+            92,
+            283,
+            392,
+            297
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $x = 2$ 时，因为 $|2 - 1| = 1 < R$ ，所以该级数在 $x = 2$ 处绝对收敛，应选(B).",
+        "bbox": [
+            92,
+            305,
+            750,
+            319
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（5）【答案】 (D).",
+        "bbox": [
+            61,
+            327,
+            208,
+            341
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 方法一",
+        "bbox": [
+            92,
+            349,
+            214,
+            363
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若 $\\alpha_{1},\\alpha_{2},\\dots ,\\alpha_{s}$ 线性相关，则存在不全为零的数 $k_{1},k_{2},\\dots ,k_{s}$ ",
+        "bbox": [
+            92,
+            370,
+            603,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使得 $k_{1}\\pmb{\\alpha}_{1} + k_{2}\\pmb{\\alpha}_{2} + \\dots +k_{s}\\pmb{\\alpha}_{s} = \\mathbf{0},$ ",
+        "bbox": [
+            92,
+            394,
+            559,
+            408
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不妨设 $k_{1} \\neq 0$ ，则 $\\pmb{\\alpha}_{1} = -\\frac{k_{2}}{k_{1}}\\pmb{\\alpha}_{2} - \\dots - \\frac{k_{s}}{k_{1}}\\pmb{\\alpha}_{s}$ ，即至少有一个向量可由其余向量线性表示，",
+        "bbox": [
+            92,
+            417,
+            820,
+            446
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "故 $\\alpha_{1},\\alpha_{2},\\dots ,\\alpha_{s}$ 线性无关的充分必要条件是 $\\alpha_{1},\\alpha_{2},\\dots ,\\alpha_{s}$ 中任意一个向量都不可由其余向量线性表示，应选(D).",
+        "bbox": [
+            92,
+            455,
+            935,
+            492
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方法二",
+        "bbox": [
+            92,
+            500,
+            154,
+            514
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\pmb{\\alpha}_{1} = \\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \\end{pmatrix}, \\pmb{\\alpha}_{2} = \\begin{pmatrix} 0 \\\\ 1 \\\\ 0 \\end{pmatrix}, \\pmb{\\alpha}_{3} = \\begin{pmatrix} 1 \\\\ 1 \\\\ 0 \\end{pmatrix}$ , 显然 $2\\pmb{\\alpha}_{1} + \\pmb{\\alpha}_{2} - \\pmb{\\alpha}_{3} \\neq \\mathbf{0}$ 且其中任两个向量线性无关, 但向量组 $\\pmb{\\alpha}_{1}, \\pmb{\\alpha}_{2}, \\pmb{\\alpha}_{3}$ 线性相关, 排除(A), (B);",
+        "bbox": [
+            92,
+            522,
+            935,
+            603
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\pmb{\\alpha}_{1} = \\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \\end{pmatrix}, \\pmb{\\alpha}_{2} = \\begin{pmatrix} 0 \\\\ 1 \\\\ 0 \\end{pmatrix}, \\pmb{\\alpha}_{3} = \\begin{pmatrix} 0 \\\\ 0 \\\\ 0 \\end{pmatrix}$ , 显然 $\\pmb{\\alpha}_{1}$ 不可由 $\\pmb{\\alpha}_{2}, \\pmb{\\alpha}_{3}$ 线性表示, 但 $\\pmb{\\alpha}_{1}, \\pmb{\\alpha}_{2}, \\pmb{\\alpha}_{3}$ 线性相关, 排除(C), 应选(D).",
+        "bbox": [
+            92,
+            612,
+            935,
+            691
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四、【解】 $\\frac{\\partial u}{\\partial x} = f^{\\prime}\\left(\\frac{x}{y}\\right) + g\\left(\\frac{y}{x}\\right) - \\frac{y}{x} g^{\\prime}\\left(\\frac{y}{x}\\right),$ ",
+        "bbox": [
+            61,
+            701,
+            466,
+            728
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\partial^ {2} u}{\\partial x ^ {2}} = \\frac {1}{y} f ^ {\\prime \\prime} \\left(\\frac {x}{y}\\right) - \\frac {y}{x ^ {2}} g ^ {\\prime} \\left(\\frac {y}{x}\\right) + \\frac {y}{x ^ {2}} g ^ {\\prime} \\left(\\frac {y}{x}\\right) + \\frac {y ^ {2}}{x ^ {3}} g ^ {\\prime \\prime} \\left(\\frac {y}{x}\\right) = \\frac {1}{y} f ^ {\\prime \\prime} \\left(\\frac {x}{y}\\right) + \\frac {y ^ {2}}{x ^ {3}} g ^ {\\prime \\prime} \\left(\\frac {y}{x}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            88,
+            735,
+            789,
+            766
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\partial^ {2} u}{\\partial x \\partial y} = - \\frac {x}{y ^ {2}} f ^ {\\prime \\prime} \\left(\\frac {x}{y}\\right) + \\frac {1}{x} g ^ {\\prime} \\left(\\frac {y}{x}\\right) - \\frac {1}{x} g ^ {\\prime} \\left(\\frac {y}{x}\\right) - \\frac {y}{x ^ {2}} g ^ {\\prime \\prime} \\left(\\frac {y}{x}\\right) = - \\frac {x}{y ^ {2}} f ^ {\\prime \\prime} \\left(\\frac {x}{y}\\right) - \\frac {y}{x ^ {2}} g ^ {\\prime \\prime} \\left(\\frac {y}{x}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            90,
+            775,
+            836,
+            806
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则 $x\\frac{\\partial^2u}{\\partial x^2} +y\\frac{\\partial^2u}{\\partial x\\partial y} = \\frac{x}{y} f''\\left(\\frac{x}{y}\\right) + \\frac{y^2}{x^2} g''\\left(\\frac{y}{x}\\right) - \\frac{x}{y} f''\\left(\\frac{x}{y}\\right) - \\frac{y^2}{x^2} g''\\left(\\frac{y}{x}\\right) = 0.$ ",
+        "bbox": [
+            90,
+            814,
+            727,
+            843
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "五、【解】 特征方程为 $\\lambda^2 - 3\\lambda + 2 = 0$ ，特征根为 $\\lambda_1 = 1, \\lambda_2 = 2$ ",
+        "bbox": [
+            61,
+            853,
+            607,
+            867
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$y^{\\prime \\prime} - 3y^{\\prime} + 2y = 0$ 的通解为 $y = C_{1}\\mathrm{e}^{x} + C_{2}\\mathrm{e}^{2x}$ ",
+        "bbox": [
+            88,
+            876,
+            487,
+            890
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设原方程的特解为 $y_0(x) = ax\\mathrm{e}^x$ ，代入得 $a = -2$ ",
+        "bbox": [
+            90,
+            899,
+            516,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "故原方程的通解为 $y = C_{1} \\mathrm{e}^{x} + C_{2} \\mathrm{e}^{2x} - 2x \\mathrm{e}^{x}$ ( $C_{1}, C_{2}$ 为任意常数).",
+        "bbox": [
+            90,
+            922,
+            636,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为曲线 $y = y(x)$ 经过点(0,1)，所以 $C_1 + C_2 = 1$ ",
+        "bbox": [
+            84,
+            71,
+            526,
+            85
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$y = y(x)$ 在 $x = 0$ 处切线的斜率为 $k = (2x - 1)\\mid_{x = 0} = -1$ ",
+        "bbox": [
+            84,
+            94,
+            611,
+            107
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "又由 $y' = C_1 e^x + 2C_2 e^{2x} - 2(x + 1) e^x$ ，得 $C_1 + 2C_2 - 2 = -1$ ，即 $C_1 + 2C_2 = 1$ ",
+        "bbox": [
+            84,
+            116,
+            762,
+            128
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从而 $C_1 = 1, C_2 = 0$ ，故所求函数为 $y = (1 - 2x)\\mathrm{e}^x$ ",
+        "bbox": [
+            86,
+            139,
+            524,
+            150
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "六、【解】设 $M(x,y)$ ，则 $\\overrightarrow{MA} = \\{-x,1 - y\\}$ ",
+        "bbox": [
+            57,
+            161,
+            448,
+            177
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow {M A} ^ {0} = \\boldsymbol {F} ^ {0} = \\frac {1}{\\sqrt {x ^ {2} + (1 - y) ^ {2}}} \\{- x, 1 - y \\},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            84,
+            186,
+            458,
+            218
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则 $F(x,y) = |F|\\cdot F^0 = \\frac{k}{[x^2 + (1 - y)^2]^{\\frac{3}{2}}}\\{-x,1 - y\\} ,$ ",
+        "bbox": [
+            84,
+            229,
+            568,
+            265
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设 $M$ 沿 $y = \\sqrt{2x - x^2}$ 从点 $B(2,0)$ 到点 $O(0,0)$ 的有向曲线段为 $L$ ",
+        "bbox": [
+            84,
+            276,
+            667,
+            290
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则 $W = k\\int_{L}\\frac{-x\\mathrm{d}x + (1 - y)\\mathrm{d}y}{[x^2 + (1 - y)^2]^{\\frac{3}{2}}},$ ",
+        "bbox": [
+            86,
+            300,
+            367,
+            337
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $P(x,y) = -\\frac{x}{[x^2 + (1 - y)^2]^{\\frac{3}{2}}},$ $Q(x,y) = \\frac{1 - y}{[x^2 + (1 - y)^2]^{\\frac{3}{2}}},$ ",
+        "bbox": [
+            84,
+            348,
+            650,
+            384
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\frac{\\partial Q}{\\partial x} = \\frac{\\partial P}{\\partial y}$ 所以曲线积分与路径无关，",
+        "bbox": [
+            84,
+            392,
+            431,
+            421
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "故 $W = k\\int_{\\overline{BO}}\\frac{-x\\mathrm{d}x + (1 - y)\\mathrm{d}y}{[x^2 + (1 - y)^2]^{\\frac{3}{2}}} = k\\int_{2}^{0}\\frac{-x\\mathrm{d}x}{(x^2 + 1)^{\\frac{3}{2}}} = k\\left(1 - \\frac{1}{\\sqrt{5}}\\right).$ ",
+        "bbox": [
+            84,
+            431,
+            638,
+            468
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "七、【解】 $P^{-1} = \\left( \\begin{array}{rrr}1 & 0 & 0\\\\ 2 & -1 & 0\\\\ -4 & 1 & 1 \\end{array} \\right),\\quad A = PBP^{-1} = \\left( \\begin{array}{rrr}1 & 0 & 0\\\\ 2 & 0 & 0\\\\ 6 & -1 & -1 \\end{array} \\right);$ ",
+        "bbox": [
+            55,
+            479,
+            619,
+            532
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf {A} ^ {5} = \\mathbf {P B} ^ {5} \\mathbf {P} ^ {- 1} = \\mathbf {P B P} ^ {- 1} = \\mathbf {A}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            84,
+            540,
+            330,
+            554
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "八、【解】（1）因为矩阵 $\\mathbf{A}$ 与 $\\pmb{B}$ 相似，所以 $\\operatorname {tr}\\mathbf{A} = \\operatorname {tr}\\mathbf{B}$ ，即 $x + 2 = y + 1$ ，或 $x = y - 1$ ",
+        "bbox": [
+            55,
+            562,
+            780,
+            576
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "再由矩阵 $\\mathbf{A}$ 与 $\\pmb{B}$ 相似得 $|\\mathbf{A}| = |\\mathbf{B}|$ ，即 $-2 = -2y$ ，解得 $y = 1$ 故 $x = 0, y = 1$ .",
+        "bbox": [
+            84,
+            583,
+            762,
+            597
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）显然矩阵 $\\mathbf{A}$ 及 $\\pmb{B}$ 的特征值为 $\\lambda_1 = 2, \\lambda_2 = 1, \\lambda_3 = -1$ ",
+        "bbox": [
+            86,
+            605,
+            574,
+            619
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $2E - A = \\begin{pmatrix} 0 & 0 & 0\\\\ 0 & 2 & -1\\\\ 0 & -1 & 2 \\end{pmatrix} \\to \\begin{pmatrix} 0 & 1 & 0\\\\ 0 & 0 & 1\\\\ 0 & 0 & 0 \\end{pmatrix}$ 得",
+        "bbox": [
+            86,
+            627,
+            462,
+            681
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矩阵 $\\mathbf{A}$ 的相应于 $\\lambda_{1} = 2$ 的特征向量为 $\\pmb{\\alpha}_{1} = (1,0,0)^{\\mathrm{T}}$ ",
+        "bbox": [
+            84,
+            691,
+            535,
+            704
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $\\pmb {E} - \\pmb {A} = \\left( \\begin{array}{rrr} - 1 & 0 & 0\\\\ 0 & 1 & -1\\\\ 0 & -1 & 1 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{rrr}1 & 0 & 0\\\\ 0 & 1 & -1\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得",
+        "bbox": [
+            86,
+            713,
+            495,
+            764
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矩阵 $\\mathbf{A}$ 的相应于 $\\lambda_{2} = 1$ 的特征向量为 $\\pmb{\\alpha}_{2}=(0,1,1)^{\\mathrm{T}}$ ;",
+        "bbox": [
+            84,
+            775,
+            535,
+            788
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $-\\mathbf{E} - \\mathbf{A} = \\left( \\begin{array}{rrr} - 3 & 0 & 0\\\\ 0 & -1 & -1\\\\ 0 & -1 & -1 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{rrr}1 & 0 & 0\\\\ 0 & 1 & 1\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得",
+        "bbox": [
+            86,
+            798,
+            495,
+            850
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矩阵 $\\mathbf{A}$ 的相应于 $\\lambda_{3} = -1$ 的特征向量为 $\\pmb{\\alpha}_{3} = (0, - 1,1)^{\\mathrm{T}}$ ",
+        "bbox": [
+            84,
+            860,
+            576,
+            872
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $\\pmb{P} = \\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & -1 \\\\ 0 & 1 & 1 \\end{pmatrix}$ , 则 $\\pmb{P}^{-1}\\pmb{A}\\pmb{P} = \\pmb{B}$ .",
+        "bbox": [
+            86,
+            883,
+            396,
+            934
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "九、【证明】 令 $S_{1}(x) = \\int_{a}^{x}[f(x) - f(t)]\\mathrm{d}t$ ， $S_{2}(x) = \\int_{x}^{b}[f(t) - f(x)]\\mathrm{d}t$ ",
+        "bbox": [
+            53,
+            67,
+            704,
+            95
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "再令 $\\varphi (x) = S_{1}(x) - 3S_{2}(x) = \\int_{a}^{x}[f(x) - f(t)]\\mathrm{d}t - 3\\int_{x}^{b}[f(t) - f(x)]\\mathrm{d}t,$ ",
+        "bbox": [
+            80,
+            102,
+            729,
+            128
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则 $\\varphi (x) = (x - a)f(x) - \\int_{a}^{x}f(t)\\mathrm{d}t + 3\\int_{b}^{x}f(t)\\mathrm{d}t - 3(x - b)f(x),$ ",
+        "bbox": [
+            80,
+            136,
+            644,
+            163
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为 $f^{\\prime}(x) > 0$ ，所以 $f(x)$ 在 $[a,b]$ 上严格递增，",
+        "bbox": [
+            80,
+            171,
+            493,
+            185
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从而 $\\varphi (a) = -3\\int_{a}^{b}[f(t) - f(a)]\\mathrm{d}t < 0,\\quad \\varphi (b) = \\int_{a}^{b}[f(b) - f(t)]\\mathrm{d}t > 0,$ ",
+        "bbox": [
+            80,
+            190,
+            716,
+            218
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "即存在 $\\xi \\in (a,b)$ ，使得 $\\varphi (\\xi) = 0$ ，即 $S_{1}(\\xi) = 3S_{2}(\\xi)$ ",
+        "bbox": [
+            80,
+            226,
+            539,
+            239
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\varphi^{\\prime}(x) = (x - a)f^{\\prime}(x) - 3(x - b)f^{\\prime}(x)$ ",
+        "bbox": [
+            80,
+            247,
+            473,
+            260
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= f ^ {\\prime} (x) \\lceil (x - a) + 3 (b - x) \\rceil > 0 \\quad (a <   x <   b),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            179,
+            268,
+            613,
+            280
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以 $\\varphi (x)$ 在 $[a,b]$ 上严格递增，故 $\\xi$ 是唯一的.",
+        "bbox": [
+            80,
+            290,
+            471,
+            302
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "十、填空题",
+        "text_level": 1,
+        "bbox": [
+            55,
+            312,
+            144,
+            326
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)【答案】 $\\frac{1}{3}$ .",
+        "bbox": [
+            55,
+            334,
+            198,
+            360
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解】令 $P(A) = p$ ，设三次试验中 $A$ 出现的次数为 $X$ ，则 $X \\sim B(3, p)$ ",
+        "bbox": [
+            84,
+            367,
+            694,
+            381
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $P\\{X \\geqslant 1\\} = \\frac{19}{27}$ , 得 $P\\{X = 0\\} = C_3^0 p^0 (1 - p)^3 = (1 - p)^3 = \\frac{8}{27}$ , 解得 $p = \\frac{1}{3}$ , 故事件 $A$ 在一次试验中出现的概率为 $\\frac{1}{3}$ .",
+        "bbox": [
+            86,
+            391,
+            780,
+            455
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)【答案】 $\\frac{17}{25}$ .",
+        "bbox": [
+            57,
+            464,
+            200,
+            492
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解】设(0,1)中任取的两个数为 $X,Y$ ，令 $D = \\{(x,y)\\mid 0 <   x <   1,0 <   y <   1\\}$ 则 $(X,Y)$ 在 $D$ 上服从均匀分布，即 $(X,Y)$ 的联合概率密度为",
+        "bbox": [
+            86,
+            500,
+            774,
+            535
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf (x, y) = \\left\\{ \\begin{array}{l l} 1, & (x, y) \\in D, \\\\ 0, & (x, y) \\notin D, \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            382,
+            542,
+            636,
+            578
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则 $P\\left\\{X + Y < \\frac{6}{5}\\right\\} = \\iint_{x + y \\leqslant \\frac{6}{5}} f(x, y) \\mathrm{d}x \\mathrm{~d}y = 1 - \\iint_{x + y > \\frac{6}{5}} f(x, y) \\mathrm{d}x \\mathrm{~d}y$ ",
+        "bbox": [
+            88,
+            586,
+            652,
+            627
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= 1 - \\frac {1}{2} \\times \\left(\\frac {4}{5}\\right) ^ {2} = \\frac {1 7}{2 5}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            256,
+            632,
+            466,
+            659
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)【答案】 0.9876.",
+        "bbox": [
+            57,
+            669,
+            235,
+            683
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解】 由 $X \\sim N(10, 0.02^2)$ 得 $\\frac{X - 10}{0.02} \\sim N(0, 1)$ ,",
+        "bbox": [
+            86,
+            690,
+            514,
+            716
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则 $P\\{9.95 < X < 10.05\\} = P\\left\\{-2.5 < \\frac{X - 10}{0.02} < 2.5\\right\\}$ ",
+        "bbox": [
+            88,
+            726,
+            559,
+            753
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\Phi (2. 5) - \\Phi (- 2. 5) = 2 \\Phi (2. 5) - 1 = 0. 9 8 7 6.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            307,
+            762,
+            721,
+            775
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "十一、【解】 $F_{Y}(y) = P\\{Y \\leqslant y\\} = P\\{1 - \\sqrt[3]{X} \\leqslant y\\} = P\\{X \\geqslant (1 - y)^{3}\\}$ ",
+        "bbox": [
+            57,
+            785,
+            671,
+            800
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= 1 - P \\{X \\leqslant (1 - y) ^ {3} \\} = 1 - \\int_ {- \\infty} ^ {(1 - y) ^ {3}} \\frac {1}{\\pi (1 + x ^ {2})} d x,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            219,
+            807,
+            650,
+            839
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则 $f_{Y}(y) = \\frac{3(1 - y)^{2}}{\\pi[1 + (1 - y)^{6}]}.$ ",
+        "bbox": [
+            103,
+            847,
+            353,
+            879
+        ],
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,1646 @@
+[
+    {
+        "type": "text",
+        "text": "2021年数学(一）真题解析",
+        "text_level": 1,
+        "bbox": [
+            296,
+            108,
+            721,
+            134
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、选择题",
+        "text_level": 1,
+        "bbox": [
+            84,
+            155,
+            183,
+            173
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1）【答案】 (D).",
+        "bbox": [
+            84,
+            179,
+            252,
+            194
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 由 $\\lim_{x\\to 0}f(x) = \\lim_{x\\to 0}\\frac{\\mathrm{e}^x - 1}{x} = 1 = f(0)$ 得 $f(x)$ 在 $x = 0$ 处连续；",
+        "bbox": [
+            115,
+            201,
+            767,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "再由 $\\lim_{x\\to 0}\\frac{f(x) - f(0)}{x} = \\lim_{x\\to 0}\\frac{\\frac{\\mathrm{e}^x - 1}{x} - 1}{x} = \\lim_{x\\to 0}\\frac{\\mathrm{e}^x - 1 - x}{x^2} = \\lim_{x\\to 0}\\frac{\\mathrm{e}^x - 1}{2x} = \\frac{1}{2}$ 得",
+        "bbox": [
+            117,
+            240,
+            824,
+            294
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$f^{\\prime}(0) = \\frac{1}{2}\\neq 0$ ，应选(D).",
+        "bbox": [
+            117,
+            301,
+            349,
+            332
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（2）【答案】 (C).",
+        "bbox": [
+            84,
+            340,
+            248,
+            356
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $f(x + 1, \\mathrm{e}^x) = x(x + 1)^2$ 两边对 $x$ 求导得",
+        "bbox": [
+            115,
+            361,
+            591,
+            379
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ {1} ^ {\\prime} (x + 1, \\mathrm {e} ^ {x}) + \\mathrm {e} ^ {x} f _ {2} ^ {\\prime} (x + 1, \\mathrm {e} ^ {x}) = (x + 1) ^ {2} + 2 x (x + 1),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            244,
+            383,
+            808,
+            401
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "取 $x = 0$ 得 $f_{1}^{\\prime}(1,1) + f_{2}^{\\prime}(1,1) = 1$ ",
+        "bbox": [
+            115,
+            404,
+            466,
+            422
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$f(x,x^{2}) = 2x^{2}\\ln x$ 两边对 $x$ 求导得 ",
+        "bbox": [
+            115,
+            428,
+            468,
+            445
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ {1} ^ {\\prime} (x, x ^ {2}) + 2 x f _ {2} ^ {\\prime} (x, x ^ {2}) = 4 x \\ln x + 2 x,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            319,
+            449,
+            733,
+            468
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "取 $x = 1$ 得 $f_{1}^{\\prime}(1,1) + 2f_{2}^{\\prime}(1,1) = 2$ ",
+        "bbox": [
+            115,
+            472,
+            476,
+            489
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "解得 $f_{1}^{\\prime}(1,1) = 0, f_{2}^{\\prime}(1,1) = 1$ ，故 $\\mathrm{d}f(1,1) = \\mathrm{d}y$ ，应选(C).",
+        "bbox": [
+            115,
+            493,
+            672,
+            511
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（3）【答案】 （A）.",
+        "bbox": [
+            84,
+            515,
+            250,
+            532
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】因为 $f(x) = \\frac{\\sin x}{1 + x^2}$ 为奇函数，所以 $b = 0$ ",
+        "bbox": [
+            115,
+            539,
+            585,
+            571
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由 $\\sin x = x - \\frac{x^3}{6} + o(x^3), \\frac{1}{1 + x^2} = 1 - x^2 + o(x^3)$ 得",
+        "bbox": [
+            117,
+            579,
+            644,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf (x) = \\frac {\\sin x}{1 + x ^ {2}} = x - \\frac {7}{6} x ^ {3} + o \\left(x ^ {3}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            349,
+            621,
+            701,
+            655
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应选（A）.",
+        "bbox": [
+            117,
+            660,
+            208,
+            677
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（4）【答案】 （B）.",
+        "bbox": [
+            82,
+            682,
+            246,
+            699
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $\\lim_{n\\to \\infty}\\sum_{k = 1}^{n}f\\left(\\frac{2k - 1}{2n}\\right)\\frac{1}{n} = \\lim_{n\\to \\infty}\\sum_{k = 1}^{n}f\\left(\\frac{2k}{2n}\\right)\\frac{1}{n} = \\lim_{n\\to \\infty}\\frac{1}{n}\\sum_{k = 1}^{n}f\\left(\\frac{k}{n}\\right) = \\int_{0}^{1}f(x)\\mathrm{d}x$ ，应选(B).（5）【答案】 (B).",
+        "bbox": [
+            80,
+            703,
+            931,
+            760
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 令 $\\mathbf{A} = \\begin{pmatrix} 0 & 1 & 1\\\\ 1 & 2 & 1\\\\ 1 & 1 & 0 \\end{pmatrix} ,\\mathbf{X} = \\begin{pmatrix} x_{1}\\\\ x_{2}\\\\ x_{3} \\end{pmatrix}$ ，则 $f = X^{\\mathrm{T}}AX$ ",
+        "bbox": [
+            113,
+            767,
+            606,
+            828
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由 $|\\lambda \\pmb {E} - \\pmb {A}| = \\left| \\begin{array}{rrr}\\lambda & -1 & -1\\\\ -1 & \\lambda -2 & -1\\\\ -1 & -1 & \\lambda \\end{array} \\right| = (\\lambda +1)\\left| \\begin{array}{rrr}1 & 0 & 0\\\\ -1 & \\lambda -2 & -2\\\\ -1 & -1 & \\lambda -1 \\end{array} \\right|$ ",
+        "bbox": [
+            115,
+            834,
+            723,
+            895
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= (\\lambda + 1) \\left(\\lambda^ {2} - 3 \\lambda\\right) = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            232,
+            899,
+            454,
+            915
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "得 $\\lambda_{1} = -1, \\lambda_{2} = 0, \\lambda_{3} = 3$ ，应选（B）.",
+        "bbox": [
+            115,
+            920,
+            452,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（6）【答案】 （A）.",
+        "bbox": [
+            70,
+            70,
+            240,
+            86
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】由施密特正交化得 $l_{1} = \\frac{(\\pmb{\\alpha}_{3},\\pmb{\\beta}_{1})}{(\\pmb{\\beta}_{1},\\pmb{\\beta}_{1})} = \\frac{5}{2}, l_{2} = \\frac{(\\pmb{\\alpha}_{3},\\pmb{\\beta}_{2})}{(\\pmb{\\beta}_{2},\\pmb{\\beta}_{2})} = \\frac{2}{4} = \\frac{1}{2}$ 应选(A). ",
+        "bbox": [
+            103,
+            91,
+            846,
+            130
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方法点评：将线性无关的向量组化为两两正交的规范向量组即施密特正交规范化，实对称矩阵的对角化的正交变换法需要将线性无关的特征向量进行正交化和单位化.设 $\\pmb{\\alpha}_{1},\\pmb{\\alpha}_{2},\\pmb{\\alpha}_{3}$ 线性无关， $\\pmb {\\beta}_1 = \\pmb {\\alpha}_1,\\pmb {\\beta}_2 = \\pmb {\\alpha}_2 - l_1\\pmb {\\beta}_1,\\pmb {\\beta}_3 = \\pmb {\\alpha}_3 - k_1\\pmb {\\beta}_1 - k_2\\pmb {\\beta}_2$ ，且 $\\pmb {\\beta}_1,\\pmb {\\beta}_2,\\pmb {\\beta}_3$ 线性无关，则 $l_{1} = \\frac{(\\pmb{\\alpha}_{2},\\pmb{\\beta}_{1})}{(\\pmb{\\beta}_{1},\\pmb{\\beta}_{1})},k_{1} = \\frac{(\\pmb{\\alpha}_{3},\\pmb{\\beta}_{1})}{(\\pmb{\\beta}_{1},\\pmb{\\beta}_{1})},k_{2} = \\frac{(\\pmb{\\alpha}_{3},\\pmb{\\beta}_{2})}{(\\pmb{\\beta}_{2},\\pmb{\\beta}_{2})}.$ ",
+        "bbox": [
+            68,
+            139,
+            927,
+            247
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（7）【答案】 (C).",
+        "bbox": [
+            70,
+            257,
+            238,
+            273
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 $r\\begin{pmatrix} \\mathbf{A} & \\mathbf{O}\\\\ \\mathbf{O} & \\mathbf{A}^{\\mathrm{T}}\\mathbf{A} \\end{pmatrix} = r(\\mathbf{A}) + r(\\mathbf{A}^{\\mathrm{T}}\\mathbf{A}) = 2r(\\mathbf{A});$ ",
+        "bbox": [
+            105,
+            280,
+            553,
+            318
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $\\left( \\begin{array}{ll}A & AB\\\\ O & A^{\\mathrm{T}} \\end{array} \\right)\\xrightarrow{\\text{列}}\\left( \\begin{array}{ll}A & O\\\\ O & A^{\\mathrm{T}} \\end{array} \\right)$ 得 $r\\left( \\begin{array}{ll}A & AB\\\\ O & A^{\\mathrm{T}} \\end{array} \\right) = 2r(A)$ ",
+        "bbox": [
+            107,
+            325,
+            571,
+            363
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $r\\left(\\begin{array}{cc}\\mathbf{A}&\\mathbf{O}\\\\ \\mathbf{B}\\mathbf{A}&\\mathbf{A}^{\\mathrm{T}}\\end{array}\\right)\\xrightarrow{\\text{行}}r\\left(\\begin{array}{cc}\\mathbf{A}&\\mathbf{O}\\\\ \\mathbf{O}&\\mathbf{A}^{\\mathrm{T}}\\end{array}\\right)$ 得 $r\\left(\\begin{array}{cc}\\mathbf{A}&\\mathbf{O}\\\\ \\mathbf{B}\\mathbf{A}&\\mathbf{A}^{\\mathrm{T}}\\end{array}\\right)=2r(\\mathbf{A})$ ，应选(C).",
+        "bbox": [
+            107,
+            369,
+            705,
+            408
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（8）【答案】 (D).",
+        "bbox": [
+            70,
+            415,
+            240,
+            432
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】由 $P(A\\mid B) = P(A)$ 得 $P(AB) = P(A)P(B)$ ，即事件 $A,B$ 独立，",
+        "bbox": [
+            105,
+            436,
+            804,
+            454
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于是 $P(A|\\overline{B}) = \\frac{P(A\\overline{B})}{P(\\overline{B})} = \\frac{P(A)P(\\overline{B})}{P(\\overline{B})} = P(A)$ ",
+        "bbox": [
+            107,
+            458,
+            569,
+            502
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $P(A\\mid B) > P(A)$ 得 $P(AB) > P(A)P(B)$ ",
+        "bbox": [
+            107,
+            507,
+            577,
+            525
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从而 $P(\\overline{A}|\\overline{B}) = \\frac{P(\\overline{A}\\overline{B})}{P(\\overline{B})} = \\frac{1 - P(A) - P(B) + P(AB)}{1 - P(B)}$ ",
+        "bbox": [
+            109,
+            529,
+            644,
+            573
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n> \\frac {1 - P (A) - P (B) + P (A) P (B)}{1 - P (B)} = 1 - P (A) = P (\\overline {{A}});\n$$",
+        "text_format": "latex",
+        "bbox": [
+            244,
+            579,
+            800,
+            613
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $P(A|B) > P(A|\\overline{B})$ 得 $\\frac{P(AB)}{P(B)} >\\frac{P(A) - P(AB)}{1 - P(B)}$ 整理得 $P(AB) > P(A)P(B)$ 则 $P(A|B) = \\frac{P(AB)}{P(B)} >\\frac{P(A)P(B)}{P(B)} = P(A)$ ，应选(D).",
+        "bbox": [
+            109,
+            620,
+            927,
+            694
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（9）【答案】 (C).",
+        "bbox": [
+            72,
+            700,
+            240,
+            717
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 $\\overline{X} \\sim N\\left(\\mu_1, \\frac{\\sigma_1^2}{n}\\right), \\overline{Y} \\sim N\\left(\\mu_2, \\frac{\\sigma_2^2}{n}\\right)$ ",
+        "bbox": [
+            107,
+            721,
+            498,
+            757
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则 $E(\\hat{\\theta}) = E(\\overline{X}) - E(\\overline{Y}) = \\mu_1 - \\mu_2 = \\theta$ ",
+        "bbox": [
+            109,
+            766,
+            490,
+            787
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} D (\\hat {\\theta}) = D (\\bar {X} - \\bar {Y}) = D (\\bar {X}) + D (\\bar {Y}) - 2 \\operatorname {C o v} (\\bar {X}, \\bar {Y}) \\\\ = \\frac {\\sigma_ {1} ^ {2}}{n} + \\frac {\\sigma_ {2} ^ {2}}{n} - \\frac {2}{n} \\left[ \\operatorname {C o v} \\left(X _ {1}, \\bar {Y}\\right) + \\operatorname {C o v} \\left(X _ {2}, \\bar {Y}\\right) + \\dots + \\operatorname {C o v} \\left(X _ {n}, \\bar {Y}\\right) \\right] \\\\ = \\frac {\\sigma_ {1} ^ {2}}{n} + \\frac {\\sigma_ {2} ^ {2}}{n} - \\frac {2}{n ^ {2}} \\left[ \\operatorname {C o v} \\left(X _ {1}, Y _ {1}\\right) + \\operatorname {C o v} \\left(X _ {2}, Y _ {2}\\right) + \\dots + \\operatorname {C o v} \\left(X _ {n}, Y _ {n}\\right) \\right] \\\\ = \\frac {\\sigma_ {1} ^ {2}}{n} + \\frac {\\sigma_ {2} ^ {2}}{n} - \\frac {2}{n ^ {2}} \\cdot n \\rho \\sigma_ {1} \\sigma_ {2} = \\frac {\\sigma_ {1} ^ {2} + \\sigma_ {2} ^ {2} - 2 \\rho \\sigma_ {1} \\sigma_ {2}}{n}, \\text {应 选 (C)}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            129,
+            792,
+            812,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（10）【答案】 (B).",
+        "bbox": [
+            74,
+            66,
+            252,
+            84
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】由题 $\\overline{X}\\sim N\\left(11.5,\\frac{1}{4}\\right)$ ，或 $\\frac{\\overline{X} - 11.5}{\\frac{1}{2}}\\sim N(0,1),$ ",
+        "bbox": [
+            119,
+            87,
+            650,
+            141
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "犯第二类错误的概率为",
+        "bbox": [
+            121,
+            147,
+            339,
+            164
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\{\\overline {{X}} <   1 1 \\} = P \\left\\{\\frac {\\overline {{X}} - 1 1 . 5}{\\frac {1}{2}} <   - 1 \\right\\} = \\Phi (- 1) = 1 - \\Phi (1),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            252,
+            168,
+            797,
+            232
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应选（B）. ",
+        "bbox": [
+            121,
+            237,
+            210,
+            255
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二、填空题",
+        "text_level": 1,
+        "bbox": [
+            74,
+            260,
+            177,
+            276
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(11)【答案】 $\\frac{\\pi}{4}$ .",
+        "bbox": [
+            74,
+            286,
+            244,
+            315
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】 $\\int_{0}^{+\\infty}\\frac{\\mathrm{d}x}{x^2 + 2x + 2} = \\int_{0}^{+\\infty}\\frac{\\mathrm{d}(x + 1)}{1 + (x + 1)^2} = \\arctan (x + 1)\\mid_{0}^{+\\infty} = \\frac{\\pi}{2} -\\frac{\\pi}{4} = \\frac{\\pi}{4}.$ ",
+        "bbox": [
+            119,
+            321,
+            874,
+            357
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(12)【答案】 $\\frac{2}{3}$ .",
+        "bbox": [
+            74,
+            363,
+            244,
+            394
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】 $\\frac{\\mathrm{dy}}{\\mathrm{dx}} = \\frac{\\mathrm{dy} / \\mathrm{dt}}{\\mathrm{dx} / \\mathrm{dt}} = \\frac{4te^{t} + 2t}{2e^{t} + 1} = 2t, \\frac{\\mathrm{d}^2y}{\\mathrm{dx}^2} = \\frac{\\mathrm{d}(2t) / \\mathrm{dt}}{\\mathrm{dx} / \\mathrm{dt}} = \\frac{2}{2e^{t} + 1},$ ",
+        "bbox": [
+            119,
+            401,
+            715,
+            438
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则 $\\frac{\\mathrm{d}^2y}{\\mathrm{d}x^2}\\bigg|_{t = 0} = \\frac{2}{3}.$ ",
+        "bbox": [
+            121,
+            442,
+            274,
+            477
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（13）【答案】 $x^{2}$ ",
+        "bbox": [
+            74,
+            482,
+            240,
+            500
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】 令 $x = \\mathrm{e}^{t},D = \\frac{\\mathrm{d}}{\\mathrm{d}t}$ ，则",
+        "bbox": [
+            119,
+            504,
+            385,
+            538
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx y ^ {\\prime} = D y, x ^ {2} y ^ {\\prime \\prime} = D (D - 1) y,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            375,
+            543,
+            670,
+            561
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "代入欧拉方程得",
+        "bbox": [
+            119,
+            564,
+            274,
+            582
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\mathrm {d} ^ {2} y}{\\mathrm {d} t ^ {2}} - 4 y = 0,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            454,
+            586,
+            591,
+            621
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "特征方程为 $\\lambda^2 - 4 = 0$ ，特征根为 $\\lambda_1 = -2, \\lambda_2 = 2$ ",
+        "bbox": [
+            119,
+            627,
+            587,
+            646
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\frac{\\mathrm{d}^2y}{\\mathrm{d}t^2} - 4y = 0$ 的通解为 $y = C_1\\mathrm{e}^{-2t} + C_2\\mathrm{e}^{2t}$ ，原方程的通解为",
+        "bbox": [
+            119,
+            649,
+            668,
+            685
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\frac {C _ {1}}{x ^ {2}} + C _ {2} x ^ {2},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            444,
+            692,
+            600,
+            727
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $y(1) = 1, y'(1) = 2$ 得 $C_1 + C_2 = 1, -2C_1 + 2C_2 = 2$ ，解得 $C_1 = 0, C_2 = 1$ ，故 $y = x^2$ .",
+        "bbox": [
+            117,
+            731,
+            840,
+            771
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方法点评：形如",
+        "bbox": [
+            119,
+            781,
+            262,
+            799
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ {n} y ^ {(n)} + a _ {n - 1} x ^ {n - 1} y ^ {(n - 1)} + \\dots + a _ {1} x y ^ {\\prime} + a _ {0} y = f (x)\n$$",
+        "text_format": "latex",
+        "bbox": [
+            252,
+            803,
+            743,
+            824
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "的方程称为欧拉方程.",
+        "bbox": [
+            70,
+            828,
+            274,
+            844
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $x = \\mathrm{e}^{t}$ ，则 $xy^{\\prime} = Dy = \\frac{\\mathrm{dy}}{\\mathrm{dt}},x^{2}y^{\\prime \\prime} = D(D - 1)y = \\frac{\\mathrm{d}^{2}y}{\\mathrm{d}t^{2}} -\\frac{\\mathrm{dy}}{\\mathrm{dt}},$ ",
+        "bbox": [
+            70,
+            851,
+            644,
+            885
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ {n} y ^ {(n)} = D (D - 1) \\dots (D - n + 1) y,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            183,
+            891,
+            529,
+            910
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "代入原方程得高阶常系数线性微分方程，求出其通解，再将 $t = \\ln x$ 代入即可得原方程的通解.",
+        "bbox": [
+            70,
+            913,
+            923,
+            933
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（14）【答案】 $4\\pi$ ",
+        "bbox": [
+            68,
+            70,
+            234,
+            86
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解】设 $\\Sigma$ 所围成的几何体为 $\\Omega$ ，由高斯公式得",
+        "bbox": [
+            111,
+            91,
+            565,
+            108
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\iint_ {\\Sigma} x ^ {2} \\mathrm {d} y \\mathrm {d} z + y ^ {2} \\mathrm {d} z \\mathrm {d} x + z \\mathrm {d} x \\mathrm {d} y = \\iiint_ {\\Omega} (2 x + 2 y + 1) \\mathrm {d} v,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            250,
+            111,
+            785,
+            151
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由积分的奇偶性得",
+        "bbox": [
+            115,
+            152,
+            290,
+            169
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\iiint_ {\\Omega} \\mathrm {d} v = 2 \\iint_ {D _ {x y}} \\mathrm {d} x \\mathrm {d} y = 2 \\cdot \\pi \\cdot 1 \\cdot 2 = 4 \\pi .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            323,
+            173,
+            711,
+            216
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(15)【答案】 $\\frac{3}{2}$ .",
+        "bbox": [
+            68,
+            219,
+            240,
+            251
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解】 $|\\mathbf{A}| = 2\\left| \\begin{array}{lll}1 & a_{12} & a_{13}\\\\ 1 & a_{22} & a_{23}\\\\ 1 & a_{32} & a_{33} \\end{array} \\right| = 2(A_{11} + A_{21} + A_{31}) = 3$ ，则",
+        "bbox": [
+            111,
+            255,
+            658,
+            321
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ {1 1} + A _ {2 1} + A _ {3 1} = \\frac {3}{2}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            412,
+            326,
+            622,
+            358
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(16)【答案】 $\\frac{1}{5}$ .",
+        "bbox": [
+            68,
+            367,
+            240,
+            399
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解】 $(X,Y)$ 的可能取值为 $(0,0),(0,1),(1,0),(1,1)$ ",
+        "bbox": [
+            113,
+            404,
+            636,
+            422
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\{X = 0, Y = 0 \\} = \\frac {1}{2} \\cdot \\frac {3}{5} = \\frac {3}{1 0},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            115,
+            426,
+            418,
+            461
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\{X = 0, Y = 1 \\} = \\frac {1}{2} \\cdot \\frac {2}{5} = \\frac {1}{5},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            115,
+            465,
+            418,
+            500
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\{X = 1, Y = 0 \\} = \\frac {1}{2} \\cdot \\frac {2}{5} = \\frac {1}{5},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            115,
+            506,
+            418,
+            539
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\{X = 1, Y = 1 \\} = \\frac {1}{2} \\cdot \\frac {3}{5} = \\frac {3}{1 0},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            115,
+            545,
+            418,
+            579
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $X \\sim \\left( \\begin{array}{ll} 0 & 1 \\\\ \\frac{1}{2} & \\frac{1}{2} \\end{array} \\right)$ 得 $E(X) = \\frac{1}{2}, E(X^2) = \\frac{1}{2}, D(X) = \\frac{1}{4}$ ;",
+        "bbox": [
+            115,
+            585,
+            666,
+            639
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $Y\\sim \\left( \\begin{array}{ll}0 & 1\\\\ \\frac{1}{2} & \\frac{1}{2} \\end{array} \\right)$ 得 $E(Y) = \\frac{1}{2},E(Y^2) = \\frac{1}{2},D(Y) = \\frac{1}{4};$ ",
+        "bbox": [
+            117,
+            646,
+            646,
+            700
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $XY \\sim \\left( \\begin{array}{cc} 0 & 1 \\\\ \\frac{7}{10} & \\frac{3}{10} \\end{array} \\right)$ 得 $E(XY) = \\frac{3}{10}$ ,",
+        "bbox": [
+            117,
+            707,
+            462,
+            762
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\operatorname{Cov}(X,Y) = E(XY) - E(X)E(Y) = \\frac{3}{10} - \\frac{1}{4} = \\frac{1}{20}$ ，则 $\\rho_{XY} = \\frac{\\frac{1}{20}}{\\frac{1}{2} \\cdot \\frac{1}{2}} = \\frac{1}{5}$ .",
+        "bbox": [
+            115,
+            767,
+            812,
+            835
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、解答题",
+        "text_level": 1,
+        "bbox": [
+            70,
+            842,
+            171,
+            859
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（17）【解】 方法一",
+        "bbox": [
+            70,
+            863,
+            254,
+            880
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lim  _ {x \\rightarrow 0} \\left(\\frac {1 + \\int_ {0} ^ {x} \\mathrm {e} ^ {t ^ {2}} \\mathrm {d} t}{\\mathrm {e} ^ {x} - 1} - \\frac {1}{\\sin x}\\right) = \\lim  _ {x \\rightarrow 0} \\frac {\\left(1 + \\int_ {0} ^ {x} \\mathrm {e} ^ {t ^ {2}} \\mathrm {d} t\\right) \\sin x - \\mathrm {e} ^ {x} + 1}{(\\mathrm {e} ^ {x} - 1) \\sin x}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            115,
+            884,
+            688,
+            936
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = \\lim  _ {x \\rightarrow 0} \\frac {\\left(1 + \\int_ {0} ^ {x} e ^ {t ^ {2}} d t\\right) \\sin x - e ^ {x} + 1}{x ^ {2}} \\\\ = \\lim  _ {x \\rightarrow 0} \\left(\\frac {\\sin x - x}{x ^ {2}} + \\frac {\\int_ {0} ^ {x} e ^ {t ^ {2}} d t \\cdot \\sin x - e ^ {x} + 1 + x}{x ^ {2}}\\right) \\\\ = \\lim  _ {x \\rightarrow 0} \\frac {\\int_ {0} ^ {x} e ^ {t ^ {2}} d t \\cdot \\sin x - e ^ {x} + 1 + x}{x ^ {2}} \\\\ = \\lim  _ {x \\rightarrow 0} \\frac {\\sin x}{x} \\cdot \\frac {\\int_ {0} ^ {x} \\mathrm {e} ^ {t ^ {2}} \\mathrm {d} t}{x} - \\lim  _ {x \\rightarrow 0} \\frac {\\mathrm {e} ^ {x} - 1 - x}{x ^ {2}} \\\\ = \\lim  _ {x \\rightarrow 0} \\mathrm {e} ^ {x ^ {2}} - \\lim  _ {x \\rightarrow 0} \\frac {\\mathrm {e} ^ {x} - 1}{2 x} = 1 - \\frac {1}{2} = \\frac {1}{2}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            373,
+            70,
+            828,
+            337
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "方法二",
+        "bbox": [
+            127,
+            344,
+            195,
+            361
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lim  _ {x \\rightarrow 0} \\left(\\frac {1 + \\int_ {0} ^ {x} e ^ {t ^ {2}} d t}{e ^ {x} - 1} - \\frac {1}{\\sin x}\\right) = \\lim  _ {x \\rightarrow 0} \\left(\\frac {\\int_ {0} ^ {x} e ^ {t ^ {2}} d t}{e ^ {x} - 1} + \\frac {1}{e ^ {x} - 1} - \\frac {1}{\\sin x}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            129,
+            368,
+            690,
+            418
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $\\lim_{x\\to 0}\\frac{\\int_{0}^{x}\\mathrm{e}^{t^2}\\mathrm{d}t}{\\mathrm{e}^x - 1} = \\lim_{x\\to 0}\\frac{\\mathrm{e}^{x^2}}{\\mathrm{e}^x} = 1,$ ",
+        "bbox": [
+            129,
+            429,
+            389,
+            479
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\lim  _ {x \\rightarrow 0} \\left(\\frac {1}{\\mathrm {e} ^ {x} - 1} - \\frac {1}{\\sin x}\\right) = \\lim  _ {x \\rightarrow 0} \\frac {\\sin x - \\mathrm {e} ^ {x} + 1}{(\\mathrm {e} ^ {x} - 1) \\sin x} = \\lim  _ {x \\rightarrow 0} \\frac {\\sin x - \\mathrm {e} ^ {x} + 1}{x ^ {2}} \\\\ = \\frac {1}{2} \\lim  _ {x \\rightarrow 0} \\frac {\\cos x - e ^ {x}}{x} = \\frac {1}{2} \\lim  _ {x \\rightarrow 0} (- \\sin x - e ^ {x}) = - \\frac {1}{2}, \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            151,
+            490,
+            808,
+            564
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "得 $\\lim_{x\\to 0}\\left(\\frac{1 + \\int_0^x\\mathrm{e}^{t^2}\\mathrm{d}t}{\\mathrm{e}^x - 1} -\\frac{1}{\\sin x}\\right) = 1 - \\frac{1}{2} = \\frac{1}{2}.$ ",
+        "bbox": [
+            127,
+            571,
+            525,
+            621
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "方法三",
+        "bbox": [
+            127,
+            632,
+            193,
+            649
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由泰勒公式得 $\\mathrm{e}^{t^2} = 1 + t^2 + o(t^2)$ ",
+        "bbox": [
+            127,
+            653,
+            452,
+            673
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从而 $\\int_0^x\\mathrm{e}^{t^2}\\mathrm{d}t = x + \\frac{x^3}{3} +o(x^3)$ ，于是有",
+        "bbox": [
+            127,
+            680,
+            488,
+            712
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\lim  _ {x \\rightarrow 0} \\left(\\frac {1 + \\int_ {0} ^ {x} \\mathrm {e} ^ {t ^ {2}} \\mathrm {d} t}{\\mathrm {e} ^ {x} - 1} - \\frac {1}{\\sin x}\\right) = \\lim  _ {x \\rightarrow 0} \\left[ \\frac {1 + x + \\frac {x ^ {3}}{3} + o \\left(x ^ {3}\\right)}{\\mathrm {e} ^ {x} - 1} - \\frac {1}{\\sin x} \\right] = \\lim  _ {x \\rightarrow 0} \\left(\\frac {1 + x}{\\mathrm {e} ^ {x} - 1} - \\frac {1}{\\sin x}\\right) \\\\ = \\lim  _ {x \\rightarrow 0} \\frac {x}{\\mathrm {e} ^ {x} - 1} + \\lim  _ {x \\rightarrow 0} \\left(\\frac {1}{\\mathrm {e} ^ {x} - 1} - \\frac {1}{\\sin x}\\right) \\\\ = 1 + \\lim  _ {x \\rightarrow 0} \\frac {\\sin x - e ^ {x} + 1}{\\left(e ^ {x} - 1\\right) \\sin x} = 1 + \\lim  _ {x \\rightarrow 0} \\frac {\\sin x - e ^ {x} + 1}{x ^ {2}} \\\\ = 1 + \\lim  _ {x \\rightarrow 0} \\frac {\\cos x - e ^ {x}}{2 x} = 1 + \\lim  _ {x \\rightarrow 0} \\frac {- \\sin x - e ^ {x}}{2} = \\frac {1}{2}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            127,
+            723,
+            927,
+            902
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(18)【解】 $\\sum_{n=1}^{\\infty} u_n(x) = \\sum_{n=1}^{\\infty} \\mathrm{e}^{-nx} + \\sum_{n=1}^{\\infty} \\frac{x^{n+1}}{n(n+1)}$ ,",
+        "bbox": [
+            64,
+            68,
+            521,
+            105
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $\\lim_{n\\to \\infty}\\frac{\\mathrm{e}^{-(n + 1)x}}{\\mathrm{e}^{-nx}} = \\mathrm{e}^{-x} <   1$ 即 $x > 0$ 时， $\\sum_{n = 1}^{\\infty}\\mathrm{e}^{-nx}$ 收敛；",
+        "bbox": [
+            109,
+            111,
+            589,
+            148
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "再由 $\\lim_{n\\to \\infty}\\frac{\\frac{1}{(n + 1)(n + 2)}}{\\frac{1}{n(n + 1)}} = 1$ 得 $\\sum_{n = 1}^{\\infty}\\frac{x^{n + 1}}{n(n + 1)}$ 的收敛半径为 $R = 1$ ",
+        "bbox": [
+            109,
+            155,
+            723,
+            223
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $x = \\pm 1$ 时， $\\sum_{n = 1}^{\\infty}\\left|\\frac{(\\pm 1)^{n + 1}}{n(n + 1)}\\right| = \\sum_{n = 1}^{\\infty}\\frac{1}{n(n + 1)} = 1$ 故 $\\sum_{n = 1}^{\\infty}\\frac{x^{n + 1}}{n(n + 1)}$ 的收敛域为[-1,1]，故级数 $\\sum_{n = 1}^{\\infty}u_n(x)$ 的收敛域为(0,1].",
+        "bbox": [
+            109,
+            228,
+            917,
+            308
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "令 $S(x) = \\sum_{n=1}^{\\infty} u_n(x) = \\sum_{n=1}^{\\infty} \\mathrm{e}^{-nx} + \\sum_{n=1}^{\\infty} \\frac{x^{n+1}}{n(n+1)} = S_1(x) + S_2(x)$ ，",
+        "bbox": [
+            109,
+            312,
+            731,
+            350
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "且 $S_{1}(x) = \\sum_{n = 1}^{\\infty}\\mathrm{e}^{-nx} = \\frac{\\mathrm{e}^{-x}}{1 - \\mathrm{e}^{-x}} = \\frac{1}{\\mathrm{e}^{x} - 1};$ ",
+        "bbox": [
+            111,
+            354,
+            476,
+            390
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} S _ {2} (x) = \\sum_ {n = 1} ^ {\\infty} \\frac {x ^ {n + 1}}{n (n + 1)} = \\sum_ {n = 1} ^ {\\infty} \\frac {x ^ {n + 1}}{n} - \\sum_ {n = 1} ^ {\\infty} \\frac {x ^ {n + 1}}{n + 1} = x \\sum_ {n = 1} ^ {\\infty} \\frac {x ^ {n}}{n} - \\sum_ {n = 1} ^ {\\infty} \\frac {x ^ {n}}{n} + x \\\\ = (1 - x) \\ln (1 - x) + x (0 <   x <   1), \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            129,
+            396,
+            800,
+            456
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $x = 1$ 时，由 $S_{1}(1) = \\frac{1}{\\mathrm{e} - 1}, S_{2}(1) = 1$ 得 $S(1) = \\frac{1}{\\mathrm{e} - 1} + 1 = \\frac{\\mathrm{e}}{\\mathrm{e} - 1}$ ，",
+        "bbox": [
+            111,
+            461,
+            759,
+            493
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "故 $S(x) = \\left\\{ \\begin{array}{ll} \\frac{1}{\\mathrm{e}^x - 1} + (1 - x)\\ln (1 - x) + x, & 0 < x < 1, \\\\ \\frac{\\mathrm{e}}{\\mathrm{e} - 1}, & x = 1. \\end{array} \\right.$ ",
+        "bbox": [
+            111,
+            502,
+            779,
+            575
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(19)【解】设 $M(x,y,z)\\in C$ ，点 $M$ 到 $xOy$ 坐标面的距离 $d = |z|$ ",
+        "bbox": [
+            64,
+            582,
+            721,
+            600
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "令 $F = z^2 + \\lambda (x^2 + 2y^2 - z - 6) + \\mu (4x + 2y + z - 30)$ ，",
+        "bbox": [
+            109,
+            603,
+            662,
+            621
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{cases} F_{x}^{\\prime} = 2\\lambda x + 4\\mu = 0,\\\\ F_{y}^{\\prime} = 4\\lambda y + 2\\mu = 0,\\\\ F_{z}^{\\prime} = 2z - \\lambda +\\mu = 0,\\\\ F_{\\lambda}^{\\prime} = x^{2} + 2y^{2} - z - 6 = 0,\\\\ F_{\\mu}^{\\prime} = 4x + 2y + z - 30 = 0 \\end{cases}$ 得 $\\begin{cases} x = 4, \\\\ y = 1, \\\\ z = 12, \\\\ z = 66, \\end{cases}$ ",
+        "bbox": [
+            113,
+            625,
+            618,
+            737
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "故 $C$ 上的点 $(-8, -2, 66)$ 到 $xOy$ 面的距离最大为 66.",
+        "bbox": [
+            111,
+            742,
+            624,
+            759
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（20）【解】（I）显然 $I(D) = \\iint_{D} (4 - x^{2} - y^{2}) \\, \\mathrm{d}x \\, \\mathrm{d}y$ 取最大值的区域为 $4 - x^{2} - y^{2} \\geqslant 0$ ，即 $D_{1} = \\{(x, y) \\mid x^{2} + y^{2} \\leqslant 4\\}$ ，则",
+        "bbox": [
+            64,
+            763,
+            894,
+            821
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} I \\left(D _ {1}\\right) = \\iint_ {D _ {1}} \\left(4 - x ^ {2} - y ^ {2}\\right) \\mathrm {d} x \\mathrm {d} y = 2 \\pi \\int_ {0} ^ {2} r \\left(4 - r ^ {2}\\right) \\mathrm {d} r \\\\ = 2 \\pi \\int_ {0} ^ {2} (4 r - r ^ {3}) \\mathrm {d} r = 2 \\pi (8 - 4) = 8 \\pi ; \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            240,
+            824,
+            709,
+            901
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（Ⅱ）令 $L_{0}:x^{2} + 4y^{2} = r^{2}(r > 0,L_{0}$ 在 $L$ 内，取逆时针)，设 $\\partial D_1$ 与 $L_0^-$ 所围成的区域为 $D_0$ $L_{0}$ 围成的区域为 $D_{2}$ ，则",
+        "bbox": [
+            125,
+            66,
+            937,
+            105
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\int_ {\\partial D _ {1}} \\frac {(x e ^ {x ^ {2} + 4 y ^ {2}} + y) d x + (4 y e ^ {x ^ {2} + 4 y ^ {2}} - x) d y}{x ^ {2} + 4 y ^ {2}} \\\\ = \\oint_ {\\partial D _ {1} + L _ {0} ^ {-}} \\frac {(x e ^ {x ^ {2} + 4 y ^ {2}} + y) d x + (4 y e ^ {x ^ {2} + 4 y ^ {2}} - x) d y}{x ^ {2} + 4 y ^ {2}} + \\\\ \\int_ {L _ {0}} \\frac {\\left(x \\mathrm {e} ^ {x ^ {2} + 4 y ^ {2}} + y\\right) \\mathrm {d} x + \\left(4 y \\mathrm {e} ^ {x ^ {2} + 4 y ^ {2}} - x\\right) \\mathrm {d} y}{x ^ {2} + 4 y ^ {2}}, \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            127,
+            112,
+            587,
+            260
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "而 $\\oint_{\\partial D_1 + L_0^-} \\frac{(x \\mathrm{e}^{x^2 + 4y^2} + y) \\mathrm{d}x + (4y \\mathrm{e}^{x^2 + 4y^2} - x) \\mathrm{d}y}{x^2 + 4y^2} = \\iint_{D_0} \\left( \\frac{\\partial Q}{\\partial x} - \\frac{\\partial P}{\\partial y} \\right) \\mathrm{d}x \\mathrm{d}y = 0,$ ",
+        "bbox": [
+            129,
+            264,
+            814,
+            312
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\int_ {L _ {0}} \\frac {\\left(x \\mathrm {e} ^ {x ^ {2} + 4 y ^ {2}} + y\\right) \\mathrm {d} x + \\left(4 y \\mathrm {e} ^ {x ^ {2} + 4 y ^ {2}} - x\\right) \\mathrm {d} y}{x ^ {2} + 4 y ^ {2}} \\\\ = \\frac {1}{r ^ {2}} \\int_ {L _ {0}} (x \\mathrm {e} ^ {x ^ {2} + 4 y ^ {2}} + y) \\mathrm {d} x + (4 y \\mathrm {e} ^ {x ^ {2} + 4 y ^ {2}} - x) \\mathrm {d} y \\\\ = \\frac {1}{r ^ {2}} \\iint_ {D _ {2}} (8 x y e ^ {x ^ {2} + 4 y ^ {2}} - 1 - 8 x y e ^ {x ^ {2} + 4 y ^ {2}} - 1) d x d y \\\\ = \\frac {- 2}{r ^ {2}} \\iint_ {D _ {2}} \\mathrm {d} x \\mathrm {d} y = \\frac {- 2}{r ^ {2}} \\cdot \\pi \\cdot r \\cdot \\frac {r}{2} = - \\pi . \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            127,
+            317,
+            549,
+            497
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "故 $\\int_{\\partial D_1} \\frac{(x \\mathrm{e}^{x^2 + 4y^2} + y) \\mathrm{d}x + (4y \\mathrm{e}^{x^2 + 4y^2} - x) \\mathrm{d}y}{x^2 + 4y^2} = -\\pi.$ ",
+        "bbox": [
+            119,
+            500,
+            597,
+            547
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（21）【解】（I）由",
+        "bbox": [
+            80,
+            550,
+            260,
+            567
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\left| \\lambda E - A \\right| = \\left| \\begin{array}{c c c} \\lambda - a & - 1 & 1 \\\\ - 1 & \\lambda - a & 1 \\\\ 1 & 1 & \\lambda - a \\end{array} \\right| = \\left| \\begin{array}{c c c} \\lambda - a + 1 & - (\\lambda - a + 1) & 0 \\\\ - 1 & \\lambda - a & 1 \\\\ 1 & 1 & \\lambda - a \\end{array} \\right| \\\\ = (\\lambda - a + 1) \\left| \\begin{array}{c c c} 1 & - 1 & 0 \\\\ - 1 & \\lambda - a & 1 \\\\ 1 & 1 & \\lambda - a \\end{array} \\right| \\\\ = (\\lambda - a + 1) \\left| \\begin{array}{c c c} 1 & 0 & 0 \\\\ - 1 & \\lambda - a - 1 & 1 \\\\ 1 & 2 & \\lambda - a \\end{array} \\right| \\\\ = (\\lambda - a + 1) ^ {2} (\\lambda - a - 2) = 0, \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            131,
+            573,
+            820,
+            784
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "得 $\\lambda_{1} = \\lambda_{2} = a - 1, \\lambda_{3} = a + 2$ ",
+        "bbox": [
+            123,
+            789,
+            412,
+            806
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由 $(a - 1)\\pmb {E} - \\pmb {A} = \\left( \\begin{array}{rrr} - 1 & -1 & 1\\\\ -1 & -1 & 1\\\\ 1 & 1 & -1 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{rrr}1 & 1 & -1\\\\ 0 & 0 & 0\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得 $\\lambda_1 = \\lambda_2 = a - 1$ 对应的线性无关",
+        "bbox": [
+            123,
+            813,
+            931,
+            872
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "的特征向量为 $\\pmb{\\alpha}_{1} = \\left( \\begin{array}{c} - 1\\\\ 1\\\\ 0 \\end{array} \\right),\\pmb{\\alpha}_{2} = \\left( \\begin{array}{c}1\\\\ 0\\\\ 1 \\end{array} \\right);$ ",
+        "bbox": [
+            123,
+            878,
+            474,
+            936
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由 $(a + 2)\\pmb {E} - \\pmb {A} = \\left( \\begin{array}{rrr}2 & -1 & 1\\\\ -1 & 2 & 1\\\\ 1 & 1 & 2 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{rrr}1 & -2 & -1\\\\ 0 & 1 & 1\\\\ 0 & 0 & 0 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{rrr}1 & 0 & 1\\\\ 0 & 1 & 1\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得 $\\lambda_3 = a + 2$ 对应的",
+        "bbox": [
+            113,
+            66,
+            921,
+            127
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "特征向量为 $\\pmb{\\alpha}_{3} = \\begin{pmatrix} -1\\\\ -1\\\\ 1 \\end{pmatrix}$ ",
+        "bbox": [
+            113,
+            134,
+            349,
+            191
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "令 $\\pmb{\\beta}_{1} = \\pmb{\\alpha}_{1} = \\begin{pmatrix} -1 \\\\ 1 \\\\ 0 \\end{pmatrix}, \\pmb{\\beta}_{2} = \\pmb{\\alpha}_{2} - \\frac{(\\pmb{\\alpha}_{2},\\pmb{\\beta}_{1})}{(\\pmb{\\beta}_{1},\\pmb{\\beta}_{1})}\\pmb{\\beta}_{1} = \\begin{pmatrix} 1 \\\\ 0 \\\\ 1 \\end{pmatrix} + \\frac{1}{2}\\begin{pmatrix} -1 \\\\ 1 \\\\ 0 \\end{pmatrix} = \\frac{1}{2}\\begin{pmatrix} 1 \\\\ 1 \\\\ 2 \\end{pmatrix}, \\pmb{\\beta}_{3} = \\pmb{\\alpha}_{3} = \\begin{pmatrix} -1 \\\\ -1 \\\\ 1 \\end{pmatrix},$ ",
+        "bbox": [
+            113,
+            200,
+            921,
+            258
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "再令 $\\pmb{\\gamma}_{1} = \\frac{1}{\\sqrt{2}}\\binom{-1}{0},\\pmb{\\gamma}_{2} = \\frac{1}{\\sqrt{6}}\\binom{1}{1}$ $\\pmb{\\gamma}_{3} = \\frac{1}{\\sqrt{3}}\\binom{-1}{-1}$ ",
+        "bbox": [
+            113,
+            265,
+            561,
+            324
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "得正交矩阵 $\\pmb{P} = \\left[ \\begin{array}{ccc} - \\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} & -\\frac{1}{\\sqrt{3}}\\\\ \\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} & -\\frac{1}{\\sqrt{3}}\\\\ 0 & \\frac{2}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}} \\end{array} \\right],$ ",
+        "bbox": [
+            113,
+            331,
+            466,
+            458
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "使得 $P^{\\mathrm{T}}AP = \\left( \\begin{array}{ccc}a - 1 & 0 & 0\\\\ 0 & a - 1 & 0\\\\ 0 & 0 & a + 2 \\end{array} \\right).$ ",
+        "bbox": [
+            113,
+            464,
+            470,
+            522
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（Ⅱ）由 $\\pmb{P}^{\\mathrm{T}}[(a + 3)\\pmb {E} - \\pmb {A}] \\pmb {P} = \\left( \\begin{array}{lll}4 & 0 & 0\\\\ 0 & 4 & 0\\\\ 0 & 0 & 1 \\end{array} \\right)$ 得",
+        "bbox": [
+            115,
+            529,
+            533,
+            586
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n(a + 3) \\boldsymbol {E} - \\boldsymbol {A} = \\boldsymbol {P} \\left( \\begin{array}{l l l} 4 & 0 & 0 \\\\ 0 & 4 & 0 \\\\ 0 & 0 & 1 \\end{array} \\right) \\boldsymbol {P} ^ {\\mathrm {T}} = \\boldsymbol {P} \\left( \\begin{array}{l l l} 2 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 1 \\end{array} \\right) \\boldsymbol {P} ^ {\\mathrm {T}} \\cdot \\boldsymbol {P} \\left( \\begin{array}{l l l} 2 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 1 \\end{array} \\right) \\boldsymbol {P} ^ {\\mathrm {T}},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            593,
+            836,
+            653
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "令 $C = P\\left( \\begin{array}{lll}2 & 0 & 0\\\\ 0 & 2 & 0\\\\ 0 & 0 & 1 \\end{array} \\right)P^{\\mathrm{T}}$ ",
+        "bbox": [
+            115,
+            662,
+            335,
+            717
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = \\left[ \\begin{array}{c c c} - \\frac {1}{\\sqrt {2}} & \\frac {1}{\\sqrt {6}} & - \\frac {1}{\\sqrt {3}} \\\\ \\frac {1}{\\sqrt {2}} & \\frac {1}{\\sqrt {6}} & - \\frac {1}{\\sqrt {3}} \\\\ 0 & \\frac {2}{\\sqrt {6}} & \\frac {1}{\\sqrt {3}} \\end{array} \\right] \\left( \\begin{array}{c c c} 2 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 1 \\end{array} \\right) \\left[ \\begin{array}{c c c} - \\frac {1}{\\sqrt {2}} & \\frac {1}{\\sqrt {2}} & 0 \\\\ \\frac {1}{\\sqrt {6}} & \\frac {1}{\\sqrt {6}} & \\frac {2}{\\sqrt {6}} \\\\ - \\frac {1}{\\sqrt {3}} & - \\frac {1}{\\sqrt {3}} & \\frac {1}{\\sqrt {3}} \\end{array} \\right] \\\\ = \\frac {1}{3} \\left( \\begin{array}{c c c} 5 & - 1 & 1 \\\\ - 1 & 5 & 1 \\\\ 1 & 1 & 5 \\end{array} \\right). \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            163,
+            724,
+            646,
+            913
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "则 $\\mathbf{C}^2 = (a + 3)\\mathbf{E} - \\mathbf{A}$ ",
+        "bbox": [
+            117,
+            920,
+            333,
+            938
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（22）【解】（I） $X$ 的密度函数为",
+        "bbox": [
+            78,
+            65,
+            389,
+            83
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ {X} (x) = \\left\\{ \\begin{array}{l l} 1, & 0 <   x <   1, \\\\ 0, & \\text {其 他}. \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            400,
+            89,
+            658,
+            127
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（Ⅱ）由 $Y = 2 - X$ 得 $Z = \\frac{2 - X}{X}$ ",
+        "bbox": [
+            125,
+            133,
+            438,
+            166
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ {Z} (z) = P \\{Z \\leqslant z \\} = P \\left\\{\\frac {2}{X} - 1 \\leqslant z \\right\\},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            125,
+            173,
+            494,
+            205
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当 $z < 1$ 时， $F_{Z}(z) = 0$ ",
+        "bbox": [
+            125,
+            212,
+            355,
+            229
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当 $z \\geqslant 1$ 时， $F_{Z}(z) = P\\left\\{X \\geqslant \\frac{2}{z + 1}\\right\\} = \\int_{\\frac{2}{z + 1}}^{1} 1 \\, \\mathrm{d}x = 1 - \\frac{2}{z + 1} = \\frac{z - 1}{z + 1}$ ，",
+        "bbox": [
+            125,
+            235,
+            769,
+            272
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "即 $F_{Z}(z) = \\left\\{ \\begin{array}{ll}0, & z < 1,\\\\ \\frac{z - 1}{z + 1}, & z\\geqslant 1, \\end{array} \\right.$ ",
+        "bbox": [
+            127,
+            276,
+            654,
+            332
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "故 $Z$ 的密度函数为",
+        "bbox": [
+            123,
+            336,
+            303,
+            353
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ {Z} (z) = \\left\\{ \\begin{array}{l l} 0, & z \\leqslant 1, \\\\ \\frac {2}{(z + 1) ^ {2}}, & z > 1. \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            387,
+            358,
+            666,
+            417
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$(\\text{III}) E\\left(\\frac{X}{Y}\\right) = E\\left(\\frac{X}{2 - X}\\right) = \\int_{0}^{1} \\frac{x}{2 - x} \\mathrm{d}x = 2 \\ln 2 - 1.$ ",
+        "bbox": [
+            125,
+            422,
+            595,
+            456
+        ],
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,1871 @@
+[
+    {
+        "type": "text",
+        "text": "2017年数学(一)真题解析",
+        "text_level": 1,
+        "bbox": [
+            270,
+            105,
+            698,
+            134
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、选择题",
+        "text_level": 1,
+        "bbox": [
+            54,
+            155,
+            157,
+            173
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)【答案】 (A).",
+        "bbox": [
+            54,
+            179,
+            224,
+            196
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $f(0 + 0) = \\lim_{x\\to 0^{+}}\\frac{1 - \\cos\\sqrt{x}}{ax} = \\frac{1}{2a},$ $f(0) = f(0 - 0) = b,$ ",
+        "bbox": [
+            90,
+            204,
+            703,
+            240
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因为 $f(x)$ 在 $x = 0$ 处连续，所以 $f(0 + 0) = f(0) = f(0 - 0)$ ",
+        "bbox": [
+            90,
+            246,
+            680,
+            262
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从而 $ab = \\frac{1}{2}$ ，应选（A）.",
+        "bbox": [
+            92,
+            269,
+            309,
+            301
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)【答案】 (C).",
+        "bbox": [
+            54,
+            310,
+            224,
+            326
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】方法一 若 $f(x) > 0$ ，则 $f^{\\prime}(x) > 0$ ，从而 $f(1) > f(-1) > 0$ ",
+        "bbox": [
+            88,
+            332,
+            781,
+            350
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "若 $f(x) < 0$ ，则 $f^{\\prime}(x) < 0$ ，从而 $f(1) < f(-1) < 0$ ",
+        "bbox": [
+            90,
+            354,
+            616,
+            372
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "故 $|f(1)| > |f(-1)|$ ，应选(C).",
+        "bbox": [
+            90,
+            378,
+            404,
+            394
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "方法二 由 $f(x) \\cdot f'(x) = \\left[\\frac{1}{2} f^2(x)\\right]' > 0$ 得 $f^2(x)$ 单调递增，",
+        "bbox": [
+            90,
+            401,
+            727,
+            436
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从而 $f^2 (1) > f^2 (-1)$ ，故 $|f(1)| > |f(-1)|$ ，应选(C).",
+        "bbox": [
+            90,
+            440,
+            628,
+            458
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)【答案】 (D).",
+        "bbox": [
+            54,
+            465,
+            224,
+            482
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $\\frac{\\partial f}{\\partial x} = 2xy,\\quad \\frac{\\partial f}{\\partial y} = x^2,\\quad \\frac{\\partial f}{\\partial z} = 2z,$ ",
+        "bbox": [
+            90,
+            488,
+            494,
+            522
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\frac {\\partial f}{\\partial x} \\right| _ {(1, 2, 0)} = 4, \\quad \\left. \\frac {\\partial f}{\\partial y} \\right| _ {(1, 2, 0)} = 1, \\quad \\left. \\frac {\\partial f}{\\partial z} \\right| _ {(1, 2, 0)} = 0,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            159,
+            528,
+            614,
+            564
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos \\alpha = \\frac {1}{3}, \\quad \\cos \\beta = \\frac {2}{3}, \\quad \\cos \\gamma = \\frac {2}{3},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            163,
+            570,
+            525,
+            603
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "所求的方向导数为 $\\left.\\frac{\\partial f}{\\partial\\boldsymbol{n}}\\right|_{(1,2,0)} = 4\\times \\frac{1}{3} +1\\times \\frac{2}{3} = 2$ ，应选(D).",
+        "bbox": [
+            90,
+            611,
+            654,
+            643
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（4）【答案】 (C).",
+        "bbox": [
+            54,
+            650,
+            224,
+            668
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】从 $t = 0$ 到 $t = t_0$ 的时间段上，甲、乙走过的距离分别为",
+        "bbox": [
+            90,
+            673,
+            668,
+            691
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ {1} = \\int_ {0} ^ {t _ {0}} v _ {1} (t) \\mathrm {d} t, \\quad S _ {2} = \\int_ {0} ^ {t _ {0}} v _ {2} (t) \\mathrm {d} t,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            331,
+            695,
+            674,
+            728
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在 $t = t_0$ 时， $S_{1} = S_{2} + 10$ ，即 $\\int_{0}^{t_0} v_1(t) \\, \\mathrm{d}t = \\int_{0}^{t_0} v_2(t) \\, \\mathrm{d}t + 10$ ",
+        "bbox": [
+            92,
+            732,
+            644,
+            764
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "或 $\\int_0^{t_0}\\left[v_1(t) - v_2(t)\\right]\\mathrm{d}t = 10$ ，故 $t_0 = 25$ ，应选(C).",
+        "bbox": [
+            92,
+            771,
+            557,
+            802
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（5）【答案】 （A）.",
+        "bbox": [
+            54,
+            808,
+            224,
+            824
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 方法一 令 $A = \\alpha \\alpha^{\\mathrm{T}}$ ， $A^2 = A$ ",
+        "bbox": [
+            90,
+            830,
+            476,
+            847
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "令 $AX = \\lambda X$ ，由 $(A^2 - A)X = (\\lambda^2 - \\lambda)X = 0$ 得 $\\lambda^2 - \\lambda = 0, \\lambda = 0$ 或 $\\lambda = 1$ ",
+        "bbox": [
+            90,
+            852,
+            785,
+            869
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\operatorname{tr} \\mathbf{A} = \\boldsymbol{\\alpha}^{\\mathrm{T}} \\boldsymbol{\\alpha} = 1 = \\lambda_{1} + \\dots + \\lambda_{n}$ 得 $\\mathbf{A}$ 的特征值为 $\\lambda_{1} = \\dots = \\lambda_{n-1} = 0, \\lambda_{n} = 1$ ",
+        "bbox": [
+            90,
+            874,
+            834,
+            892
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf{E} - \\pmb{\\alpha}\\pmb{\\alpha}^{\\mathrm{T}}$ 的特征值为 $\\lambda_{1} = \\dots = \\lambda_{n - 1} = 1,\\lambda_{n} = 0$ ，从而 $|\\textbf{E} -\\pmb {\\alpha}\\pmb{\\alpha}^{\\mathrm{T}}| = 0$ ",
+        "bbox": [
+            90,
+            898,
+            743,
+            915
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "即 $\\pmb {E} - \\pmb{\\alpha}\\pmb{\\alpha}^{\\mathrm{T}}$ 不可逆，应选（A）.",
+        "bbox": [
+            92,
+            922,
+            371,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "方法二 令 $A = E - \\alpha \\alpha^{\\mathrm{T}}, A^{2} = (E - \\alpha \\alpha^{\\mathrm{T}}) \\cdot (E - \\alpha \\alpha^{\\mathrm{T}}) = E - 2\\alpha \\alpha^{\\mathrm{T}} + \\alpha \\alpha^{\\mathrm{T}} = A$ ",
+        "bbox": [
+            111,
+            66,
+            884,
+            84
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $\\mathbf{A}(\\mathbf{E} - \\mathbf{A}) = \\mathbf{0}$ 得 $r(\\mathbf{A}) + r(\\mathbf{E} - \\mathbf{A})\\leqslant n$ ",
+        "bbox": [
+            113,
+            91,
+            533,
+            108
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "再由 $r(\\mathbf{A}) + r(\\mathbf{E} - \\mathbf{A})\\geqslant r[\\mathbf{A} + (\\mathbf{E} - \\mathbf{A})] = r(\\mathbf{E}) = n$ 得",
+        "bbox": [
+            113,
+            112,
+            658,
+            129
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr (\\mathbf {A}) + r (\\mathbf {E} - \\mathbf {A}) = n,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            414,
+            136,
+            632,
+            151
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而 $\\pmb {E} - \\pmb {A} = \\pmb {\\alpha}\\pmb{\\alpha}^{\\mathrm{T}},r(\\pmb {E} - \\pmb {A}) = r(\\pmb {\\alpha}\\pmb{\\alpha}^{\\mathrm{T}}) = r(\\pmb {\\alpha}) = 1$ ",
+        "bbox": [
+            113,
+            157,
+            585,
+            173
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于是 $r(\\mathbf{A}) = n - 1 <   n$ ，即 $\\pmb {E} - \\pmb {\\alpha}\\pmb{\\alpha}^{\\mathrm{T}}$ 不可逆，应选（A）.",
+        "bbox": [
+            113,
+            180,
+            620,
+            197
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（6）【答案】 （B）.",
+        "bbox": [
+            78,
+            203,
+            244,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 显然矩阵 $A, B, C$ 的特征值都是 $\\lambda_{1} = \\lambda_{2} = 2, \\lambda_{3} = 1$ ",
+        "bbox": [
+            111,
+            225,
+            664,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $2E - A = \\begin{pmatrix} 0 & 0 & 0\\\\ 0 & 0 & -1\\\\ 0 & 0 & 1 \\end{pmatrix}$ 得 $r(2E - A) = 1$ ，则 $\\mathbf{A}$ 可相似对角化，从而 $A\\sim C$ ",
+        "bbox": [
+            113,
+            248,
+            842,
+            307
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $2\\pmb {E} - \\pmb {B} = \\left( \\begin{array}{lll}0 & -1 & 0\\\\ 0 & 0 & 0\\\\ 0 & 0 & 1 \\end{array} \\right)$ 得 $r(2E - B) = 2$ ，则 $\\pmb{B}$ 不可相似对角化，从而 $\\pmb{B}$ 与 $\\mathbf{A},\\mathbf{C}$ 不相似，应选(B).",
+        "bbox": [
+            113,
+            315,
+            933,
+            397
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方法点评：设 $A, B$ 为 $n$ 阶矩阵，且 $|\\lambda E - A| = |\\lambda E - B|$ ，即 $A, B$ 的特征值相同，则",
+        "bbox": [
+            121,
+            410,
+            903,
+            429
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（1）若矩阵 $\\mathbf{A},\\mathbf{B}$ 都可相似对角化，则 $A\\sim B$ ",
+            "（2）若矩阵 $\\mathbf{A},\\mathbf{B}$ 中一个可相似对角化，一个不可相似对角化，则 $\\mathbf{A}$ 与 $\\pmb{B}$ 不相似."
+        ],
+        "bbox": [
+            119,
+            433,
+            848,
+            472
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（7）【答案】 （A）.",
+        "bbox": [
+            78,
+            492,
+            248,
+            509
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】由 $P(A|B) > P(A|\\overline{B})$ 得 $\\frac{P(AB)}{P(B)} >\\frac{P(A\\overline{B})}{P(\\overline{B})} = \\frac{P(A) - P(AB)}{1 - P(B)}$ ",
+        "bbox": [
+            113,
+            514,
+            830,
+            552
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$P(A|B) > P(A|\\overline{B})$ 等价于 $P(AB) > P(A)P(B)$ ",
+        "bbox": [
+            113,
+            557,
+            618,
+            575
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $P(B|A) > P(B|\\overline{A})$ 得 $\\frac{P(AB)}{P(A)} >\\frac{P(B) - P(AB)}{1 - P(A)}$ ",
+        "bbox": [
+            115,
+            582,
+            662,
+            614
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$P(B|A) > P(B|\\overline{A})$ 等价于 $P(AB) > P(A)P(B)$ ，应选（A）.",
+        "bbox": [
+            115,
+            621,
+            705,
+            639
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(8)【答案】 (B).",
+        "bbox": [
+            78,
+            645,
+            244,
+            660
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 若总体 $X \\sim N(\\mu, \\sigma^2)$ ，则",
+        "bbox": [
+            113,
+            666,
+            430,
+            685
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {1}{\\sigma^ {2}} \\sum_ {i = 1} ^ {n} (X _ {i} - \\mu) ^ {2} \\sim \\chi^ {2} (n), \\quad \\frac {1}{\\sigma^ {2}} \\sum_ {i = 1} ^ {n} (X _ {i} - \\overline {{X}}) ^ {2} \\sim \\chi^ {2} (n - 1),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            236,
+            689,
+            812,
+            724
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为总体 $X \\sim N(\\mu, 1)$ ，所以 $\\sum_{i=1}^{n}(X_i - \\mu)^2 \\sim \\chi^2(n)$ ， $\\sum_{i=1}^{n}(X_i - \\overline{X})^2 \\sim \\chi^2(n-1)$ ",
+        "bbox": [
+            115,
+            734,
+            913,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "再由 $\\overline{X} \\sim N\\left(\\mu, \\frac{1}{n}\\right)$ 得 $\\frac{\\overline{X} - \\mu}{\\frac{1}{\\sqrt{n}}} = \\sqrt{n} (\\overline{X} - \\mu) \\sim N(0, 1)$ ，从而 $n(\\overline{X} - \\mu)^2 \\sim \\chi^2(1)$ ，",
+        "bbox": [
+            115,
+            774,
+            888,
+            831
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不正确的是(B)，应选(B).",
+        "bbox": [
+            115,
+            838,
+            355,
+            853
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、填空题",
+        "text_level": 1,
+        "bbox": [
+            78,
+            860,
+            179,
+            876
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（9）【答案】0.",
+        "bbox": [
+            78,
+            881,
+            220,
+            898
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】方法一 $f(x) = \\frac{1}{1 + x^2} = 1 - x^2 +x^4 -x^6 +x^8 +o(x^8),$ ",
+        "bbox": [
+            113,
+            905,
+            753,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $\\frac{f^{(3)}(0)}{3!} = 0$ 得 $f^{(3)}(0) = 0$ .",
+        "bbox": [
+            96,
+            70,
+            369,
+            105
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方法二 根据求导改变奇偶性的性质，因为 $f(x)$ 为偶函数，所以 $f^{(3)}(x)$ 为奇函数，故 $f^{(3)}(0) = 0$ ",
+        "bbox": [
+            94,
+            109,
+            886,
+            152
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(10)【答案】 $\\mathrm{e}^{-x}(C_1\\cos \\sqrt{2} x + C_2\\sin \\sqrt{2} x)(C_1,C_2$ 为任意常数).",
+        "bbox": [
+            58,
+            159,
+            664,
+            178
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】 特征方程为 $\\lambda^2 + 2\\lambda + 3 = 0$ ，特征值为 $\\lambda_{1,2} = -1 \\pm \\sqrt{2}\\mathrm{i}$ ，",
+        "bbox": [
+            103,
+            184,
+            696,
+            204
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通解为 $y = \\mathrm{e}^{-x}(C_1\\cos \\sqrt{2} x + C_2\\sin \\sqrt{2} x)(C_1,C_2$ 为任意常数).",
+        "bbox": [
+            105,
+            211,
+            686,
+            230
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（11）【答案】 -1.",
+        "bbox": [
+            60,
+            235,
+            242,
+            251
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】 $P = \\frac{x}{x^2 + y^2 - 1},\\quad Q = -\\frac{ay}{x^2 + y^2 - 1},$ ",
+        "bbox": [
+            105,
+            261,
+            549,
+            294
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\partial P}{\\partial y} = - \\frac {2 x y}{\\left(x ^ {2} + y ^ {2} - 1\\right) ^ {2}}, \\quad \\frac {\\partial Q}{\\partial x} = \\frac {2 a x y}{\\left(x ^ {2} + y ^ {2} - 1\\right) ^ {2}},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            175,
+            299,
+            642,
+            336
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为曲线积分与路径无关，所以 $\\frac{\\partial Q}{\\partial x} = \\frac{\\partial P}{\\partial y}$ 故 $a = -1$ ",
+        "bbox": [
+            107,
+            340,
+            600,
+            376
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(12)【答案】 $\\frac{1}{(1 + x)^2}$ .",
+        "bbox": [
+            60,
+            383,
+            294,
+            418
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】方法一 $S(x) = \\sum_{n=1}^{\\infty} (-1)^{n-1} n x^{n-1} = -\\left[\\sum_{n=1}^{\\infty} (-1)^{n} x^{n}\\right]' = -\\left(\\frac{-x}{1+x}\\right)' = \\frac{1}{(1+x)^{2}}.$ ",
+        "bbox": [
+            105,
+            422,
+            917,
+            461
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方法二 令 $S(x) = \\sum_{n=1}^{\\infty} (-1)^{n-1} n x^{n-1}$ ,",
+        "bbox": [
+            107,
+            468,
+            482,
+            504
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则 $\\int_0^x S(x)\\mathrm{d}x = \\sum_{n = 1}^\\infty \\int_0^x (-1)^{n - 1}nx^{n - 1}\\mathrm{d}x = \\sum_{n = 1}^\\infty (-1)^{n - 1}x^n$ ",
+        "bbox": [
+            109,
+            509,
+            626,
+            545
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= - \\sum_ {n = 1} ^ {\\infty} (- x) ^ {n} = - \\frac {- x}{1 + x} = \\frac {x}{1 + x},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            234,
+            552,
+            569,
+            586
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "故 $S(x) = \\left(\\frac{x}{1 + x}\\right)' = \\frac{1}{(1 + x)^2}.$ ",
+        "bbox": [
+            109,
+            592,
+            418,
+            627
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（13）【答案】2.",
+        "bbox": [
+            62,
+            632,
+            216,
+            650
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】 $(A\\alpha_{1}, A\\alpha_{2}, A\\alpha_{3}) = A(\\alpha_{1}, \\alpha_{2}, \\alpha_{3})$ ",
+        "bbox": [
+            107,
+            655,
+            501,
+            671
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\alpha_{1},\\alpha_{2},\\alpha_{3}$ 线性无关，所以 $(\\pmb{\\alpha}_{1},\\pmb{\\alpha}_{2},\\pmb{\\alpha}_{3})$ 可逆，从而 $r(A\\pmb{\\alpha}_1,A\\pmb{\\alpha}_2,A\\pmb{\\alpha}_3) = r(\\pmb {A})$ ",
+        "bbox": [
+            107,
+            677,
+            866,
+            694
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $\\mathbf{A}\\rightarrow \\left( \\begin{array}{lll}1 & 0 & 1\\\\ 0 & 1 & 1\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得 $r(\\mathbf{A}) = 2$ ，故向量组 $A\\pmb{\\alpha}_{1},A\\pmb{\\alpha}_{2},A\\pmb{\\alpha}_{3}$ 的秩为2.",
+        "bbox": [
+            109,
+            700,
+            725,
+            757
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（14）【答案】2.",
+        "bbox": [
+            62,
+            764,
+            216,
+            783
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解】 $X$ 的密度为 $f(x) = 0.5\\varphi (x) + 0.25\\varphi \\left(\\frac{x - 4}{2}\\right)$ ",
+        "bbox": [
+            105,
+            789,
+            624,
+            820
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} E (X) = \\int_ {- \\infty} ^ {+ \\infty} x f (x) d x = 0. 5 \\int_ {- \\infty} ^ {+ \\infty} x \\varphi (x) d x + 0. 2 5 \\int_ {- \\infty} ^ {+ \\infty} x \\varphi \\left(\\frac {x - 4}{2}\\right) d x \\\\ = 0 + \\int_ {- \\infty} ^ {+ \\infty} \\left(\\frac {x - 4}{2} + 2\\right) \\varphi \\left(\\frac {x - 4}{2}\\right) \\mathrm {d} \\left(\\frac {x - 4}{2}\\right) \\\\ = \\int_ {- \\infty} ^ {+ \\infty} (x + 2) \\varphi (x) d x = 2 \\int_ {- \\infty} ^ {+ \\infty} \\varphi (x) d x = 2. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            195,
+            828,
+            830,
+            938
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方法点评：本题考查连续型随机变量的分布函数、密度函数及数字特征，需要注意以下几点：",
+        "bbox": [
+            125,
+            77,
+            921,
+            95
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）若随机变量的分布函数为 $F(x)$ ，则其密度函数为",
+        "bbox": [
+            123,
+            100,
+            616,
+            116
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf (x) = \\left\\{ \\begin{array}{l l} F ^ {\\prime} (x), & x \\text {为} F (x) \\text {的 可 导 点 ,} \\\\ 0, & x \\text {为} F (x) \\text {的 不 可 导 点 .} \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            305,
+            122,
+            705,
+            162
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) 若 $f(x)$ 为随机变量的密度函数, 则 $\\int_{-\\infty}^{+\\infty} f(x) \\mathrm{d}x = 1$ .",
+        "bbox": [
+            123,
+            166,
+            648,
+            198
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）标准正态分布的密度函数 $\\varphi (x)$ 为奇函数，即 $\\int_{-\\infty}^{+\\infty}x^k\\varphi (x)\\mathrm{d}x = 0(k$ 为正奇数).",
+        "bbox": [
+            123,
+            205,
+            880,
+            235
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、解答题",
+        "text_level": 1,
+        "bbox": [
+            80,
+            248,
+            179,
+            267
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(15)【解】 $\\frac{\\mathrm{dy}}{\\mathrm{dx}} = \\mathrm{e}^{x}f_{1}^{\\prime} - \\sin x\\cdot f_{2}^{\\prime},\\quad \\frac{\\mathrm{dy}}{\\mathrm{dx}}\\bigg|_{x = 0} = f_{1}^{\\prime}(1,1);$ ",
+        "bbox": [
+            80,
+            272,
+            638,
+            305
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\mathrm {d} ^ {2} y}{\\mathrm {d} x ^ {2}} = \\mathrm {e} ^ {x} f _ {1} ^ {\\prime} + \\mathrm {e} ^ {x} \\left(\\mathrm {e} ^ {x} f _ {1 1} ^ {\\prime \\prime} - \\sin x \\cdot f _ {1 2} ^ {\\prime \\prime}\\right) - \\cos x \\cdot f _ {2} ^ {\\prime} - \\sin x \\left(\\mathrm {e} ^ {x} f _ {2 1} ^ {\\prime \\prime} - \\sin x \\cdot f _ {2 2} ^ {\\prime \\prime}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            127,
+            311,
+            886,
+            346
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则 $\\frac{\\mathrm{d}^2y}{\\mathrm{d}x^2}\\Big|_{x = 0} = f_1'(1,1) + f_{11}''(1,1) - f_2'(1,1).$ ",
+        "bbox": [
+            127,
+            353,
+            555,
+            386
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(16)【解】 $\\lim_{n\\to \\infty}\\sum_{k = 1}^{n}\\frac{k}{n^2}\\ln \\left(1 + \\frac{k}{n}\\right) = \\lim_{n\\to \\infty}\\frac{1}{n}\\sum_{k = 1}^{n}\\frac{k}{n}\\ln \\left(1 + \\frac{k}{n}\\right) = \\int_0^1 x\\ln (1 + x)\\mathrm{d}x$ ",
+        "bbox": [
+            80,
+            394,
+            804,
+            429
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = \\frac {1}{2} \\int_ {0} ^ {1} \\ln (1 + x) d \\left(x ^ {2}\\right) = \\frac {1}{2} x ^ {2} \\ln (1 + x) \\Big | _ {0} ^ {1} - \\frac {1}{2} \\int_ {0} ^ {1} \\frac {\\left(x ^ {2} - 1\\right) + 1}{1 + x} d x \\\\ = \\frac {1}{2} \\ln 2 - \\frac {1}{2} \\int_ {0} ^ {1} (x - 1 + \\frac {1}{1 + x}) d x = \\frac {1}{2} \\ln 2 - \\frac {1}{4} + \\frac {1}{2} - \\frac {1}{2} \\ln 2 = \\frac {1}{4}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            80,
+            394,
+            842,
+            510
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方法点评：本题考查定积分的定义求极限",
+        "bbox": [
+            127,
+            522,
+            509,
+            541
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$n$ 项和求极限一般分为两种类型：",
+        "bbox": [
+            123,
+            546,
+            430,
+            561
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) 分子次数齐、分母次数齐，且分母的次数高于分子一次，采用定积分定义求极限，即",
+        "bbox": [
+            123,
+            567,
+            907,
+            585
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lim  _ {n \\rightarrow \\infty} \\frac {1}{n} \\sum_ {k = 1} ^ {n} f \\left(\\frac {k}{n}\\right) = \\int_ {0} ^ {1} f (x) d x.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            365,
+            592,
+            644,
+            628
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）若分子次数或分母次数不齐，一般使用迫敛定理",
+        "bbox": [
+            123,
+            634,
+            606,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(17)【解】 $x^{3} + y^{3} - 3x + 3y - 2 = 0$ 两边对 $x$ 求导得 $3x^{2} + 3y^{2}y^{\\prime} - 3 + 3y^{\\prime} = 0$ ",
+        "bbox": [
+            80,
+            668,
+            866,
+            687
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 $y^\\prime = 0$ 得 $x_{1} = -1,x_{2} = 1$ ，对应的函数值为 $y_{1} = 0,y_{2} = 1$ ",
+        "bbox": [
+            127,
+            692,
+            698,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$3x^{2} + 3y^{2}y^{\\prime} - 3 + 3y^{\\prime} = 0$ 两边再对 $x$ 求导得 $6x + 6yy^{\\prime 2} + 3y^{2}y^{\\prime \\prime} + 3y^{\\prime \\prime} = 0$ ",
+        "bbox": [
+            127,
+            713,
+            852,
+            731
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $y^{\\prime \\prime}(-1) = 2 > 0$ 得 $x = -1$ 为极小值点，极小值为 $y = 0$ ",
+        "bbox": [
+            127,
+            735,
+            686,
+            753
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $y''(1) = -1 < 0$ 得 $x = 1$ 为极大值点，极大值为 $y = 1$ ",
+        "bbox": [
+            127,
+            757,
+            660,
+            774
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（18）【证明】（I）根据极限保号性，因为 $\\lim_{x\\to 0^{+}}\\frac{f(x)}{x} < 0$ ，所以存在 $\\delta >0$ ",
+        "bbox": [
+            80,
+            781,
+            769,
+            815
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $x \\in (0, \\delta)$ 时， $\\frac{f(x)}{x} < 0$ ，即当 $x \\in (0, \\delta)$ 时 $f(x) < 0$ ",
+        "bbox": [
+            127,
+            820,
+            688,
+            852
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于是存在 $c \\in (0, \\delta)$ ，使得 $f(c) < 0$ ",
+        "bbox": [
+            127,
+            858,
+            476,
+            876
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为 $f(c)f(1) < 0$ ，所以存在 $x_0 \\in (c,1) \\subset (0,1)$ ，使得 $f(x_0) = 0$ ",
+        "bbox": [
+            127,
+            880,
+            769,
+            897
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（Ⅱ）令 $F(x) = f(x)f'(x)$ ，则 $F'(x) = f(x)f''(x) + f'^2(x)$ ，",
+        "bbox": [
+            127,
+            902,
+            729,
+            920
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $f(0) = f(c) = 0$ ，得存在 $x\\in (0,c)$ ，使得 $f^{\\prime}(\\xi_{1}) = 0$ ",
+        "bbox": [
+            127,
+            924,
+            658,
+            942
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因 $f(0) = f(c) = 0$ ，所以 $F(0) = F(\\xi_1) = F(c)$ ",
+        "bbox": [
+            113,
+            69,
+            571,
+            86
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由罗尔定理，存在 $\\eta_1\\in (0,\\xi_1)$ ，存在 $\\eta_{2}\\in (\\xi_{1},c)$ ，使 $F^{\\prime}(\\eta_{1}) = 0,F^{\\prime}(\\eta_{2}) = 0$ ",
+        "bbox": [
+            113,
+            89,
+            836,
+            109
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "即方程 $f(x)f''(x) + f'^2(x) = 0$ 在 $(0,1)$ 内至少有两个不同的实根.",
+        "bbox": [
+            113,
+            112,
+            753,
+            130
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（19）【解】（I）由 $\\left\\{ \\begin{array}{l} z = \\sqrt{x^2 + y^2}, \\\\ z^2 = 2x, \\end{array} \\right.$ 得 $x^2 + y^2 = 2x$ ",
+        "bbox": [
+            66,
+            134,
+            567,
+            178
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "故 $C$ 在 $xOy$ 平面上的投影曲线为 $L:\\left\\{ \\begin{array}{l}(x - 1)^2 +y^2 = 1,\\\\ z = 0, \\end{array} \\right.$ ",
+        "bbox": [
+            113,
+            183,
+            652,
+            222
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（Ⅱ） $M = \\iint_{S} 9\\sqrt{x^2 + y^2 + z^2} \\, \\mathrm{d}S$ ",
+        "bbox": [
+            115,
+            226,
+            412,
+            265
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $z_{x}^{\\prime} = \\frac{x}{\\sqrt{x^{2} + y^{2}}}, z_{y}^{\\prime} = \\frac{y}{\\sqrt{x^{2} + y^{2}}}$ 得 $\\mathrm{d}S = \\sqrt{1 + z_{x}^{\\prime 2} + z_{y}^{\\prime 2}}\\mathrm{d}x\\mathrm{d}y = \\sqrt{2}\\mathrm{d}x\\mathrm{d}y,$ ",
+        "bbox": [
+            115,
+            273,
+            824,
+            307
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "则 $M = \\iint_{S} 9\\sqrt{x^2 + y^2 + z^2} \\, \\mathrm{d}S = 9\\sqrt{2} \\iint_{D} \\sqrt{x^2 + y^2} \\cdot \\sqrt{2} \\, \\mathrm{d}x \\, \\mathrm{d}y$ ",
+        "bbox": [
+            115,
+            311,
+            654,
+            350
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = 1 8 \\iint_ {D} \\sqrt {x ^ {2} + y ^ {2}} d x d y = 1 8 \\int_ {- \\frac {\\pi}{2}} ^ {\\frac {\\pi}{2}} d \\theta \\int_ {0} ^ {2 \\cos \\theta} r ^ {2} d r \\\\ = 1 8 \\times \\frac {8}{3} \\int_ {- \\frac {\\pi}{2}} ^ {\\frac {\\pi}{2}} \\cos^ {3} \\theta d \\theta = 1 8 \\times \\frac {1 6}{3} \\int_ {0} ^ {\\frac {\\pi}{2}} \\cos^ {3} \\theta d \\theta = 6 4. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            167,
+            353,
+            610,
+            435
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（20）【证明】（I）设 $\\mathbf{A}$ 的特征值为 $\\lambda_1, \\lambda_2, \\lambda_3$ ",
+        "bbox": [
+            68,
+            440,
+            507,
+            456
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\mathbf{A}$ 有三个不同的特征值，所以 $\\mathbf{A}$ 可以相似对角化，即存在可逆矩阵 $\\pmb{P}$ ，使得",
+        "bbox": [
+            115,
+            461,
+            842,
+            477
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol {P} ^ {- 1} \\boldsymbol {A} \\boldsymbol {P} = \\left( \\begin{array}{c c c} \\lambda_ {1} & & \\\\ & \\lambda_ {2} & \\\\ & & \\lambda_ {3} \\end{array} \\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            400,
+            484,
+            636,
+            545
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\lambda_1, \\lambda_2, \\lambda_3$ 两两不同，所以 $r(A) \\geqslant 2$ ",
+        "bbox": [
+            115,
+            552,
+            505,
+            568
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "又因为 $\\pmb{\\alpha}_{3} = \\pmb{\\alpha}_{1} + 2\\pmb{\\alpha}_{2}$ ，所以 $\\alpha_{1},\\alpha_{2},\\alpha_{3}$ 线性相关，从而 $r(A) <   3$ ，于是 $r(A) = 2$ ",
+        "bbox": [
+            115,
+            571,
+            862,
+            589
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（Ⅱ）因为 $r(\\mathbf{A}) = 2$ ，所以 $\\mathbf{AX} = \\mathbf{0}$ 基础解系含一个线性无关的解向量，",
+        "bbox": [
+            115,
+            593,
+            761,
+            611
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $\\left\\{ \\begin{array}{l} \\alpha_{1} + 2\\alpha_{2} - \\alpha_{3} = 0, \\\\ \\alpha_{1} + \\alpha_{2} + \\alpha_{3} = \\beta, \\end{array} \\right.$ 得 $AX = \\beta$ 的通解为",
+        "bbox": [
+            117,
+            618,
+            519,
+            657
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$X = k\\binom{1}{2} + \\binom{1}{1}$ （ $k$ 为任意常数）.",
+        "bbox": [
+            355,
+            663,
+            680,
+            720
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(21)【解】 $\\mathbf{A} = \\left( \\begin{array}{rrr}2 & 1 & -4\\\\ 1 & -1 & 1\\\\ -4 & 1 & a \\end{array} \\right),\\quad \\mathbf{X} = \\left( \\begin{array}{l}x_{1}\\\\ x_{2}\\\\ x_{3} \\end{array} \\right),\\quad f(x_{1},x_{2},x_{3}) = \\mathbf{X}^{\\mathrm{T}}\\mathbf{A}\\mathbf{X},$ ",
+        "bbox": [
+            70,
+            728,
+            769,
+            788
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\lambda_3 = 0$ ，所以 $|\\mathbf{A}| = 0$ ",
+        "bbox": [
+            115,
+            792,
+            355,
+            810
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $|\\mathbf{A}| = \\left| \\begin{array}{ccc}2 & 1 & -4\\\\ 1 & -1 & 1\\\\ -4 & 1 & a \\end{array} \\right| = -3(a - 2) = 0$ ，得 $a = 2$ ",
+        "bbox": [
+            117,
+            815,
+            618,
+            876
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $|\\lambda E - A| = \\left| \\begin{array}{ccc}\\lambda -2 & -1 & 4\\\\ -1 & \\lambda +1 & -1\\\\ 4 & -1 & \\lambda -2 \\end{array} \\right| = \\lambda (\\lambda +3)(\\lambda -6) = 0$ ，得 $\\lambda_{1} = -3,\\lambda_{2} = 6,\\lambda_{3} = 0.$ ",
+        "bbox": [
+            117,
+            878,
+            925,
+            940
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $-3\\pmb {E} - \\pmb {A}\\rightarrow \\left( \\begin{array}{rrr}5 & 1 & -4\\\\ 1 & 2 & 1\\\\ -4 & 1 & 5 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{rrr}1 & 0 & -1\\\\ 0 & 1 & 1\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得",
+        "bbox": [
+            125,
+            66,
+            591,
+            127
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda_{1} = -3$ 对应的线性无关的特征向量为 $\\pmb{\\alpha}_{1} = \\begin{pmatrix} 1 \\\\ -1 \\\\ 1 \\end{pmatrix}$ ;",
+        "bbox": [
+            123,
+            134,
+            610,
+            191
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由 $6\\pmb {E} - \\pmb {A} = \\left( \\begin{array}{rrr}4 & -1 & 4\\\\ -1 & 7 & -1\\\\ 4 & -1 & 4 \\end{array} \\right)\\rightarrow \\left( \\begin{array}{rrr}1 & 0 & 1\\\\ 0 & 1 & 0\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得",
+        "bbox": [
+            125,
+            198,
+            563,
+            258
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda_{2} = 6$ 对应的线性无关的特征向量为 $\\pmb{\\alpha}_{2} = \\begin{pmatrix} -1 \\\\ 0 \\\\ 1 \\end{pmatrix}$ ;",
+        "bbox": [
+            123,
+            264,
+            595,
+            322
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由 $0E - A \\rightarrow \\left( \\begin{array}{ccc}1 & 0 & -1\\\\ 0 & 1 & -2\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得 $\\lambda_{3} = 0$ 对应的线性无关的特征向量为 $\\pmb{\\alpha}_{3} = \\binom{1}{2}$ .",
+        "bbox": [
+            123,
+            329,
+            840,
+            388
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "规范化得 $\\gamma_{1} = \\frac{1}{\\sqrt{3}}\\binom{1}{-1}$ ， $\\gamma_{2} = \\frac{1}{\\sqrt{2}}\\binom{-1}{0}$ ， $\\gamma_{3} = \\frac{1}{\\sqrt{6}}\\binom{1}{2}$ ，",
+        "bbox": [
+            125,
+            394,
+            656,
+            452
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "故正交矩阵为 $Q = \\left[ \\begin{array}{ccc} \\frac{1}{\\sqrt{3}} & -\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} \\\\ -\\frac{1}{\\sqrt{3}} & 0 & \\frac{2}{\\sqrt{6}} \\\\ \\frac{1}{\\sqrt{3}} & \\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} \\end{array} \\right]$ ",
+        "bbox": [
+            123,
+            458,
+            494,
+            586
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left(x _ {1}, x _ {2}, x _ {3}\\right) = \\boldsymbol {X} ^ {\\mathrm {T}} \\boldsymbol {A} \\boldsymbol {X} \\xlongequal {\\boldsymbol {X} = Q \\boldsymbol {Y}} - 3 y _ {1} ^ {2} + 6 y _ {2} ^ {2}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            123,
+            589,
+            551,
+            614
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(22)【解】 $(\\mathrm{I})E(Y) = \\int_{0}^{1}y\\cdot 2y\\mathrm{d}y = \\frac{2}{3},$ ",
+        "bbox": [
+            78,
+            618,
+            472,
+            652
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\left\\{Y \\leqslant E (Y) \\right\\} = P \\left\\{Y \\leqslant \\frac {2}{3} \\right\\} = \\int_ {0} ^ {\\frac {2}{3}} 2 y \\mathrm {d} y = \\frac {4}{9}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            313,
+            656,
+            737,
+            692
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（Ⅱ）方法一 $F_{Z}(z) = P\\{Z \\leqslant z\\} = P\\{X + Y \\leqslant z\\}$ ，",
+        "bbox": [
+            123,
+            696,
+            628,
+            714
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $z < 0$ 时， $F_{Z}(z) = 0$ ",
+        "bbox": [
+            123,
+            717,
+            353,
+            735
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $z \\geq 3$ 时， $F_Z(z) = 1$ ",
+        "bbox": [
+            123,
+            739,
+            353,
+            756
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $0 \\leqslant z < 1$ 时， $F_Z(z) = P\\{X = 0, Y \\leqslant z\\} = P\\{X = 0, Y \\leqslant z\\}$ ",
+        "bbox": [
+            123,
+            760,
+            721,
+            778
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= P \\{X = 0 \\} P \\{Y \\leqslant z \\} = \\frac {1}{2} \\int_ {0} ^ {z} 2 y \\mathrm {d} y = \\frac {z ^ {2}}{2};\n$$",
+        "text_format": "latex",
+        "bbox": [
+            353,
+            783,
+            737,
+            817
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $1 \\leqslant z < 2$ 时， $F_{Z}(z) = P\\{X = 0, Y \\leqslant z\\} = P\\{X = 0\\} P\\{Y \\leqslant 1\\} = \\frac{1}{2}$ ",
+        "bbox": [
+            123,
+            824,
+            804,
+            855
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $2 \\leqslant z < 3$ 时， $F_{Z}(z) = P\\{X = 0, Y \\leqslant z\\} + P\\{X = 2, Z \\leqslant z - 2\\}$ ",
+        "bbox": [
+            123,
+            860,
+            763,
+            876
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = P \\{X = 0 \\} P \\{Y \\leqslant 1 \\} + P \\{X = 2 \\} P \\{Y \\leqslant z - 2 \\} \\\\ = \\frac {1}{2} + \\frac {1}{2} \\int_ {0} ^ {z - 2} 2 y d y = \\frac {1}{2} + \\frac {1}{2} (z - 2) ^ {2}, \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            123,
+            860,
+            814,
+            936
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "即 $F_{Z}(z) = \\left\\{ \\begin{array}{ll}0, & z <   0,\\\\ \\frac{z^{2}}{2}, & 0\\leqslant z <   1,\\\\ \\frac{1}{2} +\\frac{1}{2} (z - 2)^{2}, & 2\\leqslant z <   3,\\\\ 1, & z\\geqslant 3, \\end{array} \\right.$ ",
+        "bbox": [
+            105,
+            66,
+            503,
+            184
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "概率密度为 $f_{Z}(z) = \\left\\{ \\begin{array}{ll} z, & 0 < z < 1, \\\\ z - 2, & 2 < z < 3, \\\\ 0, & \\text{其他}. \\end{array} \\right.$ ",
+        "bbox": [
+            103,
+            187,
+            505,
+            247
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "方法二 由全概率公式得",
+        "bbox": [
+            103,
+            250,
+            353,
+            267
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} F _ {Z} (z) = P \\{Z \\leqslant z \\} = P \\{X + Y \\leqslant z \\} \\\\ = P \\{X = 0 \\} P \\{X + Y \\leqslant z \\mid X = 0 \\} + P \\{X = 2 \\} P \\{X + Y \\leqslant z \\mid X = 2 \\} \\\\ = \\frac {1}{2} P \\{Y \\leqslant z \\} + \\frac {1}{2} P \\{Y \\leqslant z - 2 \\}, \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            149,
+            272,
+            884,
+            344
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当 $z < 0$ 时， $F_{Z}(z) = 0$ ",
+        "bbox": [
+            103,
+            350,
+            333,
+            365
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当 $0 \\leqslant z < 1$ 时， $F_{Z}(z) = \\frac{1}{2} P\\{Y \\leqslant z\\} = \\frac{1}{2} \\int_{0}^{z} 2y \\, \\mathrm{d}y = \\frac{z^2}{2}$ ",
+        "bbox": [
+            103,
+            371,
+            648,
+            404
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当 $1 \\leqslant z < 2$ 时， $F_{Z}(z) = \\frac{1}{2} P\\{Y \\leqslant 1\\} = \\frac{1}{2}$ ",
+        "bbox": [
+            103,
+            411,
+            529,
+            442
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当 $2 \\leqslant z < 3$ 时， $F_{Z}(z) = \\frac{1}{2} + \\frac{1}{2} P\\{Y \\leqslant z - 2\\}$ ",
+        "bbox": [
+            103,
+            449,
+            559,
+            479
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac {1}{2} + \\frac {1}{2} \\int_ {0} ^ {z - 2} 2 y d y = \\frac {1}{2} + \\frac {(z - 2) ^ {2}}{2};\n$$",
+        "text_format": "latex",
+        "bbox": [
+            335,
+            486,
+            674,
+            518
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当 $z \\geqslant 3$ 时， $F_Z(z) = 1$ ",
+        "bbox": [
+            103,
+            524,
+            333,
+            539
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "故 $f_{Z}(z) = F^{\\prime}(z) = \\left\\{ \\begin{array}{ll}z, & 0 <   z <   1,\\\\ z - 2, & 2 <   z <   3,\\\\ 0, & \\text{其他}. \\end{array} \\right.$ ",
+        "bbox": [
+            103,
+            545,
+            501,
+            602
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(23)【解】（I）由 $X_{1} \\sim N(\\mu, \\sigma^{2})$ 得 $\\frac{X_{1} - \\mu}{\\sigma} \\sim N(0, 1)$ ，",
+        "bbox": [
+            56,
+            607,
+            606,
+            639
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$Z_{1}$ 的分布函数为 $F(z) = P\\{Z_1\\leqslant z\\}$ ",
+        "bbox": [
+            103,
+            643,
+            464,
+            660
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当 $z < 0$ 时， $F(z) = 0$ ",
+        "bbox": [
+            103,
+            664,
+            323,
+            681
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当 $z \\geqslant 0$ 时， $F(z) = P\\left\\{\\left|\\frac{X_1 - \\mu}{\\sigma}\\right| \\leqslant \\frac{z}{\\sigma}\\right\\} = \\Phi\\left(\\frac{z}{\\sigma}\\right) - \\Phi\\left(-\\frac{z}{\\sigma}\\right) = 2\\Phi\\left(\\frac{z}{\\sigma}\\right) - 1,$ ",
+        "bbox": [
+            103,
+            685,
+            810,
+            720
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF (z) = \\left\\{ \\begin{array}{l l} 0, & z <   0, \\\\ 2 \\Phi \\left(\\frac {z}{\\sigma}\\right) - 1, & z \\geqslant 0, \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            365,
+            726,
+            654,
+            778
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$Z_{1}$ 的密度函数为 $f(z) = \\left\\{ \\begin{array}{ll}0, & z\\leqslant 0,\\\\ \\frac{2}{\\sigma}\\varphi \\left(\\frac{z}{\\sigma}\\right), & z > 0. \\end{array} \\right.$ ",
+        "bbox": [
+            103,
+            783,
+            533,
+            835
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$(\\mathrm{II})E(Z) = E(|X_i - \\mu |) = E(|X_1 - \\mu |)$ ",
+        "bbox": [
+            107,
+            841,
+            515,
+            858
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = \\int_ {0} ^ {+ \\infty} z \\cdot \\frac {2}{\\sigma} \\varphi (\\frac {z}{\\sigma}) d z = 2 \\sigma \\int_ {0} ^ {+ \\infty} \\frac {z}{\\sigma} \\varphi (\\frac {z}{\\sigma}) d \\left(\\frac {z}{\\sigma}\\right) \\\\ = 2 \\sigma \\int_ {0} ^ {+ \\infty} t \\varphi (t) d t = \\frac {2 \\sigma}{\\sqrt {2 \\pi}} \\int_ {0} ^ {+ \\infty} t e ^ {- \\frac {t ^ {2}}{2}} d t = \\frac {2 \\sigma}{\\sqrt {2 \\pi}} \\int_ {0} ^ {+ \\infty} e ^ {- \\frac {t ^ {2}}{2}} d \\left(\\frac {t ^ {2}}{2}\\right) = \\frac {2 \\sigma}{\\sqrt {2 \\pi}}, \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            107,
+            841,
+            785,
+            936
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由 $\\frac{2\\sigma}{\\sqrt{2\\pi}} = \\frac{1}{n}\\sum_{i = 1}^{n}Z_{i} = \\overline{Z}$ ，得 $\\sigma$ 的矩估计量为 $\\hat{\\sigma} = \\sqrt{\\frac{\\pi}{2}}\\overline{Z}$ ",
+        "bbox": [
+            125,
+            72,
+            624,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（Ⅲ）似然函数为",
+        "bbox": [
+            127,
+            116,
+            286,
+            134
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL = f \\left(z _ {1}\\right) \\dots f \\left(z _ {n}\\right) = \\frac {2 ^ {n}}{\\sigma^ {n}} \\cdot \\left(\\frac {1}{\\sqrt {2 \\pi}}\\right) ^ {n} \\cdot e ^ {- \\frac {1}{2 \\sigma^ {2}} \\left(z _ {1} ^ {2} + \\dots + z _ {n} ^ {2}\\right)} \\left(z _ {i} > 0, i = 1, 2, \\dots , n\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            193,
+            140,
+            868,
+            176
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln L = n \\ln 2 - n \\ln \\sigma - n \\ln \\sqrt {2 \\pi} - \\frac {1}{2 \\sigma^ {2}} \\left(z _ {1} ^ {2} + \\dots + z _ {n} ^ {2}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            193,
+            186,
+            694,
+            216
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由 $\\frac{\\mathrm{d}}{\\mathrm{d}\\sigma}\\ln L = -\\frac{n}{\\sigma} +\\frac{1}{\\sigma^3} (z_1^2 +\\dots +z_n^2) = 0$ 得 $\\hat{\\sigma} = \\sqrt{\\frac{1}{n}\\sum_{i = 1}^{n}z_i^2},$ ",
+        "bbox": [
+            125,
+            226,
+            684,
+            265
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "故 $\\sigma$ 的最大似然估计量为 $\\hat{\\sigma} = \\sqrt{\\frac{1}{n}\\sum_{i = 1}^{n}Z_i^2}$ ",
+        "bbox": [
+            125,
+            273,
+            513,
+            315
+        ],
+        "page_idx": 7
+    }
+]

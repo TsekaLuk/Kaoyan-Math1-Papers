@@ -1,0 +1,1079 @@
+[
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.283,
+                0.085,
+                0.717,
+                0.113
+            ],
+            "angle": 0,
+            "content": "1992年数学(一）真题解析"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.133,
+                0.149,
+                0.149
+            ],
+            "angle": 0,
+            "content": "一、填空题"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.156,
+                0.318,
+                0.188
+            ],
+            "angle": 0,
+            "content": "(1)【答案】 \\(\\frac{\\mathrm{e}^{x + y} - y\\sin(xy)}{x\\sin(xy) - \\mathrm{e}^{x + y}}.\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.195,
+                0.454,
+                0.208
+            ],
+            "angle": 0,
+            "content": "【解】 \\(\\mathrm{e}^{x + y} + \\cos (xy) = 0\\) 两边对 \\(x\\) 求导得"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.218,
+                0.71,
+                0.248
+            ],
+            "angle": 0,
+            "content": "\\(\\mathrm{e}^{x + y}\\cdot \\left(1 + \\frac{\\mathrm{dy}}{\\mathrm{dx}}\\right) - \\sin (xy)\\cdot \\left(y + x\\frac{\\mathrm{dy}}{\\mathrm{dx}}\\right) = 0\\) ，解得 \\(\\frac{\\mathrm{dy}}{\\mathrm{dx}} = \\frac{\\mathrm{e}^{x + y} - y\\sin(xy)}{x\\sin(xy) - \\mathrm{e}^{x + y}}.\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.257,
+                0.31,
+                0.285
+            ],
+            "angle": 0,
+            "content": "(2)【答案】 \\(\\left\\{\\frac{2}{9}, \\frac{4}{9}, -\\frac{4}{9}\\right\\}\\)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.295,
+                0.705,
+                0.325
+            ],
+            "angle": 0,
+            "content": "【解】 \\(\\frac{\\partial u}{\\partial x} = \\frac{2x}{x^2 + y^2 + z^2}, \\frac{\\partial u}{\\partial y} = \\frac{2y}{x^2 + y^2 + z^2}, \\frac{\\partial u}{\\partial z} = \\frac{2z}{x^2 + y^2 + z^2},\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.334,
+                0.752,
+                0.363
+            ],
+            "angle": 0,
+            "content": "\\(\\left.\\frac{\\partial u}{\\partial x}\\right|_{M} = \\frac{2}{9},\\quad \\left.\\frac{\\partial u}{\\partial y}\\right|_{M} = \\frac{4}{9},\\quad \\left.\\frac{\\partial u}{\\partial z}\\right|_{M} = -\\frac{4}{9}\\) 则 \\(\\mathbf{grad}u\\Big|_M = \\left\\{\\frac{2}{9},\\frac{4}{9}, - \\frac{4}{9}\\right\\} .\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.373,
+                0.203,
+                0.401
+            ],
+            "angle": 0,
+            "content": "(3)【答案】 \\(\\frac{\\pi^2}{2}\\)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.41,
+                0.47,
+                0.424
+            ],
+            "angle": 0,
+            "content": "【解】 \\(f(x)\\) 的傅里叶级数在 \\(x = \\pi\\) 处收敛于"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.284,
+                0.432,
+                0.741,
+                0.462
+            ],
+            "angle": 0,
+            "content": "\\[\n\\frac {f (\\pi - 0) + f (\\pi + 0)}{2} = \\frac {f (\\pi - 0) + f (- \\pi + 0)}{2} = \\frac {\\pi^ {2}}{2}.\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.469,
+                0.461,
+                0.485
+            ],
+            "angle": 0,
+            "content": "(4)【答案】 \\( y = (x + C)\\cos x \\) （\\( C \\) 为任意常数）."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.088,
+                0.491,
+                0.487,
+                0.504
+            ],
+            "angle": 0,
+            "content": "【解】 微分方程 \\( y' + y \\tan x = \\cos x \\) 的通解为"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.205,
+                0.511,
+                0.814,
+                0.537
+            ],
+            "angle": 0,
+            "content": "\\(y = \\left(\\int \\cos x\\cdot \\mathrm{e}^{\\int \\tan x\\mathrm{d}x}\\mathrm{d}x + C\\right)\\cdot \\mathrm{e}^{-\\int \\tan x\\mathrm{d}x} = (x + C)\\cos x(C\\) 为任意常数）."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.547,
+                0.185,
+                0.561
+            ],
+            "angle": 0,
+            "content": "（5）【答案】1."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.088,
+                0.568,
+                0.61,
+                0.583
+            ],
+            "angle": 0,
+            "content": "【解】方法一 因为 \\(\\mathbf{A}\\) 的任意两行都成比例，所以 \\(r(\\mathbf{A})\\leqslant 1\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.59,
+                0.46,
+                0.604
+            ],
+            "angle": 0,
+            "content": "又因为 \\(\\mathbf{A} \\neq \\mathbf{0}\\), 所以 \\(r(\\mathbf{A}) \\geqslant 1\\), 故 \\(r(\\mathbf{A}) = 1\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.612,
+                0.151,
+                0.625
+            ],
+            "angle": 0,
+            "content": "方法二"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.088,
+                0.633,
+                0.602,
+                0.714
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathbf {A} = \\left[ \\begin{array}{c} {a _ {1}} \\\\ {a _ {2}} \\\\ {\\vdots} \\\\ {a _ {n}} \\end{array} \\right] (b _ {1}, b _ {2}, \\dots , b _ {n}) = \\pmb {\\alpha} \\pmb {\\beta} ^ {\\mathrm {T}}, \\text {其 中} \\pmb {\\alpha} = \\left[ \\begin{array}{c} {a _ {1}} \\\\ {a _ {2}} \\\\ {\\vdots} \\\\ {a _ {n}} \\end{array} \\right], \\pmb {\\beta} = \\left[ \\begin{array}{c} {b _ {1}} \\\\ {b _ {2}} \\\\ {\\vdots} \\\\ {b _ {n}} \\end{array} \\right],\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.089,
+                0.722,
+                0.34,
+                0.736
+            ],
+            "angle": 0,
+            "content": "\\[\nr (\\mathbf {A}) = r (\\boldsymbol {\\alpha} \\boldsymbol {\\beta} ^ {\\mathrm {T}}) \\leqslant r (\\boldsymbol {\\alpha}) = 1,\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.088,
+                0.745,
+                0.707,
+                0.759
+            ],
+            "angle": 0,
+            "content": "再由 \\(a_{i}\\neq 0,b_{i}\\neq 0,i = 1,2,\\dots ,n\\) 得 \\(\\mathbf{A}\\neq \\mathbf{O}\\) ，于是 \\(r(A)\\geqslant 1\\) ，故 \\(r(A) = 1\\)"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.058,
+                0.766,
+                0.147,
+                0.781
+            ],
+            "angle": 0,
+            "content": "二、选择题"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.787,
+                0.206,
+                0.801
+            ],
+            "angle": 0,
+            "content": "(1)【答案】 (D)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.808,
+                0.777,
+                0.841
+            ],
+            "angle": 0,
+            "content": "【解】由 \\(\\lim_{x\\to 1^{-}}\\frac{x^2 - 1}{x - 1}\\mathrm{e}^{\\frac{1}{x - 1}} = 2\\lim_{x\\to 1^{-}}\\mathrm{e}^{\\frac{1}{x - 1}} = 0,\\) \\(\\lim_{x\\to 1^{+}}\\frac{x^2 - 1}{x - 1}\\mathrm{e}^{\\frac{1}{x - 1}} = 2\\lim_{x\\to 1^{+}}\\mathrm{e}^{\\frac{1}{x - 1}} = +\\infty ,\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.847,
+                0.456,
+                0.875
+            ],
+            "angle": 0,
+            "content": "得 \\(\\lim_{x\\to 1}\\frac{x^2 - 1}{x - 1}\\mathrm{e}^{\\frac{1}{x - 1}}\\) 不存在但不是 \\(\\infty\\) ，应选(D)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.884,
+                0.205,
+                0.898
+            ],
+            "angle": 0,
+            "content": "（2）【答案】 (C)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.905,
+                0.531,
+                0.935
+            ],
+            "angle": 0,
+            "content": "【解】 \\(\\left|(-1)^n\\left(1 - \\cos \\frac{\\alpha}{n}\\right)\\right| = 2\\sin^2\\frac{\\alpha}{2n} \\sim \\frac{\\alpha^2}{2} \\cdot \\frac{1}{n^2},\\)"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.07,
+                0.876,
+                0.125
+            ],
+            "angle": 0,
+            "content": "因为 \\(\\sum_{n=1}^{\\infty} \\frac{\\alpha^2}{2} \\cdot \\frac{1}{n^2}\\) 收敛，所以 \\(\\sum_{n=1}^{\\infty} \\left| (-1)^n \\left(1 - \\cos \\frac{\\alpha}{n}\\right) \\right|\\) 收敛，即 \\(\\sum_{n=1}^{\\infty} (-1)^n \\left(1 - \\cos \\frac{\\alpha}{n}\\right)\\) 绝对收敛，应选(C)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.132,
+                0.201,
+                0.147
+            ],
+            "angle": 0,
+            "content": "（3）【答案】 （B）."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.083,
+                0.153,
+                0.467,
+                0.168
+            ],
+            "angle": 0,
+            "content": "【解】 曲线的切线向量为 \\(\\pmb{T} = \\{1, -2t, 3t^2\\}\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.178,
+                0.926,
+                0.204
+            ],
+            "angle": 0,
+            "content": "由 \\(\\{1, -2t, 3t^2\\} \\cdot \\{1, 2, 1\\} = 0\\) 得 \\(t_1 = \\frac{1}{3}, t_2 = 1\\)，故与平面 \\(x + 2y + z = 4\\) 平行的切线有2条，应选(B)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.213,
+                0.201,
+                0.228
+            ],
+            "angle": 0,
+            "content": "（4）【答案】 (C)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.234,
+                0.586,
+                0.272
+            ],
+            "angle": 0,
+            "content": "【解】 \\(f(x) = \\left\\{ \\begin{array}{ll}2x^{3}, & x < 0,\\\\ 4x^{3}, & x\\geqslant 0, \\end{array} \\right.\\) \\(f^{\\prime}(x) = \\left\\{ \\begin{array}{ll}6x^{2}. & x < 0,\\\\ 12x^{2}, & x > 0, \\end{array} \\right.\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.281,
+                0.53,
+                0.315
+            ],
+            "angle": 0,
+            "content": "显然 \\(f^{\\prime}(0) = f^{\\prime \\prime}(0) = 0\\) ， \\(f''(x) = \\left\\{ \\begin{array}{ll}12x, & x <   0,\\\\ 24x, & x\\geqslant 0, \\end{array} \\right.\\)"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.085,
+                0.322,
+                0.55,
+                0.355
+            ],
+            "angle": 0,
+            "content": "\\[\nf _ {-} ^ {\\prime \\prime} (0) = \\lim  _ {x \\rightarrow 0 ^ {-}} \\frac {f ^ {\\prime \\prime} (x)}{x} = 1 2, \\quad f _ {+} ^ {\\prime \\prime} (0) = \\lim  _ {x \\rightarrow 0 ^ {+}} \\frac {f ^ {\\prime \\prime} (x)}{x} = 2 4,\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.361,
+                0.645,
+                0.376
+            ],
+            "angle": 0,
+            "content": "因为 \\(f_{-}^{\\prime \\prime}(0)\\neq f_{+}^{\\prime \\prime}(0)\\) ，所以 \\(f^{(n)}(0)\\) 存在的最高阶数 \\(n = 2\\) ，应选(C)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.384,
+                0.203,
+                0.398
+            ],
+            "angle": 0,
+            "content": "（5）【答案】 （A)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.054,
+                0.405,
+                0.926,
+                0.461
+            ],
+            "angle": 0,
+            "content": "【解】因为 \\(\\xi_{1}\\) 与 \\(\\xi_{2}\\) 线性无关，所以三元齐次线性方程组 \\(AX = 0\\) 的基础解系中至少含2个解向量，即 \\(3 - r(A)\\geqslant 2\\) ，得 \\(r(\\mathbf{A})\\leqslant 1\\) ，而选项(B)(C)(D)中矩阵的秩都大于1，所以均不对，只有选项（A）正确.三、"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.469,
+                0.639,
+                0.497
+            ],
+            "angle": 0,
+            "content": "(1)【解】由 \\( 1 - \\sqrt{1 - x^2} = -[(1 - x^2)^{\\frac{1}{2}} - 1] \\sim \\frac{1}{2} x^2 (x \\to 0) \\)，得"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.085,
+                0.507,
+                0.744,
+                0.551
+            ],
+            "angle": 0,
+            "content": "\\[\n\\lim  _ {x \\rightarrow 0} \\frac {\\mathrm {e} ^ {x} - \\sin x - 1}{1 - \\sqrt {1 - x ^ {2}}} = \\lim  _ {x \\rightarrow 0} \\frac {\\mathrm {e} ^ {x} - \\sin x - 1}{\\frac {1}{2} x ^ {2}} = \\lim  _ {x \\rightarrow 0} \\frac {\\mathrm {e} ^ {x} - \\cos x}{x} = \\lim  _ {x \\rightarrow 0} (\\mathrm {e} ^ {x} + \\sin x) = 1.\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.561,
+                0.377,
+                0.588
+            ],
+            "angle": 0,
+            "content": "(2)【解】 \\(\\frac{\\partial z}{\\partial x} = f_1' \\cdot \\mathrm{e}^x \\sin y + 2xf_2'\\),"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.085,
+                0.598,
+                0.793,
+                0.664
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} \\frac {\\partial^ {2} z}{\\partial x \\partial y} = e ^ {x} \\sin y \\cdot \\left(f _ {1 1} ^ {\\prime \\prime} \\cdot e ^ {x} \\cos y + 2 y f _ {1 2} ^ {\\prime \\prime}\\right) + f _ {1} ^ {\\prime} \\cdot e ^ {x} \\cos y + 2 x \\left(f _ {2 1} ^ {\\prime \\prime} \\cdot e ^ {x} \\cos y + 2 y f _ {2 2} ^ {\\prime \\prime}\\right) \\\\ = \\frac {1}{2} e ^ {2 x} \\sin 2 y \\cdot f _ {1 1} ^ {\\prime \\prime} + 2 e ^ {x} (y \\sin y + x \\cos y) f _ {1 2} ^ {\\prime \\prime} + f _ {1} ^ {\\prime} \\cdot e ^ {x} \\cos y + 4 x y f _ {2 2} ^ {\\prime \\prime}. \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.673,
+                0.571,
+                0.699
+            ],
+            "angle": 0,
+            "content": "(3)【解】 \\(\\int_{1}^{3} f(x - 2) \\, \\mathrm{d}x = \\int_{1}^{3} f(x - 2) \\, \\mathrm{d}(x - 2) = \\int_{-1}^{1} f(x) \\, \\mathrm{d}x\\)"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.268,
+                0.709,
+                0.595,
+                0.736
+            ],
+            "angle": 0,
+            "content": "\\[\n= \\int_ {- 1} ^ {0} (1 + x ^ {2}) \\mathrm {d} x + \\int_ {0} ^ {1} \\mathrm {e} ^ {- x} \\mathrm {d} x = \\frac {7}{3} - \\frac {1}{\\mathrm {e}}.\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.745,
+                0.616,
+                0.76
+            ],
+            "angle": 0,
+            "content": "四、【解】 特征方程为 \\(\\lambda^2 + 2\\lambda - 3 = 0\\)，特征根为 \\(\\lambda_1 = -3, \\lambda_2 = 1\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.767,
+                0.487,
+                0.782
+            ],
+            "angle": 0,
+            "content": "\\(y^{\\prime \\prime} + 2y^{\\prime} - 3y = 0\\) 的通解为 \\(y = C_1\\mathrm{e}^{-3x} + C_2\\mathrm{e}^x\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.791,
+                0.658,
+                0.817
+            ],
+            "angle": 0,
+            "content": "令 \\(y^{\\prime \\prime} + 2y^{\\prime} - 3y = \\mathrm{e}^{-3x}\\) 的特解为 \\(y_0(x) = ax\\mathrm{e}^{-3x}\\) ，代入得 \\(a = -\\frac{1}{4}\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.826,
+                0.362,
+                0.841
+            ],
+            "angle": 0,
+            "content": "故 \\(y^{\\prime \\prime} + 2y^{\\prime} - 3y = \\mathrm{e}^{-3x}\\) 的通解为"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.29,
+                0.85,
+                0.717,
+                0.876
+            ],
+            "angle": 0,
+            "content": "\\(y = C_{1}\\mathrm{e}^{-3x} + C_{2}\\mathrm{e}^{x} - \\frac{1}{4} x\\mathrm{e}^{-3x}(C_{1},C_{2}\\) 为任意常数）."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.053,
+                0.885,
+                0.473,
+                0.9
+            ],
+            "angle": 0,
+            "content": "五、【解】补充 \\(\\Sigma_{1}:z = 0(x^{2} + y^{2}\\leqslant a^{2})\\) ，取下侧，"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.156,
+                0.907,
+                0.663,
+                0.939
+            ],
+            "angle": 0,
+            "content": "\\[\nI = \\iint_ {\\Sigma} (x ^ {3} + a z ^ {2}) d y d z + (y ^ {3} + a x ^ {2}) d z d x + (z ^ {3} + a y ^ {2}) d x d y\n\\]"
+        }
+    ],
+    [
+        {
+            "type": "equation",
+            "bbox": [
+                0.18,
+                0.071,
+                0.756,
+                0.107
+            ],
+            "angle": 0,
+            "content": "\\[\n= \\left(\\iint_ {\\Sigma + \\Sigma_ {1}} - \\iint_ {\\Sigma_ {1}}\\right) (x ^ {3} + a z ^ {2}) d y d z + (y ^ {3} + a x ^ {2}) d z d x + (z ^ {3} + a y ^ {2}) d x d y,\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.111,
+                0.59,
+                0.147
+            ],
+            "angle": 0,
+            "content": "而 \\(\\iint_{\\Sigma + \\Sigma_1} (x^3 + az^2) \\, \\mathrm{d}y \\, \\mathrm{d}z + (y^3 + ax^2) \\, \\mathrm{d}z \\, \\mathrm{d}x + (z^3 + ay^2) \\, \\mathrm{d}x \\, \\mathrm{d}y\\)"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.089,
+                0.111,
+                0.643,
+                0.301
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} = 3 \\iiint_ {\\Omega} \\left(x ^ {2} + y ^ {2} + z ^ {2}\\right) \\mathrm {d} v = 3 \\int_ {0} ^ {2 \\pi} \\mathrm {d} \\theta \\int_ {0} ^ {\\frac {\\pi}{2}} \\mathrm {d} \\varphi \\int_ {0} ^ {a} r ^ {4} \\sin \\varphi \\mathrm {d} r = \\frac {6 \\pi}{5} a ^ {5}, \\\\ \\iint_ {x _ {1}} \\left(x ^ {3} + a z ^ {2}\\right) d y d z + \\left(y ^ {3} + a x ^ {2}\\right) d z d x + \\left(z ^ {3} + a y ^ {2}\\right) d x d y \\\\ = \\iint_ {\\Sigma_ {1}} a y ^ {2} d x d y = - a \\iint_ {x ^ {2} + y ^ {2} \\leqslant a ^ {2}} y ^ {2} d x d y = - \\frac {a}{2} \\iint_ {x ^ {2} + y ^ {2} \\leqslant a ^ {2}} (x ^ {2} + y ^ {2}) d x d y \\\\ = - \\frac {a}{2} \\int_ {0} ^ {2 \\pi} \\mathrm {d} \\theta \\int_ {0} ^ {a} r ^ {3} \\mathrm {d} r = - \\frac {\\pi}{4} a ^ {5}, \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.086,
+                0.31,
+                0.791,
+                0.343
+            ],
+            "angle": 0,
+            "content": "故 \\(\\iint_{\\Sigma} (x^3 + az^2) \\, \\mathrm{d}y \\, \\mathrm{d}z + (y^3 + ax^2) \\, \\mathrm{d}z \\, \\mathrm{d}x + (z^3 + ay^2) \\, \\mathrm{d}x \\, \\mathrm{d}y = \\frac{6\\pi}{5} a^5 + \\frac{\\pi}{4} a^5 = \\frac{29}{20}\\pi a^5.\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.057,
+                0.347,
+                0.521,
+                0.362
+            ],
+            "angle": 0,
+            "content": "六、【解】 不妨设 \\(0 < x_{1} < x_{2}\\)，由拉格朗日中值定理得"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.273,
+                0.368,
+                0.747,
+                0.385
+            ],
+            "angle": 0,
+            "content": "\\(f(x_{1}) = f(x_{1}) - f(0) = f^{\\prime}(\\xi_{1})x_{1}\\)，其中 \\(0 < \\xi_{1} < x_{1}\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.257,
+                0.389,
+                0.765,
+                0.406
+            ],
+            "angle": 0,
+            "content": "\\(f(x_{1} + x_{2}) - f(x_{2}) = f^{\\prime}(\\xi_{2})x_{1}\\) ，其中 \\(x_{2} <   \\xi_{2} <   x_{1} + x_{2}\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.411,
+                0.738,
+                0.427
+            ],
+            "angle": 0,
+            "content": "因为 \\(f''(x) < 0\\) ，所以 \\(f'(x)\\) 单调递减，又因为 \\(\\xi_1 < \\xi_2\\) ，所以 \\(f'(\\xi_1) > f'(\\xi_2)\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.433,
+                0.663,
+                0.448
+            ],
+            "angle": 0,
+            "content": "即 \\(f(x_{1}) > f(x_{1} + x_{2}) - f(x_{2})\\) ，故 \\(f(x_{1} + x_{2}) <   f(x_{1}) + f(x_{2}).\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.057,
+                0.454,
+                0.609,
+                0.469
+            ],
+            "angle": 0,
+            "content": "七、【解】 直线段 \\(OM: x = \\xi t, y = \\eta t, z = \\zeta t, t\\) 从0到1，功 \\(W\\) 为"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.291,
+                0.475,
+                0.726,
+                0.503
+            ],
+            "angle": 0,
+            "content": "\\[\nW = \\int_ {O M} y z \\mathrm {d} x + z x \\mathrm {d} y + x y \\mathrm {d} z = \\int_ {0} ^ {1} 3 \\xi \\eta \\zeta t ^ {2} \\mathrm {d} t = \\xi \\eta \\zeta .\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.51,
+                0.722,
+                0.542
+            ],
+            "angle": 0,
+            "content": "下面求 \\(W = \\xi \\eta \\zeta\\) 在条件 \\(\\frac{\\xi^2}{a^2} +\\frac{\\eta^2}{b^2} +\\frac{\\zeta^2}{c^2} = 1(\\xi \\geqslant 0,\\eta \\geqslant 0,\\zeta \\geqslant 0)\\) 下的最大值."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.548,
+                0.486,
+                0.579
+            ],
+            "angle": 0,
+            "content": "令 \\(F(\\xi, \\eta, \\zeta, \\lambda) = \\xi \\eta \\zeta + \\lambda \\left(1 - \\frac{\\xi^2}{a^2} - \\frac{\\eta^2}{b^2} - \\frac{\\zeta^2}{c^2}\\right)\\)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.588,
+                0.434,
+                0.733
+            ],
+            "angle": 0,
+            "content": "由 \\(\\left\\{ \\begin{array}{l} \\frac{\\partial F}{\\partial \\xi} = 0, \\\\ \\frac{\\partial F}{\\partial \\eta} = 0, \\\\ \\frac{\\partial F}{\\partial \\zeta} = 0, \\\\ \\frac{\\partial F}{\\partial \\lambda} = 0, \\end{array} \\right.\\) 得 \\(\\left\\{ \\begin{array}{l} \\eta \\zeta = \\frac{2\\lambda}{a^2} \\xi, \\\\ \\xi \\zeta = \\frac{2\\lambda}{b^2} \\eta, \\\\ \\xi \\eta = \\frac{2\\lambda}{c^2} \\zeta, \\\\ 1 - \\frac{\\xi^2}{a^2} - \\frac{\\eta^2}{b^2} - \\frac{\\zeta^2}{c^2} = 0. \\end{array} \\right.\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.739,
+                0.534,
+                0.77
+            ],
+            "angle": 0,
+            "content": "从而 \\(\\frac{\\xi^2}{a^2} = \\frac{\\eta^2}{b^2} = \\frac{\\zeta^2}{c^2}\\)，即得 \\(\\frac{\\xi^2}{a^2} = \\frac{\\eta^2}{b^2} = \\frac{\\zeta^2}{c^2} = \\frac{1}{3}\\)。于是得"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.385,
+                0.779,
+                0.637,
+                0.812
+            ],
+            "angle": 0,
+            "content": "\\[\n\\xi = \\frac {a}{\\sqrt {3}}, \\quad \\eta = \\frac {b}{\\sqrt {3}}, \\quad \\zeta = \\frac {c}{\\sqrt {3}},\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.82,
+                0.391,
+                0.849
+            ],
+            "angle": 0,
+            "content": "由问题的实际意义知 \\(W_{\\max} = \\frac{\\sqrt{3}}{9} abc\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.057,
+                0.857,
+                0.594,
+                0.873
+            ],
+            "angle": 0,
+            "content": "八、【证明】（1）因为 \\(\\alpha_{2},\\alpha_{3},\\alpha_{4}\\) 线性无关，所以 \\(\\alpha_{2},\\alpha_{3}\\) 线性无关，"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.086,
+                0.879,
+                0.57,
+                0.894
+            ],
+            "angle": 0,
+            "content": "又因为 \\(\\alpha_{1},\\alpha_{2},\\alpha_{3}\\) 线性相关，所以 \\(\\pmb{\\alpha}_{1}\\) 可由 \\(\\alpha_{2},\\alpha_{3}\\) 线性表示"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.901,
+                0.377,
+                0.916
+            ],
+            "angle": 0,
+            "content": "(2) \\(\\pmb{\\alpha}_{4}\\) 不可由 \\(\\pmb{\\alpha}_{1},\\pmb{\\alpha}_{2},\\pmb{\\alpha}_{3}\\) 线性表示，"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.922,
+                0.603,
+                0.937
+            ],
+            "angle": 0,
+            "content": "若 \\(\\alpha_{4}\\) 可由 \\(\\alpha_{1},\\alpha_{2},\\alpha_{3}\\) 线性表示，因为 \\(\\alpha_{1}\\) 可由 \\(\\alpha_{2},\\alpha_{3}\\) 线性表示，"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.052,
+                0.069,
+                0.871,
+                0.106
+            ],
+            "angle": 0,
+            "content": "所以 \\(\\alpha_{4}\\) 可由 \\(\\alpha_{2},\\alpha_{3}\\) 线性表示，从而 \\(\\alpha_{2},\\alpha_{3},\\alpha_{4}\\) 线性相关，矛盾，所以 \\(\\alpha_{4}\\) 不可由 \\(\\alpha_{1},\\alpha_{2},\\alpha_{3}\\) 线性表示.九、【解】（1）设"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.305,
+                0.114,
+                0.705,
+                0.169
+            ],
+            "angle": 0,
+            "content": "\\[\n\\boldsymbol {\\beta} = x _ {1} \\boldsymbol {\\xi} _ {1} + x _ {2} \\boldsymbol {\\xi} _ {2} + x _ {3} \\boldsymbol {\\xi} _ {3} = (\\boldsymbol {\\xi} _ {1}, \\boldsymbol {\\xi} _ {2}, \\boldsymbol {\\xi} _ {3}) \\left( \\begin{array}{l} x _ {1} \\\\ x _ {2} \\\\ x _ {3} \\end{array} \\right),\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.174,
+                0.387,
+                0.19
+            ],
+            "angle": 0,
+            "content": "对此方程组的增广矩阵作初等行变换"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.219,
+                0.195,
+                0.791,
+                0.252
+            ],
+            "angle": 0,
+            "content": "\\[\n(\\pmb {\\xi} _ {1}, \\pmb {\\xi} _ {2}, \\pmb {\\xi} _ {3}: \\pmb {\\beta}) = \\left(\\begin{array}{c c c c}1&1&1&1\\\\1&2&3&1\\\\1&4&9&3\\end{array}\\right)\\rightarrow \\left(\\begin{array}{c c c c}1&1&1&1\\\\0&1&2&0\\\\0&3&8&2\\end{array}\\right)\\rightarrow \\left(\\begin{array}{c c c c}1&1&1&1\\\\0&1&2&0\\\\0&0&1&1\\end{array}\\right),\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.256,
+                0.48,
+                0.273
+            ],
+            "angle": 0,
+            "content": "得唯一解 \\((2, - 2,1)^{\\mathrm{T}}\\) ，故有 \\(\\pmb {\\beta} = 2\\pmb{\\xi}_{1} - 2\\pmb{\\xi}_{2} + \\pmb{\\xi}_{3}\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.277,
+                0.531,
+                0.293
+            ],
+            "angle": 0,
+            "content": "（2）由于 \\(\\mathbf{A}\\pmb{\\xi}_i = \\lambda_i\\pmb{\\xi}_i\\) ，故 \\(\\pmb{A}^n\\pmb{\\xi}_i = \\lambda_i^n\\pmb{\\xi}_i,i = 1,2,3.\\) 因此"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.21,
+                0.297,
+                0.654,
+                0.377
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} \\boldsymbol {A} ^ {n} \\boldsymbol {\\beta} = \\boldsymbol {A} ^ {n} \\left(2 \\boldsymbol {\\xi} _ {1} - 2 \\boldsymbol {\\xi} _ {2} + \\boldsymbol {\\xi} _ {3}\\right) = 2 \\boldsymbol {A} ^ {n} \\boldsymbol {\\xi} _ {1} - 2 \\boldsymbol {A} ^ {n} \\boldsymbol {\\xi} _ {2} + \\boldsymbol {A} ^ {n} \\boldsymbol {\\xi} _ {3} \\\\ = 2 \\binom {1} {1} - 2 ^ {n + 1} \\binom {1} {2} + 3 ^ {n} \\binom {1} {3} = \\binom {2 - 2 ^ {n + 1} + 3 ^ {n}} {2 - 2 ^ {n + 2} + 3 ^ {n + 1}}. \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.055,
+                0.383,
+                0.143,
+                0.399
+            ],
+            "angle": 0,
+            "content": "十、填空题"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.405,
+                0.199,
+                0.433
+            ],
+            "angle": 0,
+            "content": "(1)【答案】 \\(\\frac{5}{12}\\)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.439,
+                0.562,
+                0.455
+            ],
+            "angle": 0,
+            "content": "【解】由 \\( ABC \\subset AB \\) 且 \\( P(AB) = 0 \\) 得 \\( P(ABC) = 0 \\)，则"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.085,
+                0.459,
+                0.769,
+                0.53
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} P (\\overline {{A}} \\overline {{B}} \\overline {{C}}) = P (\\overline {{A + B + C}}) = 1 - P (A + B + C) \\\\ = 1 - P (A) - P (B) - P (C) + P (A B) + P (A C) + P (B C) - P (A B C) \\\\ = 1 - \\frac {3}{4} + \\frac {1}{6} = \\frac {5}{1 2}. \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.538,
+                0.198,
+                0.565
+            ],
+            "angle": 0,
+            "content": "(2)【答案】 \\(\\frac{4}{3}\\)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.571,
+                0.365,
+                0.587
+            ],
+            "angle": 0,
+            "content": "【解】 随机变量 \\(X\\) 的概率密度为"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.406,
+                0.593,
+                0.61,
+                0.629
+            ],
+            "angle": 0,
+            "content": "\\[\nf (x) = \\left\\{ \\begin{array}{l l} \\mathrm {e} ^ {- x}, & x > 0, \\\\ 0, & x \\leqslant 0, \\end{array} \\right.\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.633,
+                0.631,
+                0.661
+            ],
+            "angle": 0,
+            "content": "则 \\(E(X + \\mathrm{e}^{-2X}) = \\int_{0}^{+\\infty}(x + \\mathrm{e}^{-2x})\\mathrm{e}^{-x}\\mathrm{d}x = \\int_{0}^{+\\infty}x\\mathrm{e}^{-x}\\mathrm{d}x + \\int_{0}^{+\\infty}\\mathrm{e}^{-3x}\\mathrm{d}x\\)"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.22,
+                0.666,
+                0.585,
+                0.695
+            ],
+            "angle": 0,
+            "content": "\\[\n= \\Gamma (2) + \\frac {1}{3} \\int_ {0} ^ {+ \\infty} \\mathrm {e} ^ {- 3 x} \\mathrm {d} (3 x) = 1 + \\frac {1}{3} = \\frac {4}{3}.\n\\]"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.055,
+                0.701,
+                0.38,
+                0.717
+            ],
+            "angle": 0,
+            "content": "十一、【解】 随机变量 \\(X\\) 的概率密度为"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.333,
+                0.722,
+                0.699,
+                0.764
+            ],
+            "angle": 0,
+            "content": "\\[\nf _ {X} (x) = \\frac {1}{\\sqrt {2 \\pi} \\sigma} \\mathrm {e} ^ {- \\frac {(x - \\mu) ^ {2}}{2 \\sigma^ {2}}}, - \\infty <   x <   + \\infty ;\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.769,
+                0.315,
+                0.784
+            ],
+            "angle": 0,
+            "content": "随机变量 \\(Y\\) 的概率密度为"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.384,
+                0.789,
+                0.648,
+                0.841
+            ],
+            "angle": 0,
+            "content": "\\[\nf _ {Y} (y) = \\left\\{ \\begin{array}{l l} \\frac {1}{2 \\pi}, & - \\pi <   y <   \\pi , \\\\ 0, & \\text {其 他} \\end{array} \\right.\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.845,
+                0.6,
+                0.861
+            ],
+            "angle": 0,
+            "content": "因为随机变量 \\(X, Y\\) 相互独立，所以 \\((X, Y)\\) 的联合密度函数为"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.1,
+                0.874,
+                0.787,
+                0.937
+            ],
+            "angle": 0,
+            "content": "\\[\nf (x, y) = f _ {X} (x) f _ {Y} (y) = \\left\\{ \\begin{array}{l l} \\frac {1}{2 \\pi \\sqrt {2 \\pi} \\sigma} \\mathrm {e} ^ {- \\frac {(x - \\mu) ^ {2}}{2 \\sigma^ {2}}}, & - \\infty <   x <   + \\infty , - \\pi <   y <   \\pi , \\\\ 0, & \\text {其 他}. \\end{array} \\right.\n\\]"
+        }
+    ],
+    [
+        {
+            "type": "equation",
+            "bbox": [
+                0.109,
+                0.068,
+                0.764,
+                0.253
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} F _ {Z} (z) = P \\{X + Y \\leqslant z \\} = \\iint_ {x + y \\leqslant z} f (x, y) d x d y \\\\ = \\frac {1}{2 \\pi} \\int_ {- \\pi} ^ {\\pi} d y \\int_ {- \\infty} ^ {z - y} \\frac {1}{\\sqrt {2 \\pi} \\sigma} e ^ {- \\frac {(x - \\mu) ^ {2}}{2 \\sigma^ {2}}} d x = \\frac {1}{2 \\pi} \\int_ {- \\pi} ^ {\\pi} d y \\int_ {- \\infty} ^ {z - y} \\frac {1}{\\sqrt {2 \\pi}} e ^ {- \\frac {1}{2} (\\frac {x - \\mu}{\\sigma}) ^ {2}} d \\left(\\frac {x - \\mu}{\\sigma}\\right) \\\\ \\xlongequal {\\frac {x - \\mu}{\\sigma} = t} \\frac {1}{2 \\pi} \\int_ {- \\pi} ^ {\\pi} d y \\int_ {- \\infty} ^ {\\frac {z - y - \\mu}{\\sigma}} \\frac {1}{\\sqrt {2 \\pi}} e ^ {- \\frac {t ^ {2}}{2}} d t = \\frac {1}{2 \\pi} \\int_ {- \\pi} ^ {\\pi} \\Phi \\left(\\frac {z - y - \\mu}{\\sigma}\\right) d y \\\\ = - \\frac {\\sigma}{2 \\pi} \\int_ {- \\pi} ^ {\\pi} \\Phi \\left(\\frac {z - y - \\mu}{\\sigma}\\right) d \\left(\\frac {z - y - \\mu}{\\sigma}\\right) \\frac {\\frac {z - y - \\mu}{\\sigma} = t}{2 \\pi} \\frac {\\sigma}{2 \\pi} \\int_ {\\frac {z - \\pi - \\mu}{\\sigma}} ^ {\\frac {z + \\pi - \\mu}{\\sigma}} \\Phi (t) d t, \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.107,
+                0.258,
+                0.341,
+                0.273
+            ],
+            "angle": 0,
+            "content": "故随机变量 \\(Z\\) 的概率密度为"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.321,
+                0.28,
+                0.721,
+                0.311
+            ],
+            "angle": 0,
+            "content": "\\[\nf _ {Z} (z) = \\frac {1}{2 \\pi} \\left[ \\Phi \\left(\\frac {z + \\pi - \\mu}{\\sigma}\\right) - \\Phi \\left(\\frac {z - \\pi - \\mu}{\\sigma}\\right) \\right].\n\\]"
+        }
+    ]
+]

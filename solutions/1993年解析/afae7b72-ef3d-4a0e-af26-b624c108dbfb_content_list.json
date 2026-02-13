@@ -1,0 +1,1306 @@
+[
+    {
+        "type": "text",
+        "text": "1993年数学（一）真题解析",
+        "text_level": 1,
+        "bbox": [
+            280,
+            84,
+            716,
+            112
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、填空题",
+        "text_level": 1,
+        "bbox": [
+            57,
+            132,
+            146,
+            147
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)【答案】 $\\left(0, \\frac{1}{4}\\right)$ .",
+        "bbox": [
+            57,
+            154,
+            241,
+            183
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】由 $F^{\\prime}(x) = 2 - \\frac{1}{\\sqrt{x}} = 0$ 得 $x = \\frac{1}{4}$ ，当 $0 < x < \\frac{1}{4}$ 时 $F^{\\prime}(x) < 0$ ",
+        "bbox": [
+            86,
+            190,
+            710,
+            222
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "故 $F(x)$ 的单调减区间为 $\\left(0, \\frac{1}{4}\\right)$ .",
+        "bbox": [
+            88,
+            233,
+            371,
+            258
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)【答案】 $\\left\\{0, \\frac{\\sqrt{10}}{5}, \\frac{\\sqrt{15}}{5}\\right\\}$ .",
+        "bbox": [
+            57,
+            269,
+            311,
+            301
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 旋转曲面方程为 $\\Sigma:3x^{2} + 2y^{2} + 3z^{2} = 12$ ",
+        "bbox": [
+            86,
+            307,
+            504,
+            322
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "法向量为 $n = \\{6x,4y,6z\\}_{(0,\\sqrt{3},\\sqrt{2})} = \\{0,4\\sqrt{3},6\\sqrt{2}\\}$ ",
+        "bbox": [
+            88,
+            330,
+            522,
+            345
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "所求的单位法向量为 $n^0 = \\left\\{0, \\frac{\\sqrt{10}}{5}, \\frac{\\sqrt{15}}{5}\\right\\}$ .",
+        "bbox": [
+            88,
+            355,
+            458,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)【答案】 $\\frac{2\\pi}{3}$ .",
+        "bbox": [
+            59,
+            395,
+            202,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $b_{3} = \\frac{1}{\\pi}\\int_{-\\pi}^{\\pi}f(x)\\sin 3x\\mathrm{d}x = 2\\int_{0}^{\\pi}x\\sin 3x\\mathrm{d}x$ ",
+        "bbox": [
+            88,
+            432,
+            506,
+            459
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= - \\frac {2}{3} \\int_ {0} ^ {\\pi} x \\mathrm {d} (\\cos 3 x) = - \\frac {2}{3} x \\cos 3 x \\left| _ {0} ^ {\\pi} + \\frac {2}{3} \\int_ {0} ^ {\\pi} \\cos 3 x \\mathrm {d} x = \\frac {2 \\pi}{3}. \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            173,
+            468,
+            704,
+            497
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(4)【答案】 $\\frac{1}{x^2 + y^2 + z^2}$ .",
+        "bbox": [
+            59,
+            506,
+            289,
+            536
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 $\\operatorname{grad} u = \\left\\{\\frac{\\partial u}{\\partial x}, \\frac{\\partial u}{\\partial y}, \\frac{\\partial u}{\\partial z}\\right\\} = \\left\\{\\frac{x}{x^2 + y^2 + z^2}, \\frac{y}{x^2 + y^2 + z^2}, \\frac{z}{x^2 + y^2 + z^2}\\right\\},$ ",
+        "bbox": [
+            90,
+            544,
+            741,
+            573
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "则 $\\operatorname{div}(\\mathbf{grad} u) = \\frac{\\partial}{\\partial x}\\left(\\frac{x}{x^2 + y^2 + z^2}\\right) + \\frac{\\partial}{\\partial y}\\left(\\frac{y}{x^2 + y^2 + z^2}\\right) + \\frac{\\partial}{\\partial z}\\left(\\frac{z}{x^2 + y^2 + z^2}\\right)$ ",
+        "bbox": [
+            90,
+            582,
+            739,
+            611
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = \\frac {y ^ {2} + z ^ {2} - x ^ {2}}{\\left(x ^ {2} + y ^ {2} + z ^ {2}\\right) ^ {2}} + \\frac {x ^ {2} + z ^ {2} - y ^ {2}}{\\left(x ^ {2} + y ^ {2} + z ^ {2}\\right) ^ {2}} + \\frac {x ^ {2} + y ^ {2} - z ^ {2}}{\\left(x ^ {2} + y ^ {2} + z ^ {2}\\right) ^ {2}} \\\\ = \\frac {1}{x ^ {2} + y ^ {2} + z ^ {2}}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            216,
+            618,
+            690,
+            688
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(5)【答案】 $X = k(1,1,\\dots ,1)^{\\mathrm{T}}(k$ 为任意常数).",
+        "bbox": [
+            59,
+            694,
+            462,
+            709
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】因为 $r(\\mathbf{A}) = n - 1$ ，所以 $\\mathbf{AX} = \\mathbf{0}$ 的基础解系含一个线性无关的解向量，又因为 $\\mathbf{A}\\left[ \\begin{array}{l}1\\\\ 1\\\\ \\vdots \\\\ 1 \\end{array} \\right] = \\mathbf{0}$ ，所以 $\\mathbf{AX} = \\mathbf{0}$ 的通解为 $\\mathbf{X} = k(1,1,\\dots ,1)^{\\mathrm{T}}(k$ 为任意常数）.",
+        "bbox": [
+            88,
+            715,
+            741,
+            814
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二、选择题",
+        "text_level": 1,
+        "bbox": [
+            59,
+            820,
+            148,
+            835
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)【答案】 (B).",
+        "bbox": [
+            59,
+            840,
+            206,
+            856
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解】 由 $\\lim_{x\\to 0}\\frac{f(x)}{x^3} = \\lim_{x\\to 0}\\frac{\\cos x\\cdot\\sin(\\sin^2x)}{3x^2} = \\frac{1}{3}$ 得 $f(x)\\sim \\frac{1}{3} x^{3}$ ",
+        "bbox": [
+            88,
+            861,
+            659,
+            890
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "又 $g(x)\\sim x^3$ ，故 $f(x)$ 是 $g(x)$ 的同阶但非等价的无穷小，应选(B).",
+        "bbox": [
+            90,
+            899,
+            657,
+            914
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（2）【答案】 （A）.",
+        "bbox": [
+            61,
+            67,
+            210,
+            82
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 双纽线 $(x^{2} + y^{2})^{2} = x^{2} - y^{2}$ 的极坐标方程为 $r^2 = \\cos 2\\theta$ ",
+        "bbox": [
+            90,
+            87,
+            646,
+            103
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由对称性得双纽线所围成的面积为",
+        "bbox": [
+            92,
+            110,
+            378,
+            125
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = 4 \\times \\frac {1}{2} \\int_ {0} ^ {\\frac {\\pi}{4}} \\cos 2 \\theta d \\theta = 2 \\int_ {0} ^ {\\frac {\\pi}{4}} \\cos 2 \\theta d \\theta ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            345,
+            130,
+            683,
+            161
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "应选(A). ",
+        "bbox": [
+            92,
+            168,
+            173,
+            183
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）【答案】 (C).",
+        "bbox": [
+            61,
+            190,
+            208,
+            204
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】 直线 $L_{1}$ 的方向向量为 $s_1 = \\{1, - 2,1\\}$ ",
+        "bbox": [
+            90,
+            211,
+            485,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "直线 $L_{2}$ 的方向向量为 $\\pmb{s}_2 = \\{1, - 1,0\\} \\times \\{0,2,1\\} = \\{-1, - 1,2\\}$ ",
+        "bbox": [
+            90,
+            233,
+            648,
+            248
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设两直线的夹角为 $\\theta$ ，由 $\\cos \\theta = \\frac{|s_1 \\cdot s_2|}{|s_1| \\cdot |s_2|} = \\frac{1}{2}$ 得 $\\theta = \\frac{\\pi}{3}$ ，应选(C).",
+        "bbox": [
+            90,
+            255,
+            685,
+            287
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）【答案】 （B）.",
+        "bbox": [
+            61,
+            293,
+            206,
+            308
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】令 $P(x,y) = [f(x) - \\mathrm{e}^x ]\\sin y$ ， $Q(x,y) = -f(x)\\cos y,$ ",
+        "bbox": [
+            88,
+            315,
+            661,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 $\\frac{\\partial Q}{\\partial x} = \\frac{\\partial P}{\\partial y}$ 得 $f^{\\prime}(x) + f(x) - \\mathrm{e}^{x} = 0$ ，即 $f^{\\prime}(x) + f(x) = \\mathrm{e}^{x}$ ",
+        "bbox": [
+            90,
+            337,
+            632,
+            367
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "解得 $f(x) = \\left[\\int \\mathrm{e}^{x}\\cdot \\mathrm{e}^{\\int \\mathrm{d}x}\\mathrm{d}x + C\\right]\\mathrm{e}^{-\\int \\mathrm{d}x} = \\left(\\frac{1}{2}\\mathrm{e}^{2x} + C\\right)\\mathrm{e}^{-x},$ ",
+        "bbox": [
+            90,
+            374,
+            584,
+            403
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "再由 $f(0) = 0$ 得 $C = -\\frac{1}{2}$ ，故 $f(x) = \\frac{\\mathrm{e}^x - \\mathrm{e}^{-x}}{2}$ ，应选(B).",
+        "bbox": [
+            90,
+            412,
+            584,
+            441
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（5）【答案】 (C).",
+        "bbox": [
+            61,
+            449,
+            206,
+            464
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解】由 $PQ = O$ 得 $r(P) + r(Q) \\leqslant 3$ ，当 $t \\neq 6$ 时 $r(Q) = 2$ ，则 $r(P) \\leqslant 1$ ",
+        "bbox": [
+            88,
+            470,
+            723,
+            486
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "再由 $\\pmb{P}$ 为非零矩阵得 $r(P)\\geqslant 1$ ，故 $r(P) = 1$ ，应选(C).",
+        "bbox": [
+            90,
+            491,
+            545,
+            506
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、",
+        "bbox": [
+            61,
+            513,
+            92,
+            528
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)【解】 $\\lim_{x\\to \\infty}\\left(\\sin {\\frac{2}{x}} + \\cos {\\frac{1}{x}}\\right)^{x} = \\lim_{x\\to \\infty}\\left\\{\\left[1 + \\left(\\sin {\\frac{2}{x}} + \\cos {\\frac{1}{x}} - 1\\right)\\right]^{\\frac{1}{\\sin{\\frac{2}{x}} + \\cos{\\frac{1}{x}} - 1}}\\right\\} x\\cdot \\left(\\sin {\\frac{2}{x}} + \\cos {\\frac{1}{x}} - 1\\right)$ ",
+        "bbox": [
+            59,
+            535,
+            855,
+            576
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\mathrm {e} ^ {\\lim  _ {x \\rightarrow \\infty} \\frac {\\sin \\frac {2}{x} + \\cos \\frac {1}{x} - 1}{\\frac {1}{x}}} = \\mathrm {e} ^ {\\lim  _ {t \\rightarrow 0} \\frac {\\sin 2 t + \\cos t - 1}{t}} = \\mathrm {e} ^ {2}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            340,
+            583,
+            667,
+            623
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）【解】 方法一",
+        "bbox": [
+            61,
+            629,
+            214,
+            644
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int \\frac {x \\mathrm {e} ^ {x}}{\\sqrt {\\mathrm {e} ^ {x} - 1}} \\mathrm {d} x = \\int \\frac {x \\mathrm {d} (\\mathrm {e} ^ {x} - 1)}{\\sqrt {\\mathrm {e} ^ {x} - 1}} = 2 \\int x \\mathrm {d} (\\sqrt {\\mathrm {e} ^ {x} - 1}) = 2 x \\sqrt {\\mathrm {e} ^ {x} - 1} - 2 \\int \\sqrt {\\mathrm {e} ^ {x} - 1} \\mathrm {d} x,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            88,
+            650,
+            783,
+            686
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $\\sqrt{\\mathrm{e}^x - 1} = t$ ，即 $x = \\ln (1 + t^{2})$ ，则",
+        "bbox": [
+            90,
+            695,
+            409,
+            712
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\int \\sqrt {e ^ {x} - 1} d x = \\int t \\cdot \\frac {2 t}{1 + t ^ {2}} d t = 2 \\int \\left(1 - \\frac {1}{1 + t ^ {2}}\\right) d t = 2 t - 2 \\arctan t + C \\\\ = 2 \\sqrt {\\mathrm {e} ^ {x} - 1} - 2 \\arctan \\sqrt {\\mathrm {e} ^ {x} - 1} + C, \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            88,
+            719,
+            685,
+            775
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "故 $\\int \\frac{x\\mathrm{e}^x}{\\sqrt{\\mathrm{e}^x - 1}}\\mathrm{d}x = (2x - 4)\\sqrt{\\mathrm{e}^x - 1} +4\\arctan \\sqrt{\\mathrm{e}^x - 1} +C.$ ",
+        "bbox": [
+            90,
+            782,
+            605,
+            816
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方法二 令 $\\sqrt{\\mathrm{e}^x - 1} = t$ ，则 $x = \\ln (1 + t^{2}),\\mathrm{d}x = \\frac{2t}{1 + t^{2}}\\mathrm{d}t,$ ",
+        "bbox": [
+            90,
+            825,
+            601,
+            854
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\int \\frac {x e ^ {x}}{\\sqrt {e ^ {x} - 1}} d x = \\int \\frac {\\ln (1 + t ^ {2}) \\cdot (1 + t ^ {2})}{t} \\cdot \\frac {2 t}{1 + t ^ {2}} d t \\\\ = 2 \\int \\ln (1 + t ^ {2}) d t = 2 t \\ln (1 + t ^ {2}) - 2 \\int \\frac {t \\cdot 2 t}{1 + t ^ {2}} d t \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            90,
+            861,
+            592,
+            933
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = 2 t \\ln \\left(1 + t ^ {2}\\right) - 4 t + 4 \\arctan t + C \\\\ = (2 x - 4) \\sqrt {\\mathrm {e} ^ {x} - 1} + 4 \\arctan \\sqrt {\\mathrm {e} ^ {x} - 1} + C. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            210,
+            71,
+            584,
+            107
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)【解】 将方程 $x^{2}y^{\\prime} + xy = y^{2}$ 化为 $y^\\prime +\\frac{1}{x} y = \\frac{1}{x^2} y^2$ ",
+        "bbox": [
+            59,
+            116,
+            555,
+            143
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $u = y^{-1}$ ，则 $\\frac{\\mathrm{d}u}{\\mathrm{d}x} -\\frac{1}{x} u = -\\frac{1}{x^2},$ ",
+        "bbox": [
+            90,
+            152,
+            373,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "解得 $u = \\left[\\int \\left(-\\frac{1}{x^2}\\right)\\mathrm{e}^{\\int -\\frac{1}{x}\\mathrm{d}x}\\mathrm{d}x + C\\right]\\mathrm{e}^{-\\int -\\frac{1}{x}\\mathrm{d}x} = \\left(\\frac{1}{2x^2} +C\\right)x$ ，即 $\\frac{1}{y} = \\left(\\frac{1}{2x^2} +C\\right)x$ ",
+        "bbox": [
+            90,
+            186,
+            776,
+            219
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $y(1) = 1$ 得 $C = \\frac{1}{2}$ ，故满足条件的特解为 $y = \\frac{2x}{1 + x^2}$ .",
+        "bbox": [
+            90,
+            226,
+            572,
+            255
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "四、【解】 由 $\\sqrt{x^2 + y^2} = \\sqrt{2 - x^2 - y^2}$ 得 $x^{2} + y^{2} = 1$ ",
+        "bbox": [
+            59,
+            262,
+            547,
+            280
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "曲面 $\\Sigma$ 所围成的几何体 $\\Omega = \\{(x, y, z) \\mid x^2 + y^2 \\leqslant 1, \\sqrt{x^2 + y^2} \\leqslant z \\leqslant \\sqrt{2 - x^2 - y^2}\\}$ , 由高斯公式得",
+        "bbox": [
+            84,
+            287,
+            834,
+            325
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\iint_ {z} 2 x z \\mathrm {d} y \\mathrm {d} z + y z \\mathrm {d} z \\mathrm {d} x - z ^ {2} \\mathrm {d} x \\mathrm {d} y = \\iiint_ {\\Omega} (2 z + z - 2 z) \\mathrm {d} v = \\iiint_ {\\Omega} z \\mathrm {d} v \\\\ = \\iint_ {x ^ {2} + y ^ {2} \\leqslant 1} d x d y \\int_ {\\sqrt {x ^ {2} + y ^ {2}}} ^ {\\sqrt {2 - x ^ {2} - y ^ {2}}} z d z = \\iint_ {x ^ {2} + y ^ {2} \\leqslant 1} (1 - x ^ {2} - y ^ {2}) d x d y \\\\ = \\int_ {0} ^ {2 \\pi} d \\theta \\int_ {0} ^ {1} (r - r ^ {3}) d r = \\frac {\\pi}{2}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            86,
+            331,
+            828,
+            438
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "五、【解】 令 $S(x) = \\sum_{n=0}^{\\infty}(n^{2} - n + 1)x^{n}$ ，",
+        "bbox": [
+            59,
+            448,
+            413,
+            481
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $\\lim_{n\\to \\infty}\\left|\\frac{a_{n + 1}}{a_n}\\right| = 1$ 得级数 $\\sum_{n = 0}^{\\infty}(n^{2} - n + 1)x^{n}$ 的收敛半径为 $R = 1$ ",
+        "bbox": [
+            86,
+            484,
+            626,
+            517
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $x = \\pm 1$ 时级数发散，故级数的收敛域为 $(-1,1)$ ",
+        "bbox": [
+            86,
+            521,
+            512,
+            536
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $S(x) = \\sum_{n=0}^{\\infty}(n^{2} - n + 1)x^{n} = x^{2}\\sum_{n=2}^{\\infty}n(n - 1)x^{n - 2} + \\sum_{n=0}^{\\infty}x^{n}$ ",
+        "bbox": [
+            90,
+            544,
+            603,
+            575
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= x ^ {2} \\left(\\sum_ {n = 2} ^ {\\infty} x ^ {n}\\right) ^ {\\prime \\prime} + \\frac {1}{1 - x} = x ^ {2} \\left(\\frac {x ^ {2}}{1 - x}\\right) ^ {\\prime \\prime} + \\frac {1}{1 - x} = \\frac {1 - 2 x + 3 x ^ {2}}{(1 - x) ^ {3}},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            165,
+            580,
+            702,
+            612
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "故 $\\sum_{n = 0}^{\\infty}\\frac{(-1)^n(n^2 - n + 1)}{2^n} = S\\left(-\\frac{1}{2}\\right) = \\frac{22}{27}.$ ",
+        "bbox": [
+            90,
+            619,
+            462,
+            651
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "六、【证明】（1） $f(x) - f(0) = f^{\\prime}(\\xi)x$ $(0 <   \\xi <  x)$ ",
+        "bbox": [
+            59,
+            656,
+            526,
+            673
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $f^{\\prime}(x)\\geqslant k > 0$ 得 $f(x) > f(0) + kx$ ，于是 $\\lim_{x\\to x_0}f(x) = +\\infty .$ ",
+        "bbox": [
+            86,
+            677,
+            630,
+            695
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "再由 $f(0) < 0$ 得 $f(x)$ 在 $(0, +\\infty)$ 内至少有一个零点，",
+        "bbox": [
+            86,
+            701,
+            551,
+            715
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为 $f^{\\prime}(x)\\geqslant k > 0$ ，所以 $f(x)$ 在 $[0, + \\infty)$ 上严格递增，故零点是唯一的.",
+        "bbox": [
+            86,
+            721,
+            704,
+            735
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2) $a^b > b^a$ 等价于 $b \\ln a - a \\ln b > 0$ . ",
+        "bbox": [
+            86,
+            742,
+            398,
+            756
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $f(x) = x\\ln a - a\\ln x$ ， $f(a) = 0$ ",
+        "bbox": [
+            86,
+            763,
+            417,
+            777
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ^ {\\prime} (x) = \\ln a - \\frac {a}{x} > 0 (x > a),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            90,
+            788,
+            363,
+            811
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $\\left\\{ \\begin{array}{l} f(a) = 0, \\\\ f'(x) > 0 (x > a), \\end{array} \\right.$ 得 $f(x) > 0 (x > a)$ ，",
+        "bbox": [
+            86,
+            818,
+            475,
+            853
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $b > a$ 得 $f(b) > 0$ ，故 $a^b > b^a$ ",
+        "bbox": [
+            86,
+            858,
+            373,
+            872
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "七、【解】 令 $\\mathbf{A} = \\begin{pmatrix} 2 & 0 & 0\\\\ 0 & 3 & a\\\\ 0 & a & 3 \\end{pmatrix} ,\\mathbf{X} = \\begin{pmatrix} x_{1}\\\\ x_{2}\\\\ x_{3} \\end{pmatrix} ,f = \\mathbf{X}^{\\mathrm{T}}\\mathbf{A}\\mathbf{X},$ ",
+        "bbox": [
+            59,
+            881,
+            524,
+            936
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "显然矩阵 $\\mathbf{A}$ 的特征值为 $\\lambda_1 = 1, \\lambda_2 = 2, \\lambda_3 = 5$ ",
+        "bbox": [
+            90,
+            70,
+            487,
+            85
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $|\\mathbf{A}| = 10$ 得 $9 - a^{2} = 5$ ，解得 $a = 2$ ，即 $\\mathbf{A} = \\begin{pmatrix} 2 & 0 & 0 \\\\ 0 & 3 & 2 \\\\ 0 & 2 & 3 \\end{pmatrix}$ ",
+        "bbox": [
+            90,
+            92,
+            584,
+            147
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $\\pmb {E} - \\pmb {A} = \\left( \\begin{array}{rrr} - 1 & 0 & 0\\\\ 0 & -2 & -2\\\\ 0 & -2 & -2 \\end{array} \\right)\\sim \\left( \\begin{array}{rrr}1 & 0 & 0\\\\ 0 & 1 & 1\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得 $\\lambda_{1} = 1$ 对应的特征向量为 $\\pmb{\\alpha}_{1} = \\left( \\begin{array}{l}0\\\\ -1\\\\ 1 \\end{array} \\right)$ ",
+        "bbox": [
+            90,
+            156,
+            814,
+            211
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $2E - A = \\begin{pmatrix} 0 & 0 & 0 \\\\ 0 & -1 & -2 \\\\ 0 & -2 & -1 \\end{pmatrix} \\sim \\begin{pmatrix} 0 & 1 & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 0 & 0 \\end{pmatrix}$ 得 $\\lambda_{2} = 2$ 对应的特征向量为 $\\pmb{\\alpha}_{2} = \\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \\end{pmatrix}$ ;",
+        "bbox": [
+            90,
+            219,
+            780,
+            273
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $5\\pmb {E} - \\pmb {A} = \\left( \\begin{array}{rrr}3 & 0 & 0\\\\ 0 & 2 & -2\\\\ 0 & -2 & 2 \\end{array} \\right)\\sim \\left( \\begin{array}{rrr}1 & 0 & 0\\\\ 0 & 1 & -1\\\\ 0 & 0 & 0 \\end{array} \\right)$ 得 $\\lambda_3 = 5$ 对应的特征向量为 $\\alpha_{3} = \\left( \\begin{array}{l}0\\\\ 1\\\\ 1 \\end{array} \\right),$ ",
+        "bbox": [
+            90,
+            283,
+            799,
+            337
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "规范化得 $\\pmb{\\gamma}_{1} = \\frac{1}{\\sqrt{2}}\\binom{0}{-1}$ ， $\\pmb{\\gamma}_{2} = \\binom{1}{0},\\quad \\pmb{\\gamma}_{3} = \\frac{1}{\\sqrt{2}}\\binom{0}{1},$ ",
+        "bbox": [
+            90,
+            347,
+            551,
+            401
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "故正交矩阵为 $Q = \\left[ \\begin{array}{ccc}0 & 1 & 0\\\\ -\\frac{1}{\\sqrt{2}} & 0 & \\frac{1}{\\sqrt{2}}\\\\ \\frac{1}{\\sqrt{2}} & 0 & \\frac{1}{\\sqrt{2}} \\end{array} \\right].$ ",
+        "bbox": [
+            90,
+            409,
+            394,
+            504
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "八、【证明】 显然 $r(\\mathbf{AB}) = n$ ",
+        "bbox": [
+            61,
+            511,
+            318,
+            525
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $r(\\mathbf{AB}) \\leqslant r(\\mathbf{A}), r(\\mathbf{AB}) \\leqslant r(\\mathbf{B})$ 得 $r(\\mathbf{A}) \\geqslant n, r(\\mathbf{B}) \\geqslant n$ .",
+        "bbox": [
+            90,
+            532,
+            582,
+            546
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为矩阵的秩不超过其行数及列数，所以 $r(\\mathbf{A}) \\leqslant n, r(\\mathbf{B}) \\leqslant n$ ，于是 $r(\\mathbf{B}) = n$ ",
+        "bbox": [
+            90,
+            553,
+            739,
+            568
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为矩阵的秩与矩阵的行向量组的秩、列向量组的秩都相等，所以矩阵 $\\pmb{B}$ 的列向量组的秩为 $n$ ，故矩阵 $\\pmb{B}$ 的列向量组线性无关.",
+        "bbox": [
+            90,
+            573,
+            940,
+            609
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "九、【解】 轨迹如右图所示.设在时刻 $t,B$ 位于点 $(x,y)$ 处，则",
+        "bbox": [
+            61,
+            616,
+            574,
+            632
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\mathrm {d} y}{\\mathrm {d} x} = \\frac {(1 + v t) - y}{- x}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            347,
+            637,
+            514,
+            666
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上式两边对 $x$ 求导，得",
+        "bbox": [
+            90,
+            674,
+            278,
+            690
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx \\frac {\\mathrm {d} ^ {2} y}{\\mathrm {d} x ^ {2}} = - v \\frac {\\mathrm {d} t}{\\mathrm {d} x}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            357,
+            695,
+            506,
+            726
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于",
+        "bbox": [
+            90,
+            733,
+            132,
+            748
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（\\*）",
+        "bbox": [
+            735,
+            704,
+            774,
+            717
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/870089ab4858899c01599f7459e6d66e41281e7d312e9a3fa455be6746dbe2b8.jpg",
+        "image_caption": [
+            "九题图"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            789,
+            619,
+            944,
+            735
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} 2 v = \\frac {\\mathrm {d} s}{\\mathrm {d} t} = \\sqrt {1 + \\left(\\frac {\\mathrm {d} y}{\\mathrm {d} x}\\right) ^ {2}} \\cdot \\frac {\\mathrm {d} x}{\\mathrm {d} t}, \\\\ \\frac {\\mathrm {d} t}{\\mathrm {d} x} = \\frac {1}{2 v} \\sqrt {1 + \\left(\\frac {\\mathrm {d} y}{\\mathrm {d} x}\\right) ^ {2}}, \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            297,
+            756,
+            615,
+            827
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将上式代入 $(\\ast)$ 式，得到所求的微分方程为",
+        "bbox": [
+            88,
+            835,
+            448,
+            849
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx \\frac {\\mathrm {d} ^ {2} y}{\\mathrm {d} x ^ {2}} + \\frac {1}{2} \\sqrt {1 + \\left(\\frac {\\mathrm {d} y}{\\mathrm {d} x}\\right) ^ {2}} = 0,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            382,
+            857,
+            646,
+            889
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其初值条件为 $y|_{x = -1} = 0, y'|_{x = -1} = 1.$ ",
+        "bbox": [
+            90,
+            896,
+            435,
+            912
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "十、填空题",
+        "text_level": 1,
+        "bbox": [
+            45,
+            70,
+            136,
+            85
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)【答案】 $\\frac{1}{6}$ .",
+        "bbox": [
+            45,
+            92,
+            190,
+            121
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "【解】设 $A_{1} = \\{$ 第一次取到正品 $\\}$ , $A_{2} = \\{$ 第一次取到次品 $\\}$ , $B = \\{$ 第二次取到次品 $\\}$ ,",
+        "bbox": [
+            74,
+            127,
+            789,
+            143
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$P(A_{1}) = \\frac{10}{12},\\quad P(A_{2}) = \\frac{2}{12},\\quad P(B\\mid A_{1}) = \\frac{2}{11},\\quad P(B\\mid A_{2}) = \\frac{1}{11}$ ，则",
+        "bbox": [
+            78,
+            149,
+            688,
+            179
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} P (B) = P \\left(A _ {1}\\right) P \\left(B \\mid A _ {1}\\right) + P \\left(A _ {2}\\right) P \\left(B \\mid A _ {2}\\right) \\\\ = \\frac {1 0}{1 2} \\times \\frac {2}{1 1} + \\frac {2}{1 2} \\times \\frac {1}{1 1} = \\frac {2}{1 2} = \\frac {1}{6}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            80,
+            186,
+            473,
+            236
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)【答案】 $\\left\\{ \\begin{array}{ll} \\frac{1}{4\\sqrt{y}}, & 0 < y < 4, \\\\ 0, & \\text{其他}. \\end{array} \\right.$ ",
+        "bbox": [
+            47,
+            244,
+            334,
+            298
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "【解】 $F_{Y}(y) = P\\{Y \\leqslant y\\} = P\\{X^{2} \\leqslant y\\}$ ，",
+        "bbox": [
+            76,
+            305,
+            440,
+            320
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $y < 0$ 时， $F_{Y}(y) = 0$ ",
+        "bbox": [
+            80,
+            327,
+            289,
+            341
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $y \\geqslant 4$ 时， $F_{Y}(y) = 1$ ",
+        "bbox": [
+            80,
+            348,
+            289,
+            363
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $0 \\leqslant y < 4$ 时， $F_{Y}(y) = P\\{0 \\leqslant X \\leqslant \\sqrt{y}\\} = \\int_{0}^{\\sqrt{y}} \\frac{1}{2} \\mathrm{d}y = \\frac{\\sqrt{y}}{2}$ ，",
+        "bbox": [
+            80,
+            370,
+            615,
+            401
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "即 $F_{Y}(y) = \\left\\{ \\begin{array}{ll}0, & y <   0,\\\\ \\frac{\\sqrt{y}}{2}, & 0\\leqslant y <   4,\\\\ 1, & y\\geqslant 4, \\end{array} \\right.$ 故 $f_{Y}(y) = \\left\\{ \\begin{array}{ll}\\frac{1}{4\\sqrt{y}}, & 0 <   y <   4,\\\\ 0, & \\text{其他}. \\end{array} \\right.$ ",
+        "bbox": [
+            80,
+            409,
+            632,
+            486
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "十一、【解】 $(1)E(X) = \\int_{-\\infty}^{+\\infty}xf(x)\\mathrm{d}x = 0,$ ",
+        "bbox": [
+            47,
+            491,
+            413,
+            518
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $E(X^2) = \\int_{-\\infty}^{+\\infty}x^2 f(x)\\mathrm{d}x = \\int_0^{+\\infty}x^2\\mathrm{e}^{-x}\\mathrm{d}x = \\Gamma (3) = 2$ ，得",
+        "bbox": [
+            92,
+            525,
+            582,
+            551
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD (X) = E \\left(X ^ {2}\\right) - [ E (X) ] ^ {2} = 2.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            92,
+            558,
+            371,
+            576
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) $\\operatorname{Cov}(X, |X|) = E(X|X) - E(X) \\cdot E(|X|)$ , ",
+        "bbox": [
+            92,
+            580,
+            535,
+            597
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由 $E(X|X|) = \\int_{-\\infty}^{+\\infty}x|x|f(x)\\mathrm{d}x = 0$ ，得 $\\operatorname {Cov}(X,|X|) = 0$ ，即 $X$ 与 $|X|$ 不相关.",
+        "bbox": [
+            92,
+            603,
+            785,
+            630
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）设 $F(x,y)$ 为 $(X,|X|)$ 的联合分布函数，",
+        "bbox": [
+            92,
+            636,
+            477,
+            652
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF (1, 1) = P \\{X \\leqslant 1, | X | \\leqslant 1 \\} = P \\{- 1 \\leqslant X \\leqslant 1 \\} = \\int_ {0} ^ {1} e ^ {- x} d x = 1 - \\frac {1}{e},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            92,
+            658,
+            716,
+            686
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ {X} (1) = P \\{X \\leqslant 1 \\} = \\frac {1}{2} \\int_ {- \\infty} ^ {1} e ^ {- | x |} d x = \\frac {1}{2} + \\frac {1}{2} \\int_ {0} ^ {1} e ^ {- x} d x = 1 - \\frac {1}{2 e},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            92,
+            695,
+            665,
+            723
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ {| X |} (1) = P \\{| X | \\leqslant 1 \\} = \\int_ {0} ^ {1} \\mathrm {e} ^ {- | x |} \\mathrm {d} x = 1 - \\frac {1}{\\mathrm {e}},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            92,
+            731,
+            512,
+            760
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因为 $F(1,1)\\neq F_{X}(1)\\cdot F_{|X|}(1)$ ，所以 $X$ 与 $\\mid X\\mid$ 不相互独立.",
+        "bbox": [
+            92,
+            767,
+            615,
+            784
+        ],
+        "page_idx": 4
+    }
+]
