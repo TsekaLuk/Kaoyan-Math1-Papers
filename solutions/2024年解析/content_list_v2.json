@@ -1,0 +1,3096 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2024 年全国硕士研究生入学统一考试试题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                248,
+                92,
+                747,
+                115
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "数学一试题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                426,
+                129,
+                569,
+                153
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、选择题： "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { 1 } \\sim \\mathsf { 1 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "小题，每小题 5 分，共 50 分．下列每题给出的四个选项中，只有一个选项是符合题目要求的"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                162,
+                848,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【1】已知函数 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x ) = \\int _ { 0 } ^ { x } \\mathbf { e } ^ { \\cos t } \\mathrm { d } t"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "g ( x ) = \\int _ { 0 } ^ { \\sin x } \\mathbf { e } ^ { t ^ { 2 } } \\mathrm { d } t"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                216,
+                591,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（A） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为奇函数， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "g ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为偶函数."
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                269,
+                489,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（B） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为偶函数， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "g ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为奇函数."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                269,
+                796,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（C） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "与 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "g ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "均为奇函数."
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                307,
+                433,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（D） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "与 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "g ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "均为偶函数."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                307,
+                744,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（C）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                334,
+                248,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【2】设 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = P ( x , y , z ) , Q = Q ( x , y , z )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "均为连续函数， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Sigma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为曲面 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z = \\sqrt { 1 - x ^ { 2 } - y ^ { 2 } }"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                368,
+                766,
+                391
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "( x { \\geqslant } 0 , y { \\geqslant } 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的上侧，则 P y z Q z x d d d d+ = "
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                409,
+                495,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（A）"
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                460,
+                226,
+                485
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\iint_ {\\Sigma} \\left(\\frac {x}{z} P + \\frac {y}{z} Q\\right) d x d y",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/0fef1201aab73b4d52c9bc89aa4615e7c62284bab114130a4fa75323a84f76b5.jpg"
+                }
+            },
+            "bbox": [
+                231,
+                460,
+                396,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                478,
+                470,
+                507,
+                486
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\iint_ {\\Sigma} \\left(- \\frac {x}{z} P + \\frac {y}{z} Q\\right) d x d y",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/577f695c943dd9809cce6f994708bbf2dc19eb00c5ddf6df55cee9aca40ff19c.jpg"
+                }
+            },
+            "bbox": [
+                515,
+                458,
+                695,
+                499
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（C）"
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                519,
+                226,
+                543
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\iint_ {\\Sigma} \\left(\\frac {x}{z} P - \\frac {y}{z} Q\\right) d x d y",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5db64e2b4d74a41ac32d9bd241250e622a0597c57f132ab2b2106b50e6236384.jpg"
+                }
+            },
+            "bbox": [
+                231,
+                516,
+                396,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（D）"
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                519,
+                517,
+                543
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\iint_ {\\Sigma} \\left(- \\frac {x}{z} P - \\frac {y}{z} Q\\right) d x d y",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/280076a8c9a4a1524180c10bd282ad264db7fdd4859de06e3f3be2350d12d15f.jpg"
+                }
+            },
+            "bbox": [
+                522,
+                516,
+                702,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（A）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                570,
+                248,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【3】已知幂函数 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sum _ { n = 0 } ^ { \\infty } a _ { n } x ^ { n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的和函数为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\ln ( 2 + x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sum _ { n = 0 } n a _ { 2 n } ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "2nna"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                594,
+                630,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1（A）6"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                640,
+                290,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 （B） 3 . "
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                640,
+                460,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（C） 16 ."
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                640,
+                620,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（D） 1 3 ."
+                    }
+                ]
+            },
+            "bbox": [
+                697,
+                640,
+                769,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（A）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                684,
+                248,
+                700
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【4】设函数 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "在区间( 1,1) − 内有定义， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\operatorname* { l i m } _ { x \\to 0 } f ( x ) = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                717,
+                630,
+                740
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（A）当 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\operatorname* { l i m } _ { x \\to 0 } { \\frac { f ( x ) } { x } } = m"
+                            },
+                            {
+                                "type": "text",
+                                "content": "时， "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "f ^ { \\prime } ( 0 ) = m"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（B）当 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "f ^ { \\prime } ( 0 ) = m"
+                            },
+                            {
+                                "type": "text",
+                                "content": "时， "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\operatorname* { l i m } _ { x \\to 0 } { \\frac { f ( x ) } { x } } = m"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（C）当 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\operatorname* { l i m } _ { x \\to 0 } f ^ { \\prime } ( x ) = m"
+                            },
+                            {
+                                "type": "text",
+                                "content": "时， "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "f ^ { \\prime } ( 0 ) = m"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（D）当 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "f ^ { \\prime } ( 0 ) = m"
+                            },
+                            {
+                                "type": "text",
+                                "content": "时， "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\operatorname* { l i m } _ { x \\to 0 } f ^ { \\prime } ( x ) = m"
+                            },
+                            {
+                                "type": "text",
+                                "content": "0x→"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                753,
+                489,
+                890
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2024 全国硕士研究生入学统一考试数学一答案"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                61,
+                458,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "新浪微博@考研数学周洋鑫"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                61,
+                796,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                803,
+                48,
+                845,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                916,
+                502,
+                926
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（B）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                84,
+                248,
+                99
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【5】在空间直角坐标系 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O - x y z"
+                    },
+                    {
+                        "type": "text",
+                        "content": "中，三张平面 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pi _ { i } : a _ { i } x + b _ { i } y + c _ { i } z = d _ { i } "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "i = 1 , 2 , 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "位置关系如图所示, 记 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { \\alpha } _ { i } = ( a _ { i } , b _ { i } , c _ { i } ) , \\pmb { \\beta } _ { i } = ( a _ { i } , b _ { i } , c _ { i } , d _ { i } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",若 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r \\left( \\begin{array} { l } { \\pmb { \\alpha } _ { 1 } } \\\\ { \\pmb { \\alpha } _ { 2 } } \\\\ { \\pmb { \\alpha } _ { 3 } } \\end{array} \\right) = m , r \\left( \\begin{array} { l } { \\pmb { \\beta } _ { 1 } } \\\\ { \\pmb { \\beta } _ { 2 } } \\\\ { \\pmb { \\beta } _ { 3 } } \\end{array} \\right) = n"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 则"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                115,
+                850,
+                199
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（A） "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "m = 1 , n = 2"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（B） "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "m = n = 2"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（C） "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "m = 2 , n = 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（D） "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "m = n = 3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                209,
+                339,
+                322
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8561745929f3f15694857ad2d30723b7cfd5e3576372495900893acfca1237e0.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                500,
+                227,
+                754,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（B）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                338,
+                248,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a【6】设向量 1 = 11− 2 3 a ，若 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha _ { 2 }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "线性相关，且其中任意b1 a两个向量均线性无关，则"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                370,
+                848,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(A) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = 1 , b \\neq - 1"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                498,
+                317,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(B) a b= = −1, 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                415,
+                498,
+                544,
+                514
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(C) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a \\neq - 2 , b = 2"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                535,
+                321,
+                550
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(D)  a b = − = 2, 2 "
+                    }
+                ]
+            },
+            "bbox": [
+                418,
+                535,
+                557,
+                550
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（D）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                562,
+                248,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【7】设 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { A }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是秩为 2 的 3 阶矩阵, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { \\alpha }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是满足 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A } \\mathbf { \\alpha } \\mathbf { \\alpha } { = } \\mathbf { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的非零向量，若对满足 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { \\beta } ^ { \\mathrm { T } } \\pmb { \\alpha } = \\pmb { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的任意向量 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { \\beta }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，均有 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A { \\pmb \\beta } = { \\pmb \\beta }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                595,
+                848,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（A） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的迹为 2."
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                652,
+                329,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（B） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的迹为 5."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                652,
+                640,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（C） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A ^ { 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的迹为 7."
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                686,
+                329,
+                701
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（D） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A ^ { 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的迹为 9."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                686,
+                640,
+                702
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（A）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                719,
+                248,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【8】设随机变量 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X"
+                    },
+                    {
+                        "type": "text",
+                        "content": "与 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Y"
+                    },
+                    {
+                        "type": "text",
+                        "content": "相互独立， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是服从 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N \\big ( 0 , 2 \\big )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的正态分布， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Y"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是服从 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N \\left( - 2 , 2 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的正态分布，若 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P \\left\\{ 2 X + Y < a \\right\\} = P \\left\\{ X > Y \\right\\}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a ="
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                752,
+                848,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（A） − −2 10"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                822,
+                327,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（B） − +2 10"
+                    }
+                ]
+            },
+            "bbox": [
+                531,
+                822,
+                648,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { ~ C ~ } } ) \\ - 2 - { \\sqrt { 6 } }"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                860,
+                317,
+                879
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（D）− +2 6"
+                    }
+                ]
+            },
+            "bbox": [
+                531,
+                860,
+                638,
+                879
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（B）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                889,
+                248,
+                904
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2024 全国硕士研究生入学统一考试数学一答案"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                61,
+                458,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "新浪微博@考研数学周洋鑫"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                61,
+                796,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                803,
+                48,
+                845,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                916,
+                504,
+                926
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【9】设随机变量X的概率密度为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f \\left( x \\right) = \\left\\{ { 2 { \\left( { 1 - x } \\right) } , 0 < x < 1 } \\atop { 0 , } \\quad \\stackrel { \\mathrm { \\tiny ~ \\cdot ~ } } { \\mathrm { \\tiny ~ \\cdot ~ } } { \\hat { \\prod } } \\hat { \\left| { \\Psi } \\right| } \\right."
+                    },
+                    {
+                        "type": "text",
+                        "content": "，在 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X = x"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的条件下，Y 在区间 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( x , 1 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "上服从均匀分布，则 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\operatorname { c o v } ( \\mathrm { { X } , \\mathrm { { Y } ) = } }"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                86,
+                847,
+                156
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 （A） 36 "
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                168,
+                292,
+                202
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 （B） 72 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                168,
+                576,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（C） 17 2"
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                206,
+                277,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（D） 136"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                206,
+                557,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（D）"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                241,
+                248,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【10】设随机变量 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X"
+                    },
+                    {
+                        "type": "text",
+                        "content": "和 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Y"
+                    },
+                    {
+                        "type": "text",
+                        "content": "相互独立，且都服从参数为 λ 的指数分布，令 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Z = \\left| X - Y \\right|"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则下列与 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Z"
+                    },
+                    {
+                        "type": "text",
+                        "content": "服从同一分布的是"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                273,
+                848,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（A） X Y+"
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                338,
+                302,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（B） X Y+2"
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                329,
+                601,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（C）2X"
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                372,
+                278,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（D） X"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                372,
+                571,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（D）"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                392,
+                248,
+                407
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、填空题： "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 { \\sim } 1 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "小题,每小题 5 分,共 30 分"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                429,
+                512,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【11】若 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\operatorname* { l i m } _ { x \\to 0 } { \\frac { \\left( 1 + a x ^ { 2 } \\right) ^ { \\sin x } - 1 } { x ^ { 3 } } } { \\mathrm { = } } 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则a = . 3x "
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                461,
+                566,
+                504
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】6"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                513,
+                233,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2d y 【12】设 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z = f ( u , \\nu )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "有二阶连续导数，且df 1,1 （ ） 3d 4d u v= + ，若 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y = f ( \\cos x , 1 + x ^ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则2d x 0x="
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                546,
+                848,
+                623
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】5"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                630,
+                231,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【13】若 函 数 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x ) = x + 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， 若 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x ) = { \\frac { a _ { 0 } } { 2 } } + \\sum _ { n = 1 } ^ { \\infty } a _ { n } \\cos n x"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x \\in [ 0 , \\pi ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， 则 极 限2 2 1lim sin nn a − = n  → "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                665,
+                848,
+                736
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- { \\frac { 1 } { \\pi } }"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                746,
+                257,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【14】微分方程 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y ^ { \\prime } { = } \\frac { 1 } { \\left( x + y \\right) ^ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，满足条件 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y ( 1 ) = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的解为"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                799,
+                682,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = \\tan ( y + \\frac { \\pi } { 4 } ) - y"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                858,
+                376,
+                889
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2024 全国硕士研究生入学统一考试数学一答案"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                61,
+                458,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "新浪微博@考研数学周洋鑫"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                61,
+                796,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                803,
+                48,
+                845,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                916,
+                502,
+                926
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【15】设实矩阵 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A = \\left( \\begin{array} { c c } { { a + 1 } } & { { a } } \\\\ { { a } } & { { a } } \\end{array} \\right) ~"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，若对任意实向量 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { a } = \\left( { \\begin{array} { l } { x _ { 1 } } \\\\ { x _ { 2 } } \\end{array} } \\right) , \\pmb { \\beta } = \\left( { \\begin{array} { l } { y _ { 1 } } \\\\ { y _ { 2 } } \\end{array} } \\right) ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", =β ，且满足"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\pmb { a } ^ { \\mathrm { T } } \\pmb { A } \\pmb { \\beta } ) ^ { 2 } { \\leqslant } \\pmb { a } ^ { \\mathrm { T } } \\pmb { A } \\pmb { a } \\pmb { \\beta } ^ { \\mathrm { T } } \\pmb { A } \\pmb { \\beta }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "都成立，则 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的取值范围"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                85,
+                768,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a \\geqslant 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                184,
+                273,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【16】随机试验每次成功的概率为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "p"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，现进行三次独立重复实验，已知至少成功一次的条件下全部成功的概率为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac { 4 } { 1 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "则 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "p { = }"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                211,
+                850,
+                274
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac { 2 } { 3 }"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                285,
+                242,
+                319
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、解答题： "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 7 { \\sim } 2 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "小题,共70分．解答应写出文字说明、证明过程或演算步骤"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                325,
+                774,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【17】 （本题满分 10分）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                348,
+                347,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "已知平面区域 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D = \\{ ( x , y ) { \\big | } { \\sqrt { 1 - y ^ { 2 } } } \\leq x \\leq 1 , - 1 \\leq y \\leq 1 \\}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",计算 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\iint _ { D } \\frac { x } { \\sqrt { x ^ { 2 } + y ^ { 2 } } } \\mathrm { d } \\sigma ."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                376,
+                793,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sqrt { 2 } } + \\ln ( 1 + { \\sqrt { 2 } } ) - 2"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                431,
+                374,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【18】 （本题满分 12分）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                460,
+                347,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x , y ) = x ^ { 3 } + y ^ { 3 } - \\left( x + y \\right) ^ { 2 } + 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，曲面 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z = f ( { \\boldsymbol { x } } , { \\boldsymbol { y } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "在(1,1,1) 处的切平面为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T"
+                    },
+                    {
+                        "type": "text",
+                        "content": "与三个坐标面所围有界区域在xoy面的投影为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                486,
+                848,
+                532
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）求 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "T"
+                            },
+                            {
+                                "type": "text",
+                                "content": "的方程"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）求 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "f ( x , y )"
+                            },
+                            {
+                                "type": "text",
+                                "content": "在 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "D"
+                            },
+                            {
+                                "type": "text",
+                                "content": "上的最大值和最小值"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                548,
+                512,
+                595
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】切平面 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x + y + z = 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "；最大值21，最小值1727"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                608,
+                576,
+                642
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【19】 （本题满分 12分）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                644,
+                347,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "二阶可导， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ^ { \\prime } ( 0 ) = f ^ { \\prime } ( 0 ) , \\left| f ^ { \\prime \\prime } ( x ) \\right| \\le 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，证："
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                676,
+                601,
+                696
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                707,
+                542,
+                788
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（1）分别在 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "及 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "处使用泰勒公式展开."
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                804,
+                583,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（2）对于（1）结果两边同时积分."
+                    }
+                ]
+            },
+            "bbox": [
+                206,
+                832,
+                473,
+                847
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2024 全国硕士研究生入学统一考试数学一答案"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                61,
+                458,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "新浪微博@考研数学周洋鑫"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                61,
+                796,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                803,
+                48,
+                845,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                916,
+                504,
+                926
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【20】 （本题满分 12分）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                84,
+                347,
+                99
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "已知有向曲线 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { L }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为球面 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x ^ { 2 } + y ^ { 2 } + z ^ { 2 } = 2 x"
+                    },
+                    {
+                        "type": "text",
+                        "content": "与平面 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 x - z - 1 = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的交线从 z 轴正向往 z轴负向看去为逆时针方向，计算曲线积分"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                110,
+                836,
+                154
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\int_ {L} \\left(6 x y z - y z ^ {2}\\right) d x + 2 x ^ {2} z d y + x y z d z",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/31ad3e3435af252789c0cc6800c71c2669e06f7066d5be7d5a4108bc8a2b5e40.jpg"
+                }
+            },
+            "bbox": [
+                411,
+                168,
+                692,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac { 4 \\pi } { 5 { \\sqrt { 5 } } }"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                212,
+                253,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【21】 （本题满分 12分）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                266,
+                347,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "已知数列 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\{ x _ { n } \\} , \\{ y _ { n } \\} , \\{ z _ { n } \\}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "满足 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x _ { 0 } = - 1 , y _ { 0 } = 0 , z _ { 0 } = 2"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x _ { 0 } = - 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 且 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left\\{ \\begin{array} { c } { { x _ { n } = - 2 x _ { n - 1 } + 2 z _ { n - 1 } } } \\\\ { { y _ { n } = - 2 y _ { n - 1 } - 2 z _ { n - 1 } } } \\\\ { { z _ { n } = - 6 x _ { n - 1 } - 3 y _ { n - 1 } + 3 z _ { n - 1 } } } \\end{array} \\right. ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "记 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha _ { n } = { \\left\\{ \\begin{array} { l l } { x _ { n } } \\\\ { y _ { n } } \\\\ { z _ { n } } \\end{array} \\right\\} }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，写出满足 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha _ { n } = A \\alpha _ { n - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的矩阵 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，并求 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A ^ { n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "及 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x _ { n } , y _ { n } , z _ { n } ( n { = } 1 , 2 , \\cdots )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                296,
+                855,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 0 2 −【答案】 0 2 2A  = − −   ，6 3 3   − −"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                443,
+                389,
+                508
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "A ^ {n} = \\left( \\begin{array}{c c c} - 4 + (- 1) ^ {n + 1} 2 ^ {n} & - 2 + (- 1) ^ {n + 1} 2 ^ {n} & 2 \\\\ 4 + (- 1) ^ {n} 2 ^ {n + 1} & 2 + (- 1) ^ {n} 2 ^ {n + 1} & - 2 \\\\ - 6 & - 3 & 3 \\end{array} \\right),",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/45c91e460fc3891470186c899276a7cc5691b367dcfd0c7ec407a6431e6d1ed6.jpg"
+                }
+            },
+            "bbox": [
+                218,
+                516,
+                581,
+                583
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "x _ {n} = 8 + (- 2) ^ {n}, y _ {n} = - 8 + (- 2) ^ {n + 1}, z _ {n} = 1 2.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/0a17c34198b4001112fa5234ccdd9870a5d36e0480dab6cf21c878e36ca37619.jpg"
+                }
+            },
+            "bbox": [
+                218,
+                594,
+                542,
+                615
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【22】 （本题满分 12分）"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                624,
+                347,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设 总 体 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X \\sim U ( 0 , \\theta )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "未 知 ， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X _ { 1 } , X _ { 2 } \\cdots X _ { n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 简 单 随 机 样 本 ，"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "X _ { _ { ( n ) } } = \\operatorname* { m a x } ( X _ { _ { 1 } } , X _ { _ { 2 } } \\cdots X _ { _ { n } } ) , ~ T _ { _ c } = c X _ { _ { ( n ) } } ."
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                658,
+                840,
+                714
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）求 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "c"
+                            },
+                            {
+                                "type": "text",
+                                "content": "时，使得 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "T _ { c }"
+                            },
+                            {
+                                "type": "text",
+                                "content": "为 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\theta"
+                            },
+                            {
+                                "type": "text",
+                                "content": "的无偏估计."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）记 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "h ( c ) = E ( T _ { c } - \\theta ) ^ { 2 }"
+                            },
+                            {
+                                "type": "text",
+                                "content": "，求 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "c"
+                            },
+                            {
+                                "type": "text",
+                                "content": "使得 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "h ( c )"
+                            },
+                            {
+                                "type": "text",
+                                "content": "取最小值."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                732,
+                591,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "【答案】（1） "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "c = { \\frac { n + 1 } { n } } \\ ; \\ ( 2 ) c = { \\frac { n + 2 } { n + 1 } } ."
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "c = \\frac { n + 1 } { n }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "c = { \\frac { n + 2 } { n + 1 } } ."
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                799,
+                502,
+                833
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2024 全国硕士研究生入学统一考试数学一答案"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                61,
+                458,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "新浪微博@考研数学周洋鑫"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                61,
+                796,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                803,
+                48,
+                845,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                916,
+                502,
+                926
+            ]
+        }
+    ]
+]
