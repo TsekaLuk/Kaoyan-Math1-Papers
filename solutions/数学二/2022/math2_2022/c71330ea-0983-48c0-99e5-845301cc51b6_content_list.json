@@ -1,0 +1,2698 @@
+[
+    {
+        "type": "text",
+        "text": "2022 年数学二试题解析",
+        "text_level": 1,
+        "bbox": [
+            374,
+            93,
+            621,
+            112
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、选择题（ $1 \\sim 1 0$ 小题，每小题 5 分，共 50 分）",
+        "text_level": 1,
+        "bbox": [
+            184,
+            122,
+            631,
+            139
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1）当 $x \\to 0$ 时， $\\alpha ( { x } ) , \\beta ( { x } )$ 是非零无穷小量，给出下列四个命题：",
+        "bbox": [
+            188,
+            149,
+            702,
+            165
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "$\\textcircled{1}$ 若 $\\alpha ( x ) \\sim \\beta ( x )$ ，则 $\\alpha ^ { 2 } ( x ) \\sim \\beta ^ { 2 } ( x )$ ",
+            "$\\textcircled{2}$ 若 $\\alpha ^ { 2 } ( x ) \\sim \\beta ^ { 2 } ( x )$ ，则 $\\alpha ( x ) \\sim \\beta ( x )$ ；",
+            "$\\textcircled{3}$ 若 $\\alpha ( x ) \\sim \\beta ( x )$ ，则 $\\alpha ( x ) - \\beta ( x ) = o ( \\alpha ( x ) )$ ；",
+            "$\\textcircled{4}$ 若 $\\alpha ( x ) - \\beta ( x ) = o ( \\alpha ( x ) )$ ，则 $\\alpha ( x ) \\sim \\beta ( x )$ "
+        ],
+        "bbox": [
+            179,
+            186,
+            537,
+            313
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中正确的序号是",
+        "bbox": [
+            144,
+            326,
+            292,
+            341
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（A） $\\textcircled{1} \\textcircled{2}$ ",
+        "bbox": [
+            189,
+            344,
+            270,
+            360
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（B） $\\textcircled{1} \\textcircled{4}$ ",
+        "bbox": [
+            369,
+            344,
+            445,
+            360
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（C）①③④",
+        "bbox": [
+            546,
+            344,
+            640,
+            360
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（D）②③④",
+        "bbox": [
+            722,
+            344,
+            816,
+            360
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【答案】选(C).",
+        "bbox": [
+            189,
+            363,
+            304,
+            380
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解析】当 $x \\to 0$ 时，若 $\\alpha ( x ) \\sim \\beta ( x )$ ，即 $\\operatorname* { l i m } _ { x \\to 0 } { \\frac { \\alpha ( x ) } { \\beta ( x ) } } = 1$ ，则",
+        "bbox": [
+            188,
+            384,
+            650,
+            414
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\operatorname* { l i m } _ { x \\to 0 } { \\frac { \\alpha ^ { 2 } ( x ) } { \\beta ^ { 2 } ( x ) } } = \\operatorname* { l i m } _ { x \\to 0 } \\left[ { \\frac { \\alpha ( x ) } { \\beta ( x ) } } \\right] ^ { 2 } = 1$ ；且 $\\operatorname* { l i m } _ { x \\to 0 } { \\frac { \\alpha ( x ) - \\beta ( x ) } { \\alpha ( x ) } } = 0$ =0，则α(x)-β(𝑥)=o(α(𝑥))； $\\alpha ( x ) - \\beta ( x ) = o ( \\alpha ( x ) )$ 所以 $\\textcircled{1} \\textcircled{3}$ 正确.",
+        "bbox": [
+            146,
+            428,
+            811,
+            489
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "若 $\\alpha ( x ) - \\beta ( x ) = o ( \\alpha ( x ) )$ ，则 $\\operatorname* { l i m } _ { x \\to 0 } { \\frac { \\alpha ( x ) } { \\beta ( x ) } } = \\operatorname* { l i m } _ { x \\to 0 } { \\frac { \\alpha ( x ) } { \\alpha ( x ) - o ( \\alpha ( x ) ) } } = \\operatorname* { l i m } _ { x \\to 0 } { \\frac { \\alpha ( x ) } { \\alpha ( x ) } } = 1$ lim ，则$\\alpha ( x ) \\sim \\beta ( x )$ ；故 $\\textcircled{4}$ 正确；",
+        "bbox": [
+            144,
+            493,
+            836,
+            555
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "若取 $\\alpha ( x ) = - x , \\beta ( x ) = \\sin x$ ，则当 $x \\to 0$ 时， $\\alpha ^ { 2 } ( x ) \\sim \\beta ^ { 2 } ( x )$ ，但 $\\alpha ( x )$ 与 $\\beta ( x )$ 不是等价无穷小，故 $\\textcircled{2}$ 错误.综上，答案选(C).",
+        "bbox": [
+            144,
+            575,
+            836,
+            621
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（2） $\\int _ { 0 } ^ { 2 } \\mathrm { d } y \\int _ { y } ^ { 2 } \\frac { y } { \\sqrt { 1 + x ^ { 3 } } } \\mathrm { d } x =$ dy",
+        "bbox": [
+            189,
+            630,
+            420,
+            665
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（A） $\\frac { \\sqrt { 2 } } { 6 }$ ",
+        "bbox": [
+            189,
+            678,
+            270,
+            709
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（B） 1",
+        "bbox": [
+            403,
+            682,
+            462,
+            709
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（C） √23",
+        "bbox": [
+            581,
+            678,
+            655,
+            709
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（D） 2",
+        "bbox": [
+            793,
+            682,
+            845,
+            709
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【答案】选（D）.",
+        "bbox": [
+            188,
+            715,
+            327,
+            731
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【解析】交换积分次序得",
+        "bbox": [
+            188,
+            734,
+            381,
+            750
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\int_ {0} ^ {2} \\mathrm {d} y \\int_ {y} ^ {2} \\frac {y}{\\sqrt {1 + x ^ {3}}} \\mathrm {d} x = \\int_ {0} ^ {2} \\mathrm {d} x \\int_ {0} ^ {x} \\frac {y}{\\sqrt {1 + x ^ {3}}} \\mathrm {d} y = \\int_ {0} ^ {2} \\frac {x ^ {2}}{2 \\sqrt {1 + x ^ {3}}} \\mathrm {d} x \\\\ = \\frac {1}{6} \\int_ {0} ^ {2} \\frac {1}{\\sqrt {1 + x ^ {3}}} d (1 + x ^ {3}) = \\frac {1}{3} \\sqrt {1 + x ^ {3}} | _ {0} ^ {2} = \\frac {2}{3}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            240,
+            760,
+            791,
+            851
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（3）设函数 $f ( x )$ 在 $x = x _ { 0 }$ 处有 2 阶导数，则",
+        "bbox": [
+            189,
+            871,
+            531,
+            888
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            247,
+            63
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            751,
+            63
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            38,
+            845,
+            55
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（A）当 $f ( x )$ 在 $x _ { 0 }$ 的某邻域内单调增加时， $f ^ { \\prime } \\left( x _ { 0 } \\right) > 0$ ",
+            "（B）当 $f ^ { \\prime } \\left( x _ { 0 } \\right) > 0$ 时， $f ( x )$ 在 $x _ { 0 }$ 的某邻域内单调增加",
+            "（C）当 $f ( x )$ 在 $x _ { 0 }$ 的某邻域内是凹函数时， $f ^ { \\prime \\prime } { \\bigl ( } x _ { 0 } { \\bigr ) } > 0$ ",
+            "（D）当 $f ^ { \\prime \\prime } { \\bigl ( } x _ { 0 } { \\bigr ) } > 0$ 时， $f ( x )$ 在 $x _ { 0 }$ 的某邻域内是凹函数"
+        ],
+        "bbox": [
+            189,
+            93,
+            608,
+            221
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【答案】选（B）.",
+        "bbox": [
+            189,
+            234,
+            324,
+            249
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解析】依题设，有",
+        "bbox": [
+            189,
+            252,
+            344,
+            267
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ^ {\\prime \\prime} \\left(x _ {0}\\right) = \\lim  _ {x \\rightarrow x _ {0}} \\frac {f ^ {\\prime} (x) - f ^ {\\prime} \\left(x _ {0}\\right)}{x - x _ {0}} \\text {存 在},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            354,
+            277,
+            631,
+            315
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $f ^ { \\prime } \\left( x _ { 0 } \\right) > 0$ 时，有 $\\operatorname* { l i m } _ { x  x _ { 0 } } f ^ { \\prime } ( x ) = f ^ { \\prime } { ( x _ { 0 } ) } > 0$ .由保号性知，存在 $\\delta > 0$ ，当 $x \\in { \\cal U } \\big ( x _ { 0 } , \\delta \\big )$ 时，$f ^ { \\prime } ( x ) > 0$ ，故 $f ( x )$ 在 $x _ { 0 }$ 的某邻域内单调增加.",
+        "bbox": [
+            144,
+            328,
+            836,
+            388
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）设函数 $f ( t )$ 连续，令 $F ( x , y ) = \\int _ { 0 } ^ { x - y } ( x - y - t ) f ( t ) \\mathrm { d } t$ ，则",
+        "bbox": [
+            189,
+            401,
+            684,
+            432
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（A） ${ \\frac { \\partial F } { \\partial x } } = { \\frac { \\partial F } { \\partial y } } , { \\frac { \\partial ^ { 2 } F } { \\partial x ^ { 2 } } } = { \\frac { \\partial ^ { 2 } F } { \\partial y ^ { 2 } } }$ ",
+            "（B） $\\frac { \\partial F } { \\partial x } = \\frac { \\partial F } { \\partial y } , \\frac { \\partial ^ { 2 } F } { \\partial x ^ { 2 } } = - \\frac { \\partial ^ { 2 } F } { \\partial y ^ { 2 } }$ ",
+            "（C） ${ \\frac { \\partial F } { \\partial x } } = - { \\frac { \\partial F } { \\partial y } } , { \\frac { \\partial ^ { 2 } F } { \\partial x ^ { 2 } } } = { \\frac { \\partial ^ { 2 } F } { \\partial y ^ { 2 } } }$ ",
+            "（D） $\\frac { \\partial F } { \\partial x } = - \\frac { \\partial F } { \\partial y } , \\frac { \\partial ^ { 2 } F } { \\partial x ^ { 2 } } = - \\frac { \\partial ^ { 2 } F } { \\partial y ^ { 2 } }$ "
+        ],
+        "bbox": [
+            189,
+            445,
+            803,
+            537
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【答案】选(C).",
+        "bbox": [
+            189,
+            549,
+            304,
+            565
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【解析】由",
+        "bbox": [
+            189,
+            568,
+            273,
+            582
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF (x, y) = \\int_ {0} ^ {x - y} (x - y - t) f (t) \\mathrm {d} t = (x - y) \\int_ {0} ^ {x - y} f (t) \\mathrm {d} t - \\int_ {0} ^ {x - y} t f (t) \\mathrm {d} t,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            183,
+            594,
+            747,
+            627
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则 ",
+        "bbox": [
+            147,
+            642,
+            168,
+            656
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\partial F}{\\partial x} = \\int_ {0} ^ {x - y} f (t) \\mathrm {d} t + (x - y) f (x - y) - (x - y) f (x - y) = \\int_ {0} ^ {x - y} f (t) \\mathrm {d} t,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            208,
+            668,
+            778,
+            702
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            147,
+            737,
+            168,
+            747
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\partial^ {2} F}{\\partial x ^ {2}} = f (x - y);\n$$",
+        "text_format": "latex",
+        "bbox": [
+            423,
+            724,
+            561,
+            757
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\partial F}{\\partial y} = - \\int_ {0} ^ {x - y} f (t) \\mathrm {d} t - (x - y) f (x - y) + (x - y) f (x - y) = - \\int_ {0} ^ {x - y} f (t) \\mathrm {d} t,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            196,
+            780,
+            789,
+            813
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "且 ",
+        "bbox": [
+            147,
+            845,
+            166,
+            858
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\partial^ {2} F}{\\partial y ^ {2}} = f (x - y);\n$$",
+        "text_format": "latex",
+        "bbox": [
+            423,
+            835,
+            561,
+            870
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            245,
+            61
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            749,
+            63
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "故 ",
+        "bbox": [
+            147,
+            104,
+            169,
+            118
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{\\frac {\\partial F}{\\partial x}} = - \\frac {\\partial F}{\\partial y}, {\\frac {\\partial^ {2} F}{\\partial x ^ {2}}} = {\\frac {\\partial^ {2} F}{\\partial y ^ {2}}}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            391,
+            93,
+            606,
+            129
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（5）设 $p$ 为常数，若反常积分 $\\int _ { 0 } ^ { 1 } { \\frac { \\ln x } { x ^ { p } ( 1 - x ) ^ { 1 - p } } } \\mathrm { d } x$ 收敛，则 的取值范围是 $p$ ",
+        "bbox": [
+            189,
+            149,
+            776,
+            185
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（A）",
+        "bbox": [
+            189,
+            204,
+            290,
+            221
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（B）",
+        "bbox": [
+            332,
+            205,
+            430,
+            221
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（C）",
+        "bbox": [
+            473,
+            205,
+            576,
+            221
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（D）",
+        "bbox": [
+            650,
+            205,
+            754,
+            221
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【答案】选（A）.",
+        "bbox": [
+            188,
+            233,
+            327,
+            250
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解析 ${ \\bf { l } } x = 0 , 1$ 为瑕点.对 $\\forall \\varepsilon > 0$ ，由 $\\operatorname* { l i m } _ { x \\to 0 ^ { + } } { \\frac { \\ln x } { x ^ { p } ( 1 - x ) ^ { 1 - p } } } x ^ { p + \\varepsilon } = \\operatorname* { l i m } _ { x \\to 0 ^ { + } } x ^ { \\varepsilon } \\ln x = 0 ,$ lnxx0+知当 $x \\to 0 ^ { + }$ 时， $\\frac { | \\ln x | } { x ^ { p } ( 1 - x ) ^ { 1 - p } } < \\frac { 1 } { x ^ { p + \\varepsilon } }$ xp+e， 而 $\\int _ { 0 } ^ { \\frac { 1 } { 2 } } { \\frac { \\mathrm { d } x } { x ^ { p + \\varepsilon } } }$ xp+e 收敛当且仅当 $p + \\varepsilon < 1$ 时，即$p < 1 - \\varepsilon < 1$ 时.反之，如果 $p \\geqslant 1$ 时，积分 $\\int _ { 0 } ^ { 1 } { \\frac { \\ln x } { x ^ { p } ( 1 - x ) ^ { 1 - p } } } \\mathrm { d } x$ xp(1-x）1-p 显然发散.",
+        "bbox": [
+            144,
+            261,
+            847,
+            407
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $x  - 1$ 时， ${ \\frac { \\ln x } { x ^ { p } ( 1 - x ) ^ { 1 - p } } } \\sim { \\frac { x - 1 } { ( 1 - x ) ^ { 1 - p } } } = - \\ { \\frac { 1 } { ( 1 - x ) ^ { - p } } }$ lnx ，则当 ，即 时收 $- \\ p < 1$ $p > - 1$ 敛；综上， $- 1 < p < 1$ .",
+        "bbox": [
+            144,
+            419,
+            848,
+            470
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（6）设有数列 $\\left\\{ x _ { n } \\right\\}$ ，其中 $x _ { n }$ 满足 $- \\ { \\frac { \\pi } { 2 } } \\leqslant x _ { n } \\leqslant { \\frac { \\pi } { 2 } }$ ，则",
+        "bbox": [
+            189,
+            479,
+            600,
+            505
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（A）若 $\\operatorname* { l i m } _ { n \\to \\infty } \\cos ( \\sin x _ { n } )$ 存在，则 $\\operatorname* { l i m } _ { n \\to \\infty } x _ { n }$ 存在",
+            "（B）若 $\\operatorname* { l i m } _ { n \\to \\infty } \\sin ( \\cos x _ { n } )$ 存在，则 $\\operatorname* { l i m } _ { n \\to \\infty } x _ { n }$ 存在",
+            "（C）若 $\\operatorname* { l i m } _ { n \\to \\infty } \\cos ( \\sin x _ { n } )$ 存在，则 $\\operatorname* { l i m } _ { n \\to \\infty } \\sin x _ { n }$ 存在，但 $\\operatorname* { l i m } _ { n \\to \\infty } x _ { n }$ 不一定存在",
+            "（D）若 $\\operatorname* { l i m } _ { n \\to \\infty } \\sin ( \\cos x _ { n } )$ 存在，则 $\\operatorname* { l i m } _ { n \\to \\infty } { \\cos x _ { n } }$ 存在，但 $\\operatorname* { l i m } _ { n \\to \\infty } x _ { n }$ 不一定存在"
+        ],
+        "bbox": [
+            188,
+            514,
+            749,
+            651
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【答案】选（D）.",
+        "bbox": [
+            188,
+            659,
+            327,
+            675
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【解析】若取 $x _ { n } = ( - 1 ) ^ { n }$ ，则 $\\operatorname* { l i m } _ { n \\to \\infty } \\cos { \\left( \\sin x _ { n } \\right) } = \\cos 1$ ，但 $\\operatorname* { l i m } _ { n \\to \\infty } x _ { n }$ 及 $\\operatorname* { l i m } _ { n \\to \\infty } \\sin x _ { n }$ 均不存在，故排除（A）与（C）；当 $x _ { n } = ( - 1 ) ^ { n }$ 时， $\\operatorname* { l i m } _ { n \\to \\infty } \\sin \\left( \\cos x _ { n } \\right) = \\sin 1$ ，但 $\\operatorname* { l i m } _ { n \\to \\infty } x _ { n }$ 不存在，故排除（B）；所以答案选（D）.",
+        "bbox": [
+            144,
+            682,
+            847,
+            768
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【注】如果注意到 $\\sin x$ 在 $\\left[ - \\frac { \\pi } { 2 } , \\frac { \\pi } { 2 } \\right]$ 上单调增加， $\\textstyle \\cos x$ 在 $\\left[ - \\frac { \\pi } { 2 } , \\frac { \\pi } { 2 } \\right]$ 上不是单调的，则易知（D）正确.",
+        "bbox": [
+            144,
+            772,
+            847,
+            824
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（7）已知 $I _ { 1 } = \\int _ { 0 } ^ { 1 } \\frac { x } { 2 ( 1 + \\cos x ) } \\mathrm { d } x , I _ { 2 } = \\int _ { 0 } ^ { 1 } \\frac { \\ln { ( 1 + x ) } } { 1 + \\cos x } \\mathrm { d } x , I _ { 3 } = \\int _ { 0 } ^ { 1 } \\frac { 2 x } { 1 + \\sin x } \\mathrm { d } x$ 1 In(1+ x) dx,I= ，则L",
+        "bbox": [
+            189,
+            826,
+            805,
+            860
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（A）",
+        "bbox": [
+            189,
+            870,
+            324,
+            889
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            369,
+            871,
+            500,
+            889
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            547,
+            871,
+            675,
+            889
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            722,
+            871,
+            845,
+            889
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            247,
+            63
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            749,
+            63
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "【答案】选(A).",
+        "bbox": [
+            188,
+            85,
+            305,
+            101
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解析】当 $0 < x < 1$ 时， $\\frac { x } { 2 } < \\frac { x } { 1 + x } < \\ln { ( 1 + x ) } < x$ 且 $1 + \\cos x > 1 > { \\frac { 1 + \\sin x } { 2 } }$ ",
+        "bbox": [
+            186,
+            105,
+            805,
+            134
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {x}{2 (1 + \\cos x)} <   \\frac {\\ln (1 + x)}{1 + \\cos x} <   \\frac {x}{1 + \\cos x} <   \\frac {2 x}{1 + \\sin x},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            300,
+            142,
+            687,
+            172
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以 $I _ { 1 } { < } I _ { 2 } { < } I _ { 3 }$ ",
+        "bbox": [
+            181,
+            185,
+            317,
+            203
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（8）设 $\\pmb { A }$ 为三阶矩阵， $\\pmb { \\Lambda } = \\left[ \\begin{array} { c c c } { 1 } & { 0 } & { 0 } \\\\ { 0 } & { - 1 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } \\end{array} \\right]$ ，则 $\\pmb { A }$ 的特征值为 的充分必要条件是",
+        "bbox": [
+            188,
+            215,
+            847,
+            265
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（A）存在可逆矩阵 $\\mathbf { \\nabla } _ { P , Q }$ ，使得 $A = P A Q$ ",
+            "（B）存在可逆矩阵 $\\pmb { P }$ ，使得 $\\pmb { A } = \\pmb { P } \\pmb { A } \\pmb { P } ^ { - 1 }$ ",
+            "（C）存在可逆矩阵 $\\pmb { Q }$ ，使得 $\\pmb { A } = \\pmb { Q } \\pmb { A } \\pmb { Q } ^ { - 1 }$ ",
+            "（D）存在可逆矩阵 $\\pmb { P }$ ，使得 $\\pmb { Q } = \\pmb { P } \\pmb { A } \\pmb { P } ^ { T }$ "
+        ],
+        "bbox": [
+            189,
+            269,
+            517,
+            388
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【答案】选（B）.",
+        "bbox": [
+            186,
+            400,
+            326,
+            416
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解析】若存在可逆矩阵 $\\pmb { P }$ ，使得 $\\pmb { A } = \\pmb { P } \\pmb { A } \\pmb { P } ^ { - 1 }$ ，即 $\\pmb { A }$ 和 $\\pmb { \\varDelta }$ 相似，且 $\\pmb { \\varDelta }$ 的特征值为，所以 $\\pmb { A }$ 的特征值为 $- 1 , 0$ ；",
+        "bbox": [
+            144,
+            428,
+            821,
+            470
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若 $\\pmb { A }$ 的特征值为 $- 1 , 0$ ，则三阶矩阵 $\\pmb { A } \\sim \\pmb { A } = \\left[ \\begin{array} { c c c } { 1 } & { 0 } & { 0 } \\\\ { 0 } & { - 1 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } \\end{array} \\right]$ ，即存在可逆矩阵 $\\pmb { P }$ ，使得 $\\pmb { A } = \\pmb { P } \\pmb { A } \\pmb { P } ^ { - 1 }$ .故答案选（B）.",
+        "bbox": [
+            144,
+            475,
+            842,
+            556
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（9）设矩阵 $A = { \\left[ \\begin{array} { l l l } { 1 } & { 1 } & { 1 } \\\\ { 1 } & { a } & { a ^ { 2 } } \\\\ { 1 } & { b } & { b ^ { 2 } } \\end{array} \\right] } , b = { \\left[ \\begin{array} { l } { 1 } \\\\ { 2 } \\\\ { 4 } \\end{array} \\right] }$ ，则线性方程组 $\\mathbf { \\nabla } A \\mathbf { \\mathbf { x } } = \\mathbf { \\mathbf { b } }$ 的解的情况为",
+        "bbox": [
+            189,
+            575,
+            761,
+            627
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（A）无解",
+        "bbox": [
+            188,
+            640,
+            270,
+            657
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（B）有解",
+        "bbox": [
+            300,
+            642,
+            374,
+            657
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（C）有无穷多解或无解",
+        "bbox": [
+            403,
+            642,
+            586,
+            657
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（D）有唯一解或无解",
+        "bbox": [
+            616,
+            642,
+            781,
+            657
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【答案】选(D).",
+        "bbox": [
+            188,
+            659,
+            305,
+            676
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "【解析】 $\\scriptstyle | A | = { \\left| \\begin{array} { l l l } { 1 } & { 1 } & { 1 } \\\\ { 1 } & { a } & { a ^ { 2 } } \\\\ { 1 } & { b } & { b ^ { 2 } } \\end{array} \\right| } = { \\left| \\begin{array} { l l l } { 1 } & { 1 } & { 1 } \\\\ { 1 } & { a } & { b } \\\\ { 1 } & { a ^ { 2 } } & { b ^ { 2 } } \\end{array} \\right| } = ( a - 1 ) ( b - 1 ) ( b - a )$ ，当 $| A | \\neq 0$ ，即",
+        "bbox": [
+            186,
+            686,
+            786,
+            739
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$a \\neq 1 , b \\neq 1 , a \\neq b$ 时，方程组 $\\pmb { A } \\pmb { x } = \\pmb { b }$ 有唯一解；",
+        "bbox": [
+            181,
+            751,
+            551,
+            768
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $a = 1$ 时， $( A , b ) = { \\left[ \\begin{array} { l l l } { 1 } & { 1 } & { 1 } \\\\ { 1 } & { 1 } & { 1 } \\\\ { 1 } & { b } & { b ^ { 2 } } \\end{array} \\right] } ^ { 1 } 2 \\qquad $ ，方程组 $\\pmb { A } \\pmb { x } = \\pmb { b }$ 无解；",
+        "bbox": [
+            181,
+            778,
+            621,
+            832
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $b = 1$ 时， $\\scriptstyle ( A , b ) = { \\left[ \\begin{array} { l l l } { 1 } & { 1 } & { 1 } \\\\ { 1 } & { a } & { a ^ { 2 } } \\end{array} \\right] } { \\mathrm { 2 } }$ ，方程组 $\\pmb { A } \\pmb { x } = \\pmb { b }$ 无解；",
+        "bbox": [
+            181,
+            853,
+            621,
+            906
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            247,
+            63
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            749,
+            63
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $a = b$ 时， $( A , b ) = { \\left[ \\begin{array} { l l l } { 1 } & { 1 } & { 1 } \\\\ { 1 } & { a } & { a ^ { 2 } } \\\\ { 1 } & { b } & { b ^ { 2 } } \\end{array} \\right] } 2 = { \\left[ \\begin{array} { l l l } { 1 } & { 1 } & { 1 } \\\\ { 1 } & { a } & { a ^ { 2 } } \\\\ { 1 } & { a } & { a ^ { 2 } } \\end{array} \\right] } 2$ ，方程组 $\\pmb { A } \\pmb { x } = \\pmb { b }$ 无解；",
+        "bbox": [
+            181,
+            93,
+            747,
+            148
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此线性方程组 $\\pmb { A } \\pmb { x } = \\pmb { b }$ 有唯一解或无解.",
+        "bbox": [
+            181,
+            158,
+            497,
+            174
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { \\dot { \\theta } } _ { \\mathbf { \\Phi } } \\mathbf { \\dot { \\alpha } } _ { 1 } = \\left[ \\begin{array} { l } { \\lambda } \\\\ { 1 } \\\\ { 1 } \\end{array} \\right] , \\mathbf { \\alpha } _ { 2 } = \\left[ \\begin{array} { l } { 1 } \\\\ { \\lambda } \\\\ { 1 } \\end{array} \\right] , \\mathbf { \\alpha } _ { 3 } = \\left[ \\begin{array} { l } { 1 } \\\\ { 1 } \\\\ { \\lambda } \\end{array} \\right] , \\mathbf { \\alpha } _ { 4 } = \\left[ \\begin{array} { l } { 1 } \\\\ { \\lambda } \\\\ { \\lambda ^ { 2 } } \\end{array} \\right] ,$ 1 （10）设 ，若 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 3 }$ 与 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 4 }$ 等价，则 $\\lambda$ 的取值范围是 ",
+        "bbox": [
+            147,
+            186,
+            848,
+            266
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（A）",
+        "bbox": [
+            189,
+            279,
+            280,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathbf { B } ) \\ \\{ \\lambda | \\lambda \\in R , \\lambda \\neq 2 \\}$ ",
+        "bbox": [
+            579,
+            279,
+            742,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（C） $\\{ \\lambda | \\lambda \\in R$ 且 $\\lambda \\neq - 1 , \\lambda \\neq 2 \\}$ ",
+        "bbox": [
+            189,
+            316,
+            433,
+            332
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\left( \\mathrm { D } \\right) \\ \\{ \\lambda | \\lambda \\in R , \\lambda \\neq - 1 \\}$ ",
+        "bbox": [
+            579,
+            316,
+            757,
+            332
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "【答案】选(C).",
+        "bbox": [
+            188,
+            344,
+            305,
+            361
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "【解析】由 ${ \\left( \\alpha _ { 1 } , \\alpha _ { 2 } , \\alpha _ { 3 } , \\alpha _ { 4 } \\right) } = { \\left[ \\begin{array} { l l l l } { \\lambda } & { 1 } & { 1 } & { 1 } \\\\ { 1 } & { \\lambda } & { 1 } & { \\lambda } \\\\ { 1 } & { 1 } & { \\lambda } & { \\lambda ^ { 2 } } \\end{array} \\right] } \\to { \\left[ \\begin{array} { l l l l } { 1 } & { 1 } & { \\lambda } & { \\lambda ^ { 2 } } \\\\ { 0 } & { \\lambda - 1 } & { 1 - \\lambda } & { \\lambda - \\lambda ^ { 2 } } \\\\ { 0 } & { 1 - \\lambda } & { 1 - \\lambda ^ { 2 } } & { 1 - \\lambda ^ { 3 } } \\end{array} \\right] }$ ",
+        "bbox": [
+            188,
+            370,
+            756,
+            426
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rightarrow \\left[\\begin{array}{c c c c}1&1&\\lambda&\\lambda^ {2}\\\\0&\\lambda - 1&1 - \\lambda&\\lambda - \\lambda^ {2}\\\\0&0&(2 + \\lambda)   (1 - \\lambda)&(\\lambda + 1) ^ {2} (1 - \\lambda)\\end{array}\\right],\n$$",
+        "text_format": "latex",
+        "bbox": [
+            391,
+            444,
+            761,
+            501
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $\\lambda \\neq 1$ 且 $\\lambda \\neq - 2$ 且 $\\lambda \\neq - 1$ 时， $r \\left( \\alpha _ { 1 } , \\alpha _ { 2 } , \\alpha _ { 3 } \\right) = r \\left( \\alpha _ { 1 } , \\alpha _ { 2 } , \\alpha _ { 4 } \\right) = r \\left( \\alpha _ { 1 } , \\alpha _ { 2 } , \\alpha _ { 3 } , \\alpha _ { 4 } \\right) = 3 ,$ ",
+        "bbox": [
+            181,
+            519,
+            845,
+            538
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此时 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 3 }$ 与 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 4 }$ 等价.",
+        "bbox": [
+            146,
+            556,
+            403,
+            574
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $\\lambda = 1$ 时， $\\pmb { \\alpha } _ { 1 } = \\pmb { \\alpha } _ { 2 } = \\pmb { \\alpha } _ { 3 } = \\pmb { \\alpha } _ { 4 }$ ，故 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 3 }$ 与 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 4 }$ 等价.",
+        "bbox": [
+            181,
+            593,
+            685,
+            609
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $\\lambda = - 1$ 时， $( \\alpha _ { 1 } , \\alpha _ { 2 } , \\alpha _ { 3 } , \\alpha _ { 4 } )  { [ \\begin{array} { l l l l } { 1 } & { 1 } & { - 1 } & { 1 } \\\\ { 0 } & { - 2 } & { 2 } & { - 2 } \\\\ { 0 } & { 0 } & { 2 } & { 0 } \\end{array} ] } ,$ ",
+        "bbox": [
+            181,
+            623,
+            588,
+            674
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此时 $r \\big ( \\pmb { \\alpha } _ { 1 } , \\pmb { \\alpha } _ { 2 } , \\pmb { \\alpha } _ { 3 } \\big ) = 3 \\neq r \\big ( \\pmb { \\alpha } _ { 1 } , \\pmb { \\alpha } _ { 2 } , \\pmb { \\alpha } _ { 4 } \\big ) = 2$ ，故 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 3 }$ 与 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 4 }$ 不等价.",
+        "bbox": [
+            144,
+            686,
+            744,
+            703
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $\\lambda = - 2$ 时， $( \\alpha _ { 1 } , \\alpha _ { 2 } , \\alpha _ { 3 } , \\alpha _ { 4 } )  { [ \\begin{array} { l l l l } { 1 } & { 1 } & { - 2 } & { 4 } \\\\ { 0 } & { - 3 } & { 3 } & { - 6 } \\\\ { 0 } & { 0 } & { 0 } & { 3 } \\end{array} ] } ,$ ",
+        "bbox": [
+            181,
+            715,
+            591,
+            766
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此时 $r \\big ( \\pmb { \\alpha } _ { 1 } , \\pmb { \\alpha } _ { 2 } , \\pmb { \\alpha } _ { 3 } \\big ) = 2 \\neq r \\big ( \\pmb { \\alpha } _ { 1 } , \\pmb { \\alpha } _ { 2 } , \\pmb { \\alpha } _ { 4 } \\big ) = 3$ ，故 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 3 }$ 与 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 4 }$ 不等价.",
+        "bbox": [
+            144,
+            778,
+            744,
+            796
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，答案选(C).",
+        "bbox": [
+            181,
+            809,
+            319,
+            824
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "二、填空题（ $1 1 \\sim 1 6$ 小题，每小题5 分，共 30分）",
+        "text_level": 1,
+        "bbox": [
+            184,
+            827,
+            596,
+            844
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（11） $\\operatorname * { l i m } _ { x \\to 0 } \\left( { \\frac { 1 + \\mathrm { e } ^ { x } } { 2 } } \\right) ^ { \\mathrm { c o t } x } = \\qquad .$ ",
+        "bbox": [
+            189,
+            854,
+            465,
+            888
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            245,
+            61
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            751,
+            63
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            38,
+            845,
+            55
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "【答案】 1",
+        "bbox": [
+            188,
+            87,
+            282,
+            115
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "【解析】此为 $^ { 6 6 } 1 ^ { \\infty }$ ”型.",
+        "bbox": [
+            188,
+            131,
+            357,
+            148
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\operatorname* { l i m } _ { x \\to 0 } \\left( { \\frac { 1 + \\mathrm { e } ^ { x } } { 2 } } - 1 \\right) \\cdot \\cot x = \\operatorname* { l i m } _ { x \\to 0 } { \\frac { \\mathrm { e } ^ { x } - 1 } { 2 } } \\cdot { \\frac { \\cos x } { \\sin x } } = { \\frac { 1 } { 2 } }$ ，所以 $\\operatorname* { l i m } _ { x \\to 0 } \\left( { \\frac { 1 + \\mathbf { e } ^ { x } } { 2 } } \\right) ^ { \\mathbf { c o t } x } = \\mathbf { e } ^ { \\frac { 1 } { 2 } }$ ",
+        "bbox": [
+            181,
+            167,
+            836,
+            204
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（12）已知函数 $y = y ( x )$ 是由方程 $x ^ { 2 } + x y + y ^ { 3 } = 3$ 所确定，则 $y ^ { \\prime \\prime } ( 1 ) = \\qquad $ ",
+        "bbox": [
+            188,
+            223,
+            796,
+            241
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "【答案】 $- \\frac { 3 1 } { 3 2 }$ ",
+        "bbox": [
+            188,
+            254,
+            305,
+            282
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "【解析】当 $x = 1$ 时， $y = 1$ ，在方程 $x ^ { 2 } + x y + y ^ { 3 } = 3$ 两边对 $x$ 求导，得",
+        "bbox": [
+            186,
+            297,
+            737,
+            315
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 x + y + x y ^ {\\prime} + 3 y ^ {2} y ^ {\\prime} = 0,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            389,
+            334,
+            594,
+            351
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $x = 1 , y = 1$ 时， $y ^ { \\prime } ( 1 ) = - \\frac { 3 } { 4 }$ ； 在 $2 x + y + x y ^ { \\prime } + 3 y ^ { 2 } y ^ { \\prime } = 0$ 两边对 $_ x$ 求导，得",
+        "bbox": [
+            181,
+            366,
+            788,
+            394
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 + 2 y ^ {\\prime} + x y ^ {\\prime \\prime} + 6 y y ^ {\\prime 2} + 3 y ^ {2} y ^ {\\prime \\prime} = 0,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            352,
+            407,
+            631,
+            426
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将 $x = 1 , y \\left( 1 \\right) = 1 , y ^ { \\prime } \\left( 1 \\right) = - \\ \\frac { 3 } { 4 }$ 代入，得 $y ^ { \\prime \\prime } ( 1 ) = - { \\frac { 3 1 } { 3 2 } }$ ",
+        "bbox": [
+            181,
+            439,
+            591,
+            468
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（13） $\\int _ { 0 } ^ { 1 } { \\frac { 2 x + 3 } { x ^ { 2 } - x + 1 } } \\mathrm { d } x = \\qquad \\quad .$ ",
+        "bbox": [
+            189,
+            483,
+            470,
+            517
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "【答案】 $\\frac { 8 { \\sqrt { 3 } } } { 9 }$ ",
+        "bbox": [
+            188,
+            529,
+            307,
+            561
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            188,
+            575,
+            690,
+            609
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} = \\ln \\left(x ^ {2} - x + 1\\right) \\bigg | _ {0} ^ {1} + 4 \\int_ {0} ^ {1} \\frac {\\mathrm {d} x}{\\left(x - \\frac {1}{2}\\right) ^ {2} + \\frac {3}{4}} \\\\ = \\frac {8}{\\sqrt {3}} \\arctan \\left. \\frac {2 x - 1}{\\sqrt {3}} \\right| _ {0} ^ {1} = \\frac {8 \\sqrt {3}}{9}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            188,
+            575,
+            707,
+            722
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（14）微分方程 $y ^ { \\prime \\prime \\prime } - 2 y ^ { \\prime \\prime } + 5 y ^ { \\prime } = 0$ 的通解为 $y ( x ) = .$ ",
+        "bbox": [
+            189,
+            741,
+            658,
+            760
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "【答案】微分方程 $y ^ { \\prime \\prime \\prime } - 2 y ^ { \\prime \\prime } + 5 y ^ { \\prime } = 0$ 对应的特征方程为 $\\lambda ^ { 3 } - 2 \\lambda ^ { 2 } + 5 \\lambda = 0$ ，解得特征根为 $\\lambda _ { 1 } = 0 , \\lambda _ { 2 , 3 } = 1 \\pm 2 \\mathrm { i }$ ，于是方程的通解为 $y ( x ) { = } C _ { 1 } { + } \\mathrm { e } ^ { x } \\big ( C _ { 2 } \\cos 2 x + C _ { 3 } \\sin 2 x \\big )$ ，其中$C _ { 1 } , C _ { 2 } , C _ { 3 }$ 为任意常数.",
+        "bbox": [
+            144,
+            778,
+            847,
+            869
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            245,
+            61
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            749,
+            63
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（15）已知曲线 $L$ 的极坐标方程为 $r = \\sin 3 \\theta \\Big ( 0 \\leqslant \\theta \\leqslant \\frac { \\pi } { 3 } \\Big )$ ，则曲线 $L$ 与极坐标所围成的面积为_",
+        "bbox": [
+            144,
+            86,
+            847,
+            140
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "【答案】 $\\frac { \\pi } { 1 2 }$ ",
+        "bbox": [
+            188,
+            146,
+            290,
+            171
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\vert S = \\frac { 1 } { 2 } \\int _ { 0 } ^ { \\frac { \\pi } { 3 } } \\sin ^ { 2 } 3 \\theta \\mathrm { d } \\theta \\overset { ^ { 3 \\theta = t } } { = } \\frac { 1 } { 2 } \\cdot \\frac { 1 } { 3 } \\int _ { 0 } ^ { \\pi } \\sin ^ { 2 } t \\mathrm { d } t = \\frac { 1 } { 6 } \\cdot 2 \\cdot \\frac { 1 } { 2 } \\cdot \\frac { \\pi } { 2 } = \\frac { \\pi } { 1 2 } .$ π 30=t1【解析】所求面积为2J0",
+        "bbox": [
+            186,
+            185,
+            843,
+            225
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（16）设 $A$ 为 3阶矩阵，交换 $A$ 的第二行和第三行，再将第二列的-1倍加到第一列，得到矩阵 $\\left[ { \\begin{array} { l l l } { - 2 } & { 1 } & { - 1 } \\\\ { 1 } & { - 1 } & { 0 } \\\\ { - 1 } & { 0 } & { 0 } \\end{array} } \\right]$ ，则 $A ^ { - 1 }$ 的迹 $\\operatorname { t r } \\left( A ^ { - 1 } \\right) =$ ",
+        "bbox": [
+            144,
+            231,
+            847,
+            302
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "【答案】 .",
+        "bbox": [
+            188,
+            306,
+            287,
+            322
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "【解析】依题设，有",
+        "bbox": [
+            188,
+            326,
+            344,
+            341
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array}{c c c} 1 & 0 & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 1 & 0 \\end{array} \\right] A \\left[ \\begin{array}{c c c} 1 & 0 & 0 \\\\ - 1 & 1 & 0 \\\\ 0 & 0 & 1 \\end{array} \\right] = \\left[ \\begin{array}{c c c} - 2 & 1 & - 1 \\\\ 1 & - 1 & 0 \\\\ - 1 & 0 & 0 \\end{array} \\right].\n$$",
+        "text_format": "latex",
+        "bbox": [
+            339,
+            344,
+            658,
+            395
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "于是 $\\cdot A = { \\left[ \\begin{array} { l l l } { 1 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 1 } \\\\ { 0 } & { 1 } & { 0 } \\end{array} \\right] } ^ { - 1 } { \\left[ \\begin{array} { l l l } { - 2 } & { 1 } & { - 1 } \\\\ { 1 } & { - 1 } & { 0 } \\\\ { - 1 } & { 0 } & { 0 } \\end{array} \\right] } { \\left[ \\begin{array} { l l l } { 1 } & { 0 } & { 0 } \\\\ { - 1 } & { 1 } & { 0 } \\\\ { 0 } & { 0 } & { 1 } \\end{array} \\right] } ^ { - 1 } = { \\left[ \\begin{array} { l l l } { 1 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { 1 } \\\\ { 0 } & { 1 } & { 0 } \\end{array} \\right] } { \\left[ \\begin{array} { l l l } { - 2 } & { 1 } & { - 1 } \\\\ { 1 } & { - 1 } & { 0 } \\\\ { - 1 } & { 0 } & { 0 } \\end{array} \\right] } { \\left[ \\begin{array} { l l } { 1 } & { 0 } & { 0 } \\\\ { 1 } & { 1 } & { 0 } \\\\ { 0 } & { 0 } & { 1 } \\end{array} \\right] }$ ",
+        "bbox": [
+            147,
+            400,
+            825,
+            451
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\left[ \\begin{array}{r r r} - 2 & 1 & - 1 \\\\ - 1 & 0 & 0 \\\\ 1 & - 1 & 0 \\end{array} \\right] \\left[ \\begin{array}{r r r} 1 & 0 & 0 \\\\ 1 & 1 & 0 \\\\ 0 & 0 & 1 \\end{array} \\right] = \\left[ \\begin{array}{r r r} - 1 & 1 & - 1 \\\\ - 1 & 0 & 0 \\\\ 0 & - 1 & 0 \\end{array} \\right],\n$$",
+        "text_format": "latex",
+        "bbox": [
+            205,
+            456,
+            549,
+            507
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "于是 $A ^ { - 1 } = { \\left[ \\begin{array} { l l l } { 0 } & { - 1 } & { 0 } \\\\ { 0 } & { 0 } & { - 1 } \\\\ { - 1 } & { 1 } & { - 1 } \\end{array} \\right] } ,$ ，所以 $\\operatorname { t r } \\left( A ^ { - 1 } \\right) = - 1$ .",
+        "bbox": [
+            146,
+            512,
+            512,
+            561
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "三、解答题（ $1 7 \\sim 2 2$ 小题，共70分）",
+        "text_level": 1,
+        "bbox": [
+            186,
+            567,
+            490,
+            583
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（17）（本题满分 10分）",
+        "bbox": [
+            188,
+            586,
+            371,
+            601
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\operatorname* { l i m } _ { x \\to 0 } { \\frac { f \\left( \\operatorname { e } ^ { x ^ { 2 } } \\right) - 3 f { \\bigl ( } 1 + \\sin ^ { 2 } x { \\bigr ) } } { x ^ { 2 } } } = 2$ x²已知函数 $f ( x )$ 在 $x = 1$ 处可导，且 ，求 $f ^ { \\prime } ( 1 )$ .x²",
+        "bbox": [
+            181,
+            607,
+            776,
+            651
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "【解析】由于 $f ( x )$ 在 $x = 1$ 处可导，则 $f ( x )$ 在 $x = 1$ 处连续.由",
+        "bbox": [
+            186,
+            668,
+            650,
+            684
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lim  _ {x \\rightarrow 0} \\frac {f \\left(\\mathrm {e} ^ {x ^ {2}}\\right) - 3 f (1 + \\sin^ {2} x)}{x ^ {2}} = 2,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            359,
+            699,
+            623,
+            744
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "知 $\\operatorname* { l i m } _ { x \\to 0 } \\left[ f \\left( \\operatorname { e } ^ { x ^ { 2 } } \\right) - 3 f ( 1 + \\sin x ) \\right] = - 2 f ( 1 ) = 0$ ，得 $f \\left( 1 \\right) = 0$ .于是 x→0 ",
+        "bbox": [
+            144,
+            753,
+            636,
+            783
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\lim  _ {x \\rightarrow 0} \\frac {f \\left(\\mathrm {e} ^ {x ^ {2}}\\right) - 3 f (1 + \\sin^ {2} x)}{x ^ {2}} = \\lim  _ {x \\rightarrow 0} \\frac {f \\left(\\mathrm {e} ^ {x ^ {2}}\\right) - f (1)}{x ^ {2}} - 3 \\lim  _ {x \\rightarrow 0} \\frac {f (1 + \\sin^ {2} x) - f (1)}{x ^ {2}} \\\\ = \\lim  _ {x \\rightarrow 0} \\frac {f \\left(\\mathrm {e} ^ {x ^ {2}}\\right) - f (1)}{\\mathrm {e} ^ {x ^ {2}} - 1} \\cdot \\frac {\\mathrm {e} ^ {x ^ {2}} - 1}{x ^ {2}} - 3 \\lim  _ {x \\rightarrow 0} \\frac {f (1 + \\sin^ {2} x) - f (1)}{\\sin^ {2} x} \\cdot \\frac {\\sin^ {2} x}{x ^ {2}} \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            147,
+            791,
+            885,
+            895
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            245,
+            61
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            751,
+            63
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= f ^ {\\prime} (1) - 3 f ^ {\\prime} (1) = - 2 f ^ {\\prime} (1) = 2.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            361,
+            93,
+            606,
+            110
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所以 $f ^ { \\prime } ( 1 ) = - 1$ .",
+        "bbox": [
+            144,
+            131,
+            273,
+            146
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（18）（本题满分 12分）",
+        "bbox": [
+            189,
+            160,
+            371,
+            175
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "设 $y ( x )$ 是微分方程 $2 x y ^ { \\prime } - 4 y = 2 \\ln x - 1$ 满足 $y ( 1 ) = \\frac { 1 } { 4 }$ 的解，求曲线",
+        "bbox": [
+            181,
+            181,
+            709,
+            208
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$y = y ( x ) \\left( 1 \\leqslant x \\leqslant e \\right)$ 的弧长.",
+        "bbox": [
+            144,
+            223,
+            361,
+            240
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【解析】原方程变形为 $y ^ { \\prime } - { \\frac { 2 } { x } } y = { \\frac { \\ln x } { x } } - { \\frac { 1 } { 2 x } }$ 由一阶线性微分方程的通解公式得",
+        "bbox": [
+            186,
+            254,
+            811,
+            282
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny (x) = C x ^ {2} - \\frac {1}{2} \\ln x.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            416,
+            291,
+            578,
+            319
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$y ( 1 ) = \\frac { 1 } { 4 }$ ，得 $C = \\frac 1 4$ ，于是 $y ( x ) = { \\frac { 1 } { 4 } } x ^ { 2 } - { \\frac { 1 } { 2 } } \\mathrm { l n } x$ =x² .",
+        "bbox": [
+            146,
+            328,
+            547,
+            356
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "故曲线 $y = y ( x )$ 的弧长为",
+        "bbox": [
+            146,
+            370,
+            342,
+            387
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\int_ {1} ^ {\\mathrm {e}} \\sqrt {1 + y ^ {\\prime 2}} \\mathrm {d} x = \\int_ {1} ^ {\\mathrm {e}} \\sqrt {1 + \\left(\\frac {1}{2} x - \\frac {1}{2 x}\\right) ^ {2}} \\mathrm {d} x = \\int_ {1} ^ {\\mathrm {e}} \\left(\\frac {1}{2} x + \\frac {1}{2 x}\\right) \\mathrm {d} x \\\\ = \\left(\\frac {1}{4} x ^ {2} + \\frac {1}{2} \\ln x\\right) \\bigg | _ {1} ^ {\\mathrm {e}} = \\frac {\\mathrm {e} ^ {2} + 1}{4}. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            247,
+            409,
+            747,
+            489
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（19）（本题满分 12分）",
+        "bbox": [
+            189,
+            493,
+            371,
+            508
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "已知平面区域 $\\left\\{ ( x , y ) | y - 2 \\leq x \\leq { \\sqrt { 4 - y ^ { 2 } } } , 0 \\leq y \\leq 2 \\right\\}$ ，计算 $I = \\iint _ { D } { \\frac { ( x - y ) ^ { 2 } } { x ^ { 2 } + y ^ { 2 } } } \\mathrm { d } x \\mathrm { d } y$ ",
+        "bbox": [
+            181,
+            516,
+            828,
+            557
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【解析】利用极坐标得",
+        "bbox": [
+            188,
+            567,
+            363,
+            583
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} I = \\iint_ {D} \\frac {(x - y) ^ {2}}{x ^ {2} + y ^ {2}} \\mathrm {d} x \\mathrm {d} y \\\\ = \\int_ {0} ^ {\\frac {\\pi}{2}} \\mathrm {d} \\theta \\int_ {0} ^ {2} \\frac {\\left(r \\cos \\theta - r \\sin \\theta\\right) ^ {2}}{r ^ {2}} r \\mathrm {d} r + \\int_ {\\frac {\\pi}{2}} ^ {\\pi} \\mathrm {d} \\theta \\int_ {0} ^ {\\frac {2}{\\sin \\theta - \\cos \\theta}} \\frac {\\left(r \\cos \\theta - r \\sin \\theta\\right) ^ {2}}{r ^ {2}} r \\mathrm {d} r \\\\ = 2 \\int_ {0} ^ {\\frac {\\pi}{2}} (1 - 2 \\cos \\theta \\sin \\theta) d \\theta + 2 \\int_ {\\frac {\\pi}{2}} ^ {\\pi} d \\theta = 2 \\pi - 2. \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            183,
+            590,
+            794,
+            746
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（20）（本题满分 12分）",
+        "bbox": [
+            198,
+            753,
+            381,
+            768
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "已知可微函数 $f ( u , v )$ 满足 ${ \\frac { \\partial f ( u , v ) } { \\partial u } } - { \\frac { \\partial f ( u , v ) } { \\partial v } } = 2 ( u - v ) \\mathrm { e } ^ { - ( u + v ) }$ ，且 $f ( u , 0 ) = u ^ { 2 } \\mathrm { e } ^ { - u }$ ",
+        "bbox": [
+            189,
+            772,
+            847,
+            801
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（I）记 $\\operatorname { g } ( x , y ) = f ( x , y - x )$ ，求 $\\frac { \\partial \\mathrm { g } } { \\partial x }$ ",
+            "（II）求 $f ( u , v )$ 的表达式和极值."
+        ],
+        "bbox": [
+            198,
+            810,
+            482,
+            869
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "【解析】（I）",
+        "bbox": [
+            196,
+            882,
+            290,
+            898
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            245,
+            61
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            749,
+            63
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {\\partial \\mathrm {g}}{\\partial x} = f _ {1} ^ {\\prime} (x, y - x) = f _ {2} ^ {\\prime} (x, y - x) = 2 (x - (y - x)) \\mathrm {e} ^ {- (x + y - x)} = 2 (2 x - y) \\mathrm {e} ^ {- y}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            193,
+            87,
+            779,
+            116
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（II）由（I）知 $\\mathrm { g } ( x , y ) = 2 \\bigl ( x ^ { 2 } - x y \\bigr ) \\mathrm { e } ^ { - y } + C ( y )$ ，又 $f \\left( x , 0 \\right) = \\mathrm { g } \\left( x , x \\right) = C \\left( x \\right) = x ^ { 2 } \\mathrm { e } ^ { - x }$ ，所以 $C ( x ) = x ^ { 2 } \\mathrm { e } ^ { - x }$ ， $\\mathrm { g } ( x , y ) = 2 \\Bigl ( x ^ { 2 } - x y \\Bigr ) \\mathrm { e } ^ { - y } + y ^ { 2 } \\mathrm { e } ^ { - y } = \\bigl ( 2 x ^ { 2 } - 2 x y + y ^ { 2 } \\bigr ) \\mathrm { e } ^ { - y } .$ ",
+        "bbox": [
+            154,
+            129,
+            838,
+            185
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "令 $x = u , y = x - v$ ，于是 ",
+        "bbox": [
+            189,
+            195,
+            389,
+            211
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf (u, v) = - 2 u v \\mathrm {e} ^ {(u + v)} + (u + v) ^ {2} \\mathrm {e} ^ {- (u + v)} = \\left(u ^ {2} + v ^ {2}\\right) \\mathrm {e} ^ {- (u + v)},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            258,
+            219,
+            727,
+            241
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由",
+        "bbox": [
+            147,
+            253,
+            169,
+            266
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{l} f _ {u} ^ {\\prime} = \\left(2 u - \\left(u ^ {2} + v ^ {2}\\right)\\right) \\mathrm {e} ^ {- (u + v)} = 0 \\\\ f _ {v} ^ {\\prime} = \\left(2 v - \\left(u ^ {2} + v ^ {2}\\right)\\right) \\mathrm {e} ^ {- (u + v)} = 0 \\end{array} , \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            349,
+            274,
+            636,
+            318
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "得驻点 $( 0 , 0 )$ 或 $( 1 , 1 )$ .",
+        "bbox": [
+            146,
+            335,
+            315,
+            351
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在 驻 点 $( 0 , 0 )$ 处 ， $A = f _ { u u } ^ { \\prime \\prime } ( 0 , 0 ) = 2 > 0 , B = f _ { u v } ^ { \\prime \\prime } ( 0 , 0 ) = 0 , C = f _ { v v } ^ { \\prime \\prime } ( 0 , 0 ) = 2$ ， 由$B ^ { 2 } - A C < 0 , A > 0$ ，知 $f ( 0 , 0 ) = 0$ 为极小值.",
+        "bbox": [
+            147,
+            370,
+            848,
+            426
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在 驻 点 $( 1 , 1 )$ 处 ， $A = f _ { u u } ^ { \\prime \\prime } ( 1 , 1 ) = 0 , B = f _ { u v } ^ { \\prime \\prime } ( 1 , 1 ) = - 2 { \\mathrm { e } } ^ { - 2 } , C = f _ { v v } ^ { \\prime \\prime } ( 1 , 1 ) = 0$ ， 由$B ^ { 2 } - A C > 0$ ，知 $( 1 , 1 )$ 不是极值点.",
+        "bbox": [
+            147,
+            445,
+            848,
+            500
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（21）（本题满分 12分）",
+        "text_level": 1,
+        "bbox": [
+            189,
+            511,
+            371,
+            527
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "设 $f ( x )$ 在 $( - \\infty , + \\infty )$ 上有二阶连续导数，证明： $f ^ { \\prime \\prime } ( x ) \\geq 0$ 的充要条件为对不同实数 $a , b$ ，有 $f { \\biggl ( } { \\frac { a + b } { 2 } } { \\biggr ) } \\leq { \\frac { 1 } { b - a } } { \\int _ { a } ^ { b } f ( x ) \\mathrm { d } x } .$ ",
+        "bbox": [
+            144,
+            538,
+            855,
+            600
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "【证明】先证明必要性：不妨假设 $a < b$ ，当 $a < x < b$ ，由泰勒公式得",
+        "bbox": [
+            186,
+            602,
+            727,
+            619
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf (x) = f \\left(\\frac {a + b}{2}\\right) + f ^ {\\prime} \\left(\\frac {a + b}{2}\\right) \\left(x - \\frac {a + b}{2}\\right) + \\frac {f ^ {\\prime \\prime} (\\xi)}{2 !} \\left(x - \\frac {a + b}{2}\\right) ^ {2},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            240,
+            623,
+            744,
+            656
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\xi$ 介于 $x$ 与 ${ \\frac { a + b } { 2 } } $ 之间，由 $f ^ { \\prime \\prime } ( x ) \\geq 0$ ，知",
+        "bbox": [
+            144,
+            662,
+            497,
+            689
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf (x) \\geqslant f \\left(\\frac {a + b}{2}\\right) + f ^ {\\prime} \\left(\\frac {a + b}{2}\\right) \\left(x - \\frac {a + b}{2}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            327,
+            697,
+            658,
+            728
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "上式两边取积分得",
+        "bbox": [
+            147,
+            734,
+            292,
+            749
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int_ {a} ^ {b} f (x) \\mathrm {d} x \\geqslant \\int_ {a} ^ {b} \\left[ f \\left(\\frac {a + b}{2}\\right) + f ^ {\\prime} \\left(\\frac {a + b}{2}\\right) \\left(x - \\frac {a + b}{2}\\right) \\right] \\mathrm {d} x = (b - a) f \\left(\\frac {a + b}{2}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            196,
+            752,
+            788,
+            785
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$f { \\biggl ( } { \\frac { a + b } { 2 } } { \\biggr ) } \\leqslant { \\frac { 1 } { b - a } } { \\int _ { a } ^ { b } f ( x ) \\mathrm { d } x }$ ，故必要性得证.",
+        "bbox": [
+            146,
+            790,
+            517,
+            822
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "再证明充分性：考虑利用反证法.已知 $f { \\biggl ( } { \\frac { a + b } { 2 } } { \\biggr ) } \\leqslant { \\frac { 1 } { b - a } } { \\int _ { a } ^ { b } f ( x ) \\mathrm { d } x } .$ ",
+        "bbox": [
+            181,
+            827,
+            697,
+            860
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "假设存在 $x _ { 0 }$ ，使得 $f ^ { \\prime \\prime } { \\bigl ( } x _ { 0 } { \\bigr ) } < 0$ ，由 $f ^ { \\prime \\prime } ( x )$ 连续可知，存在一个闭区间 $[ a , b ]$ 包含 $x _ { 0 }$ ，使得",
+        "bbox": [
+            179,
+            871,
+            848,
+            890
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            245,
+            61
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            749,
+            63
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$f ^ { \\prime \\prime } ( x ) < 0$ 恒成立.于是",
+        "bbox": [
+            146,
+            93,
+            319,
+            110
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf (x) <   f \\left(\\frac {a + b}{2}\\right) + f ^ {\\prime} \\left(\\frac {a + b}{2}\\right) \\left(x - \\frac {a + b}{2}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            327,
+            122,
+            658,
+            155
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "取积分有",
+        "bbox": [
+            144,
+            160,
+            221,
+            175
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int_ {a} ^ {b} f (x) \\mathrm {d} x <   (b - a) f \\left(\\frac {a + b}{2}\\right),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            371,
+            177,
+            613,
+            210
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$f { \\biggl ( } { \\frac { a + b } { 2 } } { \\biggr ) } > { \\frac { 1 } { b - a } } { \\int _ { a } ^ { b } f ( x ) \\mathrm { d } x }$ ，这与 $f { \\biggl ( } { \\frac { a + b } { 2 } } { \\biggr ) } \\leq { \\frac { 1 } { b - a } } { \\int _ { a } ^ { b } f ( x ) \\mathrm { d } x }$ 矛盾，故充分性得证.",
+        "bbox": [
+            144,
+            214,
+            825,
+            248
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（22）（本题满分 12分）",
+        "bbox": [
+            189,
+            252,
+            371,
+            268
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "已知二次型 $f { \\left( x _ { 1 } , x _ { 2 } , x _ { 3 } \\right) } = 3 x _ { 1 } ^ { 2 } + 4 x _ { 2 } ^ { 2 } + 3 x _ { 3 } ^ { 2 } + 2 x _ { 1 } x _ { 3 } .$ ",
+        "bbox": [
+            181,
+            277,
+            584,
+            296
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（I）求正交变换 $\\pmb { x } = Q \\pmb { y }$ 化二次型为标准形；",
+            "（II）证明： $\\operatorname* { m i n } _ { \\pmb { x } \\neq \\mathbf { 0 } } \\frac { f ( \\pmb { x } ) } { \\pmb { x } ^ { T } \\pmb { x } } = 2$ "
+        ],
+        "bbox": [
+            189,
+            307,
+            524,
+            357
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "【解析】（I）二次型矩阵为 $\\pmb { A } = \\left[ \\begin{array} { l l l } { 3 } & { 0 } & { 1 } \\\\ { 0 } & { 4 } & { 0 } \\\\ { 1 } & { 0 } & { 3 } \\end{array} \\right]$ ，由特征多项式",
+        "bbox": [
+            186,
+            363,
+            633,
+            413
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\lambda \\boldsymbol {E} - \\boldsymbol {A} | = \\left| \\begin{array}{c c c} \\lambda - 3 & 0 & - 1 \\\\ 0 & \\lambda - 4 & 0 \\\\ - 1 & 0 & \\lambda - 3 \\end{array} \\right| = (\\lambda - 4) ^ {2} (\\lambda - 2),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            289,
+            419,
+            697,
+            469
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "得矩阵 $\\pmb { A }$ 的特征值为 $\\lambda _ { 1 } = \\lambda _ { 2 } = 4 , \\lambda _ { 3 } = 2$ .",
+        "bbox": [
+            144,
+            482,
+            462,
+            499
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "当 $\\lambda _ { 1 } = \\lambda _ { 2 } = 4$ 时，解方程组 $( 4 E - A ) \\pmb { x } = \\pmb { 0 }$ ，由",
+        "bbox": [
+            181,
+            519,
+            556,
+            535
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 \\boldsymbol {E} - \\boldsymbol {A} = \\left[\\begin{array}{c c c}1&0&- 1\\\\0&0&0\\\\- 1&0&1\\end{array}\\right]\\rightarrow \\left[\\begin{array}{c c c}1&0&- 1\\\\0&0&0\\\\0&0&0\\end{array}\\right],\n$$",
+        "text_format": "latex",
+        "bbox": [
+            339,
+            548,
+            645,
+            599
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "得特征值 $\\lambda = 4$ 的线性无关的特征向量为 $\\pmb { \\alpha } _ { 1 } = ( 0 , 1 , 0 ) ^ { T } , \\pmb { \\alpha } _ { 2 } = ( 1 , 0 , 1 ) ^ { T }$ ",
+        "bbox": [
+            144,
+            611,
+            707,
+            629
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "当 $\\lambda _ { 3 } = 2$ 时，解方程组 $( 2 E - A ) \\pmb { x } = \\pmb { 0 }$ ，由",
+        "bbox": [
+            181,
+            649,
+            517,
+            665
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\boldsymbol {E} - \\boldsymbol {A} = \\left[ \\begin{array}{c c c} - 1 & 0 & - 1 \\\\ 0 & - 2 & 0 \\\\ - 1 & 0 & - 1 \\end{array} \\right] \\to \\left[ \\begin{array}{c c c} 1 & 0 & 1 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 0 \\end{array} \\right],\n$$",
+        "text_format": "latex",
+        "bbox": [
+            337,
+            678,
+            645,
+            730
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "得对应的特征向量为 ${ \\pmb { \\alpha } } _ { 3 } = ( 1 , 0 , - 1 ) ^ { T }$ .",
+        "bbox": [
+            144,
+            741,
+            448,
+            759
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "经检验 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 } , { \\pmb { \\alpha } } _ { 3 }$ 已经相互正交，故只需将其单位化，有",
+        "bbox": [
+            179,
+            778,
+            618,
+            795
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol {\\gamma} _ {1} = \\frac {\\boldsymbol {\\alpha} _ {1}}{\\| \\boldsymbol {\\alpha} _ {1} \\|} = \\left[ \\begin{array}{c} 0 \\\\ 1 \\\\ 0 \\end{array} \\right], \\boldsymbol {\\gamma} _ {2} = \\frac {\\boldsymbol {\\alpha} _ {2}}{\\| \\boldsymbol {\\alpha} _ {2} \\|} = \\frac {1}{\\sqrt {2}} \\left[ \\begin{array}{c} 1 \\\\ 0 \\\\ 1 \\end{array} \\right], \\boldsymbol {\\gamma} _ {3} = \\frac {\\boldsymbol {\\alpha} _ {3}}{\\| \\boldsymbol {\\alpha} _ {3} \\|} = \\frac {1}{\\sqrt {2}} \\left[ \\begin{array}{c} 1 \\\\ 0 \\\\ - 1 \\end{array} \\right],\n$$",
+        "text_format": "latex",
+        "bbox": [
+            235,
+            807,
+            751,
+            859
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "令 $\\pmb { Q } = \\left( \\gamma _ { 1 } , \\gamma _ { 2 } , \\gamma _ { 3 } \\right)$ ， 则 经 正 交 变 换 $\\pmb { x } = Q \\pmb { y }$ ， 经 二 次 型 $f ( x _ { 1 } , x _ { 2 } , x _ { 3 } )$ 化 为 标 准 形",
+        "bbox": [
+            144,
+            871,
+            848,
+            890
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            245,
+            61
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            751,
+            63
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 y _ {1} ^ {2} + 4 y _ {2} ^ {2} + 2 y _ {3} ^ {2}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            147,
+            92,
+            284,
+            111
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（II）由（I）知，当 $\\pmb { x } = \\pmb { Q } \\pmb { y }$ 时， $\\pmb { x } ^ { T } \\pmb { x } = ( \\pmb { Q } \\pmb { y } ) ^ { T } ( \\pmb { Q } \\pmb { y } ) = \\pmb { y } ^ { T } \\pmb { Q } ^ { T } \\pmb { Q } \\pmb { y } = \\pmb { y } ^ { T } \\pmb { y }$ ，于是",
+        "bbox": [
+            189,
+            130,
+            798,
+            148
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {f (\\boldsymbol {x})}{\\boldsymbol {x} ^ {T} \\boldsymbol {x}} = \\frac {g (\\boldsymbol {y})}{\\boldsymbol {y} ^ {T} \\boldsymbol {y}} = \\frac {4 y _ {1} ^ {2} + 4 y _ {2} ^ {2} + 2 y _ {3} ^ {2}}{y _ {1} ^ {2} + y _ {2} ^ {2} + y _ {3} ^ {2}} = 2 + \\frac {2 y _ {1} ^ {2} + 2 y _ {2} ^ {2}}{y _ {1} ^ {2} + y _ {2} ^ {2} + y _ {3} ^ {2}} \\geqslant 2,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            263,
+            166,
+            722,
+            203
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "取 $y _ { 1 } = 0 , y _ { 2 } = 0 , y _ { 3 } = 1$ 时等号成立，故 $\\operatorname* { m i n } _ { \\pmb { x } \\neq \\mathbf { 0 } } \\frac { f ( \\pmb { x } ) } { \\pmb { x } ^ { T } \\pmb { x } } = 2$ ",
+        "bbox": [
+            144,
+            216,
+            564,
+            246
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "2022 数二解析 ",
+        "bbox": [
+            147,
+            49,
+            245,
+            61
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            705,
+            36,
+            749,
+            63
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            754,
+            39,
+            843,
+            55
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            754,
+            55,
+            843,
+            61
+        ],
+        "page_idx": 10
+    }
+]

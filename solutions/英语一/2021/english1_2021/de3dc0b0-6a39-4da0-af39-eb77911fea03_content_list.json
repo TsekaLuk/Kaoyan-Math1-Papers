@@ -1,0 +1,4513 @@
+[
+    {
+        "type": "text",
+        "text": "2021 年考研英语一真题及答案详细解析",
+        "text_level": 1,
+        "bbox": [
+            233,
+            55,
+            761,
+            80
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2021 年全国硕士研究生入学统一考试英语（一）试题及答案详细解析",
+        "text_level": 1,
+        "bbox": [
+            67,
+            92,
+            927,
+            155
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Section I Use of English : ",
+        "text_level": 1,
+        "bbox": [
+            65,
+            171,
+            302,
+            189
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A, B,C or D on the ANSWER SHEET. (10 points) ",
+        "bbox": [
+            65,
+            208,
+            932,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Though not biologically related, friends are as “related” as fourth cousins, sharing about $1 \\%$ of genes. That is _(1)_a study, published from the University of California and Yale University in the Proceedings of the National Academy of Sciences, has__(2)_. ",
+        "bbox": [
+            65,
+            300,
+            934,
+            394
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The study is a genome-wide analysis conducted _(3)__1,932 unique subjects which __(4)__pairs of unrelated friends and unrelated strangers. The same people were used in both_(5)_. ",
+        "bbox": [
+            65,
+            412,
+            932,
+            468
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "While $1 \\%$ may seem_(6)_,it is not so to a geneticist. As James Fowler, professor of medical genetics at UC San Diego, says, “Most people do not even _(7)_their fourth cousins but somehow manage to select as friends the people who_(8)_our kin.” ",
+        "bbox": [
+            65,
+            486,
+            932,
+            580
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The study_(9)_found that the genes for smell were something shared in friends but not genes for immunity .Why this similarity exists in smell genes is difficult to explain, for now,_(10)_,as the team suggests, it draws us to similar environments but there is more_(11)_it. There could be many mechanisms working together that _(12)_us in choosing genetically similar friends_(13)_”functional ",
+        "bbox": [
+            65,
+            596,
+            932,
+            728
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "? ",
+        "bbox": [
+            97,
+            23,
+            122,
+            43
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            126,
+            30,
+            189,
+            42
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            33
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            34,
+            899,
+            43
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kinship” of being friends with_(14)_! ",
+        "bbox": [
+            154,
+            93,
+            473,
+            112
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One of the remarkable findings of the study was the similar genes seem to be evolution_(15)_than other genes Studying this could help_(16)_why human evolution picked pace in the last 30,000 years, with social environment being a major_(17)_factor. ",
+        "bbox": [
+            144,
+            131,
+            853,
+            262
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The findings do not simply explain people’s_(18)_to befriend those of similar_(19)_backgrounds, say the researchers. Though all the subjects were drawn from a population of European extraction, care was taken to_(20)_that all subjects, friends and strangers, were taken from the same population. ",
+        "bbox": [
+            144,
+            280,
+            853,
+            409
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. [A] when [B] why [C] how [D] what ",
+        "bbox": [
+            181,
+            429,
+            497,
+            445
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. [A] defended [B] concluded [C] withdrawn [D] advised ",
+        "bbox": [
+            179,
+            466,
+            660,
+            482
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. [A] for [B] with [C] on [D] by ",
+        "bbox": [
+            181,
+            502,
+            442,
+            519
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. [A] compared [B] sought [C] separated [D] connected ",
+        "bbox": [
+            179,
+            539,
+            653,
+            556
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. [A] tests [B] objects [C]samples [D] examples ",
+        "bbox": [
+            181,
+            577,
+            581,
+            593
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. [A] insignificant [B] unexpected [C]unbelievable [D] incredible ",
+        "bbox": [
+            179,
+            632,
+            722,
+            649
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. [A] visit [B] miss [C] seek [D] know ",
+        "bbox": [
+            181,
+            670,
+            492,
+            686
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. [A] resemble [B] influence [C] favor [D] surpass ",
+        "bbox": [
+            179,
+            706,
+            598,
+            722
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9. [A] again [B] also [C] instead [D] thus ",
+        "bbox": [
+            181,
+            744,
+            517,
+            760
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10. [A] Meanwhile [B] Furthermore [C] Likewise [D] Perhaps ",
+        "bbox": [
+            181,
+            772,
+            628,
+            788
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "11. [A] about [B] to [C]from [D]like ",
+            "12. [A] drive [B] observe [C] confuse [D]limit ",
+            "13. [A] according to [B] rather than [C] regardless of [D] along with ",
+            "14. [A] chances [B]responses [C]missions [D]benefits ",
+            "15. [A] later [B]slower [C] faster [D] earlier "
+        ],
+        "bbox": [
+            181,
+            809,
+            668,
+            898
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "16. [A]forecast [B]remember [C]understand [D]express ",
+            "17. [A] unpredictable [B]contributory [C] controllable [D] disruptive ",
+            "18. [A] endeavor [B]decision [C]arrangement [D] tendency ",
+            "19. [A] political [B] religious [C] ethnic [D] economic ",
+            "20. [A] see [B] show [C] prove [D] tell "
+        ],
+        "bbox": [
+            179,
+            105,
+            673,
+            195
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Section II Reading Comprehension ",
+        "text_level": 1,
+        "bbox": [
+            179,
+            216,
+            448,
+            231
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Part A ",
+        "text_level": 1,
+        "bbox": [
+            216,
+            254,
+            270,
+            266
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "bbox": [
+            216,
+            272,
+            299,
+            285
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on ANSWER SHEET. (40 points) ",
+        "bbox": [
+            146,
+            290,
+            850,
+            324
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Text 1 ",
+        "text_level": 1,
+        "bbox": [
+            216,
+            328,
+            265,
+            341
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "King Juan Carlos of Spain once insisted “kings don’t abdicate, they dare in their sleep.” But embarrassing scandals and the popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down. So, does the Spanish crisis suggest that monarchy is seeing its last days? Does that mean the writing is on the wall for all European royals, with their magnificent uniforms and majestic lifestyle? ",
+        "bbox": [
+            144,
+            344,
+            853,
+            435
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Spanish case provides arguments both for and against monarchy. When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above “mere” politics and “embody” a spirit of national unity. ",
+        "bbox": [
+            144,
+            439,
+            852,
+            491
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is this apparent transcendence of politics that explains monarchs’ continuing popularity polarized. And also, the Middle East excepted, Europe is the most monarch-infested region in the world, with 10 kingdoms (not counting Vatican City and Andorra). But unlike their absolutist counterparts in the Gulf and Asia, most royal families have survived because they allow voters to avoid the difficult search for a non-controversial but respected public figure. ",
+        "bbox": [
+            144,
+            494,
+            852,
+            583
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Even so, kings and queens undoubtedly have a downside. Symbolic of national unity as they claim to be, their very history—and sometimes the way they behave today – embodies outdated and indefensible privileges and inequalities. At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states. ",
+        "bbox": [
+            144,
+            587,
+            852,
+            694
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The most successful monarchies strive to abandon or hide their old aristocratic ways. Princes and princesses have day-jobs and ride bicycles, not horses (or helicopters). Even so, these are wealthy families who party with the international $1 \\%$ , and media intrusiveness makes it increasingly difficult to maintain the right image. ",
+        "bbox": [
+            144,
+            697,
+            852,
+            769
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "While Europe’s monarchies will no doubt be smart enough to survive for some time to come, it is the British royals who have most to fear from the Spanish example. ",
+        "bbox": [
+            144,
+            772,
+            850,
+            806
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is only the Queen who has preserved the monarchy’s reputation with her rather ordinary (if well-heeled) granny style. The danger will come with Charles, who has both an expensive taste of lifestyle and a pretty hierarchical view of the world. He has failed to understand that monarchies have largely survived because they provide a service – as non-controversial and non-political heads of state. Charles ought to know that as English history shows, it is kings, not ",
+        "bbox": [
+            144,
+            809,
+            852,
+            898
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "republicans, who are the monarchy’s worst enemies. ",
+        "bbox": [
+            189,
+            86,
+            563,
+            101
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "21. According to the first two Paragraphs, King Juan Carlos of Spain ",
+        "bbox": [
+            213,
+            105,
+            705,
+            121
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] used turn enjoy high public support ",
+        "bbox": [
+            216,
+            124,
+            500,
+            139
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] was unpopular among European royals ",
+        "bbox": [
+            216,
+            142,
+            522,
+            156
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] cased his relationship with his rivals ",
+        "bbox": [
+            216,
+            161,
+            505,
+            175
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D]ended his reign in embarrassment ",
+        "bbox": [
+            216,
+            180,
+            482,
+            193
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "22. Monarchs are kept as heads of state in Europe mostly ",
+        "bbox": [
+            213,
+            197,
+            623,
+            212
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] owing to their undoubted and respectable status ",
+        "bbox": [
+            216,
+            217,
+            586,
+            231
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] to achieve a balance between tradition and reality ",
+        "bbox": [
+            216,
+            235,
+            596,
+            250
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] to give voter more public figures to look up to ",
+        "bbox": [
+            216,
+            253,
+            574,
+            269
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D]due to their everlasting political embodiment ",
+        "bbox": [
+            216,
+            272,
+            561,
+            287
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "23. Which of the following is shown to be odd, according to Paragraph 4? ",
+        "bbox": [
+            213,
+            290,
+            741,
+            306
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] Aristocrats’ excessive reliance on inherited wealth ",
+        "bbox": [
+            216,
+            309,
+            603,
+            323
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] The role of the nobility in modern democracies ",
+        "bbox": [
+            216,
+            328,
+            579,
+            342
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] The simple lifestyle of the aristocratic families ",
+        "bbox": [
+            216,
+            346,
+            576,
+            361
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D]The nobility’s adherence to their privileges ",
+        "bbox": [
+            216,
+            365,
+            547,
+            380
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "24. The British royals “have most to fear” because Charles ",
+        "bbox": [
+            213,
+            382,
+            635,
+            398
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] takes a rough line on political issues ",
+        "bbox": [
+            216,
+            401,
+            505,
+            417
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] fails to change his lifestyle as advised ",
+        "bbox": [
+            216,
+            420,
+            515,
+            435
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] takes republicans as his potential allies ",
+        "bbox": [
+            216,
+            439,
+            522,
+            454
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D] fails to adapt himself to his future role ",
+        "bbox": [
+            216,
+            457,
+            519,
+            472
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "25. Which of the following is the best title of the text? ",
+        "bbox": [
+            213,
+            475,
+            601,
+            489
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] Carlos, Glory and Disgrace Combined ",
+        "bbox": [
+            216,
+            494,
+            519,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] Charles, Anxious to Succeed to the Throne ",
+        "bbox": [
+            216,
+            513,
+            549,
+            527
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] Carlos, a Lesson for All European Monarchs ",
+        "bbox": [
+            216,
+            531,
+            563,
+            546
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D]Charles, Slow to React to the Coming Threats ",
+        "bbox": [
+            216,
+            550,
+            569,
+            565
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Text 2 ",
+        "text_level": 1,
+        "bbox": [
+            200,
+            606,
+            248,
+            619
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Just how much does the Constitution protect your digital data? The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest. ",
+        "bbox": [
+            144,
+            624,
+            852,
+            677
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "California has asked the justices to refrain from a sweeping ruling particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest. It is hard, the state argues, for judges to assess the implications of new and rapidly changing technologies. ",
+        "bbox": [
+            144,
+            678,
+            853,
+            751
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The court would be recklessly modest if it followed California’s advice. Enough of the implications are discernable, even obvious, so that the justices can and should provide updated guidelines to police, lawyers and defendants. ",
+        "bbox": [
+            144,
+            753,
+            853,
+            806
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "They should start by discarding California’s lame argument that exploring the contents of a smart phone — a vast storehouse of digital information — is similar to, say, rifling through a suspect’s purse. The court has ruled that police don’t violate the Fourth Amendment when they sift through the wallet or pocketbook of an arrestee without a warrant. But exploring one’s smart phone is more like entering his or her home. A smart phone may contain an arrestee’s reading ",
+        "bbox": [
+            144,
+            809,
+            853,
+            898
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            99,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            900,
+            43
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "history, financial history, medical history and comprehensive records of recent correspondence. The development of “cloud computing,” meanwhile, has made that exploration so much the easier. ",
+        "bbox": [
+            147,
+            86,
+            850,
+            137
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Americans should take steps to protect their digital privacy. But keeping sensitive information on these devices is increasingly a requirement of normal life. Citizens still have a right to expect private documents to remain private and protected by the Constitution’s prohibition on unreasonable searches. ",
+        "bbox": [
+            147,
+            142,
+            850,
+            211
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As so often is the case, stating that principle doesn’t ease the challenge of line-drawing. In many cases, it would not be overly onerous for authorities to obtain a warrant to search through phone contents. They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while a warrant is pending. The court, though, may want to allow room for police to cite situations where they are entitled to more freedom. ",
+        "bbox": [
+            147,
+            216,
+            850,
+            323
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "But the justices should not swallow California’s argument whole. New, disruptive technology sometimes demands novel applications of the Constitution’s protections. Orin Kerr, a law professor, compares the explosion and accessibility of digital information in the 21st century with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to specify novel rules for the new personal domain of the passenger car then; they must sort out how the Fourth Amendment applies to digital information now. ",
+        "bbox": [
+            147,
+            326,
+            850,
+            434
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "26. The Supreme Court will work out whether, during an arrest, it is legitimate to ",
+            "[A] prevent suspects from deleting their phone contents. ",
+            "[B] search for suspects’ mobile phones without a warrant. ",
+            "[C] check suspects’ phone contents without being authorized. ",
+            "[D]prohibit suspects from using their mobile phones. ",
+            "27. The author’s attitude toward California’s argument is one of ",
+            "[A] disapproval. ",
+            "[B] indifference. ",
+            "[C] tolerance. ",
+            "[D]cautiousness. ",
+            "28. The author believes that exploring one’s phone contents is comparable to ",
+            "[A] getting into one’s residence. ",
+            "[B] handling one’s historical records. ",
+            "[C] scanning one’s correspondences. ",
+            "[D] going through one’s wallet. ",
+            "29. In Paragraph 5 and 6, the author shows his concern that ",
+            "[A] principles are hard to be clearly expressed. ",
+            "[B] the court is giving police less room for action. ",
+            "[C] citizens’ privacy is not effectively protected. ",
+            "[D] phones are used to store sensitive information. ",
+            "30. Orin Kerr’s comparison is quoted to indicate that ",
+            "[A] the Constitution should be implemented flexibly. ",
+            "[B] new technology requires reinterpretation of the Constitution. ",
+            "[C]California’s argument violates principles of the Constitution. ",
+            "[D]principles of the Constitution should never be altered "
+        ],
+        "bbox": [
+            218,
+            439,
+            791,
+            898
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Text 3 ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            105,
+            231,
+            118
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The journal Science is adding an extra round of statistical checks to its peer-review process, editor-in-chief Marcia McNutt announced today. The policy follows similar efforts from other journals, after widespread concern that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings. ",
+        "bbox": [
+            147,
+            124,
+            852,
+            193
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“Readers must have confidence in the conclusions published in our journal,” writes McNutt in an editorial. Working with the American Statistical Association, the journal has appointed seven experts to a statistics board of reviewing editors(SBoRE). Manuscript will be flagged up for additional scrutiny by the journal’s internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers. The SBoRE panel will then find external statisticians to review these manuscripts. ",
+        "bbox": [
+            147,
+            197,
+            853,
+            306
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asked whether any particular papers had impelled the change, McNutt said: “The creation of the ‘statistics board’ was motivated by concerns broadly with the application of statistics and data analysis in scientific research and is part of Science’s overall drive to increase reproducibility in the research we publish.” ",
+        "bbox": [
+            147,
+            309,
+            853,
+            380
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Giovanni Parmigiani, a biostatistician at the Harvard School of Public Health, a member of the SBoRE group. He says he expects the board to “play primarily an advisory role.” He agreed to join because he “found the foresight behind the establishment of the SBoRE to be novel, unique and likely to have a lasting impact. This impact will not only be through the publications in Science itself, but hopefully through a larger group of publishing places that may want to model their approach after Science.” ",
+        "bbox": [
+            147,
+            382,
+            853,
+            489
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "John Ioannidis, a physician who studies research methodology, says that the policy is “a most welcome step forward” and “long overdue.” “Most journals are weak in statistical review, and this damages the quality of what they publish. I think that, for the majority of scientific papers nowadays, statistical review is more essential than expert review,” he says. But he noted that biomedical journals such as Annals of Internal Medicine, the Journal of the American Medical Association and The Lancet pay strong attention to statistical review. ",
+        "bbox": [
+            147,
+            494,
+            853,
+            602
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Professional scientists are expected to know how to analyze data, but statistical errors are alarmingly common in published research, according to David Vaux, a cell biologist. Researchers should improve their standards, he wrote in 2021, but journals should also take a tougher line, “engaging reviewers who are statistically literate and editors who can verify the process”. Vaux says that Science’s idea to pass some papers to statisticians “has some merit, but a weakness is that it relies on the board of reviewing editors to identify ‘the papers that need scrutiny’ in the first place”. ",
+        "bbox": [
+            147,
+            605,
+            853,
+            732
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "31. It can be learned from Paragraph 1 that ",
+            "[A] Science intends to simplify their peer-review process. ",
+            "[B] journals are strengthening their statistical checks. ",
+            "[C] few journals are blamed for mistakes in data analysis. ",
+            "[D] lack of data analysis is common in research projects. ",
+            "32. The phrase “flagged up” (Para. 2) is the closest in meaning to ",
+            "[A] found. ",
+            "[B] marked. ",
+            "[C] revised. "
+        ],
+        "bbox": [
+            216,
+            734,
+            680,
+            898
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[D] stored. ",
+            "33. Giovanni Parmigiani believes that the establishment of the SBoRE may ",
+            "[A] pose a threat to all its peers. ",
+            "[B] meet with strong opposition. ",
+            "[C] increase Science’s circulation. ",
+            "[D]set an example for other journals. ",
+            "34. David Vaux holds that what Science is doing now ",
+            "[A] adds to researchers’ workload. ",
+            "[B] diminishes the role of reviewers. ",
+            "[C] has room for further improvement. ",
+            "[D]is to fail in the foreseeable future ",
+            "35. Which of the following is the best title of the text? ",
+            "[A] Science Joins Push to Screen Statistics in Papers. ",
+            "[B] Professional Statisticians Deserve More Respect ",
+            "[C] Data Analysis Finds Its Way onto Editors’ Desks ",
+            "[D] Statisticians Are Coming Back with Science "
+        ],
+        "bbox": [
+            216,
+            86,
+            751,
+            378
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Text 4 ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            419,
+            231,
+            432
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Two years ago, Rupert Murdoch’s daughter ,Elisabeth ,spoke of the “unsettling dearth of integrity across so many of our institutions” Integrity had collapsed, she argued, because of a collective acceptance that the only “sorting mechanism ”in society should be profit and the market .But “it’s us ,human beings ,we the people who create the society we want ,not profit ”. ",
+        "bbox": [
+            144,
+            438,
+            853,
+            510
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Driving her point home, she continued: “It’s increasingly apparent that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous foals for capitalism and freedom.” This same absence of moral purpose was wounding companies such as News International ,shield thought ,making it more likely that it would lose its way as it had with widespread illegal telephone hacking . ",
+        "bbox": [
+            144,
+            512,
+            853,
+            602
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As the hacking trial concludes – finding guilty ones-editor of the News of the World, Andy Coulson, for conspiring to hack phones ,and finding his predecessor, Rebekah Brooks, innocent of the same charge –the winder issue of dearth of integrity still standstill, Journalists are known to have hacked the phones of up to 5,500 people .This is hacking on an industrial scale ,as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking. Others await trial. This long story still unfolds. ",
+        "bbox": [
+            144,
+            605,
+            853,
+            714
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In many respects, the dearth of moral purpose frames not only the fact of such widespread phone hacking but the terms on which the trial took place .One of the astonishing revelations was how little Rebekah Brooks knew of what went on in her newsroom, wow little she thought to ask and the fact that she never inquired wow the stories arrived. The core of her successful defence was that she knew nothing. ",
+        "bbox": [
+            144,
+            717,
+            853,
+            806
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In today’s world, title has become normal that well—paid executives should not be accountable for what happens in the organizations that they run perhaps we should not be so surprised. For a generation, the collective doctrine has been that the sorting mechanism of society should be profit. The words that have mattered are efficiency, flexibility, shareholder value, business–friendly, wealth generation, sales, impact and, in newspapers, circulation. Words ",
+        "bbox": [
+            144,
+            809,
+            853,
+            898
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "degraded to the margin have been justice fairness, tolerance, proportionality and accountability. ",
+        "bbox": [
+            147,
+            86,
+            850,
+            120
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The purpose of editing the News of the World was not to promote reader understanding to be fair in what was written or to betray any common humanity. It was to ruin lives in the quest for circulation and impact. Ms Brooks may or may not have had suspicions about how her journalists got their stories, but she asked no questions, gave no instructions—nor received traceable, recorded answers. ",
+        "bbox": [
+            147,
+            123,
+            853,
+            212
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "36. According to the first two paragraphs, Elisabeth was upset by ",
+        "bbox": [
+            216,
+            216,
+            678,
+            231
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[A] the consequences of the current sorting mechanism ",
+        "bbox": [
+            216,
+            235,
+            610,
+            248
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[B] companies’ financial loss due to immoral practices. ",
+        "bbox": [
+            216,
+            253,
+            608,
+            266
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[C] governmental ineffectiveness on moral issues. ",
+        "bbox": [
+            216,
+            272,
+            573,
+            285
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[D]the wide misuse of integrity among institutions. ",
+        "bbox": [
+            216,
+            291,
+            579,
+            303
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "37. It can be inferred from Paragraph 3 that ",
+        "bbox": [
+            216,
+            309,
+            527,
+            322
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[A] Glem Mulcaire may deny phone hacking as a crime ",
+        "bbox": [
+            216,
+            328,
+            613,
+            340
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[B] more journalists may be found guilty of phone hacking. ",
+        "bbox": [
+            216,
+            346,
+            638,
+            359
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[C] Andy Coulson should be held innocent of the charge. ",
+        "bbox": [
+            216,
+            365,
+            621,
+            376
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[D] phone hacking will be accepted on certain occasions. ",
+        "bbox": [
+            216,
+            382,
+            621,
+            395
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "38. The author believes the Rebekah Books’s deference ",
+        "bbox": [
+            216,
+            401,
+            611,
+            413
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[A] revealed a cunning personality ",
+        "bbox": [
+            216,
+            420,
+            465,
+            432
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[B] centered on trivial issues ",
+        "bbox": [
+            216,
+            439,
+            423,
+            451
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[C] was hardly convincing ",
+        "bbox": [
+            216,
+            457,
+            408,
+            470
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[D] was part of a conspiracy ",
+        "bbox": [
+            216,
+            476,
+            421,
+            488
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "39. The author holds that the current collective doctrine shows ",
+        "bbox": [
+            216,
+            495,
+            660,
+            507
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[A] generally distorted values ",
+        "bbox": [
+            216,
+            513,
+            430,
+            525
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[B] unfair wealth distribution ",
+        "bbox": [
+            216,
+            531,
+            428,
+            543
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[C] a marginalized lifestyle ",
+        "bbox": [
+            216,
+            550,
+            413,
+            562
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[D] a rigid moral cote ",
+        "bbox": [
+            216,
+            569,
+            374,
+            581
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "40. Which of the following is suggested in the last paragraph? ",
+        "bbox": [
+            216,
+            587,
+            657,
+            599
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[A] The quality of writing is of primary importance. ",
+        "bbox": [
+            216,
+            605,
+            586,
+            618
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[B] Common humanity is central news reporting. ",
+        "bbox": [
+            216,
+            624,
+            566,
+            637
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[C] Moral awareness matters in exciting a newspaper. ",
+        "bbox": [
+            216,
+            642,
+            598,
+            655
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[D] Journalists need stricter industrial regulations. ",
+        "bbox": [
+            216,
+            661,
+            573,
+            674
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Part B ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            717,
+            236,
+            730
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "bbox": [
+            216,
+            734,
+            299,
+            749
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the following text, some sentences have been removed. For Questions 41-45, choose the most suitable one from the fist A-G to fit into each of the numbered blanks. Mark your answers on ANSWER SHEET. (10 points) ",
+        "bbox": [
+            147,
+            753,
+            853,
+            806
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "How does your reading proceed? Clearly you try to comprehend, in the sense of identifying meanings for individual words and working out relationships between them, drawing on your explicit knowledge of English grammar (41) _you begin to infer a context for the text, for instance, by making decisions about what kind of speech event is involved: who is making the utterance, to whom, when and where. ",
+        "bbox": [
+            147,
+            809,
+            853,
+            898
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            99,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The ways of reading indicated here are without doubt kinds of of comprehension. But ",
+        "bbox": [
+            216,
+            86,
+            826,
+            101
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            99,
+            24,
+            122,
+            43
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            126,
+            30,
+            189,
+            42
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            791,
+            22,
+            897,
+            33
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            791,
+            34,
+            897,
+            43
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "they show comprehension to consist not just passive assimilation but of active engagement inference and problem-solving. You infer information you feel the writer has invited you to grasp by presenting you with specific evidence and cues (42) ",
+        "bbox": [
+            147,
+            86,
+            852,
+            139
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conceived in this way, comprehension will not follow exactly the same track for each reader. What is in question is not the retrieval of an absolute, fixed or “true” meaning that can be read off and clocked for accuracy, or some timeless relation of the text to the world. (43) ",
+        "bbox": [
+            147,
+            142,
+            852,
+            195
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Such background material inevitably reflects who we are, (44) This doesn’t, however, make interpretation merely relative or even pointless. Precisely because readers from different historical periods, places and social experiences produce different but overlapping readings of the same words on the page-including for texts that engage with fundamental human concerns-debates about texts can play an important role in social discussion of beliefs and values. ",
+        "bbox": [
+            147,
+            197,
+            852,
+            287
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "How we read a given text also depends to some extent on our particular interest in reading it. (45) _such dimensions of read suggest-as others introduced later in the book will also do-that we bring an implicit (often unacknowledged) agenda to any act of reading. It doesn’t then necessarily follow that one kind of reading is fuller, more advanced or more worthwhile than another. Ideally, different kinds of reading inform each other, and act as useful reference points for and counterbalances to one another. Together, they make up the reading component of your overall literacy or relationship to your surrounding textual environment. ",
+        "bbox": [
+            147,
+            290,
+            852,
+            417
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[A] Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room. ",
+        "bbox": [
+            147,
+            420,
+            852,
+            472
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[B] Factors such as the place and period in which we are reading, our gender ethnicity, age and social class will encourage us towards certain interpretation but at the same time obscure or even close off others. ",
+        "bbox": [
+            147,
+            475,
+            852,
+            527
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[C] If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the contest. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them. ",
+        "bbox": [
+            147,
+            531,
+            852,
+            583
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[D]In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended. ",
+        "bbox": [
+            147,
+            586,
+            855,
+            621
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[E]You make further inferences, for instance, about how the test may be significant to you, or about its validity—inferences that form the basis of a personal response for which the author will inevitably be far less responsible. ",
+        "bbox": [
+            147,
+            624,
+            852,
+            676
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[F]In plays，novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author’s own thoughts. ",
+        "bbox": [
+            147,
+            678,
+            852,
+            713
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[G]Rather, we ascribe meanings to test on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text’s formal structures (so especially its language structures) and various kinds of background, social knowledge, belief and attitude that we bring to the text. ",
+        "bbox": [
+            147,
+            717,
+            852,
+            787
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Section III Translation ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            828,
+            354,
+            841
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "bbox": [
+            216,
+            846,
+            299,
+            860
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET. (10 points) ",
+        "bbox": [
+            147,
+            865,
+            850,
+            898
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Within the span of a hundred years, in the seventeenth and early eighteenth centuries, a tide of emigration—one of the great folk wanderings of history—swept from Europe to America. 46) This movement, driven by powerful and diverse motivations, built a nation out of a wilderness and, by its nature, shaped the character and destiny of an uncharted continent. ",
+        "bbox": [
+            144,
+            105,
+            853,
+            175
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "47) The United States is the product of two principal forces-the immigration of European peoples with their varied ideas, customs, and national characteristics and the impact of a new country which modified these traits. Of necessity, colonial America was a projection of Europe. Across the Atlantic came successive groups of Englishmen, Frenchmen, Germans, Scots, Irishmen, Dutchmen, Swedes, and many others who attempted to transplant their habits and traditions to the new world. ",
+            "48) But, the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes. These changes were gradual and at first scarcely visible. But the result was a new social pattern which, although it resembled European society in many ways, had a character that was distinctly American. ",
+            "49) The first shiploads of immigrants bound for the territory which is now the United States crossed the Atlantic more than a hundred years after the 15th- and 16th-century explorations of North America. In the meantime, thriving Spanish colonies had been established in Mexico, the West Indies, and South America. These travelers to North America came in small, unmercifully overcrowded craft. During their six- to twelve-week voyage, they subsisted on barely enough food allotted to them. Many of the ship were lost in storms, many passengers died of disease, and infants rarely survived the journey. Sometimes storms blew the vessels far off their course, and often calm brought unbearably long delay. "
+        ],
+        "bbox": [
+            144,
+            179,
+            853,
+            527
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“To the anxious travelers the sight of the American shore brought almost inexpressible relief.” said one recorder of events, “The air at twelve leagues’ distance smelt as sweet as a new-blown garden.” The colonists’ first glimpse of the new land was a sight of dense woods. 50) The virgin forest with its richness and variety of trees was a veritable real treasure-house which extended from Maine all the way down to Georgia. Here was abundant fuel and lumber. Here was the raw material of houses and furniture, ships and potash, dyes and naval stores. ",
+        "bbox": [
+            144,
+            531,
+            853,
+            640
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Section IV Writing ",
+        "text_level": 1,
+        "bbox": [
+            179,
+            661,
+            329,
+            677
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Part A ",
+        "text_level": 1,
+        "bbox": [
+            215,
+            697,
+            272,
+            712
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "51. Directions: ",
+        "text_level": 1,
+        "bbox": [
+            215,
+            717,
+            326,
+            731
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "You are going to host a club reading session. Write an email of about 100 words recommending a book to the club members. ",
+        "bbox": [
+            144,
+            734,
+            852,
+            768
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "You should state reasons for your recommendation. ",
+        "bbox": [
+            213,
+            772,
+            583,
+            785
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "You should write neatly on the ANSWER SHEET. ",
+        "bbox": [
+            213,
+            791,
+            576,
+            804
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Do not sign your own name at the end of the letter. Use Li Ming instead. ",
+        "bbox": [
+            213,
+            809,
+            731,
+            822
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Do not write the address. (10 points) ",
+        "bbox": [
+            213,
+            828,
+            478,
+            843
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Part B ",
+        "text_level": 1,
+        "bbox": [
+            215,
+            847,
+            272,
+            859
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "52. Directions: ",
+        "text_level": 1,
+        "bbox": [
+            215,
+            865,
+            326,
+            878
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Write an essay of 160-200 words based on the following drawing. In your essay you ",
+        "bbox": [
+            213,
+            883,
+            815,
+            898
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            194,
+            43
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            900,
+            43
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "should ",
+        "text_level": 1,
+        "bbox": [
+            189,
+            87,
+            240,
+            99
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1) describe the drawing briefly ",
+            "2) explain its intended meaning, and ",
+            "3) give your comments "
+        ],
+        "bbox": [
+            216,
+            105,
+            477,
+            156
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "You should write neatly on ANSWER SHEET. (20 points) ",
+        "bbox": [
+            216,
+            161,
+            631,
+            175
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/26d2eecc3d0282f784c2458121e3852f57359a839c56b0bc97c3acc1c986071b.jpg",
+        "image_caption": [
+            "电话时期的聚会"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            184,
+            183,
+            884,
+            448
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            99,
+            24,
+            122,
+            43
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            126,
+            30,
+            189,
+            42
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            791,
+            22,
+            897,
+            33
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            791,
+            34,
+            897,
+            43
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考答案及详细解析",
+        "text_level": 1,
+        "bbox": [
+            391,
+            91,
+            638,
+            114
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "I cloze ",
+        "bbox": [
+            181,
+            124,
+            233,
+            137
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. [A] when [B] why [C] how [D] what ",
+        "bbox": [
+            216,
+            142,
+            499,
+            156
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[D] what",
+        "bbox": [
+            221,
+            160,
+            356,
+            175
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】该题考查的是语法知识。依照句子结构和选项的特点，能够判定出空格处应填从属连词引导从句;再依照句子的内容，能够看出该从句是一项研究的相关内容(what)，不是指研究的时刻(when)， 缘故(why)和方式(how)，因此，该题的答案为 what。",
+        "bbox": [
+            144,
+            178,
+            847,
+            231
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2. [A] defended [B] concluded [C] withdrawn [D] advised ",
+        "bbox": [
+            213,
+            235,
+            631,
+            250
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[B] concluded ",
+        "bbox": [
+            221,
+            252,
+            391,
+            268
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】从此题所在的句子的前后内容能够判定出，that is 中的 that 是指第一句话的内容(朋友与咱们基因上的相关性)，很显然是研究得出的结论。因此，答案为concluded。",
+        "bbox": [
+            144,
+            271,
+            848,
+            323
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3. [A] for [B] with [C] on [D] by ",
+        "bbox": [
+            213,
+            326,
+            452,
+            343
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] on ",
+        "bbox": [
+            221,
+            344,
+            337,
+            361
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】依照空格所在句子的内容(研究对 1932 分独特的受试者进行分析)判定出进行分析的对象是 1932 unique subjects。conduct analysis on…是固定表达。",
+        "bbox": [
+            144,
+            363,
+            847,
+            398
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4. [A] compared [B] sought [C] separated [D] connected ",
+        "bbox": [
+            213,
+            401,
+            620,
+            417
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] compared ",
+        "bbox": [
+            221,
+            419,
+            389,
+            435
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】该空格所在的句子是 which 引导的定语从句修饰 study,意思是：对几对基因不相关的朋友和生疏人进行 _。因为“研究”的内容是关于朋友间基因上的相关性问题，因此完整的意思应该是：对几对基因不相关的朋友和生疏人进行比较。因此最正确答案为 compared。",
+        "bbox": [
+            144,
+            437,
+            848,
+            508
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5. [A] tests [B] objects [C]samples [D] examples ",
+        "bbox": [
+            213,
+            512,
+            564,
+            527
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] samples",
+        "bbox": [
+            221,
+            530,
+            376,
+            546
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】依照空格的前后内容判定，到第五个空为止，文章都在讲实验进程，和实验对象，第五个空格所在句子的内容是：相同的人们都用于实验中的这两类 __。因此依照上下文语境和内容，应该选与实验对象相对应的 samples(样例).因此，答案是 samples。",
+        "bbox": [
+            144,
+            549,
+            848,
+            602
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6. [A] insignificant [B] unexpected [C]unbelievable [D] incredible ",
+        "bbox": [
+            213,
+            605,
+            690,
+            621
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] insignificant",
+        "bbox": [
+            221,
+            623,
+            408,
+            639
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】空的语境为：尽管这 $1 \\%$ 看起来似乎____，可是遗传学家可不这么以为。空前后形成对照转折的逻辑关系，而从后文列举的例子中可知遗传学家 James Fowler 对这$1 \\%$ 基因的态度是确信的，故答案为 A。",
+        "bbox": [
+            144,
+            640,
+            848,
+            694
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7. [A] visit [B] miss [C] seek [D] know ",
+        "bbox": [
+            213,
+            697,
+            499,
+            713
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[D] know ",
+        "bbox": [
+            221,
+            715,
+            359,
+            732
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】空的语境为：大多数人乃至不____他们隔三代的表亲，但却设法选择那些咱们亲戚的人作为朋友。填入的词必需知足前后句之间的转折逻辑关系，四个选项带入，只有 D 选项符合上下文语义。",
+        "bbox": [
+            144,
+            734,
+            848,
+            785
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8. [A] resemble [B] influence [C] favor [D] surpass ",
+        "bbox": [
+            213,
+            791,
+            584,
+            806
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] resemble",
+        "bbox": [
+            221,
+            809,
+            383,
+            824
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】空的语境为：大多数人乃至不熟悉他们隔三代的表亲，但却设法选择那些咱们亲戚的人作为朋友。依照全文中心：基因上的相似性，可知此题选择 A。",
+        "bbox": [
+            144,
+            827,
+            847,
+            860
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "9. [A] again [B] also [C] instead [D] thus ",
+        "bbox": [
+            213,
+            865,
+            510,
+            879
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【答案】[B] also ",
+        "bbox": [
+            221,
+            883,
+            347,
+            898
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            99,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "【解析】空所在的句子开头用“The study…”,显然这是对上文话题的继续论述，前文 指出研究发觉朋友与咱们有 $1 \\%$ 的基因关系，而空所在句“the genes for smell were something sharedin friends”在进一步详细讨论该话题，前后之间是顺接关系，故答案为 B。 ",
+        "bbox": [
+            144,
+            85,
+            850,
+            137
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "10. [A] Meanwhile [B] Furthermore [C] Likewise [D] Perhaps ",
+        "bbox": [
+            216,
+            142,
+            662,
+            156
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【答案】[D] Perhaps ",
+        "bbox": [
+            221,
+            160,
+            376,
+            175
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【解析】从选项和文字中句子结构能够判定，空格处要求填入一个能够表现前后两个句子逻辑关系的副词，空前的句子谈到“什么缘故在嗅觉基因方面存在相似性还很难说明”，空后却紧接着对此得出一个相关结论，很明显是矛盾的，因此此结论只能是一种不确信的推测，故答案为 D。",
+        "bbox": [
+            144,
+            178,
+            853,
+            248
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "11. [A] about [B] to [C]from [D]like ",
+        "bbox": [
+            216,
+            253,
+            478,
+            268
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【答案】[B] to",
+        "bbox": [
+            221,
+            271,
+            334,
+            286
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【解析】该题为介词选择题。后半句显现比较级，可见是和前文形成比较关系，因此和上半句介词维持一致，用介词 to。该句翻译：它(这种相似性)吸引咱们到相同的环境，而且使咱们更为相似。因此答案为 to。",
+        "bbox": [
+            144,
+            288,
+            847,
+            341
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "12. [A] drive [B] observe [C] confuse [D]limit ",
+        "bbox": [
+            216,
+            346,
+            549,
+            361
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] drive ",
+        "bbox": [
+            221,
+            363,
+            356,
+            379
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【解析】该句意思为：很多机制一起作用，从而 咱们选择基因相似的朋友，_和___ 交朋友的“功能关系”。依照上下文可知，此处所填入动词需符合结构 __sb.in doing sth，B 选项 observe(观看，遵守)和 C 选项 confuse(困惑)均无此用法。符合该结构只有 A 选项 drive(差遣)和 D 选项 limit(限制)。依照上下文可得知：这些机制差遣咱们选择基因相似的朋友，符合文章主题。若是选限制那么为反向干扰。因此答案为 drive。",
+        "bbox": [
+            144,
+            382,
+            848,
+            470
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "13. [A] according to [B] rather than [C] regardless of [D] along with ",
+        "bbox": [
+            216,
+            475,
+            702,
+            491
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【答案】[B] rather than ",
+        "bbox": [
+            221,
+            494,
+            394,
+            508
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【解析】所填词为逻辑关系短语，空前说选择基因相似的朋友，空后说具有“有效关系”的朋友，可知前后为对立关系，而且依照文章主题，可知确信前者而否定后者，可锁定 B 选项 rather than。A 选项 according to(依照)没有表现出对立及取舍关系，因此排除;C 选项 regardless of(不管)表妥协关系，干扰性较强，但文章更强调取前舍后，因此排除;D 选项along with(伴随)表顺接，故排除。故答案为 rather than。",
+        "bbox": [
+            144,
+            512,
+            848,
+            601
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "14. [A] chances [B]responses [C]missions [D]benefits ",
+        "bbox": [
+            216,
+            605,
+            601,
+            621
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【答案】[D] benefits",
+        "bbox": [
+            221,
+            623,
+            376,
+            639
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【解析】依照前文 functional kinship(有效关系)可得出 D 选项 benefits(利益)，前后形成呼应。A 选项 chances(机遇)、B 选项 responses(反映)、C 选项 missions(使命)均不符合题意。故答案为 benefits。",
+        "bbox": [
+            144,
+            640,
+            848,
+            693
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "15. [A] later [B]slower [C] faster [D] earlier ",
+        "bbox": [
+            216,
+            697,
+            532,
+            713
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] faster",
+        "bbox": [
+            221,
+            715,
+            359,
+            732
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【解析】该句为：evolving than other genes(比其他基因进化得 _). 依照同词复现，咱们找到该段第二句话中：human evolution picked pace in the last 30,000 years(人类进化在过去 30000 年间提速)。C 选项 faster 与下文 picked pace(加速)形成呼应，故答案为faster。",
+        "bbox": [
+            144,
+            734,
+            848,
+            804
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "16. [A]forecast [B]remember [C]understand [D]express ",
+        "bbox": [
+            216,
+            809,
+            613,
+            824
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] understand ",
+        "bbox": [
+            221,
+            827,
+            396,
+            843
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【解析】此题考查动词。依照语意。空格后面是一个 why引导的宾语从句，意为“人类进化在过去三万年间得以加速的缘故”，表示这一研究的结果和意义。能与这一宾语从句组成搭配的只有 C 选项 understand。A 选项 forecast“预测”与“过去三万年”相矛盾，B 选项",
+        "bbox": [
+            144,
+            845,
+            848,
+            898
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            33
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            34,
+            899,
+            43
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "remember“记住”和 D 选项“express”均不符合文意。",
+        "bbox": [
+            179,
+            85,
+            564,
+            101
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "17. [A] unpredictable [B]contributory [C] controllable [D] disruptive ",
+        "bbox": [
+            216,
+            105,
+            707,
+            121
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【答案】[B] contributory",
+        "bbox": [
+            221,
+            123,
+            406,
+            139
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【解析】此空需要填入一个形容词，表达社会环境对人类进步所起到的作用。help，pickpace 这两个词表达的都是踊跃的含义，因此此处需要填入一个带有褒义的情感色彩的词，因此排除 A 选项“不可预测的”和 D 选项“破坏性的”; B 而 C 选项“可控的”,与语意无关;因此正确答案为 B 选项 contributory“增进的”。",
+        "bbox": [
+            144,
+            141,
+            853,
+            212
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "18. [A] endeavor [B]decision [C]arrangement [D] tendency ",
+        "bbox": [
+            216,
+            216,
+            640,
+            231
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【答案】[D] tendency ",
+        "bbox": [
+            221,
+            234,
+            383,
+            250
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【解析】此处进一步陈述这一研究的结论。A 选项 endeavor“尽力”，B 选项“决定”，C 选项“安排”，D 选项“偏向”。本文的主旨重在说明人们在交朋友的不自觉的一种偏向，而非通过人为的成心识的举动来选择朋友。因此正确答案为 D。",
+        "bbox": [
+            144,
+            252,
+            847,
+            305
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "19. [A] political [B] religious [C] ethnic [D] economic ",
+        "bbox": [
+            216,
+            309,
+            605,
+            324
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] ethnic",
+        "bbox": [
+            221,
+            326,
+            361,
+            343
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【解析】结合文意，人们普遍希望和有相似基因背景的人。C 选项 ethnic 意为“种族的，民族的”，是对上文中多次重复显现的 genes,和下文的 the same population 的同义复现。因此正确答案为 C。 A 选项political“政治的”， B 选项“宗教的”，D 选项“经济的”均不符合原文文意。",
+        "bbox": [
+            144,
+            344,
+            848,
+            416
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "20. [A] see [B] show [C] prove [D] tell ",
+        "bbox": [
+            216,
+            420,
+            497,
+            435
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] see ",
+        "bbox": [
+            221,
+            438,
+            342,
+            454
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【解析】此处考察动词，动词必将要看前后搭配。seethat 组成固定词组，意为“务必使……”，符合文意，即：即便所有的受访者都拥有欧洲血统，(研究者们)仍然悉心确保所有的受访者、朋友和生疏人都来自于同一群种。选项 B“展现”,选项 C“证明”，选项 D“分辨”均无此含义，且不符合文意。",
+        "bbox": [
+            144,
+            456,
+            848,
+            527
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "II Reading comprehension ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            550,
+            384,
+            565
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Part A ",
+        "bbox": [
+            216,
+            569,
+            265,
+            582
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "21. According to the first two Paragraphs, King Juan Carlos of Spain ",
+        "bbox": [
+            196,
+            587,
+            687,
+            602
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] used turn enjoy high public support ",
+            "[B] was unpopular among European royals ",
+            "[C] cased his relationship with his rivals ",
+            "[D]ended his reign in embarrassment "
+        ],
+        "bbox": [
+            216,
+            606,
+            522,
+            676
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【答案】[D] ended his reign in embarrassment ",
+        "bbox": [
+            221,
+            678,
+            557,
+            695
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【解析】事实细节题。依照题干要求，定位到文章前两段。而文章第一段的第二句话 提 到 “But embarrassing scandals and the popularity of the republican left in the recentEuro-elections have forced him to eat his words and stand down.”(在最近的欧洲选举中，令人为难的丑闻和受欢迎的共和党，均迫使 Carlos 收回前言并退位)。D 选项中，“stand down”是“endreign”的同义置换，且“embarrassment”与致使 Carlos 离任的缘故“embarrassing scandals”是相呼应的。故 D 是正确答案。A、B、C 均属于无中生有。",
+        "bbox": [
+            144,
+            697,
+            850,
+            804
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "22. Monarchs are kept as heads of state in Europe mostly ",
+        "bbox": [
+            216,
+            809,
+            623,
+            824
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] owing to their undoubted and respectable status ",
+            "[B] to achieve a balance between tradition and reality ",
+            "[C] to give voter more public figures to look up to ",
+            "[D]due to their everlasting political embodiment "
+        ],
+        "bbox": [
+            216,
+            828,
+            596,
+            898
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            99,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] owing to their undoubted and respectable status ",
+        "bbox": [
+            221,
+            86,
+            655,
+            101
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "【解析】事实细节题。依照题干关键词“monarchs”和“heads of state”，定位到第三段的 最 后 一 句 话 “...most royal families have survived because they allow voters to avoid thedifficult search for a non-controversial but respected public figure.”(大多数的王室幸存下来是由于他们让选民能够幸免去寻觅一个不受争议且受尊重的公世人物的困难)其中“non-controversial but respected public figure”正是 A 选项中“undoubted and respectable status”的同义置换。故 A 是正确答案。",
+        "bbox": [
+            144,
+            104,
+            850,
+            212
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "23. Which of the following is shown to be odd, according to Paragraph 4? ",
+        "bbox": [
+            213,
+            216,
+            742,
+            231
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] Aristocrats’ excessive reliance on inherited wealth ",
+            "[B] The role of the nobility in modern democracies ",
+            "[C] The simple lifestyle of the aristocratic families ",
+            "[D]The nobility’s adherence to their privileges "
+        ],
+        "bbox": [
+            213,
+            235,
+            603,
+            303
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "【答案】[B] The role of the nobility in modern democracies ",
+        "bbox": [
+            221,
+            307,
+            650,
+            323
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "【解析】事实细节题。定位在第四段的最后一句话“...it is bizarre that wealthyaristocratic families should still be the symbolic heart of modern democratic states.”(离奇的是，富有的贵族竟然仍是现代民主国家的象征核心)其中，the symbolic heart of modern democraticstates 是题干 the role of the nobility in modern democracies 的同义置换。",
+        "bbox": [
+            144,
+            326,
+            850,
+            398
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "24. The British royals “have most to fear” because Charles ",
+        "bbox": [
+            213,
+            401,
+            635,
+            416
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] takes a rough line on political issues ",
+            "[B] fails to change his lifestyle as advised ",
+            "[C] takes republicans as his potential allies ",
+            "[D] fails to adapt himself to his future role "
+        ],
+        "bbox": [
+            213,
+            420,
+            521,
+            487
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "【答案】[D] fails to adapt himself to his future role ",
+        "bbox": [
+            221,
+            494,
+            589,
+            508
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "【解析】事实细节题。该题考查：英国皇家贵族们超级可怕是因为查尔斯……。依照 题 干 专 出 名 词 Charles 可 定 位 到 文 章 第 七 段 “the danger will come with Charles...worstenemies”。本段指出“危险源自于查尔斯，他生活奢靡，品级观念显著;而且他没成心识到君王的幸存专门大程度上取决于君王提供了公共效劳，同时，查尔斯并非明白，国王才是君主制度最大的仇敌，而非共和党人。”选项 A 意为：对待政治问题态度强硬，文章并无提及;选项 B 意为，对待建议的生活方式改变失败，文章中提到生活方式，但并未提到改变生活方式;选项 C 意为：视共和党人为潜在盟友，文章中提到，共和党人并非最大的仇敌，并未指明把共和党人视为盟友，属于偷换概念，选项 D 意为：适应以后身份失败，文章指出查尔斯的生活方式，世界观和他关于君王制度的错误明白得均为身份特殊的他的不正确言行，与选项 D 表述吻合，故为正确答案。",
+        "bbox": [
+            144,
+            512,
+            850,
+            694
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "25. Which of the following is the best title of the text? ",
+        "bbox": [
+            213,
+            697,
+            601,
+            712
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] Carlos, Glory and Disgrace Combined ",
+            "[B] Charles, Anxious to Succeed to the Throne ",
+            "[C] Carlos, a Lesson for All European Monarchs ",
+            "[D]Charles, Slow to React to the Coming Threats "
+        ],
+        "bbox": [
+            213,
+            717,
+            566,
+            784
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] Carlos, a Lesson for All European Monarchs ",
+        "bbox": [
+            221,
+            790,
+            635,
+            804
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "【解析】主旨大意题。该题考察四个选项中哪个可作为文章最正确题目。文章从西班牙国王 Carlos 退位事件切入，要紧讨论当下欧洲君王制度所存在的问题，并非讨论查尔斯的事件，即可排除选项 B“查尔斯—继位焦虑”和 D“查尔斯—应付要挟缓慢”，而选项 A“卡洛斯—荣辱并存” 和 C“卡洛斯—欧洲君王们的前车之鉴”中，选项 A 属于细节信息，不能归纳文章大意，选项 C 可归纳，故为正确答案。另外，文章主题辞 Monarch 只有在选项 C 中",
+        "bbox": [
+            144,
+            808,
+            850,
+            898
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "显现，也可作为迅速解题的依据。",
+        "bbox": [
+            181,
+            85,
+            440,
+            101
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "26. The Supreme Court will work out whether, during an arrest, it is legitimate to ",
+        "bbox": [
+            181,
+            105,
+            757,
+            120
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] prevent suspects from deleting their phone contents. ",
+            "[B] search for suspects’ mobile phones without a warrant. ",
+            "[C] check suspects’ phone contents without being authorized. ",
+            "[D]prohibit suspects from using their mobile phones. "
+        ],
+        "bbox": [
+            215,
+            124,
+            652,
+            193
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] check suspects’ phone contents without being authorized ",
+        "bbox": [
+            220,
+            197,
+            719,
+            212
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "【解析】这是一道事实细节题，依照题干关键词 The Supreme Court 回文定位到第一 段 的 第 二 句 话 ， “The Supreme Court will now consider whether police can search for thecontents of a mobile phone without a warrant if the phone is on or around a person during anarrest”,一一比对选项，原文中的“police can search for the contents of a mobile phone without awarrant”与选项 C “check suspects’ phone contents without being authorized”是同义替换，其他选项均是无关选项。",
+        "bbox": [
+            144,
+            215,
+            850,
+            323
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "27. The author’s attitude toward California’s argument is one of ",
+        "bbox": [
+            213,
+            326,
+            670,
+            342
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] disapproval. ",
+            "[B] indifference. ",
+            "[C] tolerance. ",
+            "[D]cautiousness. "
+        ],
+        "bbox": [
+            215,
+            346,
+            337,
+            414
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] disapproval ",
+        "bbox": [
+            221,
+            419,
+            401,
+            435
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "【解析】此题是观点态度题，考察作者的态度。依照题干关键词“California’s argument”，能够定位到文章第四段第一句“They should start by discarding California’s lame argument…”。由第四段第一句话中的“discard(抛弃)”和“lame(没有说服力的)”能够看出作者关于California’s argument 是不支持的态度，因此选 A。",
+        "bbox": [
+            144,
+            437,
+            853,
+            508
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "28. The author believes that exploring one’s phone contents is comparable to ",
+        "bbox": [
+            213,
+            512,
+            761,
+            527
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] getting into one’s residence. ",
+            "[B] handling one’s historical records. ",
+            "[C] scanning one’s correspondences. ",
+            "[D] going through one’s wallet. "
+        ],
+        "bbox": [
+            215,
+            532,
+            480,
+            601
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] getting into one’s residence ",
+        "bbox": [
+            221,
+            604,
+            514,
+            621
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "【解析】依照题干关键词 the author believes 和“exploring one’s phone contents is comparable to”可回文定位到文章第四段第三句“But exploring one’s smartphone is more like entering his or her home”，选项 A 语义与之一致，其中，getting into 与 entering 对应，one’s residence 与 his or her home 对应，故 A 选项为正确答案。 ",
+        "bbox": [
+            144,
+            623,
+            850,
+            694
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "29. The author believes that exploring one’s phone contents is comparable to ",
+        "bbox": [
+            213,
+            697,
+            761,
+            713
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] principles are hard to be clearly expressed. ",
+            "[B] the court is giving police less room for action. ",
+            "[C] citizens’ privacy is not effectively protected. ",
+            "[D] phones are used to store sensitive information. "
+        ],
+        "bbox": [
+            215,
+            717,
+            576,
+            785
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] citizens’ privacy is not effectively protected ",
+        "bbox": [
+            221,
+            790,
+            628,
+            806
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "【解析】依照题干信息 In paragraphs 5and 6 定位第 5 段第一句话“Americans shouldtake steps to protect their digital privacy.及第 6 段最后一句话，...and they could take reasonablemeasures to.....，可推知作者的顾虑，因此答案为 C.",
+        "bbox": [
+            144,
+            808,
+            850,
+            860
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "30. Orin Kerr’s comparison is quoted to indicate that ",
+        "bbox": [
+            213,
+            865,
+            593,
+            879
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[A] the Constitution should be implemented flexibly. ",
+        "bbox": [
+            215,
+            883,
+            594,
+            898
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[B] new technology requires reinterpretation of the Constitution. ",
+        "bbox": [
+            213,
+            86,
+            675,
+            102
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[C]California’s argument violates principles of the Constitution. ",
+        "bbox": [
+            213,
+            105,
+            670,
+            121
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[D]principles of the Constitution should never be altered ",
+        "bbox": [
+            213,
+            124,
+            620,
+            139
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] the Constitution should be implemented flexibly ",
+        "bbox": [
+            213,
+            142,
+            662,
+            158
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "【解析】这是一道例证题，依照题干关键词 Orin Kerr 能够回文定位到文章最后一段。作者引用 Orin Kerr 那个人的比较是为了说明相关的论点。分析最后一段结构可知，最后一段的第三句和第四句都是在论述该例子本身，因此相关论点应该往前面找，即是第二句话 ， “New ， disruptive technology sometimes demands novel applications of the Constitution’sprotection”,选项 A 与之同义替换，其中，be implemented 和 applications 对应，novel 和 flexibly对应。",
+        "bbox": [
+            144,
+            160,
+            852,
+            268
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "31. It can be learned from Paragraph 1 that ",
+        "bbox": [
+            196,
+            272,
+            505,
+            287
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] Science intends to simplify their peer-review process. ",
+            "[B] journals are strengthening their statistical checks. ",
+            "[C] few journals are blamed for mistakes in data analysis. ",
+            "[D] lack of data analysis is common in research projects. "
+        ],
+        "bbox": [
+            213,
+            290,
+            626,
+            362
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "【答案】[B] journals are strengthening their statistical checks ",
+        "bbox": [
+            221,
+            363,
+            663,
+            380
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "【解析】推理题。依照题干直接定位到第一段。解题关键在于第二句 The policyfollows similar efforts from other journals(该政策取得其他期刊类似的尽力)the policy 指第一句 The journal Science is adding an extra round of statistical checks to its peer-review process,(《科学》杂志把统计检查额外添加到它的同行评审进程中)，由此可直接推断出正确答案为[B] journals are strengthening their statistical checks (各大期刊正在增强统计数字检查)。选项[A]中 simplify 与原文语意不符，因此选项 C、D 属于无中生有。",
+        "bbox": [
+            144,
+            382,
+            855,
+            491
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "32. The phrase “flagged up” (Para. 2) is the closest in meaning to ",
+        "bbox": [
+            213,
+            494,
+            680,
+            510
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] found. ",
+            "[B] marked. ",
+            "[C] revised. ",
+            "[D] stored. "
+        ],
+        "bbox": [
+            213,
+            513,
+            304,
+            583
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] marked ",
+        "bbox": [
+            221,
+            586,
+            371,
+            602
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "【解析】词义题。依照题干定位回第二段第三句 Manuscript will be flagged up foradditional scrutiny by the journal’s internal editors, (杂志内部编辑将通过更多的审查来标记手稿)。文中运用代入法，把各选项代入句中替换，可知选项 C marked(标记)为正确答案。选项 A found(发觉，找到)，选项 B revised(修改)，选项 D stored(存储)。",
+        "bbox": [
+            144,
+            605,
+            852,
+            677
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "33. Giovanni Parmigiani believes that the establishment of the SBoRE may ",
+        "bbox": [
+            213,
+            678,
+            752,
+            695
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] pose a threat to all its peers. ",
+            "[B] meet with strong opposition. ",
+            "[C] increase Science’s circulation. ",
+            "[D]set an example for other journals. "
+        ],
+        "bbox": [
+            213,
+            697,
+            480,
+            769
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "【答案】[D] set an example for other journals ",
+        "bbox": [
+            221,
+            772,
+            552,
+            788
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "【解析】细节题。依照题干关键词 Giovanni Parmigiani，the establishment of the SBoRE 和 may 定位到第四段的最后一句“… but hopefully through a larger group of publishing places that may want to model their approach after Science。选项中的 example 是 model 的同义替换， others journals 是原文中 a larger group of publishing places 的同义替换。 ",
+        "bbox": [
+            144,
+            790,
+            852,
+            862
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "文章中显现了 hopefully，表示作者踊跃的态度。选项 A 中的 threat，选项 B 中的opposition 别离表达负向消极的态度，因此错误。选项 C increase Science’s circulation(增加《科",
+        "bbox": [
+            144,
+            864,
+            850,
+            898
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "学》杂志的发行量)，文章并未提到，属于无中生有。",
+        "bbox": [
+            181,
+            85,
+            586,
+            101
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "34. David Vaux holds that what Science is doing now ",
+        "bbox": [
+            213,
+            105,
+            598,
+            120
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] adds to researchers’ workload. ",
+            "[B] diminishes the role of reviewers. ",
+            "[C] has room for further improvement. ",
+            "[D]is to fail in the foreseeable future "
+        ],
+        "bbox": [
+            213,
+            124,
+            492,
+            192
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] has room for further improvement ",
+        "bbox": [
+            220,
+            197,
+            559,
+            212
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "【解析】细节题。由题干关键词 David Vaux 和 Science，可定位到第六段最后一句。 Vaux says that Science’s idea to pass some papers to statisticians “has some merit, but a weakness is that it relies on the board of reviewing editors to identify ‘the papers that need scrutiny’ in the first place”. (《科学》杂志把论文推给统计员审核有一些优势，但缺点是它依托于审稿编委 会第一需要确信审查的文件。) ",
+        "bbox": [
+            144,
+            215,
+            850,
+            304
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "选项 A 中 workload，选项 B. diminish the role of reviewers 和选项 D 中的 foreseeablefuture没有提到，属于无中生有。",
+        "bbox": [
+            144,
+            307,
+            850,
+            341
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "35. Which of the following is the best title of the text? ",
+        "bbox": [
+            213,
+            346,
+            601,
+            360
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] Science Joins Push to Screen Statistics in Papers. ",
+            "[B] Professional Statisticians Deserve More Respect ",
+            "[C] Data Analysis Finds Its Way onto Editors’ Desks ",
+            "[D] Statisticians Are Coming Back with Science "
+        ],
+        "bbox": [
+            213,
+            363,
+            594,
+            432
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "【答案】A science joins push to screen statistics in papers ",
+        "bbox": [
+            220,
+            438,
+            636,
+            454
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "【解析】文章第一段由 Science 将增加 statistical checks 引出话题，接下来各段就此问 题 McNutt, Giovanni Parmigianni, John Ioannidis, David Vaux 提 出 各 自 的 观 点 。 文 中statistical，papers 反复提及，可知该词是文中核心词。选项 B 和选项 D 第一排除，偏离主题，statisticians 仅在文中提及，非重点讨论内容;选项 C 与文中主题相差较大，因此排除。",
+        "bbox": [
+            144,
+            456,
+            848,
+            527
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "36. According to the first two paragraphs, Elisabeth was upset by ",
+        "bbox": [
+            179,
+            531,
+            645,
+            546
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] the consequences of the current sorting mechanism ",
+            "[B] companies’ financial loss due to immoral practices. ",
+            "[C] governmental ineffectiveness on moral issues. ",
+            "[D]the wide misuse of integrity among institutions. "
+        ],
+        "bbox": [
+            213,
+            550,
+            608,
+            619
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] the consequences of the current sorting mechanism ",
+        "bbox": [
+            220,
+            624,
+            680,
+            639
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "【解析】通过题干能够将此题锁定在前两段。第一段指出 Elisabeth 谈到了“咱们很多机构都面临着令人沮丧的正直感的丧失”。接下来第二句指出这种正直感的丧失是因为大伙儿普遍以为社会中唯一的分类机制(sorting mechanism)应该是利益和市场。而从第一段最后一句咱们看出，她以为“应该是咱们人类自己制造咱们想要的社会，而不该该是利益”。可见，Elisabeth 很不认可目前的这种分类机制(sorting mechanism)和所造成的不良后果，这也正是她感到沮丧的缘故。故 A 选项 consequence of the current sorting mechanism(目前这种分类机制的后果)是真正让她沮丧的缘故。",
+        "bbox": [
+            144,
+            640,
+            850,
+            768
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "37. It can be inferred from Paragraph 3 that ",
+        "bbox": [
+            213,
+            772,
+            527,
+            785
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] Glem Mulcaire may deny phone hacking as a crime ",
+            "[B] more journalists may be found guilty of phone hacking. ",
+            "[C] Andy Coulson should be held innocent of the charge. ",
+            "[D] phone hacking will be accepted on certain occasions. "
+        ],
+        "bbox": [
+            213,
+            791,
+            638,
+            859
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "【答案】[B] more journalists may be found guilty of phone hacking ",
+        "bbox": [
+            220,
+            864,
+            707,
+            879
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "【解析】第三段第一句指出，Andy Coulson因为参与电话黑客案件被裁定有罪，然",
+        "bbox": [
+            220,
+            883,
+            847,
+            897
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "而他的前任却被认定是无罪的。通过这一事件，作者得出由此造成的道德沦丧普遍问题仍然存在(the wider issue of dearth of integrity still stands)。即仍然存在一些人没有被裁定有罪。接着文章指出了在新闻业中，已经有记者被认定非法侵入用户电话。而还有一些在等待审判(others await trial)，由此能够推出，将会有更多的记者因为涉及电话黑客案件而被裁定有罪。故正确答案为选项 B。",
+        "bbox": [
+            144,
+            85,
+            855,
+            175
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "38. The author believes the Rebekah Books’s deference ",
+        "bbox": [
+            213,
+            179,
+            613,
+            193
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] revealed a cunning personality ",
+            "[B] centered on trivial issues ",
+            "[C] was hardly convincing ",
+            "[D] was part of a conspiracy "
+        ],
+        "bbox": [
+            216,
+            197,
+            465,
+            268
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] was hardly convincing ",
+        "bbox": [
+            221,
+            272,
+            478,
+            288
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "【解析】依照题干中的“defence”能够回文定位到文章第四段最后一句话。该句指出Ms. Brooks 辩护成功的关键在于她对那个事件一无所知(she knew nothing)。而作者在该段第一句话中指出，道德丧失不仅体此刻普遍存在的电话黑客这一事实上，更体此刻一些审判案件所利用的条款上，其中最震惊的确实是对 Ms. Brooks 的审判。可见，作者对该案的审判持否定态度。因此，以为她的辩护是不可信的。故正确答案为 C。",
+        "bbox": [
+            144,
+            288,
+            850,
+            379
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "39. The author holds that the current collective doctrine shows ",
+        "bbox": [
+            213,
+            382,
+            662,
+            397
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] generally distorted values ",
+            "[B] unfair wealth distribution ",
+            "[C] a marginalized lifestyle ",
+            "[D] a rigid moral cote "
+        ],
+        "bbox": [
+            216,
+            401,
+            430,
+            470
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "【答案】[A] (generally distorted values) ",
+        "bbox": [
+            221,
+            475,
+            512,
+            491
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "【解析】通过题干中的“collective doctrine”能够直接定位到文中第五段第三行。该句指出“collective doctrine”是社会的分类机制应该是利益。接下来能够看出，那些真正起作用的是那些表示利益的词“efficiency，flexibility，shareholder value，business-friendly，wealthgeneration…”，而表示公平、正义的词(Justice，fairness，tolerance…)那么被置于边缘。可见，这种教义(collective doctrine)只关注利益，而忽略了公平与正义，这显然是一种扭曲的价值观。故 A 选项正确。",
+        "bbox": [
+            144,
+            493,
+            850,
+            601
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "40. Which of the following is suggested in the last paragraph? ",
+        "bbox": [
+            213,
+            605,
+            658,
+            621
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] The quality of writing is of primary importance. ",
+            "[B] Common humanity is central news reporting. ",
+            "[C] Moral awareness matters in exciting a newspaper. ",
+            "[D] Journalists need stricter industrial regulations. "
+        ],
+        "bbox": [
+            213,
+            624,
+            600,
+            694
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "【答案】[C] moral awareness matters in editing a newspaper ",
+        "bbox": [
+            221,
+            697,
+            658,
+            713
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "【解析】这是一道开放式推理题。作者在最后一段前两句话指出，新闻报导的目的不是为了增进读者的明白得，也不是为了追求公平或违抗人类共有的人性，而是通过追求发行量的阻碍率来破坏人们的生活。即文章从一开始指出的一个问题，为了追求利益而造成了正值感的丧失。从“ruin”一词能够看出，作者对新闻记者的这一行为持否定的态度。而且通过 Ms. Brooks 女士的行为加以佐证。作者通过正话反说的方式，突出新闻报导进程中正值感的重要性。故正确答案为 C，moral awareness matters in editing a newspaper(在新闻报导中，道德意识很重要)，其中 moral awareness 和 integrity 是同义互换。",
+        "bbox": [
+            144,
+            715,
+            850,
+            843
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            99,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "Part B ",
+        "bbox": [
+            200,
+            865,
+            247,
+            878
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            216,
+            889,
+            233,
+            897
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            216,
+            93,
+            233,
+            101
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Rather ,we ascribe meanings to... ",
+        "bbox": [
+            223,
+            105,
+            462,
+            120
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            216,
+            130,
+            233,
+            137
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            225,
+            148,
+            242,
+            156
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "41、【答案】[C] If you are unfamiliar with words or idioms... ",
+        "bbox": [
+            179,
+            160,
+            623,
+            175
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "【解析】从首段疑问句能够看出文章主题围绕如何阅读来进行展开。41 题空在段中间，需要看空处的前一句和后一句，前一句说的是要去明白得单词的含义，并关注句法，而后一句说开始推测文章语境。因此能够推测出 41题空处应该说的是单词语义和语境之间的联系，关键词确实是 words 和 context。纵览选项，只有 C 项符合语境和关键词要求，属同词复现，上下文语义逻辑关联。故正确答案选 C。",
+        "bbox": [
+            144,
+            178,
+            850,
+            268
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "42、【答案】[E] You make further inferences, for instance... ",
+        "bbox": [
+            213,
+            272,
+            648,
+            287
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "【解析】该题空在段末，需要看空处的前一句和下一段首句，前一句说的是咱们通过作者给出的一些具体线索来明白得含义，而下一段首句说通过这种方式表达，每一个人的明白得都会有所不同。因此能够推测出 42 空处内容要有关依照作者给的线索推测信息，而且可能会涉及不同的人有不同的明白得，关键词是 infer,thewriter 和 eachreader。纵览选项，只有 E 项符合语境且显现 inferences, the author, personal，属同义词复现。故正确答案选 E。",
+        "bbox": [
+            144,
+            288,
+            850,
+            380
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "43、【答案】[G] Rather, we ascribe meanings to texts on the basis... ",
+        "bbox": [
+            213,
+            382,
+            705,
+            399
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "【解析】空格后显现明显的指代线索词 such background material，因此空格内必然要显现相关的信息，阅读选项，G 选项中 textual and contextual material，background 与空后线索实现代词指代复现。而且 G 选项中的 rather,与空前 what is in question is not...实现语义逻辑关联。确信此选项为正确答案。",
+        "bbox": [
+            144,
+            401,
+            850,
+            470
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "44、【答案】[B] Factors such as the place and period in which... ",
+        "bbox": [
+            213,
+            475,
+            678,
+            491
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "【解析】空前的线索词为 who we are，空后的线索为转折逻辑关系，意思是“但这并非会使得明白得仅仅有关联或毫无心义”，关键词为 interpretation，relative，pointless，空格中需要显现与此相关联的辞汇，阅读后面选项，B 选项中显现原词 interpretations，而且此选项中的 gender, ethnicity, age, social class 与空前线索词 who we are 相对应。确信正确答案为此选项。",
+        "bbox": [
+            144,
+            493,
+            850,
+            583
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "45、【答案】[A] Are we studying that text and trying to respond... ",
+        "bbox": [
+            213,
+            586,
+            690,
+            602
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "【解析】空格在最后一段的中间，线索需要从空格前后寻觅，空前为归纳的句子，关键词为 particular interest,空后显现代词指代的线索，such dimensions of reading suggest,结合关键词能够得知空格所填的部份内容需要涉及到“阅读的爱好和阅读维度”，阅读选项，A 选项提到的诸多问题正是有关念书的爱好和阅读的维度。因此确信 A 为正确选项。",
+        "bbox": [
+            144,
+            604,
+            848,
+            677
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Part C ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            680,
+            230,
+            692
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "46)在多种壮大的动机驱动下，这次运动在一片荒漠上建起了一个国家，其本身塑造了一个未知大陆的性格和命运。",
+        "bbox": [
+            144,
+            697,
+            848,
+            731
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "47)美国是两种要紧力量的产物——即思想风俗、民族特色各异的欧洲移民和修改这些特点的新国家的阻碍的产物。",
+        "bbox": [
+            144,
+            734,
+            848,
+            768
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "48)但由于美国特有的地理条件,不同民族的彼此作用,和保护原始老式方式的纯粹困难,新大陆引发了重大转变。",
+        "bbox": [
+            144,
+            771,
+            848,
+            804
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "49)在 15—16世纪北美探讨的一百连年以后，运往该领土—即现今的美国—的第一船移民横渡了大西洋。",
+        "bbox": [
+            144,
+            808,
+            848,
+            841
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "50)拥有丰硕多样树种的原始丛林是一个真正的宝库，它从缅因州一直延伸到乔治亚州。",
+        "bbox": [
+            144,
+            845,
+            848,
+            879
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            99,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "III Writing ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            86,
+            270,
+            102
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Part A ",
+        "text_level": 1,
+        "bbox": [
+            216,
+            105,
+            270,
+            118
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "范文 1：",
+        "bbox": [
+            200,
+            123,
+            258,
+            137
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Dear Friends, ",
+        "bbox": [
+            181,
+            142,
+            280,
+            156
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "I am writing to recommend to you a wonderful book, The Seventh Key, which is not only conductive to your study but also beneficial to your life. ",
+        "bbox": [
+            147,
+            161,
+            852,
+            195
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The book tells a story that two nephews of an old man try hard to find the seventh key first in order to win the legacy. It discloses the “money-first” attitude and heartlessness of people and tutors people about the life philosophy of “No pains, no gains”. What’s more, the beautiful language in this original English book may contribute to your study of English in listening, speaking, reading and writing. ",
+        "bbox": [
+            147,
+            197,
+            852,
+            288
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "I hope you would enjoy the book and share your opinion on the next reading session. ",
+        "bbox": [
+            213,
+            290,
+            818,
+            307
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Yours sincerely, ",
+        "bbox": [
+            216,
+            309,
+            334,
+            325
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Li Ming ",
+        "bbox": [
+            216,
+            328,
+            278,
+            343
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Part B ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            382,
+            235,
+            397
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "范文 1：",
+        "bbox": [
+            216,
+            401,
+            275,
+            416
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "As is depicted above, a number of young people are having a gathering of friends, but instead of talking with each other, each of them is addicted to his or her mobile phone. The lower part of the picture, we can see some Chinese characters which read “the meeting in mobile-phone era”. ",
+        "bbox": [
+            147,
+            420,
+            853,
+            473
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Undoubtedly, the author of the picture aims at reminding us of the double edge of the cell phone. It is well known that thanks to the development of human civilization, many formerly unimaginable things come into reality. A case in point is the mobile phones. We must admit that the smart phone indeed dramatically changes our life. However, if used improperly, the mobile phones also can bring unhealthy side-effects, and imperil face to face communication between people. It is not too much to say that being over-addicted to mobile phones will cost our health, wisdom, creativity, friendship and even our ability to live. ",
+        "bbox": [
+            144,
+            475,
+            853,
+            602
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Weighing the pros and cons of both sides, perhaps the best policy is to regulate it in such a way as to maximize its advantages. At the same time, we must avoid its harmful part. Furthermore, young people should be advised that spending too much time in using smart phones is bad for them. ",
+        "bbox": [
+            144,
+            605,
+            853,
+            677
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "启航考研",
+        "bbox": [
+            97,
+            24,
+            189,
+            43
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            789,
+            22,
+            899,
+            43
+        ],
+        "page_idx": 21
+    }
+]

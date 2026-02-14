@@ -1,0 +1,1525 @@
+[
+    {
+        "type": "text",
+        "text": "2018 年全国硕士研究生入学统一考试英语(一)真题",
+        "text_level": 1,
+        "bbox": [
+            242,
+            41,
+            803,
+            62
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Section I Use of English ",
+        "text_level": 1,
+        "bbox": [
+            480,
+            72,
+            663,
+            87
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "text_level": 1,
+        "bbox": [
+            124,
+            91,
+            213,
+            104
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Read the following text. Choose the best word (s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points) ",
+        "bbox": [
+            89,
+            109,
+            929,
+            143
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Trust is a tricky business. On the one hand, it's a necessary condition 1 many worthwhile things: child care, friendships, etc. On the other hand, putting your 2, in the wrong place often carries a high 3. ",
+        "bbox": [
+            87,
+            146,
+            929,
+            180
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4, why do we trust at all? Well, because it feels good. 5 people place their trust in an individual or an institution, their brains release oxytocin, a hormone that 6 pleasurable feelings and triggers the herding instruct that prompts humans to 7 with one another. Scientists have found that exposure 8 this hormone puts us in a trusting 9: In a Swiss study, researchers sprayed oxytocin into the noses of half the subjects; those subjects were ready to lend significantly higher amounts of money to strangers than were their 10 who inhaled something else. ",
+        "bbox": [
+            87,
+            182,
+            931,
+            271
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "11 for us, we also have a sixth sense for dishonesty that may 12 us. A Canadian study found that children as young as 14 months can differentiate 13 a credible person and a dishonest one. Sixty toddlers were each 14 to an adult tester holding a plastic container. The tester would ask, “What’s in here?” before looking into the container, smiling, and exclaiming, “Wow!” Each subject was then invited to look 15. Half of them found a toy; the other half 16 the container was empty-and realized the tester had 17 them. ",
+        "bbox": [
+            87,
+            276,
+            931,
+            365
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among the children who had not been tricked, the majority were 18 to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership. 19, only five of the 30 children paired with the $ { \\underline { { ^ { \\circ } } } } 2 0 ^ { \\circ }$ ”tester participated in a follow-up activity. ",
+        "bbox": [
+            87,
+            368,
+            931,
+            421
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. [A] on [B] like [C] for [D] from ",
+            "2. [A] faith [B] concern [C] attention [D] interest ",
+            "3. [A] benefit [B] debt [C] hope [D] price ",
+            "4. [A] Therefore [B] Then [C] Instead [D] Again ",
+            "5. [A]Until [B] Unless [C] Although [D] When ",
+            "6. [A] selects [B] produces [C] applies [D] maintains ",
+            "7. [A] consult [B] compete [C] connect [D] compare ",
+            "8. [A] at [B] by [C]of [D]to ",
+            "9. [A] context [B] mood [C] period [D] circle ",
+            "10.[A] counterparts [B] substitutes [C] colleagues [D]supporters ",
+            "11.[A] Funny [B] Lucky [C] Odd [D] Ironic ",
+            "12.[A] monitor [B] protect [C] surprise [D] delight ",
+            "13.[A] between [B] within [C] toward [D] over ",
+            "14.[A] transferred [B] added [C] introduced [D] entrusted ",
+            "15.[A] out [B] back [C] around [D] inside ",
+            "16.[A] discovered [B] proved [C] insisted [D] .remembered ",
+            "17.[A] betrayed [B]wronged [C] fooled [D] mocked ",
+            "18.[A] forced [B] willing [C] hesitant [D] entitled ",
+            "19.[A] In contrast [B] As a result [C] On the whole [D] For instance ",
+            "20.[A] inflexible [B] incapable [C] unreliable [D] unsuitable "
+        ],
+        "bbox": [
+            124,
+            423,
+            682,
+            790
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Section II Reading Comprehension ",
+        "text_level": 1,
+        "bbox": [
+            329,
+            813,
+            600,
+            828
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Part A ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            832,
+            181,
+            846
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            851,
+            213,
+            864
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) ",
+        "bbox": [
+            87,
+            869,
+            929,
+            903
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Text 1 ",
+        "text_level": 1,
+        "bbox": [
+            453,
+            907,
+            505,
+            920
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among the annoying challenges facing the middle class is one that will probably go unmentioned in the next ",
+        "bbox": [
+            124,
+            923,
+            929,
+            939
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            954
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "presidential campaign: What happens when the robots come for their jobs? ",
+        "bbox": [
+            89,
+            34,
+            623,
+            49
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Don't dismiss that possibility entirely. About half of U.S. jobs are at high risk of being automated, according to a University of Oxford study, with the middle class disproportionately squeezed. Lower-income jobs like gardening or day care don't appeal to robots. But many middle-class occupations-trucking, financial advice, software engineering — have aroused their interest, or soon will. The rich own the robots, so they will be fine. ",
+        "bbox": [
+            87,
+            53,
+            931,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This isn't to be alarmist. Optimists point out that technological upheaval has benefited workers in the past. The Industrial Revolution didn't go so well for Luddites whose jobs were displaced by mechanized looms, but it eventually raised living standards and created more jobs than it destroyed. Likewise, automation should eventually boost productivity, stimulate demand by driving down prices, and free workers from hard, boring work. But in the medium term, middle-class workers may need a lot of help adjusting. ",
+        "bbox": [
+            87,
+            127,
+            929,
+            217
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training. Curriculums —from grammar school to college- should evolve to focus less on memorizing facts and more on creativity and complex communication. Vocational schools should do a better job of fostering problem-solving skills and helping students work alongside robots. Online education can supplement the traditional kind. It could make extra training and instruction affordable. Professionals trying to acquire new skills will be able to do so without going into debt. ",
+        "bbox": [
+            87,
+            220,
+            929,
+            328
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The challenge of coping with automation underlines the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier. In previous eras of drastic technological change, entrepreneurs smoothed the transition by dreaming up ways to combine labor and machines. The best uses of 3D printers and virtual reality haven't been invented yet. The U.S. needs the new companies that will invent them. ",
+        "bbox": [
+            87,
+            331,
+            932,
+            402
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally, because automation threatens to widen the gap between capital income and labor income, taxes and the safety net will have to be rethought. Taxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded: This would boost incomes, encourage work, reward companies for job creation, and reduce inequality. ",
+        "bbox": [
+            87,
+            404,
+            929,
+            477
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Technology will improve society in ways big and small over the next few years, yet this will be little comfort to those who find their lives and careers upended by automation. Destroying the machines that are coming for our jobs would be nuts. But policies to help workers adapt will be indispensable. ",
+        "bbox": [
+            87,
+            479,
+            929,
+            532
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "21.Who will be most threatened by automation? ",
+        "bbox": [
+            107,
+            535,
+            453,
+            549
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] Leading politicians. ",
+            "[B]Low-wage laborers. ",
+            "[C]Robot owners. ",
+            "[D]Middle-class workers. "
+        ],
+        "bbox": [
+            126,
+            553,
+            312,
+            623
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "22 .Which of the following best represent the author’s view? ",
+        "bbox": [
+            107,
+            627,
+            542,
+            643
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] Worries about automation are in fact groundless. ",
+            "[B]Optimists' opinions on new tech find little support. ",
+            "[C]Issues arising from automation need to be tackled ",
+            "[D]Negative consequences of new tech can be avoided "
+        ],
+        "bbox": [
+            126,
+            646,
+            517,
+            716
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "23.Education in the age of automation should put more emphasis on ",
+        "bbox": [
+            107,
+            720,
+            594,
+            735
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[A] creative potential. ",
+        "bbox": [
+            126,
+            739,
+            285,
+            754
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[B]job-hunting skills. ",
+        "bbox": [
+            415,
+            739,
+            566,
+            754
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[C]individual needs. ",
+        "bbox": [
+            126,
+            757,
+            273,
+            771
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[D]cooperative spirit. ",
+        "bbox": [
+            415,
+            757,
+            566,
+            771
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "24.The author suggests that tax policies be aimed at ",
+        "bbox": [
+            107,
+            776,
+            478,
+            790
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A]encouraging the development of automation. ",
+            "[B]increasing the return on capital investment. ",
+            "[C]easing the hostility between rich and poor. ",
+            "[D]preventing the income gap from widening. "
+        ],
+        "bbox": [
+            126,
+            795,
+            468,
+            865
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "25.In this text, the author presents a problem with ",
+        "bbox": [
+            107,
+            869,
+            463,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[A] opposing views on it. ",
+        "bbox": [
+            126,
+            887,
+            310,
+            902
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[B]possible solutions to it. ",
+        "bbox": [
+            415,
+            887,
+            601,
+            902
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[C]its alarming impacts. ",
+        "bbox": [
+            126,
+            906,
+            300,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[D]its major variations. ",
+        "bbox": [
+            415,
+            906,
+            581,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            952
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Text 2 ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            35,
+            557,
+            48
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A new survey by Harvard University finds more than two-thirds of young Americans disapprove of President Trump’s use of Twitter. The implication is that Millennials prefer news from the White House to be filtered through other source, Not a president’s social media platform. ",
+        "bbox": [
+            89,
+            53,
+            931,
+            106
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Most Americans rely on social media to check daily headlines. Yet as distrust has risen toward all media, people may be starting to beef up their media literacy skills. Such a trend is badly needed. During the 2016 presidential campaign, nearly a quarter of web content shared by Twitter users in the politically critical state of Michigan was fake news, according to the University of Oxford. And a survey conducted for BuzzFeed News found 44 percent of Facebook users rarely or never trust news from the media giant. ",
+        "bbox": [
+            87,
+            108,
+            931,
+            199
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace. A Knight Foundation focus-group survey of young people between ages 14and24 found they use “distributed trust” to verify stories. They cross-check sources and prefer news from different perspectives—especially those that are open about any bias. “Many young people assume a great deal of personal responsibility for educating themselves and actively seeking out opposing viewpoints,” the survey concluded. ",
+        "bbox": [
+            87,
+            201,
+            929,
+            292
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Such active research can have another effect. A 2014 survey conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison found that young people’s reliance on social media led to greater political engagement. ",
+        "bbox": [
+            87,
+            294,
+            931,
+            347
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Social media allows users to experience news events more intimately and immediately while also permitting them to re-share news as a projection of their values and interests. This forces users to be more conscious of their role in passing along information. A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is “reader error,” more so than made-up stories or factual mistakes in reporting. About a third say the problem of fake news lies in “misinterpretation or exaggeration of actual news” via social media. In other words, the choice to share news on social media may be the heart of the issue. “This indicates there is a real personal responsibility in counteracting this problem,” says Roxanne Stone, editor in chief at Barna Group. ",
+        "bbox": [
+            87,
+            349,
+            929,
+            477
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "So when young people are critical of an over-tweeting president, they reveal a mental discipline in thinking skills – and in their choices on when to share on social media. ",
+        "bbox": [
+            89,
+            479,
+            929,
+            513
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "26. According to the Paragraphs 1 and 2, many young Americans cast doubts on ",
+        "bbox": [
+            107,
+            517,
+            677,
+            530
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] the justification of the news-filtering practice. ",
+            "[B] people’s preference for social media platforms. ",
+            "[C] the administrations ability to handle information. ",
+            "[D] social media was a reliable source of news. "
+        ],
+        "bbox": [
+            124,
+            536,
+            502,
+            604
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "27. The phrase “beer up”(Line 2, Para. 2) is closest in meaning to ",
+        "bbox": [
+            107,
+            609,
+            574,
+            624
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[A] sharpen ",
+        "bbox": [
+            124,
+            628,
+            215,
+            642
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[B] define ",
+        "bbox": [
+            270,
+            628,
+            344,
+            642
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[C] boast ",
+        "bbox": [
+            415,
+            628,
+            482,
+            642
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[D] share ",
+        "bbox": [
+            557,
+            628,
+            626,
+            642
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "28. According to the knight foundation survey, young people ",
+        "bbox": [
+            107,
+            647,
+            542,
+            661
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] tend to voice their opinions in cyberspace. ",
+            "[B] verify news by referring to diverse resources. ",
+            "[C] have s strong sense of responsibility. ",
+            "[D] like to exchange views on “distributed trust” "
+        ],
+        "bbox": [
+            124,
+            665,
+            477,
+            733
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "29. The Barna survey found that a main cause for the fake news problem is ",
+        "bbox": [
+            107,
+            739,
+            640,
+            754
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] readers outdated values. ",
+            "[B] journalists’ biased reporting ",
+            "[C] readers’ misinterpretation ",
+            "[D] journalists’ made-up stories. "
+        ],
+        "bbox": [
+            124,
+            758,
+            357,
+            827
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "30. Which of the following would be the best title for the text? ",
+        "bbox": [
+            107,
+            832,
+            554,
+            846
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] A Rise in Critical Skills for Sharing News Online ",
+            "[B] A Counteraction Against the Over-tweeting Trend ",
+            "[C] The Accumulation of Mutual Trust on Social Media. ",
+            "[D] The Platforms for Projection of Personal Interests. "
+        ],
+        "bbox": [
+            124,
+            850,
+            527,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Text 3 ",
+        "text_level": 1,
+        "bbox": [
+            473,
+            35,
+            524,
+            48
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well. DeepMind is one of the leading artificial intelligence (AI) companies in the world. The potential of this work applied to healthcare is very great, but it could also lead to further concentration of power in the tech giants. It Is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients In 2015 on the basis of a vague agreement which took far too little account of the patients' rights and their expectations of privacy. ",
+        "bbox": [
+            89,
+            52,
+            931,
+            180
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DeepMind has almost apologized. The NHS trust has mended its ways. Further arrangements- and there may be many-between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned. There are lessons about informed patient consent to learn. But privacy is not the only angle in this case and not even the most important. Ms Denham chose to concentrate the blame on the NHS trust, since under existing law it “controlled” the data and DeepMind merely “processed\" it. But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value. ",
+        "bbox": [
+            89,
+            182,
+            931,
+            309
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The great question is who should benefit from the analysis of all the data that our lives now generate. Privacy law builds on the concept of damage to an individual from identifiable knowledge about them. That misses the way the surveillance economy works. The data of an individual there gains its value only when it is compared with the data of countless millions more. ",
+        "bbox": [
+            89,
+            312,
+            929,
+            383
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted. This practice does not address the real worry. It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives. What matters is that they will belong to a private monopoly which developed them using public resources. If software promises to save lives on the scale that dugs now can, big data may be expected to behave as a big pharm has done. We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later. A long struggle will be needed to avoid a future of digital feudalism. Ms Denham's report is a welcome start. ",
+        "bbox": [
+            89,
+            387,
+            931,
+            513
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "31.Wha is true of the agreement between the NHS and DeepMind ? ",
+        "bbox": [
+            107,
+            516,
+            591,
+            530
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] It caused conflicts among tech giants. ",
+            "[B] It failed to pay due attention to patient’s rights. ",
+            "[C] It fell short of the latter's expectations ",
+            "[D] It put both sides into a dangerous situation. "
+        ],
+        "bbox": [
+            124,
+            536,
+            487,
+            605
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "32. The NHS trust responded to Denham's verdict with ",
+        "bbox": [
+            107,
+            609,
+            500,
+            624
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] empty promises. ",
+            "[B] tough resistance. ",
+            "[C] necessary adjustments. ",
+            "[D] sincere apologies. "
+        ],
+        "bbox": [
+            124,
+            628,
+            317,
+            698
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "33.The author argues in Paragraph 2 that ",
+        "bbox": [
+            107,
+            701,
+            401,
+            717
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] privacy protection must be secured at all costs. ",
+            "[B] leaking patients' data is worse than selling it. ",
+            "[C] making profits from patients' data is illegal. ",
+            "[D] the value of data comes from the processing of it "
+        ],
+        "bbox": [
+            124,
+            720,
+            502,
+            790
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "34.According to the last paragraph, the real worry arising from this deal is ",
+        "bbox": [
+            107,
+            795,
+            635,
+            809
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] the vicious rivalry among big pharmas. ",
+            "[B] the ineffective enforcement of privacy law. ",
+            "[C] the uncontrolled use of new software. ",
+            "[D] the monopoly of big data by tech giants. "
+        ],
+        "bbox": [
+            124,
+            814,
+            460,
+            883
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "35.The author's attitude toward the application of AI to healthcare is ",
+        "bbox": [
+            107,
+            887,
+            594,
+            902
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] ambiguous. ",
+        "bbox": [
+            124,
+            906,
+            240,
+            921
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] cautious. ",
+        "bbox": [
+            413,
+            906,
+            505,
+            921
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] appreciative. ",
+        "bbox": [
+            124,
+            925,
+            247,
+            939
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D] contemptuous. ",
+        "bbox": [
+            413,
+            925,
+            547,
+            939
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            952
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Text 4 ",
+        "text_level": 1,
+        "bbox": [
+            472,
+            35,
+            524,
+            48
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The U.S. Postal Service (USPS) continues to bleed red ink. It reported a net loss of $\\$ 5.6$ billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue. Meanwhile, it has more than $\\$ 120$ billion in unfunded liabilities, mostly for employee health and retirement costs. There are many bankruptcies. Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality ",
+        "bbox": [
+            89,
+            52,
+            931,
+            161
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS’s ultimate overseer-Congress-insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected. This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization. ",
+        "bbox": [
+            87,
+            165,
+            929,
+            236
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Now comes word that everyone involved---Democrats, Republicans, the Postal Service, the unions and the system's heaviest users—has finally agreed on a plan to fix the system. Legislation is moving through the House that would save USPS an estimated $\\$ 28.6$ billion over five years, which could help pay for new vehicles, among other survival measures. Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare. The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its union. ",
+        "bbox": [
+            87,
+            239,
+            929,
+            347
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If it clears the House, this measure would still have to get through the Senate – where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform. There’s no change to collective bargaining at the USPS, a major omission considering that personnel accounts for 80 percent of the agency’s costs. Also missing is any discussion of eliminating Saturday letter delivery. That common-sense change enjoys wide public support and would save the USPS $\\$ 2$ billion per year. But postal special-interest groups seem to have killed it, at least in the House. The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS. It is not, however, a sign that they’re getting serious about transforming the postal system for the 21st century. ",
+        "bbox": [
+            87,
+            350,
+            931,
+            495
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "36.The financial problem with the USPS is caused partly by ",
+        "bbox": [
+            107,
+            516,
+            534,
+            530
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A]. its unbalanced budget. ",
+            "[B] .its rigid management. ",
+            "[C] .the cost for technical upgrading. ",
+            "[D]. the withdrawal of bank support. "
+        ],
+        "bbox": [
+            124,
+            536,
+            389,
+            605
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "37. According to Paragraph 2, the USPS fails to modernize itself due to ",
+        "bbox": [
+            107,
+            609,
+            616,
+            624
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A]. the interference from interest groups. ",
+            "[B] .the inadequate funding from Congress. ",
+            "[C] .the shrinking demand for postal service. ",
+            "[D] .the incompetence of postal unions. "
+        ],
+        "bbox": [
+            124,
+            628,
+            443,
+            698
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "38.The long-standing complaint by the USPS and its unions can be addressed by ",
+        "bbox": [
+            107,
+            701,
+            682,
+            717
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] .removing its burden of retiree health care. ",
+            "[B] .making more investment in new vehicles. ",
+            "[C] .adopting a new rate-increase mechanism. ",
+            "[D]. attracting more first-class mail users. "
+        ],
+        "bbox": [
+            124,
+            720,
+            460,
+            790
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "39.In the last paragraph, the author seems to view legislators with ",
+        "bbox": [
+            107,
+            795,
+            574,
+            809
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[A] respect. ",
+        "bbox": [
+            124,
+            814,
+            213,
+            828
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[B] tolerance. ",
+        "bbox": [
+            413,
+            814,
+            512,
+            828
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[C] discontent. ",
+        "bbox": [
+            124,
+            832,
+            233,
+            846
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[D] gratitude. ",
+        "bbox": [
+            413,
+            832,
+            512,
+            846
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "40.Which of the following would be the best title for the text? ",
+        "bbox": [
+            107,
+            851,
+            549,
+            865
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] .The USPS Starts to Miss Its Good Old Days ",
+            "[B] .The Postal Service: Keep Away from My Cheese ",
+            "[C] .The USPS: Chronic Illness Requires a Quick Cure ",
+            "[D] .The Postal Service Needs More than a Band-Aid "
+        ],
+        "bbox": [
+            124,
+            869,
+            517,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            917,
+            941,
+            929,
+            953
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Part B ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            35,
+            144,
+            48
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            54,
+            213,
+            67
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The following paragraphs are given in a wrong order. For Questions 41-45, you are required to reorganize these paragraphs into a coherent article by choosing from the list A-G and filling them into the numbered boxes. Paragraphs C and F have been correctly placed. Mark your answers on ANSWER SHEET. (10 points) ",
+        "bbox": [
+            89,
+            72,
+            931,
+            125
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. In December of 1869, Congress appointed a commission to select a site and prepare plans and cost estimates for a new State Department Building. The commission was also to consider possible arrangements for the War and Navy Departments. To the horror of some who expected a Greek Revival twin of the Treasury Building to be erected on the other side of the White House, the elaborate French Second Empire style design by Alfred Mullett was selected, and construction of a building to house all three departments began in June of 1871. ",
+            "B. Completed in 1875, the State Department's south wing was the first to be occupied, with its elegant four-story library (completed in 1876), Diplomatic Reception Room, and Secretary's office decorated with carved wood, Oriental rugs, and stenciled wall patterns. The Navy Department moved into the east wing in 1879, where elaborate wall and ceiling stenciling and marquetry floors decorated the office of the Secretary. ",
+            "C. The State, War, and Navy Building, as it was originally known, housed the three Executive Branch Departments most intimately associated with formulating and conducting the nation's foreign policy in the last quarter of the nineteenth century and the first quarter of the twentieth century-the period when the United States emerged as an international power. The building has housed some of the nation's most significant diplomats and politicians and has been the scene of many historic events. ",
+            "D. Many of the most celebrated national figures have participated in historical events that have taken place within the EEOB's granite walls. Theodore and Franklin D. Roosevelt, William Howard Taft, Dwight D. Eisenhower, Lyndon B. Johnson, Gerald Ford, and George H. W. Bush all had offices in this building before becoming president. It has housed 16 Secretaries of the Navy, 21 Secretaries of War, and 24 Secretaries of State. Winston Churchill once walked its corridors and Japanese emissaries met here with Secretary of State Cordell Hull after the bombing of Pearl Harbor. ",
+            "E. The Eisenhower Executive Office Building (EEOB) commands a unique position in both the national history and the architectural heritage of the United States. Designed by Supervising Architect of the Treasury, Alfred B. Mullett, it was built from 1871 to 1888 to house the growing staffs of the State, War, and Navy Departments, and is considered one of the best examples of French Second Empire architecture in the country. ",
+            "F. Construction took 17 years as the building slowly rose wing by wing. When the EEOB was finished, it was the largest office building in Washington, with nearly 2 miles of black and white tiled corridors. Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety. Eight monumental curving staircases of granite with over 4,000 individually cast bronze balusters are capped by four skylight domes and two stained glass rotundas. ",
+            "G. The history of the EEOB began long before its foundations were laid. The first executive offices were constructed between 1799 and 1820. A series of fires (including those set by the British in 1814) and overcrowded conditions led to the construction of the existing Treasury Building. In 1866, the construction of the North Wing of the Treasury Building necessitated the demolition of the State Department building. "
+        ],
+        "bbox": [
+            87,
+            127,
+            931,
+            737
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 1. \\rightarrow \\mathrm {C} \\rightarrow 4 2. \\rightarrow 4 3. \\rightarrow \\mathrm {F} \\rightarrow 4 4. \\rightarrow 4 5.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            124,
+            739,
+            403,
+            752
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Part C ",
+        "text_level": 1,
+        "bbox": [
+            124,
+            776,
+            181,
+            789
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            795,
+            213,
+            809
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET. (10 points) ",
+        "bbox": [
+            89,
+            813,
+            929,
+            847
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Shakespeare’s life time was coincident with a period of extraordinary activity and achievement in the drama. By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy. These new forms were at first mainly written by scholars and performed by amateurs, but in England, as everywhere else in western Europe, the growth of a class of professional actors was threatening to make the drama popular, whether it should be new or old, classical or medieval, literary or ",
+        "bbox": [
+            87,
+            850,
+            931,
+            940
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            953
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "farcical. Court, school organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment; and (47) no boy who went a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England. ",
+        "bbox": [
+            87,
+            35,
+            931,
+            87
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When Shakespeare was twelve years old, the first public playhouse was built in London. For a time literature showed no interest in this public stage. Plays aiming at literary distinction were written for school or court, or for the choir boys of St. Paul’s and the royal chapel, who, however, gave plays in public as well as at court.(48)but the professional companies prospered in their permanent theaters, and university men with literature ambitions were quick to turn to these theaters as offering a means of livelihood. By the time Shakespeare was twenty-five, Lyly, Peele, and Greene had made comedies that were at once popular and literary; Kyd had written a tragedy that crowded the pit; and Marlowe had brought poetry and genius to triumph on the common stage - where they had played no part since the death of Euripides. (49)A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun. ",
+        "bbox": [
+            87,
+            90,
+            932,
+            254
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the beginning, growth, blossoming, and decay of many kinds of plays, and of many great careers. We are amazed today at the mere number of plays produced, as well as by the number of dramatists writing at the same time for this London of two hundred thousand inhabitants. (50)To realize how great was the dramatic activity, we must remember further that hosts of plays have been lost, and that probably there is no author of note whose entire work has survived. ",
+        "bbox": [
+            87,
+            257,
+            931,
+            365
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Section III Writing ",
+        "text_level": 1,
+        "bbox": [
+            408,
+            388,
+            559,
+            403
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Part A ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            406,
+            181,
+            419
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "51. Directions：",
+        "text_level": 1,
+        "bbox": [
+            126,
+            423,
+            240,
+            437
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Write an email to all international experts on campus inviting them to attend the graduation ceremony. In your email you should include time, place and other relevant information about the ceremony. ",
+        "bbox": [
+            89,
+            442,
+            929,
+            476
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "You should write about 100 words neatly on the ANSEWER SHEET ",
+        "bbox": [
+            124,
+            480,
+            626,
+            494
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Do not use your own name at the end of the email. Use “Li Ming” instead. (10 points) ",
+        "bbox": [
+            124,
+            498,
+            737,
+            514
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Part B ",
+        "text_level": 1,
+        "bbox": [
+            124,
+            536,
+            179,
+            549
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "52. Directions：",
+        "text_level": 1,
+        "bbox": [
+            126,
+            554,
+            240,
+            567
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Write an essay of 160-200 words based on the picture below. In your essay, you should ",
+        "bbox": [
+            124,
+            572,
+            778,
+            587
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1)describe the pictures briefly ",
+            "2)interpret the meaning and ",
+            "3)give your comments(20 points) "
+        ],
+        "bbox": [
+            124,
+            600,
+            376,
+            671
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "You should write neatly on the ANSWER SHEET. (20 points ) ",
+        "bbox": [
+            124,
+            685,
+            584,
+            700
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9463fd0d8e5d6f13d3b97e8403fcfb739808b5d34ee5c81e9452cdc88bd5f0a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            188,
+            714,
+            729,
+            928
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            917,
+            941,
+            929,
+            952
+        ],
+        "page_idx": 6
+    }
+]

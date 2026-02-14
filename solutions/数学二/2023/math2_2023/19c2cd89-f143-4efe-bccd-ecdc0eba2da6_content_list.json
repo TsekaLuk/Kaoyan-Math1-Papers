@@ -1,0 +1,1126 @@
+[
+    {
+        "type": "text",
+        "text": "2023 年数学二试题",
+        "text_level": 1,
+        "bbox": [
+            396,
+            93,
+            600,
+            112
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、选择题（1~10 小题，每小题5分，共 50分.下列每题给出的四个选项中，只有一个选项时最符合题目要求的.）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            122,
+            838,
+            158
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)曲线 $y = x \\ln \\left( \\mathrm { e } + { \\frac { 1 } { x - 1 } } \\right)$ 一 的斜渐近线为 ",
+        "bbox": [
+            179,
+            161,
+            502,
+            191
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathbf { A } ) y = x + \\mathbf { e }$ ",
+        "bbox": [
+            181,
+            200,
+            285,
+            223
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathbf { B } ) y = x + \\frac { 1 } { \\mathrm { ~ e ~ } }$ ",
+        "bbox": [
+            571,
+            199,
+            678,
+            227
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathbf { C } ) y = x$ ",
+        "bbox": [
+            181,
+            241,
+            253,
+            259
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathbf { D } ) y = x - \\frac { 1 } { \\mathrm { e } }$ ",
+        "bbox": [
+            569,
+            235,
+            680,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)函数 $f \\left( x \\right) = \\left\\{ \\begin{array} { l l } { \\displaystyle { \\frac { 1 } { \\sqrt { 1 + x ^ { 2 } } } } , \\quad x \\leqslant 0 , } \\\\ { \\displaystyle ( x + 1 ) \\cos x , x > 0 . } \\end{array} \\right.$ √1+x² 的一个原函数是",
+        "bbox": [
+            181,
+            294,
+            589,
+            354
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            181,
+            365,
+            480,
+            413
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            500,
+            365,
+            825,
+            413
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            181,
+            420,
+            480,
+            468
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            500,
+            420,
+            825,
+            469
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)已知 $\\{ x _ { n } \\} , \\{ y _ { n } \\}$ 满足： $x _ { 1 } = y _ { 1 } = { \\frac { 1 } { 2 } } , x _ { n + 1 } = \\sin x _ { n } , y _ { n + 1 } = y _ { n } ^ { 2 } ( n = 1 , 2 , \\cdots )$ ，则当 $n \\to \\infty$ 时，",
+        "bbox": [
+            179,
+            495,
+            855,
+            524
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathbf { A } ) x _ { n }$ 是 $y _ { n }$ 高阶无穷小",
+        "bbox": [
+            181,
+            529,
+            359,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(B) $y _ { n }$ 是 $x _ { n }$ 高阶无穷小 ",
+        "bbox": [
+            534,
+            529,
+            719,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(C) $x _ { n }$ 与 $y _ { n }$ 是等价无穷小 ",
+        "bbox": [
+            181,
+            548,
+            383,
+            564
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(D) $x _ { n }$ 与 $y _ { n }$ 是同阶但不等价无穷小 ",
+        "bbox": [
+            534,
+            548,
+            806,
+            564
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(4)若微分方程 $y ^ { \\prime \\prime } + a y ^ { \\prime } + b y = 0$ 的解在 $( - \\infty , + \\infty )$ 上有界，则 ",
+        "bbox": [
+            179,
+            594,
+            667,
+            611
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            181,
+            621,
+            300,
+            638
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            571,
+            621,
+            687,
+            638
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            181,
+            640,
+            300,
+            656
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathrm { D } ) a = 0 , b < 0$ ",
+        "bbox": [
+            569,
+            640,
+            687,
+            656
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(5) 设函数 $y = f ( x )$ 是由 $\\left\\{ \\begin{array} { c } { x = 2 t + | t | , } \\\\ { y = | t | \\sin t . } \\end{array} \\right.$ 确定，则",
+        "bbox": [
+            179,
+            684,
+            561,
+            724
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( \\operatorname { A } ) f ( x )$ 连续， $f ^ { \\prime } ( 0 )$ 不存在",
+        "bbox": [
+            179,
+            741,
+            400,
+            759
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\left( \\mathbf { B } \\right) f ^ { \\prime } \\left( 0 \\right)$ 存在， $f ^ { \\prime } ( x )$ 在 $x = 0$ 处不连续",
+        "bbox": [
+            534,
+            741,
+            835,
+            759
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\left( \\mathrm { C } \\right) f ^ { \\prime } \\left( x \\right)$ 连续， $f ^ { \\prime \\prime } ( 0 )$ 不存在",
+        "bbox": [
+            181,
+            778,
+            405,
+            796
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\left( \\mathrm { D } \\right) f ^ { \\prime \\prime } ( 0 )$ 存在， $f ^ { \\prime \\prime } ( x )$ 在 $x = 0$ 处不连续",
+        "bbox": [
+            534,
+            778,
+            842,
+            796
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(6)若函数 $f ( \\alpha ) = \\int _ { 2 } ^ { + \\infty } { \\frac { 1 } { x ( \\ln x ) ^ { \\alpha + 1 } } } \\mathrm { d } x$ 在 处取得最小值，则 $\\alpha = \\alpha _ { 0 }$ $\\alpha _ { 0 } =$ ",
+        "bbox": [
+            179,
+            826,
+            715,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { ( A ) - { \\frac { 1 } { \\ln { ( \\ln { 2 } ) } } } }$ ",
+        "bbox": [
+            181,
+            865,
+            290,
+            896
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(B) ",
+        "bbox": [
+            359,
+            871,
+            460,
+            889
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathbf { C } ) \\frac { 1 } { \\ln 2 }$ ",
+        "bbox": [
+            534,
+            866,
+            594,
+            892
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(D) ",
+        "bbox": [
+            677,
+            871,
+            732,
+            889
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "2023 数学二",
+        "bbox": [
+            147,
+            49,
+            231,
+            63
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            707,
+            38,
+            754,
+            65
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            756,
+            39,
+            848,
+            55
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            757,
+            55,
+            847,
+            64
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(7)设函数 $f \\left( x \\right) = \\left( x ^ { 2 } + a \\right) \\mathrm { e } ^ { x }$ .若 $f ( x )$ 没有极值点，但曲线 $y = f ( x )$ 有拐点，则 $a$ 得取值范围是",
+        "bbox": [
+            144,
+            93,
+            850,
+            137
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "(A) ",
+            "(B) ",
+            "(C) ",
+            "(D) "
+        ],
+        "bbox": [
+            181,
+            149,
+            742,
+            167
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(8)设 $^ { A , B }$ 为 $_ n$ 阶可逆矩阵， $\\pmb { \\mathscr { L } }$ 是 $_ n$ 阶单位矩阵， $M ^ { * }$ 为 $\\pmb { M }$ 的伴随矩阵，则 $\\left[ { \\begin{array} { l l } { A } & { E } \\\\ { O } & { B } \\end{array} } \\right] ^ { * } =$ ",
+        "bbox": [
+            179,
+            206,
+            847,
+            239
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(A) ",
+        "bbox": [
+            181,
+            260,
+            211,
+            286
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array}{c c} | \\boldsymbol {A} | \\boldsymbol {B} ^ {*} & - \\boldsymbol {B} ^ {*} \\boldsymbol {A} ^ {*} \\\\ \\boldsymbol {O} & | \\boldsymbol {B} | \\boldsymbol {A} ^ {*} \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "bbox": [
+            213,
+            260,
+            354,
+            294
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(B) ",
+        "bbox": [
+            571,
+            260,
+            600,
+            286
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array}{c c} | \\boldsymbol {A} | \\boldsymbol {B} ^ {*} & - \\boldsymbol {A} ^ {*} \\boldsymbol {B} ^ {*} \\\\ \\boldsymbol {O} & | \\boldsymbol {B} | \\boldsymbol {A} ^ {*} \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "bbox": [
+            601,
+            260,
+            749,
+            294
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(C) ",
+        "bbox": [
+            181,
+            316,
+            211,
+            342
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array}{c c} | B | A ^ {*} & - B ^ {*} A ^ {*} \\\\ O & | A | B ^ {*} \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "bbox": [
+            213,
+            317,
+            352,
+            350
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "D) ",
+        "bbox": [
+            571,
+            316,
+            600,
+            332
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array}{c c} | \\boldsymbol {B} | \\boldsymbol {A} ^ {*} & - \\boldsymbol {A} ^ {*} \\boldsymbol {B} ^ {*} \\\\ \\boldsymbol {O} & | \\boldsymbol {A} | \\boldsymbol {B} ^ {*} \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "bbox": [
+            601,
+            317,
+            749,
+            351
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(9)二次型 $f ( x _ { 1 } , x _ { 2 } , x _ { 3 } ) = ( x _ { 1 } + x _ { 2 } ) ^ { 2 } + ( x _ { 1 } + x _ { 3 } ) ^ { 2 } - 4 ( x _ { 2 } - x _ { 3 } ) ^ { 2 }$ 的规范形为 ",
+        "bbox": [
+            179,
+            388,
+            737,
+            407
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            181,
+            426,
+            270,
+            445
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            324,
+            428,
+            408,
+            444
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            465,
+            428,
+            596,
+            444
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            642,
+            428,
+            764,
+            444
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(10)已知向量 $\\pmb { \\alpha } _ { 1 } = \\left[ 2 \\atop 3 \\right] , \\pmb { \\alpha } _ { 2 } = \\left[ 1 \\atop 1 \\right] , \\pmb { \\beta } _ { 1 } = \\left[ 5 \\atop 9 \\right] , \\pmb { \\beta } _ { 2 } = \\left[ 1 \\atop 1 \\right]$ .若 $\\gamma$ 可有 ${ \\pmb { \\alpha } } _ { 1 } , { \\pmb { \\alpha } } _ { 2 }$ 线性表示，也可由$\\beta _ { 1 } , \\beta _ { 2 }$ 线性表示，则 $\\gamma =$ ",
+        "bbox": [
+            144,
+            474,
+            848,
+            556
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            181,
+            567,
+            302,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            324,
+            568,
+            448,
+            618
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            467,
+            568,
+            594,
+            618
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            642,
+            568,
+            759,
+            618
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、填空题（11~16 小题，每小题 5 分，共 30 分）",
+        "text_level": 1,
+        "bbox": [
+            184,
+            659,
+            633,
+            677
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(11)当 $x \\to 0$ 时，函数 $f ( x ) = a x + b x ^ { 2 } + \\ln \\left( 1 + x \\right)$ 与 $g ( x ) = \\mathbf { e } ^ { x ^ { 2 } } - \\cos x$ 是等价无穷小，则 _ ",
+        "bbox": [
+            144,
+            686,
+            850,
+            730
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "(12)曲线 $\\int _ { - \\sqrt { 3 } } ^ { x } \\sqrt { 3 - t ^ { 2 } } \\mathrm { d } t$ 的弧长为 ",
+            "(13)设函数 $z = z ( x , y )$ 由 $\\mathbf { e } ^ { z } + x z = 2 x - y$ 确定，则 ${ \\frac { \\partial ^ { 2 } z } { \\partial x ^ { 2 } } } \\bigg \\vert _ { ( 1 , 1 ) } = \\quad \\quad \\quad$ ",
+            "(14)曲线 $3 x ^ { 3 } = y ^ { 5 } + 2 y ^ { 3 }$ 在 $x = 1$ 对应点处的法线斜率为"
+        ],
+        "bbox": [
+            179,
+            752,
+            732,
+            879
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "2023 数学二",
+        "bbox": [
+            147,
+            49,
+            231,
+            61
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            707,
+            38,
+            754,
+            65
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            756,
+            39,
+            848,
+            55
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            757,
+            55,
+            847,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(15) 设 连 续 函 数 $f ( x )$ 满 足 $f \\left( x + 2 \\right) - f \\left( x \\right) = x , \\int _ { 0 } ^ { 2 } f \\left( x \\right) \\mathrm { d } x = 0$ ， 则 $\\int _ { 1 } ^ { 3 } f ( x ) \\mathrm { d } x =$ ",
+        "bbox": [
+            144,
+            86,
+            847,
+            139
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(16)已知线性方程组 $\\left\\{ \\begin{array} { l l } { a x _ { 1 } + x _ { 3 } = 1 , } \\\\ { x _ { 1 } + a x _ { 2 } + x _ { 3 } = 0 , } \\\\ { x _ { 1 } + 2 x _ { 2 } + a x _ { 3 } = 0 , } \\\\ { a x _ { 1 } + b x _ { 2 } = 2 } \\end{array} \\right.$ 有解，其中 $a , b$ 为常数.若 $\\left| \\begin{array} { l l l } { a } & { 0 } & { 1 } \\\\ { 1 } & { a } & { 1 } \\\\ { 1 } & { 2 } & { a } \\end{array} \\right| = 4$ ，则|1α112a labo",
+        "bbox": [
+            147,
+            167,
+            847,
+            303
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三、解答题（17~22 小题，共 70 分.解答应写出文字说明、证明过程或演算步骤.）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            344,
+            848,
+            379
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(17)（本题满分 10 分）",
+        "bbox": [
+            181,
+            382,
+            359,
+            398
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设曲线 $L { : } y = y \\left( x \\right) \\left( x > \\mathrm { e } \\right)$ 经过点 $( \\mathrm { e } ^ { 2 } , 0 )$ ， $L$ 上任一点 $P ( x , y )$ 到 $y$ 轴的距离等于该点处的切线在 $_ y$ 轴上的截距.",
+        "bbox": [
+            144,
+            409,
+            850,
+            453
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(I)求 $y ( x )$ ；",
+        "bbox": [
+            181,
+            464,
+            265,
+            480
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(II)在 $L$ 上求一点，使该点处的切线与两坐标轴所围三角形的面积最小，并求此最小面积.",
+        "bbox": [
+            144,
+            492,
+            843,
+            527
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(18)（本题满分12分）",
+        "bbox": [
+            181,
+            678,
+            359,
+            694
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "求函数 $f ( x , y ) = x \\mathrm { e } ^ { \\cos y } + { \\frac { x ^ { 2 } } { 2 } }$ x² 的极值.",
+        "bbox": [
+            181,
+            699,
+            460,
+            727
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "2023 数学二",
+        "bbox": [
+            147,
+            49,
+            231,
+            63
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            707,
+            38,
+            752,
+            64
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            756,
+            39,
+            848,
+            55
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            757,
+            55,
+            847,
+            61
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(19)（本题满分 12 分）",
+        "bbox": [
+            181,
+            86,
+            357,
+            101
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "已知平面区域 $D = \\left\\{ ( x , y ) | 0 \\leqslant y \\leqslant { \\frac { 1 } { x { \\sqrt { 1 + x ^ { 2 } } } } } , x \\geqslant 1 \\right\\} .$ ",
+        "bbox": [
+            181,
+            112,
+            591,
+            149
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "(I)求 $D$ 的面积；",
+            "(II)求 $D$ 绕 $x$ 轴旋转所成旋转体的体积. "
+        ],
+        "bbox": [
+            181,
+            168,
+            478,
+            221
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(20)（本题满分12分）",
+        "bbox": [
+            181,
+            475,
+            357,
+            489
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设平面有界区域 $D$ 位于第一象限，由曲线 $x ^ { 2 } + y ^ { 2 } - x y = 1 , x ^ { 2 } + y ^ { 2 } - x y = 2$ 与直线",
+        "bbox": [
+            181,
+            492,
+            823,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$y = { \\sqrt { 3 } } x , y = 0$ 围成，计算 $\\iint \\frac { 1 } { 3 x ^ { 2 } + y ^ { 2 } } \\mathrm { d } x \\mathrm { d } y$ 3x²+y²dedy. ",
+        "bbox": [
+            147,
+            517,
+            505,
+            555
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "2023 数学二",
+        "bbox": [
+            147,
+            49,
+            231,
+            61
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            707,
+            38,
+            754,
+            63
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            756,
+            39,
+            848,
+            55
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            757,
+            55,
+            847,
+            64
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(21)（本题满分 12 分）",
+        "bbox": [
+            181,
+            85,
+            357,
+            101
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设函数 $f ( x )$ 在 $[ - a , a ]$ 上具有 2 阶连续导数，证明：",
+        "bbox": [
+            181,
+            112,
+            571,
+            129
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(I)若 $f ( 0 ) = 0$ ，则存在 $\\xi \\in ( - a , a )$ ，使得 $f ^ { \\prime \\prime } ( \\xi ) = \\frac { 1 } { a ^ { 2 } } \\left[ f ( a ) + f ( - a ) \\right]$ ；",
+        "bbox": [
+            179,
+            143,
+            712,
+            172
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(II)若 $f ( x )$ 在 $( - a , a )$ 内取得极值，则存在 $\\eta \\in \\left( - a , a \\right)$ ，使得 ",
+        "bbox": [
+            179,
+            186,
+            633,
+            204
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| f ^ {\\prime \\prime} (\\eta) \\right| \\geqslant \\frac {1}{2 a ^ {2}} \\left| f (a) - f (- a) \\right|.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            381,
+            216,
+            618,
+            247
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(22)（本题满分 12 分）",
+        "bbox": [
+            181,
+            419,
+            359,
+            435
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设矩阵 $\\pmb { A }$ 满足：对任意 $x _ { 1 } , x _ { 2 } , x _ { 3 }$ ，均有 $A { \\left[ \\begin{array} { l } { x _ { 1 } } \\\\ { x _ { 2 } } \\\\ { x _ { 3 } } \\end{array} \\right] } = { \\left[ \\begin{array} { l l l } { x _ { 1 } + x _ { 2 } + x _ { 3 } } \\\\ { 2 x _ { 1 } - x _ { 2 } + x _ { 3 } } \\\\ { \\qquad x _ { 2 } - x _ { 3 } } \\end{array} \\right] } .$ ",
+        "bbox": [
+            181,
+            439,
+            680,
+            488
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(I)求 $\\pmb { A }$ ；",
+        "bbox": [
+            181,
+            493,
+            250,
+            508
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(II)求可逆矩阵 $\\pmb { P }$ 与对角矩阵 $\\pmb { \\varDelta }$ ，使得 $\\pmb { P } ^ { - 1 } \\pmb { A } \\pmb { P } = \\pmb { A }$ . ",
+        "bbox": [
+            181,
+            511,
+            586,
+            527
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "2023 数学二",
+        "bbox": [
+            147,
+            49,
+            231,
+            61
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            707,
+            38,
+            754,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "正保考研",
+        "bbox": [
+            756,
+            39,
+            848,
+            55
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "www.cnedu.cn",
+        "bbox": [
+            757,
+            55,
+            847,
+            64
+        ],
+        "page_idx": 4
+    }
+]

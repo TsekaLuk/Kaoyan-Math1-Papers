@@ -1,0 +1,1710 @@
+[
+    {
+        "type": "text",
+        "text": "2017 年全国硕士研究生入学统一考试英语(一)真题",
+        "text_level": 1,
+        "bbox": [
+            208,
+            42,
+            729,
+            62
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Section I Use of English ",
+        "text_level": 1,
+        "bbox": [
+            124,
+            72,
+            309,
+            87
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            91,
+            173,
+            103
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Read the following text. Choose the best word (s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points) ",
+        "bbox": [
+            89,
+            108,
+            927,
+            142
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Could a hug a day keep the doctor away? The answer may be a resounding “yes!” 1 helping you feel close and 2 to people you care about, it turns out that hugs can bring a 3 of health benefits to your body and mind. Believe it or not, a warm embrace might even help you 4 getting sick this winter. ",
+        "bbox": [
+            87,
+            144,
+            929,
+            198
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In a recent study 5 over 400 healthy adults, researchers from Carnegie Mellon University in Pennsylvania examined the effects of perceived social support and the receipt of hugs 6 the participants’ susceptibility to developing the common cold after being 7 to the virus. People who perceived greater social support were less likely to come 8 with a cold, and the researchers 9 that the stress-reducing effects of hugging 10 about 32 percent of that beneficial effect. 11 among those who got a cold, the ones who felt greater social support and received more frequent hugs had less severe 12 . ",
+        "bbox": [
+            87,
+            201,
+            929,
+            309
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“Hugging protects people who are under stress from the 13 risk for colds that’s usually 14 with stress,” notes Sheldon Cohen, a professor of psychology at Carnegie. Hugging “is a marker of intimacy and helps 15 the feeling that others are there to help 16 difficulty.” ",
+        "bbox": [
+            87,
+            312,
+            929,
+            365
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Some experts 17 the stress-reducing , health-related benefits of hugging to the release of oxytocin, often called “the bonding hormone” 18 it promotes attachment in relationships, including that between mother and their newborn babies. Oxytocin is made primarily in the central lower part of the brain, and some of it is released into the bloodstream. But some of it 19 in the brain, where it 20 mood, behavior and physiology. ",
+        "bbox": [
+            87,
+            368,
+            929,
+            441
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.[A] Unlike [B] Besides [C] Throughout [D] Despite ",
+            "2.[A] equal [B] restricted [C] connected [D] inferior ",
+            "3.[A] host [B] view [C] lesson [D] choice ",
+            "4.[A] recall [B] forget [C] avoid [D] keep ",
+            "5.[A] collecting [B] affecting [C] guiding [D] involving ",
+            "6.[A] on [B] in [C] at [D] of ",
+            "7.[A] devoted [B] exposed [C] lost [D] attracted ",
+            "8.[A] across [B] along [C] down [D] out ",
+            "9.[A] imagined [B] denied [C] doubted [D] calculated ",
+            "10.[A] served [B] explained [C] restored [D] required ",
+            "11.[A] Thus [B] Still [C] Rather [D] Even ",
+            "12.[A] defeats [B] symptoms [C] errors [D] tests ",
+            "13.[A] highlighted [B] minimized [C] controlled [D] increased ",
+            "14.[A] associated [B] equipped [C] presented [D] compared ",
+            "15.[A] assess [B] moderate [C] generate [D] record ",
+            "16.[A] in the face of [B] in the form of[C] in the way of[D] in the name of ",
+            "17.[A] attribute [B] commit [C] transfer [D] return ",
+            "18.[A] unless [B] because [C] though [D] until ",
+            "19.[A] emerges [B] vanishes [C] remains [D] decreases "
+        ],
+        "bbox": [
+            124,
+            450,
+            667,
+            925
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1 ",
+        "bbox": [
+            919,
+            942,
+            929,
+            953
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20.[A] experiences [B] combines [C] justifies [D]influences ",
+        "bbox": [
+            124,
+            34,
+            635,
+            49
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Section II Reading Comprehension ",
+        "bbox": [
+            124,
+            60,
+            379,
+            74
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part A ",
+        "bbox": [
+            124,
+            79,
+            178,
+            92
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "bbox": [
+            124,
+            98,
+            211,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points) ",
+        "bbox": [
+            89,
+            116,
+            929,
+            149
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Text 1 ",
+        "text_level": 1,
+        "bbox": [
+            443,
+            163,
+            497,
+            176
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First two hours , now three hours—this is how far in advance authorities are recommending people show up to catch a domestic flight , at least at some major U.S. airports with increasingly massive security lines. ",
+        "bbox": [
+            89,
+            192,
+            910,
+            225
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Americans are willing to tolerate time-consuming security procedures in return for increased safety. The crash of Egypt Air Flight 804, which terrorists may have downed over the Mediterranean Sea, provides another tragic reminder of why. But demanding too much of air travelers or providing too little security in return undermines public support for the process. And it should: Wasted time is a drag on Americans’ economic and private lives, not to mention infuriating. ",
+        "bbox": [
+            87,
+            239,
+            929,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Last year, the Transportation Security Administration (TSA) found in a secret check that undercover investigators were able to sneak weapons—both fake and real—past airport security nearly every time they tried. Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago’s O’Hare International. It is not yet clear how much more effective airline security has become—but the lines are obvious. ",
+        "bbox": [
+            87,
+            343,
+            929,
+            434
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line. Part of the issue is that airports have only so much room for screening lanes. Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this. ",
+        "bbox": [
+            87,
+            447,
+            924,
+            519
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There is one step the TSA could take that would not require remodeling airports or rushing to hire: Enroll more people in the PreCheck program. PreCheck is supposed to be a win-win for travelers and the TSA. Passengers who pass a background check are eligible to use expedited screening lanes. This allows the TSA to focus on travelers who are higher risk, saving time for everyone involved. The TSA wants to enroll 25 million people in PreCheck. ",
+        "bbox": [
+            87,
+            532,
+            924,
+            604
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has not gotten anywhere close to that, and one big reason is sticker shock.：Passengers must pay $\\$ 85$ every five years to process their background checks. Since the beginning, this price tag has been PreCheck’s fatal flaw. Upcoming reforms might bring the price to a more reasonable level. But Congress should look into doing so directly, by helping to finance PreCheck enrollment or to cut costs in other ways. ",
+        "bbox": [
+            87,
+            617,
+            929,
+            688
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The TSA cannot continue diverting resources into underused PreCheck lanes while most of the traveling public suffers in unnecessary lines. It is long past time to make the program work. ",
+        "bbox": [
+            87,
+            701,
+            917,
+            736
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "21. The crash of Egypt Air Flight 804 is mentioned to ",
+        "bbox": [
+            124,
+            745,
+            648,
+            762
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] stress the urgency to strengthen security worldwide. ",
+            "[B] explain Americans’ tolerance of current security checks. ",
+            "[C] highlight the necessity of upgrading major U.S airports. ",
+            "[D] emphasis the importance of privacy protection. "
+        ],
+        "bbox": [
+            124,
+            771,
+            557,
+            863
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "22. Which of the following contributions to long waits at major airports? ",
+        "bbox": [
+            124,
+            874,
+            678,
+            889
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[A] New restrictions on carry-on bags. ",
+        "bbox": [
+            124,
+            899,
+            403,
+            914
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[B] The declining efficiency of the TSA. ",
+        "bbox": [
+            552,
+            899,
+            840,
+            914
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[C] An increase in the number of travelers. ",
+        "bbox": [
+            124,
+            925,
+            431,
+            939
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[D] Frequent unexpected secret checks. ",
+        "bbox": [
+            552,
+            925,
+            833,
+            939
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            953
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "23.The word “expedited” (Line 4, Para.5) is closest in meaning to ",
+        "bbox": [
+            124,
+            34,
+            737,
+            49
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[A] quieter. [B] faster. [C] wider. [D] cheaper. ",
+        "bbox": [
+            124,
+            60,
+            552,
+            74
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "24. One problem with the PreCheck program is ",
+        "bbox": [
+            124,
+            85,
+            606,
+            100
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] A dramatic reduction of its scale. [B] Its wrongly-directed implementation. ",
+            "[C] The government’s reluctance to back it. [D] An unreasonable price for enrollment. "
+        ],
+        "bbox": [
+            124,
+            111,
+            850,
+            150
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "25. Which of the following would be the best title for the text? ",
+        "bbox": [
+            124,
+            162,
+            594,
+            176
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] Getting Stuck in Security Lines [B] PreCheck—a Belated Solution ",
+            "[C] Less Screening for More Safety [D] Underused PreCheck Lanes "
+        ],
+        "bbox": [
+            124,
+            187,
+            800,
+            226
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Text 2 ",
+        "text_level": 1,
+        "bbox": [
+            470,
+            239,
+            524,
+            254
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“The ancient Hawaiians were astronomers,” wrote Queen Liliuokalani, Hawaii’s last reigning monarch, in 1897. Star watchers were among the most esteemed members of Hawaiian society. Sadly, all is not well with astronomy in Hawaii today. Protests have erupted over construction of the Thirty Meter Telescope (TMT), a giant observatory that promises to revolutionize humanity’s view of the cosmos. ",
+        "bbox": [
+            89,
+            268,
+            922,
+            340
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At issue is the TMT’s planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens. But Mauna Kea is also home to some of the world’s most powerful telescopes. Rested in the Pacific Ocean, Mauna Kea’s peak rises above the bulk of our planet’s dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity. ",
+        "bbox": [
+            89,
+            353,
+            919,
+            427
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Opposition to telescopes on Mauna Kea is nothing new. A small but vocal group of Hawaiians and environments have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation. ",
+        "bbox": [
+            89,
+            439,
+            926,
+            492
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Some blame for the current controversy belongs to astronomers. In their eagerness to build bigger telescopes, they forgot that science is not the only way of understanding the world. They did not always prioritize the protection of Mauna Kea’s fragile ecosystems or its holiness to the island’s inhabitants. Hawaiian culture is not a relic of the past; it is a living culture undergoing a renaissance today. ",
+        "bbox": [
+            89,
+            505,
+            919,
+            578
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Yet science has a cultural history, too, with roots going back to the dawn of civilization. The same curiosity to find what lies beyond the horizon that first brought early Polynesians to Hawaii’s shores inspires astronomers today to explore the heavens. Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going. Perhaps that is why we explore the starry skies, as if answering a primal calling to know ourselves and our true ancestral homes. ",
+        "bbox": [
+            89,
+            590,
+            922,
+            700
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The astronomy community is making compromises to change its use of Mauna Kea. The TMT site was chosen to minimize the telescope’s visibility around the island and to avoid archaeological and environmental impact. To limit the number of telescopes on Mauna Kea, old ones will be removed at the end of their lifetimes and their sites returned to a natural state. There is no reason why everyone cannot be welcomed on Mauna Kea to embrace their cultural heritage and to study the stars. ",
+        "bbox": [
+            89,
+            712,
+            914,
+            804
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "26. Queen Liliuokalani’s remark in Paragraph 1 indicates ",
+        "bbox": [
+            124,
+            814,
+            684,
+            830
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] its conservative view on the historical role of astronomy. ",
+            "[B] the importance of astronomy in ancient Hawaiian society. ",
+            "[C] the regrettable decline of astronomy in ancient times. ",
+            "[D] her appreciation of star watchers’ feats in her time. "
+        ],
+        "bbox": [
+            124,
+            840,
+            564,
+            931
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "27. Mauna Kea is deemed as an ideal astronomical site due to ",
+        "bbox": [
+            126,
+            34,
+            710,
+            49
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] its geographical features ",
+        "bbox": [
+            126,
+            60,
+            332,
+            74
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] its protective surroundings. ",
+        "bbox": [
+            552,
+            61,
+            773,
+            74
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] its religious implications. ",
+        "bbox": [
+            126,
+            86,
+            334,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D] its existing infrastructure. ",
+        "bbox": [
+            552,
+            86,
+            761,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "28. The construction of the TMT is opposed by some locals partly because ",
+        "bbox": [
+            126,
+            111,
+            742,
+            125
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] it may risk ruining their intellectual life. ",
+        "bbox": [
+            126,
+            136,
+            440,
+            150
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] it reminds them of a humiliating history. ",
+        "bbox": [
+            552,
+            137,
+            865,
+            150
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] their culture will lose a chance of revival. ",
+        "bbox": [
+            126,
+            162,
+            448,
+            176
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D] they fear losing control of Mauna Kea. ",
+        "bbox": [
+            552,
+            162,
+            857,
+            176
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "29. It can be inferred from Paragraph 5 that progress in today’s astronomy ",
+        "bbox": [
+            126,
+            187,
+            744,
+            203
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] is fulfilling the dreams of ancient Hawaiians. ",
+        "bbox": [
+            126,
+            213,
+            475,
+            226
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] helps spread Hawaiian culture across the world. ",
+        "bbox": [
+            552,
+            214,
+            917,
+            226
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] may uncover the origin of Hawaiian culture. ",
+        "bbox": [
+            126,
+            239,
+            470,
+            252
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D] will eventually soften Hawaiians’ hostility. ",
+        "bbox": [
+            552,
+            239,
+            885,
+            252
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "30. The author’s attitude toward choosing Mauna Kea as the TMT site is one of ",
+        "bbox": [
+            126,
+            264,
+            729,
+            279
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[A] severe criticism. ",
+        "bbox": [
+            126,
+            289,
+            273,
+            304
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[B] passive acceptance. ",
+        "bbox": [
+            307,
+            290,
+            475,
+            304
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[C] slight hesitancy. ",
+        "bbox": [
+            510,
+            290,
+            653,
+            304
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[D] full approval. ",
+        "bbox": [
+            687,
+            290,
+            811,
+            304
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Text 3 ",
+        "text_level": 1,
+        "bbox": [
+            472,
+            317,
+            522,
+            330
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Robert F. Kennedy once said that a country’s GDP measures “everything except that which makes life worthwhile.” With Britain voting to leave the European Union, and GDP already predicted to slow as a result, it is now a timely moment to assess what he was referring to. ",
+        "bbox": [
+            90,
+            345,
+            902,
+            397
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The question of GDP and its usefulness has annoyed policymakers for over half a century. Many argue that it is a flawed concept. It measures things that do not matter and misses things that do. By most recent measures, the UK’s GDP has been the envy of the Western world, with record low unemployment and high growth figures. If everything was going so well, then why did over 17 million people vote for Brexit, despite the warnings about what it could do to their country’s economic prospects? ",
+        "bbox": [
+            90,
+            412,
+            921,
+            502
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question. Across the 163 countries measured, the UK is one of the poorest performers in ensuring that economic growth is translated into meaningful improvements for its citizens. Rather than just focusing on GDP, over 40 different sets of criteria from health, education and civil society engagement have been measured to get a more rounded assessment of how countries are performing. ",
+        "bbox": [
+            90,
+            515,
+            907,
+            606
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "While all of these countries face their own challenges, there are a number of consistent themes . Yes , there has been a budding economic recovery since the 2008 global crash , but in key indicators in areas such as health and education , major economies have continued to decline. Yet this isn’t the case with all countries. Some relatively poor European countries have seen huge improvements across measures including civil society, income equality and environment. ",
+        "bbox": [
+            90,
+            619,
+            926,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This is a lesson that rich countries can learn: When GDP is no longer regarded as the sole measure of a country’s success, the world looks very different. ",
+        "bbox": [
+            90,
+            723,
+            927,
+            757
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "So, what Kennedy was referring to was that while GDP has been the most common method for measuring the economic activity of nations, as a measure, it is no longer enough. It does not include important factors such as environmental quality or education outcomes – all things that contribute to a person’s sense of well-being. ",
+        "bbox": [
+            90,
+            770,
+            904,
+            824
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The sharp hit to growth predicted around the world and in the UK could lead to a decline in the everyday services we depend on for our well-being and for growth. But policymakers who refocus efforts on improving well-being rather than simply worrying about GDP figures could avoid the forecasted doom and may even see progress. ",
+        "bbox": [
+            90,
+            834,
+            873,
+            908
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            919,
+            942,
+            929,
+            952
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "31.Robert F. Kennedy is cited because he ",
+        "bbox": [
+            126,
+            34,
+            557,
+            49
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[A]praised the UK for its GDP. ",
+        "bbox": [
+            126,
+            59,
+            352,
+            74
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[B]identified GDP with happiness . ",
+        "bbox": [
+            552,
+            60,
+            803,
+            74
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[C]misinterpreted the role of GDP . ",
+        "bbox": [
+            126,
+            85,
+            381,
+            100
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[D]had a low opinion of GDP . ",
+        "bbox": [
+            552,
+            85,
+            773,
+            100
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "32.It can be inferred from Paragraph 2 that ",
+        "bbox": [
+            126,
+            111,
+            576,
+            125
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A]the UK is reluctant to remold its economic pattern. ",
+            "[B]GDP as the measure of success is widely defied in the UK. ",
+            "[C]the UK will contribute less to the world economy. ",
+            "[D]policymakers in the UK are paying less attention to GDP. "
+        ],
+        "bbox": [
+            126,
+            136,
+            566,
+            228
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "33.Which of the following is true about the recent annual study ? ",
+        "bbox": [
+            126,
+            238,
+            618,
+            252
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A]It is sponsored by 163 countries . ",
+            "[B]It excludes GDP as an indicator. ",
+            "[C]Its criteria are questionable . ",
+            "[D]Its results are enlightening . "
+        ],
+        "bbox": [
+            126,
+            264,
+            805,
+            305
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "34.In the last two paragraphs, the author suggests that ",
+        "bbox": [
+            126,
+            315,
+            657,
+            330
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A]the UK is preparing for an economic boom. ",
+            "[B]high GDP foreshadows an economic decline. ",
+            "[C]it is essential to consider factors beyond GDP. ",
+            "[D]it requires caution to handle economic issues. "
+        ],
+        "bbox": [
+            126,
+            340,
+            477,
+            432
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "35.Which of the following is the best title for the text ? ",
+        "bbox": [
+            126,
+            442,
+            537,
+            457
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A]High GDP But Inadequate Well-being, a UK Lesson ",
+            "[B]GDP Figures , a Window on Global Economic Health ",
+            "[C]Rebort F. Kennedy , a Terminator of GDP ",
+            "[D]Brexit, the UK’s Gateway to Well-being "
+        ],
+        "bbox": [
+            126,
+            467,
+            534,
+            560
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Text 4 ",
+        "text_level": 1,
+        "bbox": [
+            453,
+            572,
+            505,
+            586
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In a rare unanimous ruling, the U.S Supreme Court has overturned the corruption conviction of a former Virginia governor, Robert McDonnell. But it did so while holding its nose at the ethics of his conduct, which included accepting gifts such as a Rolex watch and a Ferrari Automobile from a company seeking access to government. ",
+        "bbox": [
+            89,
+            600,
+            865,
+            672
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The high court’s decision said the judge in Mr. McDonnell’s trial failed to tell a jury that it must look only at his “official acts,” or the former governor’s decisions on “specific” and “unsettled” issues related to his duties. ",
+        "bbox": [
+            89,
+            686,
+            922,
+            720
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Merely helping a gift-giver gain access to other officials, unless done with clear intent to pressure those officials, is not corruption, the justices found. ",
+        "bbox": [
+            89,
+            733,
+            924,
+            766
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The court did suggest that accepting favors in return for opening doors is “distasteful” and “nasty.” But under anti-bribery laws, proof must be made of concrete benefits, such as approval of a contract or regulation. Simply arranging a meeting, making a phone call, or hosting an event is not an “official act”. ",
+        "bbox": [
+            89,
+            780,
+            904,
+            833
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The court’s ruling is legally sound in defining a kind of favoritism that is not criminal. Elected leaders must be allowed to help supporters deal with bureaucratic problems without fear of prosecution of bribery.” The basic compact underlying representative government,” wrote Chief Justice John Roberts for the court,” assumes that public officials will hear from their constituents and act on their concerns.” ",
+        "bbox": [
+            89,
+            846,
+            922,
+            916
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            952
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government. Officials must not be allowed to play favorites in providing information or in arranging meetings simply because an individual or group provides a campaign donation or a personal gift. This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying, and information about each elected leader’s source of wealth. ",
+        "bbox": [
+            89,
+            36,
+            921,
+            127
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Favoritism in official access can fan public perceptions of corruption. But it is not always corruption. Rather officials must avoid double standards, or different types of access for average people and the wealthy. If connections can be bought, a basic premise of democratic society—that all are equal in treatment by government—is undermined. Good governance rests on an understanding of the inherent worth of each individual. ",
+        "bbox": [
+            89,
+            141,
+            926,
+            212
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The court’s ruling is a step forward in the struggle against both corruption and official favoritism. ",
+        "bbox": [
+            124,
+            225,
+            816,
+            239
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "36. The underlined sentence (Para.1) most probably shows that the court ",
+        "bbox": [
+            124,
+            251,
+            746,
+            266
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] avoided defining the extent of McDonnell’s duties. ",
+            "[B] made no compromise in convicting McDonnell. ",
+            "[C] was contemptuous of McDonnell’s conduct. ",
+            "[D] refused to comment on McDonnell’s ethics. "
+        ],
+        "bbox": [
+            124,
+            276,
+            519,
+            368
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "37. According to Paragraph 4, an official act is deemed corruptive only if it involves ",
+        "bbox": [
+            124,
+            378,
+            875,
+            394
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] leaking secrets intentionally. ",
+            "[B] sizable gains in the form of gifts. ",
+            "[C] concrete returns for gift-givers. ",
+            "[D] breaking contracts officially. "
+        ],
+        "bbox": [
+            124,
+            404,
+            813,
+            445
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "38. The court’s ruling is based on the assumption that public officials are ",
+        "bbox": [
+            124,
+            454,
+            746,
+            470
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] justified in addressing the needs of their constituents. ",
+            "[B] qualified to deal independently with bureaucratic issues. ",
+            "[C] allowed to focus on the concerns of their supporters. ",
+            "[D] exempt from conviction on the charge of favoritism. "
+        ],
+        "bbox": [
+            124,
+            480,
+            554,
+            572
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "39. Well-enforced laws in government transparency are needed to ",
+        "bbox": [
+            124,
+            584,
+            742,
+            598
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[A] awaken the conscience of officials. ",
+            "[B] guarantee fair play in official access. ",
+            "[C] allow for certain kinds of lobbying. ",
+            "[D] inspire hopes in average people. "
+        ],
+        "bbox": [
+            124,
+            609,
+            840,
+            650
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "40. The author’s attitude toward the court’s ruling is ",
+        "bbox": [
+            124,
+            660,
+            645,
+            674
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[A] sarcastic. ",
+        "bbox": [
+            124,
+            686,
+            223,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[B] tolerant. ",
+        "bbox": [
+            257,
+            686,
+            344,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[C] skeptical. ",
+        "bbox": [
+            379,
+            686,
+            475,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[D] supportive ",
+        "bbox": [
+            509,
+            686,
+            613,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Part B ",
+        "bbox": [
+            124,
+            712,
+            176,
+            724
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Directions: ",
+        "bbox": [
+            124,
+            730,
+            208,
+            743
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The following paragraphs are given in a wrong order. For Questions 41-45, you are required to reorganize these paragraphs into a coherent article by choosing from the list A-G to filling them into the numbered box. Paragraphs B and D have been correctly placed. Mark your answers on ANSWER SHEET. (10 points) ",
+        "bbox": [
+            89,
+            749,
+            929,
+            802
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[A]The first published sketch, “A Dinner at Poplar Walk” brought tears to Dickens’s eyes when he discovered it in the pages of The Monthly Magazine. From then on his sketches, which appeared under the pen name “Boz” in The Evening Chronicle, earned him a modest reputation. ",
+        "bbox": [
+            89,
+            814,
+            924,
+            866
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[B]The runaway success of The Pickwick Papers, as it is generally known today, secured Dickens’s fame. There were Pickwick coats and Pickwick cigars, and the plump, spectacled hero, Samuel Pickwick, became a national figure. ",
+        "bbox": [
+            89,
+            880,
+            924,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            952
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[C]Soon after Sketches by Boz appeared, a publishing firm approached Dickens to write a story in monthly installments, as a backdrop for a series of woodcuts by the then-famous artist Robert Seymour, who had originated the idea for the story. With characteristic confidence, Dickens successfully insisted that Seymour’s pictures illustrate his own story instead. After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose. Seymour made the change, went into his backyard, and expressed his displeasure by committing suicide. Dickens and his publishers simply pressed on with a new artist. The comic novel, The Posthumous Papers of the Pickwick Club, appeared serially in 1836 and 1837, and was first published in book form in 1837. ",
+            "[D]Charles Dickens is probably the best-known and, to many people, the greatest English novelist of the 19th century. A moralist, satirist, and social reformer. Dickens crafted complex plots and striking characters that capture the panorama of English society. ",
+            "[E]Soon after his father’s release from prison, Dickens got a better job as errand boy in law offices. He taught himself shorthand to get an even better job later as a court stenographer and as a reporter in Parliament. At the same time, Dickens, who had a reporter’s eye for transcribing the life around him especially anything comic or odd, submitted short sketches to obscure magazines. ",
+            "[F] Dickens was born in Portsmouth, on England’s southern coast. His father was a clerk in the British navy pay office –a respectable position, but with little social status. His paternal grandparents, a steward and a housekeeper possessed even less status, having been servants, and Dickens later concealed their background. Dickens’s mother supposedly came from a more respectable family. Yet two years before Dickens’s birth, his mother’s father was caught stealing and fled to Europe, never to return. The family’s increasing poverty forced Dickens out of school at age 12 to work in Warren’s Blacking Warehouse, a shoe-polish factory, where the other working boys mocked him as “the young gentleman.” His father was then imprisoned for debt. The humiliations of his father’s imprisonment and his labor in the blacking factory formed Dickens’s greatest wound and became his deepest secret. He could not confide them even to his wife, although they provide the unacknowledged foundation of his fiction. ",
+            "[G] After Pickwick, Dickens plunged into a bleaker world. In Oliver Twist, he traces an orphan’s progress from the workhouse to the criminal slums of London. Nicholas Nickleby, his next novel, combines the darkness of Oliver Twist with the sunlight of Pickwick. The popularity of these novels consolidated Dickens’ as a nationally and internationally celebrated man of letters. "
+        ],
+        "bbox": [
+            87,
+            36,
+            929,
+            600
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm {D} \\rightarrow 4 1. \\rightarrow 4 2. \\rightarrow 4 3. \\rightarrow 4 4. \\rightarrow \\mathrm {B} \\rightarrow 4 5.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            124,
+            612,
+            420,
+            627
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Part C ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            638,
+            142,
+            653
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Directions:Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET. (10 points) ",
+        "bbox": [
+            87,
+            657,
+            927,
+            692
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The growth of the use of English as the world’s primary language for international communication has obviously been continuing for several decades. ",
+        "bbox": [
+            87,
+            695,
+            929,
+            728
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "(46)But even as the number of English speakers expands further there are signs that the global predominance of the language may fade within the foreseeable future. ",
+            "Complex international, economic, technological and culture change could start to diminish the leading position of English as the language of the world market, and UK interests which enjoy advantage from the breath of English usage would consequently face new pressures. Those realistic possibilities are highlighted in the study presented by David Graddol. ",
+            "(47)His analysis should therefore end any self-contentedness among those who may believe that the global position of English is so stable that the young generation of the United Kingdom do not need additional language capabilities. ",
+            "David Graddol concludes that monoglot English graduates face a bleak economic future as qualified multilingual youngsters from other countries are proving to have a competitive advantage over their British "
+        ],
+        "bbox": [
+            87,
+            732,
+            929,
+            932
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            917,
+            941,
+            929,
+            952
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "counterparts in global companies and organizations. Alongside that, (48) many countries are introducing English into the primary-school curriculum but British schoolchildren and students do not appear to be gaining greater encouragement to achieve fluency in other languages. ",
+        "bbox": [
+            87,
+            35,
+            931,
+            87
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "If left to themselves, such trends will diminish the relative strength of the English language in international education markets as the demand for educational resources in languages, such as Spanish, Arabic or Mandarin grows and international business process outsourcing in other language such as Japanese, French and German, spreads. ",
+        "bbox": [
+            87,
+            90,
+            931,
+            143
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(49)The changes identified by David Graddol all present clear and major challenges to UK’s providers of English language teaching to people of other countries and to broader education business sectors. The English language teaching sector directly earns nearly ₤1.3 billion for the UK in invisible exports and our other education related explores earn up to ₤10 billion a year more. As the international education market expands, the recent slowdown in the number of international students studying in the main English-speaking countries is likely to continue, especially if there are no effective strategic policies to prevent such slippage. ",
+        "bbox": [
+            87,
+            146,
+            932,
+            255
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The anticipation of possible shifts in demand provided by this study is significant: (50) It gives a basis to all organizations which seek to promote the learning and use of English, a basis for planning to meet the possibilities of what could be a very different operating environment. That is a necessary and practical approach. In this as in much else, those who wish to influence the future must prepare for it. ",
+        "bbox": [
+            87,
+            257,
+            932,
+            328
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Section III Writing ",
+        "bbox": [
+            124,
+            332,
+            265,
+            346
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Part A ",
+        "bbox": [
+            124,
+            350,
+            178,
+            363
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "51. Directions：",
+        "bbox": [
+            124,
+            369,
+            236,
+            382
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation. ",
+        "bbox": [
+            89,
+            387,
+            929,
+            421
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "You should write neatly on the ANSWER SHEET. ",
+        "bbox": [
+            124,
+            423,
+            487,
+            438
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Do not sign your own name at the end of the email. Use “Li Ming” instead. ",
+        "bbox": [
+            124,
+            442,
+            660,
+            458
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Do not write the address. (10 points) ",
+        "bbox": [
+            124,
+            461,
+            389,
+            476
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Part B ",
+        "bbox": [
+            124,
+            480,
+            176,
+            492
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "52. Directions：",
+        "bbox": [
+            124,
+            498,
+            236,
+            511
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Write an essay of 160-200 words based on the following pictures. In your essay, you should ",
+        "bbox": [
+            124,
+            516,
+            778,
+            532
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1)describe the pictures briefly, ",
+        "bbox": [
+            126,
+            536,
+            344,
+            549
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2)interpret the meaning , and ",
+        "bbox": [
+            126,
+            554,
+            336,
+            568
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3)give your comments. ",
+        "bbox": [
+            126,
+            573,
+            292,
+            586
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "You should write neatly on the ANSWER SHEET. (20 points ) ",
+        "bbox": [
+            126,
+            591,
+            571,
+            606
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7403232f7fe1f7e1c4b49709f142ee5640df410cc415ba7f21eeada205354756.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            127,
+            615,
+            857,
+            895
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            917,
+            942,
+            929,
+            953
+        ],
+        "page_idx": 7
+    }
+]

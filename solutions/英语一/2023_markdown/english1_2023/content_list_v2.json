@@ -1,0 +1,4409 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2023考研英语（一）真题及答案"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                301,
+                101,
+                694,
+                123
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Section I Use of English "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                156,
+                307,
+                173
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following text. Choose the best word (s) for each numbered blank and mark  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A, B, C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " or  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": " on the ANSWER SHEET. (10 points) "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                95,
+                177,
+                898,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. They were typically 1 outside the walls of a city or village and were usually funded by governments of 2. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                222,
+                898,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This word \"Caravanserais\" is a 3 of the Persian word \"karvan\", which means a group of travellers or a caravan, and seray, a palace or enclosed building. The term caravan was used to 4 groups of people who travelled together across the ancient network for safety reasons, 5 merchants, travellers or pilgrims. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                289,
+                898,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From the 10th century onwards, as merchant and travel routes become more developed, the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of the Caravanserais increased and they served as a safe place for people to rest at night. Travellers on the Silk Road  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7"
+                    },
+                    {
+                        "type": "text",
+                        "content": " possibility of being attacked by thieves or being  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8"
+                    },
+                    {
+                        "type": "text",
+                        "content": " to extreme conditions. For this reason, Caravanserais were strategically placed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9"
+                    },
+                    {
+                        "type": "text",
+                        "content": " they could be reached in a day's travel time. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                378,
+                898,
+                484
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. 11, those structures became important centers for culture 12 and interaction, with travelers sharing their cultures, ideas and beliefs, 13 talking knowledge with them, greatly 14 the development of several civilizations. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                489,
+                898,
+                573
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Caravanserais were also an important marketplace for commodities and 15 in the trade of goods along the Silk Road. 16, it was frequently the first stop merchants looking to sell their wares and 17 supplies for their own journeys. It is 18 that around 120000 to 15000 caravanserais were built along the Silk Road, 19 only about 3000 are known to remain today, many of which are in 20 "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                578,
+                898,
+                685
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.A displayed "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                689,
+                195,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.occupied "
+                    }
+                ]
+            },
+            "bbox": [
+                291,
+                689,
+                387,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. located "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                689,
+                587,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.equipped "
+                    }
+                ]
+            },
+            "bbox": [
+                719,
+                689,
+                821,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.A. privately "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                713,
+                188,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.regularly "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                713,
+                387,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.respectively "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                713,
+                625,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.permanently "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                713,
+                844,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.A.definition "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                735,
+                193,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.transition "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                735,
+                389,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.substitution "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                735,
+                621,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.combination "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                735,
+                844,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.A.classify "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                757,
+                178,
+                773
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B_record "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                757,
+                366,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.describe "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                757,
+                595,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.connect "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                757,
+                806,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.A.apart from "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                780,
+                199,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.instead of "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                778,
+                395,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.such as "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                780,
+                587,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.along with "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                780,
+                829,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.A.construction "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                803,
+                214,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B/restoration "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                801,
+                399,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.impression "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                801,
+                616,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.evaluation "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                801,
+                827,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. A.doubted "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                824,
+                184,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.faced "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                824,
+                358,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.accepted "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                824,
+                598,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.reduced "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                824,
+                806,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Aassigned "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                846,
+                188,
+                861
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.subjected "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                846,
+                389,
+                861
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.accustomed "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                846,
+                623,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.opposed "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                846,
+                811,
+                861
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. A.so that "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                869,
+                172,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.even if "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                868,
+                370,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C-now that "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                868,
+                598,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.in case "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                869,
+                798,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. A.talking "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                891,
+                184,
+                906
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.starting "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                891,
+                374,
+                906
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cbreaking "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                891,
+                598,
+                906
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.meeting "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                891,
+                808,
+                906
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. A. By the way "
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                74,
+                222,
+                93
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.On occasion "
+                    }
+                ]
+            },
+            "bbox": [
+                291,
+                75,
+                414,
+                90
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.In comparison "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                75,
+                644,
+                92
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.As a result "
+                    }
+                ]
+            },
+            "bbox": [
+                719,
+                75,
+                831,
+                90
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. A. heritage "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                97,
+                193,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. revival "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                97,
+                370,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.exchange "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                97,
+                604,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.status "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                97,
+                790,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13. A.with regard to "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                120,
+                243,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.in spite of "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                120,
+                397,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.as well as "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                120,
+                606,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.in line with "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                120,
+                834,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14. A.completing "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                143,
+                220,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.influencing "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                143,
+                406,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.resuming "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                143,
+                604,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.pioneering "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                143,
+                829,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "15. A. aided "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                165,
+                174,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.invested "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                165,
+                381,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.failed "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                165,
+                575,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.competed "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                165,
+                821,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "16. A.Rather "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                187,
+                184,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.Indeed "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                187,
+                370,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. Otherwise "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                187,
+                610,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.However "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                187,
+                817,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "17. A.go in for "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                210,
+                199,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.stand up for "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                210,
+                410,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.close in on "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                210,
+                616,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.stock up on "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                210,
+                836,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "18.A.believed "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                232,
+                195,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.predicted "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                232,
+                389,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. recalled "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                232,
+                591,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.implied "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                232,
+                804,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "19.A. until "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                253,
+                163,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.because "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                253,
+                378,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.unless "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                253,
+                579,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.although "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                253,
+                813,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "20.A.ruins "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                276,
+                166,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.debt "
+                    }
+                ]
+            },
+            "bbox": [
+                293,
+                276,
+                349,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.fashion "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                276,
+                587,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D(series "
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                276,
+                790,
+                290
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Section II Reading Comprehension "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                320,
+                418,
+                337
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Part A "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                345,
+                159,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following four texts. Answer the questions below each text by choosing  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " or  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Mark your answers on the ANSWER SHEET. (40 points) "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                371,
+                896,
+                413
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Text 1 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                468,
+                421,
+                527,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The weather in Texas may have cooled since the recent extreme heat, but the temperature will be high at the State Board of Education meeting in Austin this month as officials debate how climate change is taught in Texas schools. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                447,
+                896,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pat Hardy, who sympathized with views of the energy sector, is resisting the proposed change to science standards for pre-teen pupils. These would emphasise the primacy of human activity in recent climate change and encourage discussion of mitigation measures. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                523,
+                896,
+                591
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Most scientists and experts sharply dispute Hardy's views. \"They casually dismiss the career work of scholars and scientists as just another misguided opinion.\" says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education, \"What millions of Texas kids learn in their public schools is determined too often by the political ideology of partisan board members, rather than facts and sound scholarship.\" "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                599,
+                896,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Such debate reflects fierce discussions across the US and around the world, as researchers, policymakers, teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                727,
+                896,
+                795
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A study last year by the National Center for Science Education, a non-profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{B + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": " or higher. Among the 10 worst performers were some of the most populous states, including Texas, which was given the lowest grade (F) and has a disproportionate influence because its textbooks are widely sold elsewhere. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                803,
+                896,
+                922
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school boards. Even if a state is considered a high performer in its science standards, \"that does not mean it will be taught\", he says. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                75,
+                896,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Another issue is that while climate change is well integrated into some subjects and at some ages — such as earth and space sciences in high schools — it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. It is also less prominent in many social studies courses. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                177,
+                896,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change, unofficial educational materials that convey more slanted perspectives are being distributed to teachers. They include materials sponsored by libertarian think-tanks and energy industry associations. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                280,
+                896,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "21. In paragraph 1, the weather in Texas is mentioned to "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                401,
+                621,
+                417
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Aforecast a policy shift in Texas schools "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.stress the consequences of climate change "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.indicate the atmosphere at the board meeting "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.draw the public's attention to energy shortages "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                421,
+                516,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "22. What does Quinn think of Hardy? "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                527,
+                406,
+                545
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.She exaggerates the existing panic. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.She denies the value of scientific work. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.She shows no concern for pre-teens. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.She expresses self-contradictory views. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                549,
+                458,
+                629
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "23.The study mentioned in Paragraph 5 indicates that "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                654,
+                587,
+                671
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.climate education is insufficient at state public schools "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.policy makers have little drive for science education "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.Texas is reluctant to rewrite its science textbooks "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. environmental teaching in some states lacks supervision "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                675,
+                593,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "24. According to Branch, state-level science standards in the US "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                781,
+                664,
+                797
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.call for regular revision "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Brequire urgent application "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.have limited influence "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.cater to local needs "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                803,
+                349,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "25. It is implied in the last paragraph that climate change teaching in some schools "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                907,
+                811,
+                925
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.agree to major public demands "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                75,
+                391,
+                92
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.reflects teachers' personal bias "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                96,
+                387,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.may misrepresent the energy sector "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                116,
+                428,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.can be swayed by external forces "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                139,
+                410,
+                154
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Text 2 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                466,
+                181,
+                529,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Communities throughout the region have been attempting to regulate short-term rentals since sites like Airbnb took off in the 2010s. Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                202,
+                898,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In New Hampshire, where the rental vacancy rate has dropped below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. The state Legislature recently voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                308,
+                898,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"We are at a crisis level on the supply of rental housing, so anytime you're taking the tool out of the toolkit for communities to address this, you're potentially taking supply off the market that's already incredibly stressed,\" said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. Without enough affordable housing in southern New Hampshire towns, \"employers are having a hard time attracting employees, and workers are having a hard time finding a place to live,\" Taylor said. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                392,
+                898,
+                516
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, short-term rentals also provide housing for tourists, a crucial part of the economies in places like Nantucket, Cape Cod, or the towns that make up New Hampshire's Seacoast and Lakes Region, pointed out Ryan Castle, CEO of the Cape Cod & Islands Association of Realtors. \"A lot of workers are servicing the tourist industry, and the tourism industry is serviced by those people coming in short term,\" Castle said, \"and so it's a cyclical effect.\" "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                519,
+                898,
+                622
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Short-term rentals themselves are not the crux of the issue, said Keren Horn, an affordable housing policy expert at the University of Massachusetts Boston. \"I think individuals being able to rent out their second home is a good thing. If it's their vacation home anyway, and it's just empty, why can't you make money off it?\" Horn said. Issues arise, however, when developers attempt to create large-scale short-term rental facilities — de facto hotels — to bypass taxes and regulations. \"I think the question is, shouldn't a developer who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?\" Horn said. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                625,
+                898,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At the end of 2018, Governor Charlie Baker signed a bill to rein in those potential investor-buyers. \"The bill requires every rental host to register with the state, mandates they carry insurance, and opens the potential for local taxes on top of a new state levy,\" the Globe reported. Boston took things even further, limiting who is authorized to rent out their home, and requiring renters to register with the city's Inspectional Services Department. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                773,
+                898,
+                879
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Horn said similar registration requirements could benefit other struggling cities and towns. The only way to solve the issue, however, is by creating more housing. \"If we want to make a change in the housing market, the main one is we have to build a lot more.\" "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                75,
+                898,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "26. Which the following is true of New England? "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                158,
+                502,
+                177
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. Its housing supply is at a very low level. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. Its communities are in need of funding. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. Its rental vacancy rate is going up slowly "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. Its home prices are under strict control. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                181,
+                497,
+                261
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "27. The bill mentioned in the Paragraph 2 was intended to "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                286,
+                625,
+                303
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. curb short-term rental speculation. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. ensure the supply of cheap housing. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. punish illegal dealings in housing. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. allow a free short-term rental market. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                308,
+                466,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "28. Compared with Castle, Taylor is more likely to support "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                413,
+                633,
+                431
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. further investment in local tourism. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. in increase in affordable housing. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. strict management of real estate agents. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. a favorable policy for short-term workers. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                435,
+                502,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "29. What does Horn emphasize in paragraph 5 "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                540,
+                531,
+                557
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. The urgency to upgrade short-term rental facilities. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. The efficient operation of the local housing market. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. The necessity to stop developers from evading taxes. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. The proper procedures for renting out spare houses. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                561,
+                589,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "30. Horn holds that imposing registration requirements is "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                667,
+                619,
+                685
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. an irrational decision. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. an unfeasible proposal. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. an unnecessary measure. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. an inadequate solution. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                689,
+                364,
+                769
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Text 3 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                468,
+                793,
+                527,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If you're heading for your nearest branch of Waterstones in search of the Duchess of Sussex's new children's book The Bench, you might have to be prepared to hunt around a bit; the same may be true of The President's Daughter, the new thriller by Bill Clinton and James Patterson. Both of these books are published next week by Penguin Random House, a company currently involved in a stand-off with Waterstones. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                816,
+                898,
+                918
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The problem began late last year, when Penguin Random House confirmed that it had introduced a credit limit with Waterstones \"at a very significant level\". The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables, display spaces and windows, and were \"quietly retiring them to their relevant sections\". "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                75,
+                896,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PRH declined to comment on the issue, but a spokesperson for Waterstones told me: \"Waterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. We are not控股ing PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. We do this generally by giving their titles less prominent positioning within our bookshops. \"We are hopeful with our shops now open again that normality will return and that we will be allowed to buy appropriately. Certainly, our shops are exceptionally busy and book sales are very strong. The sales for our May Books of the Month surpassed any month since 2018.\" "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                181,
+                896,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the meantime, PRH authors have been the losers - as have customers, who might expect the new titles from the country's biggest publisher to be prominently displayed by its biggest book retailer. Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                371,
+                896,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It comes at a time when authors are already worried about the consequences of the proposed merger between PRH and another big publisher, Simon & Schuster - the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars, lower advances, and more conformity in terms of what is published. And one wonders if PRH would have been confident enough to deal with Waterstones in the way it has if it weren't quite such a big company (it was formed with the merger of Penguin and Random House in 2013) and likely to get bigger. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                477,
+                896,
+                599
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"This is all part of a wider change towards concentration of power and cartels. Literary agencies are getting bigger to have the clout to negotiate better terms with publishers, publishers consolidating to deal with Amazon,\" says Lownie. \"The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. After all, many of the most interesting books in recent years have come from small publishers.\" "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                603,
+                896,
+                727
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "31. The author mentions two books in the paragraph 1 to present "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                751,
+                671,
+                769
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.an ongoing conflict "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.an intellectual concept "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.a prevailing sentiment "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.a literary phenomenon "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                774,
+                341,
+                853
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "32. Why did Waterstones shops retire PRH books to their relevant sections? "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                879,
+                712,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.To make them easily noticeable. "
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                900,
+                420,
+                917
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.To comply with PRH's requirement. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.To respond to PRH's business move. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.To arrange them in a systematic way. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                75,
+                460,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "33. What message did the spokesman of Waterstones seem to convey? "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                158,
+                671,
+                177
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. Their customers remain royal. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.The credit limit will be removed. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. Their stock is underestimated. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.The book market is rather slack. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                181,
+                426,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "34.What can be one consequence of current dispute? "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                286,
+                529,
+                303
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.Sales of books by mid-list PRH writers fall off considerably. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.Lesser-known PRH writers become the target of criticism. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.Waterstones staff hesitate to promote big-name author's books. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.Waterstones branches suffer a severe reduction in revenue. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                306,
+                666,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "35. Which of the following statements best represents Lownie's view? "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                413,
+                667,
+                430
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.Small publishers ought to stick together. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.Big publishers will lose their dominance. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.The publishing industry is having a hard time. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.The merger of publisher is a worrying trend. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                435,
+                531,
+                515
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Text 4 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                468,
+                541,
+                529,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Scientific papers are the recordkeepers of progress in research. Each year researchers publish millions of papers in more than 30,000 journals. The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal (as reflected by the title's impact factor) and the number of citations a specific paper accumulates. The careers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce, but even more so on the citations attracted by these papers. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                567,
+                900,
+                744
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Citation cartels. where journals, authors, and institutions conspire to inflate citation numbers, have existed for a long time. In 2016, researchers developed an algorithm to recognize suspicious citation patterns, including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. Recently, another expression of this predatory behavior has emerged: so-called support service "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                757,
+                900,
+                903
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                80,
+                898,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. The birth of predatory journals wasn't far behind. These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers. In some instances, there is absolutely no relationship between the content of the article and the citations. The peculiar part is that the journal that the editor is supposedly working for is not profiting at all—it is just providing citations to other journals. Such practices can lead an article to accrue more than 150 citations in the same year that it was published. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                143,
+                900,
+                352
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "How insidious is this type of citation manipulation? In one example, an individual-acting as author, editor, and consultant - was able to use at least 15 journals as citation providers to articles published by five scientists at three universities. The problem is rampant in Scopus, a citation database, which includes a high number of the new \"international\"journals. In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                366,
+                900,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Scopus itself has all the data necessary to detect this malpractice. Red flags include a large number of citations to an article within the first year. And for authors who wish to steer clear of citation cartel activities:when "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                523,
+                880,
+                606
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                620,
+                886,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "36. According to passage 1, the carriers of scientists can be determined by "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                698,
+                765,
+                717
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.how many citations their papers contain "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.how many times their papers are cited "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.the prestige of the people they works with "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.the status they have in scientific circles "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                721,
+                500,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "37.The support service consultancies tend to "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                827,
+                516,
+                843
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.Recommend journals to their clients "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.list citations patterns for their clients "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.asks authors to include extra citations "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                848,
+                470,
+                905
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.advise contributors to cite each other "
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                75,
+                460,
+                90
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "38. The function of the \"milk cow\"journals is to "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                116,
+                541,
+                134
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. boost citation counts for certain authors "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.help scholars publish articles at low cost "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C.instruct first-time contributors in citation "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.increase the readership of new journals "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                139,
+                489,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "39. What can be learned about Scopus from the last two paragraphs? "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                244,
+                648,
+                261
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.It fosters competition among citation providers. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. It has the capability to identify suspicious citation. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. It hinders the growth of international journals. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.It is established to prevent citation manipulation. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                265,
+                566,
+                343
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "40. What should an author do to deal with citation manipulation? "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                371,
+                627,
+                388
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.Take legal action. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.Demand an apology. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. Seek professional advice. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D.Reveal their misconduct. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                393,
+                366,
+                469
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Part B "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                99,
+                504,
+                159,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings. Mark your answers on the ANSWER SHEET. (10 points) "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                530,
+                898,
+                588
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. Last year marks the 150th anniversary of a series of Yellowstone photographs by the renowned landscape photographer William Henry Jackson. He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. Two centuries ago, the idea of preserving nature, rather than exploiting it, was a novel one to many U.S. settlers. One of the turning points in public support for land conservation efforts — and recognizing the magnificence of the Yellowstone region in particular — came in the form of vivid photographs. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. He asked Jackson to print out large copies and distributed them, along with reproductions of Moran's paintings, to each member of Congress. \"The visualization, particularly those photographs, really hit home that this is something that has to be protected,\" says Murphy. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D Through the trip, Jackson juggled multiple cameras and plate sizes using the \"collodion process\" that required him to coat the plates with a chemical mixture, then expose them and develop the resulting images with a portable darkroom. The crude technique required educated "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                594,
+                896,
+                903
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "guesses on exposure times, and involved heavy, awkward equipment — several men had to assist in its transportation. Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot of Old Faithful, to casual portraits of expedition members at the camp. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                75,
+                896,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E The journey officially began in Ogden, Utah, on June 8,1871. Over nearly four months, dozen of man made their way on horseback into Montana and traversed along the Yellowstone River and around Yellowstone lake. That fall, they concluded the survey in fort Bridger, Wyoming. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                158,
+                894,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "F Though Native Americans (and later miners and fur trappers) had long recognized the area's riches, most Americans did not. That's why Hayden's expedition aimed to produce a fuller understanding of the yellowstone river region, from it's hot springs and waterfalls to its variety of flora and fauna. In addition to the entourage of scientists, the team also included artists: Painter Thomas Moran and photographer Jackson were charged with capturing this astounding natural beauty and sharing it with the world. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                244,
+                896,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "G The bill proved largely popular and sailed through Congress with large majorities in favor. In quick succession, the Senate and House passed legislation protecting yellowstone in early 1872. That March, President Ulysses S.Grant signed an act into law that established Yellowstone as the world's first national park. While some locals opposed to the designation, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. I don't believe that the legal protection would have happened in the timeframe that it did without those images, says Heather Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues Bison Bear: 100 years of the national Park Service. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                371,
+                896,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "H Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. Weeks after completing the expedition, Hayden collected his team's observation into an extensive rep aimed at convincing Senators and Representatives, along with colleagues at government agency like the department of Interior that Yellowstone ought to be preserved. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                541,
+                896,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "41. —A—42. —E—43. —H—44. —45. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                645,
+                477,
+                660
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "41.B 42.F 43.D 44.C 45.G "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                687,
+                316,
+                704
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Part C "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                731,
+                161,
+                746
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points) "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                95,
+                751,
+                896,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There has been some exploration around the use of AI in digital marketing. For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. (46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities and fashions to provide unique content in marketing messages put out through social media. At the same time AI can also be used to generate content "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                795,
+                896,
+                918
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "for social media posts and chat sites.AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                75,
+                898,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The main disadvantage of using AI to respond to customers is that there are concerns about trusting personal interactions to machines, which could lead not only to the subsequent loss of interpersonal connections, but also to a decrease in marketing personnel. (47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. (48) Algorithms that are used to simulate human interactions are creating many of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                116,
+                900,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. (49) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. Therefore, unless customers are prepared to sign release agreements, the use of AI may become somewhat restricted in the future. Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target customers. Data can be gathered on where the customer can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages inappropriate forms, including emails, social media posts, pop-up advertisements, and banners at an appropriate frequency. (50) The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer is one of the critical challenges to the digital marketer. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                308,
+                900,
+                559
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "答案："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                582,
+                153,
+                599
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "46. 就顾客的喜好、最爱的名人及潮流服饰方面而言，人工智能也可用于辨别顾客的这些生活选择，由此在通过社交媒体推送的营销信息中提供专属的内容。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "47. 有的人认为人工智能会降低创造性、减少工作岗位，从而对营销者的形象造成负面影响，但他们也知道，人工智能是降低成本和催生新信息的一种途径。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "48. 用于模拟人类互动行为的算法正在催生许多这方面的担忧，尤其是在大家无法完全确定运用人工智能和顾客互动会产生何种后果时。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "49. 若顾客不愿分享数据，人工智能便会缺失关键信息，无法有效运作，也不能运用机器学习来优化其营销内容和交流。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "50. 敏锐捕捉目标客户需求，对营销信息进行非侵扰式的传播，这对数字营销者而言是一项重大挑战。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                603,
+                896,
+                811
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Section III Writing "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                837,
+                266,
+                854
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Part A "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                858,
+                161,
+                873
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                879,
+                193,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Write a notice to recruit a student for Prof.Smith's research project on campus sports "
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                900,
+                898,
+                919
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "activities. Specify the duties and requirements of the job. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                75,
+                562,
+                92
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Do not sign your own name at the end of the letter. Use \"Li Ming\" instead. "
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                96,
+                746,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Do not write the address. (10 points) "
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                116,
+                441,
+                135
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Notice "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                466,
+                160,
+                527,
+                173
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dec.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "24^{\\mathrm{th}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " , 2022 "
+                    }
+                ]
+            },
+            "bbox": [
+                767,
+                176,
+                896,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The notice is to recruit a student for Prof. Smith research project on campus sports activities and specify the duties and requirements of this job. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                202,
+                896,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To begin with, what you need to pay close attention to is that the main duty of the position requires that you can collect and analyze the data on campus sports activities. In addition to that, you will be responsible for organizing the daily meetings with Professor Smith and other members and dealing with the problems on the campus sports activities independently. Most importantly, you should be extremely organized, enthusiastic, and patient, and expert at communicational skills. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                244,
+                896,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The deadline for registration is January  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "31^{\\mathrm{st}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 2023. If you have any questions or need help, please telephone 1234567 or contact us at sports@123.com by email. "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                371,
+                896,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Li Ming "
+                    }
+                ]
+            },
+            "bbox": [
+                825,
+                413,
+                896,
+                430
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                455,
+                197,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Write an essay based on the picture below. In your essay, you should "
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                477,
+                696,
+                495
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1) describe the drawing briefly, "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2) interpret the implied meaning, and "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3) give your comments. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                497,
+                443,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Write your answer in 160-200 words on the ANSWER SHEET. (20 points) "
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                561,
+                758,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "聚创教育 "
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                583,
+                712,
+                654
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2004 "
+                    }
+                ]
+            },
+            "bbox": [
+                424,
+                674,
+                577,
+                702
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eaf3cc63df6c9372c843003ce6c907c725fe7a2efc3c75bfb473a6a73efcd381.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                197,
+                80,
+                708,
+                408
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As is graphically portrayed in the picture, an aged man and a senior woman are standing hand in hand, watching a spectacular dragon-boat racing competition, with contented smiles on their faces. Simple as the picture is, the symbolic meaning is thought-provoking. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                435,
+                898,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Recent years have witnessed the prevalence of preservation and promotion of traditional culture, which has aroused heated discussion. First and foremost, it must be stressed that the present situation, to a certain degree, stems from public awareness of preserving traditions. In addition, we may notice that our cultural confidence also plays an important role in leading to this phenomenon. Last but not the least, that the government has put more emphasis on culture protection is another significant factor that cannot be ignored. As a famous short video Vlogger, Li Ziqi is remembered and respected by people for her success in promoting Chinese culture. In her life, she releases her videos about cooking Chinese food and making traditional Chinese handicrafts such as embroidery. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                497,
+                900,
+                685
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Consequently, it is of utmost importance for us to take some measures to enhance the awareness of promoting traditions and conventions in our society. The government and the department concerned should assume the responsibility to educate every citizen to keep striving to carry forward Chinese culture. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                687,
+                900,
+                769
+            ]
+        }
+    ]
+]

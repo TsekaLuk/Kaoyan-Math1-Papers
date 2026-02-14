@@ -1,0 +1,2185 @@
+[
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.248,
+                0.056,
+                0.8,
+                0.081
+            ],
+            "angle": 0,
+            "content": "2020年全国硕士研究生入学统一考试英语(一)试题"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.402,
+                0.098,
+                0.605,
+                0.117
+            ],
+            "angle": 0,
+            "content": "Section I Use of English"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.13,
+                0.916,
+                0.168
+            ],
+            "angle": 0,
+            "content": "Directions: Read the following text. Choose the best word(s) for each numbered blank and mark A,B,C or D on the ANSWER SHEET.(10 points)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.18,
+                0.915,
+                0.248
+            ],
+            "angle": 0,
+            "content": "Even if families don't sit down to eat together as frequently as before, millions of Britons will nonetheless have got a share this weekend of one of that nation's great traditions: the Sunday roast. 1 a cold winter's day, few culinary pleasures can 2 it. Yet as we report now, the food police are determined our health. That this 3 should be rendered yet another guilty pleasure 4 to damage our health."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.26,
+                0.917,
+                0.344
+            ],
+            "angle": 0,
+            "content": "The Food Standards Authority (FSA) has 5 a public worming about the risks of a compound called acrylamide that forms in some foods cooked 6 high temperatures. This means that people should 7 crisping their roast potatoes, reject thin-crust pizzas and only 8 toast their bread. But where is the evidence to support such alarmist advice? 9 studies have shown that acrylamide can cause neurological damage in mice, there is no 10 evidence that it causes cancer in humans."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.357,
+                0.915,
+                0.408
+            ],
+            "angle": 0,
+            "content": "Scientists say the compound is 11 to cause cancer but have no hard scientific proof 12 the precautionary principle it could be argued that it is 13 to follow the FSA advice. 14, it was rumoured that smoking caused cancer for years before the evidence was found to prove a 15."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.42,
+                0.915,
+                0.488
+            ],
+            "angle": 0,
+            "content": "Doubtless a piece of boiled beef can always be 16 up on Sunday alongside some steamed vegetables, without the Yorkshire pudding and no wine. But would life be worth living? 17, the FSA says it is not telling people to cut out roast foods 18, but reduce their lifetime intake. However its 19 risks coming a cross as being pushy and overprotective. Constant health scares just 20 with no one listening."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.092,
+                0.496,
+                0.742,
+                1.0
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>1.[A]In</td><td>[B]Towards</td><td>[C]On</td><td>[D]Till</td></tr><tr><td>2.[A]match</td><td>[B]express</td><td>[C]satisfy</td><td>[D]influence</td></tr><tr><td>3.[A]patience</td><td>[B]enjoyment</td><td>[C]surprise</td><td>[D]concern</td></tr><tr><td>4.[A]intensified</td><td>[B]privileged</td><td>[C]compelled</td><td>[D]guaranteed</td></tr><tr><td>5.[A]issued</td><td>[B]received</td><td>[C]ignored</td><td>[D]cancelled</td></tr><tr><td>6.[A]under</td><td>[B]at</td><td>[C]for</td><td>[D]by</td></tr><tr><td>7.[A]forget</td><td>[B]regret</td><td>[C]finish</td><td>[D]avoid</td></tr><tr><td>8.[A]partially</td><td>[B]regularly</td><td>[C]easily</td><td>[D]initially</td></tr><tr><td>9.[A]Unless</td><td>[B]Since</td><td>[C]If</td><td>[D]While</td></tr><tr><td>10.[A]secondary</td><td>[B]external</td><td>[C]conclusive</td><td>[D]negative</td></tr><tr><td>11.[A]insufficient</td><td>[B]bound</td><td>[C]likely</td><td>[D]slow</td></tr><tr><td>12.[A]On the basis of</td><td>[B]At the cost of</td><td>[C]In addition to</td><td>[D]In contrast</td></tr><tr><td>13.[A]interesting</td><td>[B]advisable</td><td>[C]urgent</td><td>[D]fortunate</td></tr><tr><td>14.[A]As usual</td><td>[B]In particular</td><td>[C]By definition</td><td>[D]After all</td></tr><tr><td>15.[A]resemblance</td><td>[B]combination</td><td>[C]connection</td><td>[D]pattern</td></tr><tr><td>16.[A]made</td><td>[B]served</td><td>[C]saved</td><td>[D]used</td></tr><tr><td>17.[A]To be fair</td><td>[B]For instance</td><td>[C]To be brief</td><td>[D]In general</td></tr></table>"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.055,
+                0.214,
+                0.074
+            ],
+            "angle": 0,
+            "content": "18.[A]reluctantly"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.301,
+                0.057,
+                0.375,
+                0.073
+            ],
+            "angle": 0,
+            "content": "[B]entirely"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.057,
+                0.56,
+                0.073
+            ],
+            "angle": 0,
+            "content": "[C]gradually"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.644,
+                0.057,
+                0.728,
+                0.073
+            ],
+            "angle": 0,
+            "content": "[D]carefully"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.086,
+                0.197,
+                0.103
+            ],
+            "angle": 0,
+            "content": "19.[A]promise"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.301,
+                0.087,
+                0.399,
+                0.103
+            ],
+            "angle": 0,
+            "content": "[B]experience"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.087,
+                0.562,
+                0.103
+            ],
+            "angle": 0,
+            "content": "[C]campaign"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.644,
+                0.087,
+                0.75,
+                0.103
+            ],
+            "angle": 0,
+            "content": "[D]competition"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.116,
+                0.208,
+                0.133
+            ],
+            "angle": 0,
+            "content": "20.[A]follow up"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.301,
+                0.116,
+                0.376,
+                0.134
+            ],
+            "angle": 0,
+            "content": "[B]pick up"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.117,
+                0.551,
+                0.134
+            ],
+            "angle": 0,
+            "content": "[C]open up"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.644,
+                0.117,
+                0.715,
+                0.134
+            ],
+            "angle": 0,
+            "content": "[D]end up"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.354,
+                0.146,
+                0.655,
+                0.166
+            ],
+            "angle": 0,
+            "content": "Section II Reading Comprehension"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.179,
+                0.147,
+                0.195
+            ],
+            "angle": 0,
+            "content": "Part A"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.208,
+                0.915,
+                0.243
+            ],
+            "angle": 0,
+            "content": "Directions: Read the following four texts. Answer the questions below each text by choosing A,B,C or D. Mark your answers on the ANSWER SHEET.(40 points)"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.478,
+                0.257,
+                0.53,
+                0.274
+            ],
+            "angle": 0,
+            "content": "Text 1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.287,
+                0.917,
+                0.406
+            ],
+            "angle": 0,
+            "content": "A group of labour MPs, among them Yvette Cooper, are bringing in the new year with a call to institute a UK \"town of culture\" award. The proposal is that it should sit alongside the existing city of culture title, which was held by Hull in 2017 and has been awarded to Coventry for 2021. Cooper and her colleagues argue that the success of the crown for Hull, where it brought in \\(£220\\mathrm{m}\\) of investment and an avalanche of arts, ought not to be confined to cities. Britain' town, it is true are not prevented from applying, but they generally lack the resources to put together a bid to beat their bigger competitions. A town of culture award could, it is argued, become an annual event, attracting funding and creating jobs."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.418,
+                0.916,
+                0.506
+            ],
+            "angle": 0,
+            "content": "Some might see the proposal as a booby prize for the fact that Britain is no longer be able to apply for the much more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008. A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world: after town of culture, who knows that will follow—village of culture? Suburb of culture? Hamlet of culture?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.518,
+                0.918,
+                0.651
+            ],
+            "angle": 0,
+            "content": "It is also wise to recall that such titles are not a cure-all. A badly run \"year of culture\" washes in and out of a place like the tide, bringing prominence for a spell but leaving no lasting benefits to the community. The really successful holders of such titles are those that do a great deal more than fill hotel bedrooms and bring in high-profile arts events and good press for a year. They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light. It is hard to get right, and requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organisations. But it can be done: Glasgow's year as European capital of culture can certainly be seen as one of complex series of factors that have turned the city into the power of art, music and theatre that it remains today."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.663,
+                0.915,
+                0.698
+            ],
+            "angle": 0,
+            "content": "A \"town of culture\" could be not just about the arts but about honouring a town's peculiarities-helping sustain its high street, supporting local facilities and above all celebrating its people and turn it into action."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.709,
+                0.674,
+                0.728
+            ],
+            "angle": 0,
+            "content": "21. Cooper and her colleagues argue that a \"town of culture\" award could"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.739,
+                0.411,
+                0.755
+            ],
+            "angle": 0,
+            "content": "[A]consolidate the town-city ties in Britain."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.77,
+                0.443,
+                0.785
+            ],
+            "angle": 0,
+            "content": "[B]promote cooperation among Britain's towns."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.799,
+                0.48,
+                0.815
+            ],
+            "angle": 0,
+            "content": "[C]increase the economic strength of Britain's towns."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.829,
+                0.49,
+                0.845
+            ],
+            "angle": 0,
+            "content": "[D]ocus Britain's limited resources on cultural events."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.86,
+                0.671,
+                0.879
+            ],
+            "angle": 0,
+            "content": "22. According to Paragraph 2, the proposal might be regarded by some as"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.891,
+                0.295,
+                0.907
+            ],
+            "angle": 0,
+            "content": "[A]a sensible compromise."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.892,
+                0.665,
+                0.908
+            ],
+            "angle": 0,
+            "content": "[B]a self-deceiving attempt."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.922,
+                0.294,
+                0.938
+            ],
+            "angle": 0,
+            "content": "[C]an eye-catching bonus."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.922,
+                0.648,
+                0.938
+            ],
+            "angle": 0,
+            "content": "[D]an inaccessible target."
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.036,
+                0.601,
+                0.053
+            ],
+            "angle": 0,
+            "content": "23. The author suggests that a title holder is successful only if it"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.056,
+                0.37,
+                0.075
+            ],
+            "angle": 0,
+            "content": "[A]endeavours to maintain its image."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.056,
+                0.735,
+                0.075
+            ],
+            "angle": 0,
+            "content": "[B]meets the aspirations of its people."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.086,
+                0.374,
+                0.104
+            ],
+            "angle": 0,
+            "content": "[C]brings its local arts to prominence."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.086,
+                0.726,
+                0.104
+            ],
+            "angle": 0,
+            "content": "[D]commits to its long-term growth."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.116,
+                0.519,
+                0.133
+            ],
+            "angle": 0,
+            "content": "24.Glasgow is mentioned in Paragraph 3 to present"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.146,
+                0.267,
+                0.165
+            ],
+            "angle": 0,
+            "content": "[A]a contrasting case."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.146,
+                0.648,
+                0.165
+            ],
+            "angle": 0,
+            "content": "[B]a supporting example."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.176,
+                0.273,
+                0.195
+            ],
+            "angle": 0,
+            "content": "[C]a background story."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.176,
+                0.601,
+                0.194
+            ],
+            "angle": 0,
+            "content": "[D]a related topic."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.207,
+                0.476,
+                0.224
+            ],
+            "angle": 0,
+            "content": "25.What is the author's attitude towards the proposal?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.238,
+                0.203,
+                0.256
+            ],
+            "angle": 0,
+            "content": "[A]Skeptical"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.3,
+                0.238,
+                0.393,
+                0.256
+            ],
+            "angle": 0,
+            "content": "[B]Objective"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.238,
+                0.574,
+                0.256
+            ],
+            "angle": 0,
+            "content": "[C]Favourable"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.643,
+                0.238,
+                0.721,
+                0.256
+            ],
+            "angle": 0,
+            "content": "[D]Critical"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.478,
+                0.268,
+                0.53,
+                0.284
+            ],
+            "angle": 0,
+            "content": "Text 2"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.298,
+                0.916,
+                0.365
+            ],
+            "angle": 0,
+            "content": "Scientific publishing has long been a licence to print money. Scientists need journals in which to publish their research, so they will supply the articles without monetary reward. Other scientists perform the specialised work of peer review also for free, because it is a central element in the acquisition of status and the production of scientific knowledge."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.377,
+                0.915,
+                0.429
+            ],
+            "angle": 0,
+            "content": "With the content of papers secured for free, the publisher needs only find a market for its journal. Until this century, university libraries were not very price sensitive. Scientific publishers routinely report profit margins approaching \\(40\\%\\) on their operations, at a time when the rest of the publishing industry is in an existential crisis."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.44,
+                0.915,
+                0.507
+            ],
+            "angle": 0,
+            "content": "The Dutch giant Elsevier, which claims to publish \\(25\\%\\) of the scientific papers produced in the world, made profits of more than \\(\\pm 900\\mathrm{m}\\) last year, while UK universities alone spent more than \\(\\pm 210\\mathrm{m}\\) in 2016 to enable researchers to access their own publicly funded research: both figures seem to rise unstoppably despite increasingly desperate efforts to change them."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.52,
+                0.915,
+                0.605
+            ],
+            "angle": 0,
+            "content": "The most drastic, and thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article published since 2015. The success of Sci-Hub, which relies on researchers passing on copies they have themselves legally accessed, shows the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.618,
+                0.915,
+                0.684
+            ],
+            "angle": 0,
+            "content": "In Britain the move towards open access publishing has been driven by funding bodies. In some ways it has been very successful. More than half of all British scientific research is now published under open access terms: either freely available from the moment of publication, or paywalled for a year or more so that the publishers can make a profit before being placed on general release."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.697,
+                0.915,
+                0.816
+            ],
+            "angle": 0,
+            "content": "Yet the new system has not worked out any cheaper for the universities. Publishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article. These range from around £500 to $5,000. A report last year pointed out that the costs both of subscriptions and of these \"article preparation costs\" had been steadily rising at a rate above inflation. In some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places. In both cases, we need a rebalancing of power."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.828,
+                0.691,
+                0.846
+            ],
+            "angle": 0,
+            "content": "26. Scientific publishing is seen as “a licence to print money” partly because"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.858,
+                0.388,
+                0.876
+            ],
+            "angle": 0,
+            "content": "[A]its content acquisition costs nothing."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.857,
+                0.788,
+                0.876
+            ],
+            "angle": 0,
+            "content": "[B]its marketing strategy has been successful."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.888,
+                0.403,
+                0.906
+            ],
+            "angle": 0,
+            "content": "[C]its payment for peer review is reduced."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.888,
+                0.782,
+                0.906
+            ],
+            "angle": 0,
+            "content": "[D]its funding has enjoyed a steady increase."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.918,
+                0.657,
+                0.936
+            ],
+            "angle": 0,
+            "content": "27. According to Paragraphs 2 and 3, scientific publishers Elsevier have"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.948,
+                0.361,
+                0.966
+            ],
+            "angle": 0,
+            "content": "[A]financed researchers generously."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.948,
+                0.727,
+                0.966
+            ],
+            "angle": 0,
+            "content": "[B]gone through an existential crisis."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.977,
+                0.353,
+                0.996
+            ],
+            "angle": 0,
+            "content": "[C]revived the publishing industry."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.977,
+                0.756,
+                0.996
+            ],
+            "angle": 0,
+            "content": "[D]thrive mainly on university libraries."
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.056,
+                0.506,
+                0.072
+            ],
+            "angle": 0,
+            "content": "28. How does the author feel about the success of Sci-Hub?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.085,
+                0.207,
+                0.104
+            ],
+            "angle": 0,
+            "content": "[A] Relieved."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.301,
+                0.086,
+                0.407,
+                0.103
+            ],
+            "angle": 0,
+            "content": "[B] Concerned."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.086,
+                0.559,
+                0.103
+            ],
+            "angle": 0,
+            "content": "[C] Puzzled."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.644,
+                0.086,
+                0.753,
+                0.103
+            ],
+            "angle": 0,
+            "content": "[D]Encouraged."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.116,
+                0.637,
+                0.133
+            ],
+            "angle": 0,
+            "content": "29. It can be learned from Paragraphs 5 and 6 that open access terms"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.146,
+                0.416,
+                0.163
+            ],
+            "angle": 0,
+            "content": "[A] free universities from financial burdens."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.147,
+                0.803,
+                0.163
+            ],
+            "angle": 0,
+            "content": "[B] render publishing much easier for scientists."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.176,
+                0.432,
+                0.193
+            ],
+            "angle": 0,
+            "content": "[C]reduce the cost of publication substantially."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.176,
+                0.808,
+                0.193
+            ],
+            "angle": 0,
+            "content": "[D] allow publishers some room to make money."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.206,
+                0.6,
+                0.223
+            ],
+            "angle": 0,
+            "content": "30. Which of the following characterises the scientific publishing model?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.236,
+                0.336,
+                0.253
+            ],
+            "angle": 0,
+            "content": "[A] Trial subscription is offered."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.236,
+                0.697,
+                0.253
+            ],
+            "angle": 0,
+            "content": "[B] Labour triumphs over status."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.266,
+                0.325,
+                0.283
+            ],
+            "angle": 0,
+            "content": "[C] The few feed on the many."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.266,
+                0.675,
+                0.283
+            ],
+            "angle": 0,
+            "content": "[D] Costs are well controlled."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.478,
+                0.296,
+                0.529,
+                0.312
+            ],
+            "angle": 0,
+            "content": "Text 3"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.326,
+                0.915,
+                0.376
+            ],
+            "angle": 0,
+            "content": "Progressives often support diversity mandates as a path to equality and a way to level the playing field. But all too often such policies are an insincere form of virtue-signaling that benefits only the most privileged and does little to help average people."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.389,
+                0.915,
+                0.423
+            ],
+            "angle": 0,
+            "content": "A pair of bills sponsored by Massachusetts state Senator Jason Lewis and House Speaker Pro Tempore Patricia Haddad, to ensure \"gender parity\" on boards and commissions, provide a case in point."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.435,
+                0.915,
+                0.501
+            ],
+            "angle": 0,
+            "content": "Haddad and Lewis are concerned that more than half the state-government boards are less than 40 percent female. In order to ensure that elite women have more such opportunities, they have proposed imposing government quotas. If the bills become law, state boards and commissions will be required to set aside 50 percent of board seats for women by 2022."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.514,
+                0.915,
+                0.564
+            ],
+            "angle": 0,
+            "content": "The bills are similar to a measure recently adopted in California, which last year became the first state to require gender quotas for private companies. In signing the measure, California Governor Jerry Brown admitted that the law, which expressly classifies people on the basis of sex, is probably unconstitutional."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.577,
+                0.915,
+                0.628
+            ],
+            "angle": 0,
+            "content": "The US Supreme Court frowns on sex-based classifications unless they are designed to address an \"important\" policy interest. Because the California law applies to all boards, even where there is no history of prior discrimination, courts are likely to rule that the law violates the constitutional guarantee of \"equal protection\"."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.64,
+                0.913,
+                0.674
+            ],
+            "angle": 0,
+            "content": "But are such government mandates even necessary? Female participation on corporate boards may not currently mirror the percentage of women in the general population. but so what?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.686,
+                0.913,
+                0.737
+            ],
+            "angle": 0,
+            "content": "The number of women on corporate boards has been steadily increasing without government interference. According to a study by Catalyst, between 2010 and 2015 the share of women on the boards of global corporations increased by 54 percent."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.749,
+                0.915,
+                0.8
+            ],
+            "angle": 0,
+            "content": "Requiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards. That is exactly what happened when Norway adopted a nationwide corporate gender quota."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.812,
+                0.913,
+                0.862
+            ],
+            "angle": 0,
+            "content": "Writing in The New Republic, Alice Lee notes that increasing the number of opportunities for board membership without increasing the pool of qualified women to serve on such boards has led to a \"golden skirt\" phenomenon, where the same elite women scoop up multiple seats on a variety of boards."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.876,
+                0.913,
+                0.911
+            ],
+            "angle": 0,
+            "content": "Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.922,
+                0.673,
+                0.941
+            ],
+            "angle": 0,
+            "content": "31. The author believes that the bills sponsored by Lewis and Haddad will"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.952,
+                0.357,
+                0.97
+            ],
+            "angle": 0,
+            "content": "[A]help little to reduce gender bias."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.953,
+                0.751,
+                0.97
+            ],
+            "angle": 0,
+            "content": "[B]pose a threat to the state government."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.976,
+                0.375,
+                0.994
+            ],
+            "angle": 0,
+            "content": "[C] raise women's position in politics."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.472,
+                0.976,
+                0.709,
+                0.993
+            ],
+            "angle": 0,
+            "content": "[D]greatly broaden career options."
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.087,
+                0.52,
+                0.102
+            ],
+            "angle": 0,
+            "content": "32. Which of the following is true of the California measure?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.118,
+                0.405,
+                0.134
+            ],
+            "angle": 0,
+            "content": "[A]It has irritated private business owners."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.471,
+                0.118,
+                0.756,
+                0.135
+            ],
+            "angle": 0,
+            "content": "[B]It is welcomed by the Supreme Court."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.148,
+                0.373,
+                0.165
+            ],
+            "angle": 0,
+            "content": "[C]It may go against the Constitution."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.471,
+                0.148,
+                0.741,
+                0.165
+            ],
+            "angle": 0,
+            "content": "[D]It will settle the prior controversies."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.178,
+                0.562,
+                0.195
+            ],
+            "angle": 0,
+            "content": "33.The author mentions the study by Catalyst to illustrate"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.208,
+                0.407,
+                0.224
+            ],
+            "angle": 0,
+            "content": "[A]the harm from arbitrary board decision."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.471,
+                0.208,
+                0.796,
+                0.225
+            ],
+            "angle": 0,
+            "content": "[B]the importance of constitutional guarantees."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.238,
+                0.453,
+                0.255
+            ],
+            "angle": 0,
+            "content": "[C]the pressure on women in global corporations."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.471,
+                0.238,
+                0.81,
+                0.255
+            ],
+            "angle": 0,
+            "content": "[D]the needlessness of government interventions."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.268,
+                0.663,
+                0.285
+            ],
+            "angle": 0,
+            "content": "34. Norway's adoption of a nationwide corporate gender quota has led to"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.298,
+                0.427,
+                0.314
+            ],
+            "angle": 0,
+            "content": "[A]the underestimation of elite women's role."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.328,
+                0.46,
+                0.344
+            ],
+            "angle": 0,
+            "content": "[B]the objection to female participation on boards."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.358,
+                0.478,
+                0.375
+            ],
+            "angle": 0,
+            "content": "[C]the entry of unqualified candidates into the board."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.388,
+                0.497,
+                0.405
+            ],
+            "angle": 0,
+            "content": "[D]the growing tension between labor and management."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.419,
+                0.494,
+                0.435
+            ],
+            "angle": 0,
+            "content": "35. Which of the following can be inferred from the text?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.45,
+                0.506,
+                0.467
+            ],
+            "angle": 0,
+            "content": "[A] Women's need in employment should be considered."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.48,
+                0.515,
+                0.497
+            ],
+            "angle": 0,
+            "content": "[B] Feasibility should be a prime concern in policymaking."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.51,
+                0.486,
+                0.526
+            ],
+            "angle": 0,
+            "content": "[C]Everyone should try hard to promote social justice."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.54,
+                0.502,
+                0.556
+            ],
+            "angle": 0,
+            "content": "[D]Major social issues should be the focus of legislation."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.478,
+                0.57,
+                0.53,
+                0.587
+            ],
+            "angle": 0,
+            "content": "Text 4"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.601,
+                0.915,
+                0.704
+            ],
+            "angle": 0,
+            "content": "Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals that provide digital services to consumers or users in France. Digital services include everything from providing a platform for selling goods and services online to targeting advertising based on user data, and the tax applies to gross revenue from such services. Many French politicians and media outlets have referred to this as a \"GAFA tax,\" meaning that it is designed to apply primarily to companies such as Google, Apple, Facebook and Amazon—in other words, multinational tech companies based in the United States."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.72,
+                0.913,
+                0.792
+            ],
+            "angle": 0,
+            "content": "The digital services tax now awaits the signature of President Emmanuel Macron, who has expressed support for the measure, and it could go into effect within the next few weeks. But it has already sparked significant controversy, with the Unite Sates trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.806,
+                0.915,
+                0.873
+            ],
+            "angle": 0,
+            "content": "The digital services tax now awaits the signature of President Emmanuel Macron, who has expressed support for the measure, and it could go into effect within the next few weeks. But it has already sparked significant controversy, with the Unite Sates trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.885,
+                0.915,
+                0.983
+            ],
+            "angle": 0,
+            "content": "The French tax is not just a unilateral move by one country in need of revenue. Instead, the digital services tax is part of a much larger trend, with countries over the past few years proposing or putting in place an alphabet soup of new international tax provisions. These have included Britain's DPT (diverted profits tax), Australia's MAAL (multinational antiavoidance law), and India's SEP (significant economic presence) test, to name but a few. At the same time, the European Union, Spain, Britain and several other countries have all seriously contemplated digital services taxes."
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.056,
+                0.915,
+                0.123
+            ],
+            "angle": 0,
+            "content": "These unilateral developments differ in their specifics, but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right. In other words, they all share a view that the international tax system has failed to keep up with the current economy."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.135,
+                0.915,
+                0.203
+            ],
+            "angle": 0,
+            "content": "In response to these many unilateral measures, the Organization for Economic Cooperation and Development (OECD) is currently working with 131 countries to reach a consensus by the end of 2020 on an international solution. Both France and the United States are involved in the organization's work, but France's digital services tax and the American response raise questions about what the future holds for the international tax system."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.215,
+                0.915,
+                0.269
+            ],
+            "angle": 0,
+            "content": "France's planned tax is a clear warming: Unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit, and American companies will face a cascade of different taxes from dozens of nations that will prove burdensome and costly."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.281,
+                0.451,
+                0.3
+            ],
+            "angle": 0,
+            "content": "36. The French Senate has passed a bill to"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.311,
+                0.374,
+                0.328
+            ],
+            "angle": 0,
+            "content": "[A]regulate digital services platforms."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.31,
+                0.745,
+                0.33
+            ],
+            "angle": 0,
+            "content": "[B]protect French companies' interests."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.341,
+                0.39,
+                0.359
+            ],
+            "angle": 0,
+            "content": "[C]impose a levy on tech multinationals."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.341,
+                0.725,
+                0.36
+            ],
+            "angle": 0,
+            "content": "[D]curb the influence of advertising."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.371,
+                0.616,
+                0.389
+            ],
+            "angle": 0,
+            "content": "37.It can be learned from Paragraph 2 that the digital services tax"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.401,
+                0.445,
+                0.419
+            ],
+            "angle": 0,
+            "content": "[A]may trigger countermeasures against France."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.401,
+                0.812,
+                0.419
+            ],
+            "angle": 0,
+            "content": "[B]is apt to arouse criticism at home and abroad."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.431,
+                0.414,
+                0.449
+            ],
+            "angle": 0,
+            "content": "[C]aims to ease international trade tensions."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.431,
+                0.786,
+                0.45
+            ],
+            "angle": 0,
+            "content": "[D]will prompt the tech giants to quit France."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.461,
+                0.661,
+                0.479
+            ],
+            "angle": 0,
+            "content": "38.The countries adopting the unilateral measures share the opinion that"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.491,
+                0.512,
+                0.509
+            ],
+            "angle": 0,
+            "content": "[A]redistribution of tech giants' revenue must be ensured."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.521,
+                0.499,
+                0.539
+            ],
+            "angle": 0,
+            "content": "[B]the current international tax system needs upgrading."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.551,
+                0.493,
+                0.569
+            ],
+            "angle": 0,
+            "content": "[C]tech multinationals' monopoly should be prevented."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.581,
+                0.461,
+                0.599
+            ],
+            "angle": 0,
+            "content": "[D]all countries ought to enjoy equal taxing rights."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.611,
+                0.598,
+                0.629
+            ],
+            "angle": 0,
+            "content": "39. It can be learned from Para 5 that the OECD's current work"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.641,
+                0.381,
+                0.659
+            ],
+            "angle": 0,
+            "content": "[Al is being resisted by US companies."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.64,
+                0.74,
+                0.659
+            ],
+            "angle": 0,
+            "content": "[B]needs to be readjusted immediately."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.671,
+                0.366,
+                0.689
+            ],
+            "angle": 0,
+            "content": "[C]is faced with uncertain prospects."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.671,
+                0.739,
+                0.689
+            ],
+            "angle": 0,
+            "content": "[D]needs to in involve more countries."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.702,
+                0.531,
+                0.719
+            ],
+            "angle": 0,
+            "content": "40. Which of the following might be the best title for this text?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.733,
+                0.438,
+                0.751
+            ],
+            "angle": 0,
+            "content": "[A] France Is Confronted with Trade Sanctions"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.733,
+                0.763,
+                0.751
+            ],
+            "angle": 0,
+            "content": "[B]France leads the charge on Digital Tax"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.763,
+                0.424,
+                0.781
+            ],
+            "angle": 0,
+            "content": "[C]France Says \"NO\" to Tech Multinationals"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.47,
+                0.763,
+                0.831,
+                0.781
+            ],
+            "angle": 0,
+            "content": "[D] France Demands a Role in the Digital Economy"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.794,
+                0.148,
+                0.809
+            ],
+            "angle": 0,
+            "content": "Part B"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.823,
+                0.179,
+                0.839
+            ],
+            "angle": 0,
+            "content": "Directions:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.854,
+                0.915,
+                0.909
+            ],
+            "angle": 0,
+            "content": "In the following text, some sentences have been removed. For Questions 41-45, choose the most suitable one from the first A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the gaps. Mark your answers on ANSWER SHEET. (10 points)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.922,
+                0.322,
+                0.939
+            ],
+            "angle": 0,
+            "content": "[A]Eve fixactions are brief"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.952,
+                0.515,
+                0.969
+            ],
+            "angle": 0,
+            "content": "[B]Too much eve contact is instinctively felt to be rude"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.056,
+                0.447,
+                0.072
+            ],
+            "angle": 0,
+            "content": "[C]Eye contact can be a friendly social signal"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.086,
+                0.549,
+                0.102
+            ],
+            "angle": 0,
+            "content": "[D]Personality can affect how a person reacts to eye contact"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.116,
+                0.571,
+                0.132
+            ],
+            "angle": 0,
+            "content": "[E] Biological factors behind eve contact are being investigated"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.146,
+                0.624,
+                0.162
+            ],
+            "angle": 0,
+            "content": "[F] Most people are not comfortable holding eye contact with strangers"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.132,
+                0.176,
+                0.405,
+                0.192
+            ],
+            "angle": 0,
+            "content": "[G] Eye contact can also be aggressive."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.131,
+                0.056,
+                0.624,
+                0.192
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.206,
+                0.915,
+                0.257
+            ],
+            "angle": 0,
+            "content": "In a social situation, eye contact with another person can show that you are paying attention in a friendly way. But it can also be antagonistic such as when a political candidate turns toward their competitor during a debate and makes eve contact that signals hostility. Here's what hard science reveals about eve contact:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.269,
+                0.351,
+                0.288
+            ],
+            "angle": 0,
+            "content": "41."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.298,
+                0.915,
+                0.381
+            ],
+            "angle": 0,
+            "content": "We know that a typical infant will instinctively gaze into its mother's eyes, and she will look back. This mutual gaze is a major part of the attachment between mother and child. In adulthood, looking someone else in a pleasant way can be a complimentary sign of paying attention. It can catch someone's attention in a crowded room, \"Eve contact and smile\" can signal availability and confidence, a common-sense notion supported in studies by psychologist Monica Moore."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.394,
+                0.351,
+                0.413
+            ],
+            "angle": 0,
+            "content": "42."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.425,
+                0.915,
+                0.507
+            ],
+            "angle": 0,
+            "content": "Neuroscientist Bonnie Augeung found that the hormone oxytocin increased the amount of eye contact from men toward the interviewer during a brief interview when the direction of their gaze was recorded. This was also found in high-functioning men with some autistic spectrum symptoms, who may tend to avoid eye contact. Specific brain regions that respond during direct gaze are being explored by other researches, using advanced methods of brain scanning."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.52,
+                0.351,
+                0.538
+            ],
+            "angle": 0,
+            "content": "43."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.549,
+                0.915,
+                0.65
+            ],
+            "angle": 0,
+            "content": "With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation. While eye contact may be a sign of connection or trust in friendly situations, it's more likely to be associated with dominance or intimidation in adversarial situations. \"Whether you're a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you're trying to convince someone who has a different set of beliefs than you,\" said Minson."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.662,
+                0.351,
+                0.681
+            ],
+            "angle": 0,
+            "content": "44."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.693,
+                0.915,
+                0.763
+            ],
+            "angle": 0,
+            "content": "When we look at a face or a picture, our eyes pause on one spot at a time, often on the eyes or mouth. These pauses typically occur at about three per second, and the eyes then jump to another spot, until several important points in the image are registered like a series of snapshots. How the whole image is then assembled and perceived is still a mystery although it is the subject of current research."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.775,
+                0.351,
+                0.794
+            ],
+            "angle": 0,
+            "content": "45."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.806,
+                0.915,
+                0.909
+            ],
+            "angle": 0,
+            "content": "In people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance, according to the Finnish researcher Jari Hietanen and colleagues. \"Our findings indicate that people do not only feel different when they are the centre of attention but that their brain reactions also differ.\" A more direct finding is that people who scored high for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.922,
+                0.148,
+                0.938
+            ],
+            "angle": 0,
+            "content": "Part C"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.951,
+                0.915,
+                0.987
+            ],
+            "angle": 0,
+            "content": "Directions: Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET.(10 points)"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.056,
+                0.913,
+                0.157
+            ],
+            "angle": 0,
+            "content": "Following the explosion of creativity in Florence during the \\(14^{\\text{th}}\\) century known as the Renaissance, the modern world saw a departure from what it had once known. It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being. Renaissance ideas had spread throughout Europe well into the \\(17^{\\text{th}}\\) century, with the arts and sciences flourishing extraordinarily among those with a more logical disposition. (46) with the Church's teachings and ways of thinking eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged leading to new and unexplored intellectual territories."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.168,
+                0.915,
+                0.284
+            ],
+            "angle": 0,
+            "content": "During the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei demonstrated the power of scientific study and discovery. (47) Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geo-centric view that the Earth was at the centre of our universe. Copernicus theorized in 1543 that all of the planets that we knew of revolved not around the Earth, but the Sun, a system that was later upheld by Galileo at his own expense. Offering up such a theory during a time of high tension between scientific and religious minds was branded as heresy, and any such heretics that continued to spread these lies were to be punished by imprisonment or even death."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.297,
+                0.915,
+                0.348
+            ],
+            "angle": 0,
+            "content": "(48) Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore. It was with these great revelations that a new kind of philosophy founded in reason was born."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.359,
+                0.915,
+                0.426
+            ],
+            "angle": 0,
+            "content": "The Church's long-standing dogma was losing the great battle for truth to rationalists and scientists. This very fact embodied the new ways of thinking that swept through Europe during most of \\(17^{\\text{th}}\\) century. (49) As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era—the Age of Reason."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.438,
+                0.913,
+                0.538
+            ],
+            "angle": 0,
+            "content": "The \\(17^{\\text{th}}\\) and \\(18^{\\text{th}}\\) centuries were times of radical change and curiosity. Scientific method, reductionism and the questioning of Church ideals was to be encouraged, as were ideas of liberty, tolerance and progress. (50) Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase 'sapere aude' or 'dare to know', after Immanuel Kant used it in his essay \"An Answer to the Question: What is Enlightenment?\" It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.42,
+                0.551,
+                0.587,
+                0.57
+            ],
+            "angle": 0,
+            "content": "Section III Writing"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.584,
+                0.147,
+                0.598
+            ],
+            "angle": 0,
+            "content": "Part A"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.613,
+                0.199,
+                0.629
+            ],
+            "angle": 0,
+            "content": "51.Directions:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.643,
+                0.913,
+                0.675
+            ],
+            "angle": 0,
+            "content": "The student union of your university has assigned you to inform the international students about an upcoming singing contest. Write a notice in about 100 words."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.126,
+                0.689,
+                0.444,
+                0.706
+            ],
+            "angle": 0,
+            "content": "Write your answer on the ANSWER SHEET."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.126,
+                0.72,
+                0.49,
+                0.737
+            ],
+            "angle": 0,
+            "content": "Do not use your own name in the notice. (10 points)"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.752,
+                0.147,
+                0.766
+            ],
+            "angle": 0,
+            "content": "Part B"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.783,
+                0.202,
+                0.798
+            ],
+            "angle": 0,
+            "content": "52.Directions:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.126,
+                0.814,
+                0.741,
+                0.832
+            ],
+            "angle": 0,
+            "content": "Write an essay of 160-200 words based on the pictures below. In your essay, you should"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.846,
+                0.341,
+                0.863
+            ],
+            "angle": 0,
+            "content": "1) describe the picture briefly."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.878,
+                0.39,
+                0.896
+            ],
+            "angle": 0,
+            "content": "2)interpret the implied meaning, and"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.131,
+                0.911,
+                0.295,
+                0.928
+            ],
+            "angle": 0,
+            "content": "3) give your comments."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.131,
+                0.846,
+                0.39,
+                0.928
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.489,
+                0.84,
+                0.967,
+                1.0
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ]
+]
